@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Artificial Language Test 1",
+    "description": "Practice Artificial Language Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Here are some words translated from an artificial language. morpirquat means birdhouse  beelmorpir means bluebird beelclak means bluebell Which word could mean “houseguest”?",
+            "explanation": "Morpir means bird; quat means house; beel means blue; clak means bell. Choice c, which begins with quat, is the only possible option.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "morpirhunde",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " beelmoki",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "quathunde ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "clakquat",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Here are some words translated from an artificial language.slar means jump slary means jumping slarend means jumped Which word could mean “playing”?",
+            "explanation": "According to this language, slar means jump. The suffix –ing is represented by –y. Since choice b is the only one that ends in the letter y, this is the only possible option.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "clargslarend",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "clargy ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "ellaclarg",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "slarmont ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Here are some words translated from an artificial language. briftamint means militant/ uftonel means occupied. uftonalene means occupation. Which word could mean “occupant”?  ",
+            "explanation": "Brift means the root word mili–; the suffix amint means the same as the English suffix –tant; the root word ufton– means occupy; el means the suffix –ied of occupied; and alene means the suffix –tion. (Because ufton means occupy, choices a, c, and d can be easily ruled out.)",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": " elbrifta",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "uftonamint",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": " elamint",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": " briftalene",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1013,
+            "name": "Here are some words translated from an artificial language. krekinblaf means workforce dritakrekin means groundwork krekinalti means workplace Which word could mean “someplace”?",
+            "explanation": "Krekin means work; blaf means force; drita means ground; and alti means place. Drita means ground, so that rules out choices b and d. Choice c isn’t correct because blaf means force. That leaves choice a as the only possible answer. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": " moropalti",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "krekindrita",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " altiblaf",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": " dritaalti",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1014,
+            "name": "Here are some words translated from an artificial language.plekapaki means fruitcake pakishillen means cakewalk treftalan means buttercup Which word could mean “cupcake”?  ",
+            "explanation": "Pleka means fruit; paki means cake; shillen means walk; treft means butter; and alan means cup. Therefore, alanpaki means cupcake..",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "shillenalan ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "treftpleka",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": " pakitreft",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": " alanpaki",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1015,
+            "name": " Here are some words translated from an artificial language. peslligen means basketball court ligenstrisi means courtroom oltaganti means placement test Which word could mean “guest room”?",
+            "explanation": "Pesl means basketball; ligen means court; strisi means room; olta means placement; and ganti means test. Because strisi means room, it must be present in the answer, so that rules out choice c. Choices a and d are incorrect because pesl means basketball and olta means placement. That leaves choice b as the only possible answer.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "peslstrisi ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "vosefstrisi",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "gantipesl ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "oltastrisi ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1016,
+            "name": " Here are some words translated from an artificial language. jalkamofti means happy birthday moftihoze means birthday party mentogunn means goodness Which word could mean “happiness”?",
+            "explanation": "Jalka means happy; mofti means birthday; hoze means party; mento means good; and gunn means the suffix –ness. We know the answer must include the suffix –ness. The only choice that uses that suffix is choice a.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "jalkagunn ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": " mentohoze ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": " moftihoze ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "ozemento",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1017,
+            "name": " Here are some words translated from an artificial language. mallonpiml means blue  mallontifl means blueberry arpantifl means raspberry Which word could mean “lighthouse”? ",
+            "explanation": "Mallon means blue; piml means light; tifl means berry; and arpan means “rasp” in raspberry. The word piml, which means light, is required for the word lighthouse. That rules out choices a and c. Arpan in choice b means “rasp,” so that rules out choice b. That leaves choice d the only possible answer. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " tiflmallon",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": " pimlarpan",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": " mallonarpan",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": " pimldoken",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1018,
+            "name": "  Here are some words translated from an artificial language. gemolinea means fair warning gerimitu means report card gilageri means weather report Which word could mean 'fair weather?' ",
+            "explanation": "Gemo means fair; linea means warning; geri means report; mitu means card; and gila means weather. Thus, gemogila is the correct choice.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": " gemogila",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": " gerigeme",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": " gemomitu",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " gerimita ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1019,
+            "name": "Here are some words translated from an artificial language. aptaose means first base eptaose means second base lartabuk means ballpark Which word could mean 'baseball'",
+            "explanation": "Apta means first; ose means base; epta means second; larta means ball; and buk means park. Thus, oselarta means baseball.?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": " buklarta ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": " oseepta",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": " bukose",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "oselarta",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }
+    ]
+}

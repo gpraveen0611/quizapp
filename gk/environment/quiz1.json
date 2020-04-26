@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Environment Test 1",
+    "description": "Practice Environment Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "  Which among the following is known as “Sairandhri Vanam”?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Silent Valley National Park",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Mudumalai National Park ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name":   "Periyar National Park",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Guindy National Park ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "The Machia Biological Park is located in which state?",
+			"explanation": "Recently, the Rajasthan government has inaugurated the state’s second biological park ‘Machia Biological Park’ in Jodhpur. The new park will have a food store, cafeteria, interpretation center, ticket window, visitors and service roads and will be opened for public in March 2016. The park is spread over 41 hectare and is the house of lions, tigers, jackals, hyenas, desert cats and desert foxes, etc.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": " Rajasthan ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": " Sikkim",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Nagaland",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Manipur ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": " Which among the following is the World’s largest Wetland System? ",
+			"explanation": "The world’s largest wetland is the Pantanal, which covers 200,000 square kilometers (during the wet season) through Brazil, Paraguay, and Bolivia, although 80% of it is in Brazil. It is a land of flooded grasslands, savannas, and tropical forests.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Camargue (France) ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Okavango (Botswana) ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": " Everglades (USA) ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Pantanal (South America)",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name":  " Which of the following Environmentalists first gave the concept of Biodiversity ‘hotspots'?",
+			"explanation": "no explanation ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": " Gaylord Nelson ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": " Norman Myers  ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "John Muir ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": " Julia “Butterfly” Hill",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "All species of ‘Lemur’ are endemic to which among the following places of the world? ",
+			"explanation": "Endemism is the ecological state of being unique to a defined geographic location, such as an island, nation or other defined zone, or habitat type.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": " Seychelles Islands",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Galapagos Islands ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "New Caledonia ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": " Madagascar  ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": " With reference to the Flexible Mechanisms of Kyoto Protocol, which of the following is / are correct statements? 1.Through Clean Development Mechanism(CDM),any Annex I country can invest in emission reduction projects in any other Annex I country as an alternative to reducing emissions domestically. 2.Through Joint Implementation(JI), countries can meet their domestic emission reduction targets by buying greenhouse gas reduction units from (projects in) non Annex I countries to the Kyoto protocol (mostly developing countries). Select the correct option from the codes given below: ",
+			"explanation": "The ‘flexible mechanisms’ of the Kyoto Protocol were included for the first time in the COP-6, held Bonn, Germany. Flexible mechanisms or Kyoto Mechanisms, refer to Emissions Trading, the Clean Development Mechanism and Joint Implementation. 1.Emissions trading (ET)-The Emissions Trading-mechanism allows parties to the Kyoto Protocol to buy ‘Kyoto units'(emission permits for greenhouse gas) from other countries to help meet their domestic emission reduction targets. 2.Joint Implementation (JI)- Through the Joint Implementation, any Annex I country can invest in emission reduction projects (referred to as “Joint Implementation Projects”) in any other Annex I country as an alternative to reducing emissions domestically. 3.Clean Development Mechanism (CDM)-Through the CDM, countries can meet their domestic emission reduction targets by buying greenhouse gas reduction units from (projects in) non Annex I countries to the Kyoto protocol(mostly developing countries). Non-Annex I countries have no GHG emission restrictions, but have financial incentives to develop GHG emission reduction projects to receive Certified Emission Reductions that can then be sold to Annex I countries, encouraging sustainable development.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": " Only 1",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": " Only 2  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Both 1 and 2  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": " Neither 1 nor 2  ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": " Which among the following terms of utmost significance in the dynamics of resource management was coined in the ‘Brundtland Commission Report’?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Polluter-Pays Principle ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": " Sustainable development  ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": " Inclusive Growth ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Carrying Capacity",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": " Which of the following is / are correct statements regarding the ‘Cartagena Protocol’ on Biosafety? 1.It is a supplementary treaty to the UNFCCC. 2.It establishes 10 headline targets known as the ‘Aichi Targets’. Select the correct option from the codes given below: ",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " Only 1 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": " Only 2 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": " Both 1 and 2  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "  Neither 1 nor 2  ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "  With which of the following, the Agenda 21’ of Rio Summit, 1992 is related to?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": " Sustainable development",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "Combating the consequences of population explosion. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "Mitigation norms of Green House Gases (GHGs) emission.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " Technology transfer mechanism to developing countries for ‘clean-energy’ production.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Which of the following is / are correct statements regarding the Keoladeo National Park(formerly known as the Bharatpur Bird Sanctuary)? 1.It is one of the Ramsar Wetlands of International Importance. 2.It is inscribed in the UNESCO World Heritage list. Select the correct option from the codes given below: ",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Only 1 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Only 2 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": " Both 1 and 2    ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Neither 1 nor 2 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Logical Problems Test 1",
+    "description": "Practice Logical Problems Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": " Fact 1: Jessica has four children. Fact 2: Two of the children have blue eyes and two of the children have brown eyes. Fact 3: Half of the children are girls. If the first three statements are facts, which of the following statements must also be a fact? I. At least one girl has blue eyes. II. Two of the children are boys. III. The boys have brown eyes. ",
+            "explanation": "Since one-half of the four children are girls, two must be boys. It is not clear which children have blue or brown eyes..",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "II only",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " I and III only",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "II and III only  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "None of the statements is a known fact.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": " Fact 1: All hats have brims. Fact 2: There are black hats and blue hats. Fact 3: Baseball caps are hats. If the first three statements are facts, which of the following statements must also be a fact? I. All caps have brims. II. Some baseball caps are blue. III. Baseball caps have no brims. ",
+            "explanation": "All baseball caps have brims, since baseball caps are hats (Fact 3) and all hats have brims (Fact 1). This rules out statement III—but it doesn’t follow that all caps, a category that may include caps that are not baseball caps, have brims (statement I). Statement II cannot be confirmed, either, since it is possible, given the information, that all baseball caps are black.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "I only ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": " II only  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": " I, II, and III",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": " None of the statements is a known fact. ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "  Fact 1: All chickens are birds. Fact 2: Some chickens are hens. Fact 3: Female birds lay eggs. If the first three statements are facts, which of the following statements must also be a fact? I. All birds lay eggs. II. Hens are birds. III. Some chickens are not hens. ",
+            "explanation": "The first statement cannot be true because only female birds lay eggs. Statement II is true because hens are chickens and chickens are birds. Statement III is also true because if only some chickens are hens, then some must not be hens.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": " II only ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": " II and III only ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "I, II, and III ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": " None of the statements is a known fact. ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1013,
+            "name": "Fact 1: Most stuffed toys are stuffed with beans. Fact 2: There are stuffed bears and stuffed tigers. Fact 3: Some chairs are stuffed with beans. If the first three statements are facts, which of the following statements must also be a fact? I. Only children’s chairs are stuffed with beans. II. All stuffed tigers are stuffed with beans. III. Stuffed monkeys are not stuffed with beans.",
+            "explanation": "None of the three statements is supported by the known facts ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "I only  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": " II only",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " II and III only  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "None of the statements is a known fact. ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1014,
+            "name": " Fact 1: Pictures can tell a story. Fact 2: All storybooks have pictures. Fact 3: Some storybooks have words. If the first three statements are facts  which of the following statements must also be a fact?I. Pictures can tell a story better than words can. II. The stories in storybooks are very simple. III. Some storybooks have both words and pictures.",
+            "explanation": "Statements I and II are not supported by the facts. Statement III is true because if all storybooks have pictures and only some have words, then some storybooks have both words and pictures.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": " I only ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": " II only",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "III only  ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "None of the statements is a known fact.  ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1015,
+            "name": "Fact 1: Robert has four vehicles. Fact 2: Two of the vehicles are red. Fact 3: One of the vehicles is a minivan. If the first three statements are facts which of the following statements must also be a fact? I. Robert has a red minivan. II. Robert has three cars. III. Robert’s favorite color is red.",
+            "explanation": "There is not enough information to support any of the statements. Robert is known to have a minvan, but it is not known which of his vehicles is red. Robert may have a pickup or sport utility vehicle, so the second statement cannot be supported. There is no way to know if Robert’s favorite color is red (statement III)..",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": " I only  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": " II only",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": " II and III only",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": " None of the statements is a known fact. ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1016,
+            "name": "Fact 1: Islands are surrounded by water. Fact 2: Maui is an island. Fact 3: Maui was formed by a volcano. If the first three statements are facts, which of the following statements must also be a fact? I. Maui is surrounded by water. II. All islands are formed by volcanoes. III. All volcanoes are on islands. ",
+            "explanation": "Since Maui is an island and islands are surrounded by water,Maui must be surrounded by water. There is not enough information to support statements II and III..",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "I only  ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": " III only  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": " I and II only   ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": " None of the statements is a known fact.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1017,
+            "name": " Fact 1: All drink mixes are beverages. Fact 2: All beverages are drinkable. Fact 3: Some beverages are red. If the first three statements are facts, which of the following statements must also be a fact? I. Some drink mixes are red. II. All beverages are drink mixes. III. All red drink mixes are drinkable.",
+            "explanation": "If all drink mixes are beverages and some beverages are red, then some drink mixes are red (statement I). Since all beverages are drinkable and all drink mixes are beverages, then all red drink mixes must be drinkable (statement III). Statement II can be ruled out.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " I only ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "  II only ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": " I and III  ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "None of the statements is a known fact.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1018,
+            "name": " Fact 1: Eyeglass frames cost between $35 and $350.Fact 2: Some eyeglass frames are made of titanium.Fact 3: Some eyeglass frames are made of plastic.If the first three statements are facts, which of the following statements must also be a fact? I. Titanium eyeglass frames cost more than plastic frames.II. Expensive eyeglass frames last longer than cheap frames. III. Only a few eyeglass frames cost less than $35. ",
+            "explanation": "There is no information in the facts to support statements I or II. Statement III is clearly wrong because, according to Fact 1, no frames cost less than $35.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "II only",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": " I and II only ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": " II and III only",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " None of the statements is a known fact.  ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1019,
+            "name": " Fact 1: Some pens don’t write. Fact 2: All blue pens write. Fact 3: Some writing utensils are pens. If the first three statements are facts, which of the following statements must also be a fact? I. Some writing utensils don’t write. II. Some writing utensils are blue. III. Some blue writing utensils don’t write.",
+            "explanation": "Since some pens don’t write, some writing utensils don’t write (statement I). Since there are blue pens and since pens are writing utensils, some writing utensils are blue (statement II). There is not enough information to support statement III..",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": " II only ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": " I and II only",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "II and III only  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": " None of the statements is a known fact. ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }
+    ]
+}
