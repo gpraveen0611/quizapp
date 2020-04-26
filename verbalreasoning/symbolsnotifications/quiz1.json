@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Symbols and Notifications Test 1",
+    "description": "Practice Symbols and Notifications Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": " If * stands for 'addition', / stands for 'subtraction', + stands for 'multiplication', and - stands for 'division', then 20 * 8 / 8 - 4 + 2 = ?",
+			"explanation": "Using the correct symbols, we have: Given expression = 20 + 8 - 8 / 4 * 2 = 20 + 8 - 2 * 2 = 20 + 8 - 4 = 24.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "80",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "25",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "24",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "5",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "If - means *, * means +, + means / and / means -, then 40 * 12 + 3 - 6 / 60 = ?",
+			"explanation": "Using the correct symbols, we have : Given expression = 40 + 12 / 3 * 6 - 60 = 40 + 4 * 6 - 60 = 40 + 24 - 60 = 4",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "7.95",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": " 16",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "44",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": " If + means /, * means -, / means * and - means +, then 8 + 6 * 4 / 3 - 4 = ?",
+			"explanation": "Using the correct symbols, we have: Given expression = 8 / 6 - 4 * 3 + 4 = 4 / 3 - 4 * 3 + 4 = 4 / 3 - 12 + 4 = - 20 / 3",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": " -12",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "-20 / 3",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": " 12",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": " 20 / 3",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": " If * means /, - means *, / means + and + means -, then (3 - 15 / 19) * 8 + 6 = ? ?",
+			"explanation": "Using the correct symbols, we have: Given expression = (3 * 15 + 19) / 8 - 6 = (45 + 19) / 8 - 6 = 64 / 8 - 6 = 8 - 6 = 2",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "8",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "4",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "2",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "1",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "If + means *, / means -, * means / and - means +, what will be the value of 4 + 11 / 5 - 55 =  ?",
+			"explanation": "Using the correct symbols, we have: Given expression = 4 * 11 - 5 + 55 = 44 - 5 + 55 = 94",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "-48.5 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": " -11",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "79",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "If * means +, / means -, - means * and + means /, then 8 * 7 - 8 + 40 / 2 =  ?",
+			"explanation": "Using the correct symbols, we have: Given expression = 8 + 7 * 8 / 40 - 2 1 = 8 + 7 * - - 2 5 = 37 - 5 2 = 7 - 5",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": " 1",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": " 2 7 - 5",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": " 3 8 - 5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "44",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": " If + means -, - means *, * means /, / means +, then 15 * 3 / 15 + 5 - 2 = ? ?",
+			"explanation": "Using the correct symbols, we have : Given expression = 15 / 3 + 15 * 2 = 5 + 15 - 5 * 2 = 5 + 15 -10 = 10",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "0 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "20 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "If * means -, + means /, - means * and , means +, then 15 - 2 / 900 + 90 * 100 = ?",
+			"explanation": "Using the correct symbols, we have: Given expression = 15 * 2 + 900 / 90 - 100 = 15 * 2 + 10 - 100 = 30 + 10 - 100 = - 60",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " 190",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "180",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": " 90",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "If + means /, - means *, / means -, * means +, what will be the value of 8 + 6 / 4 - 7 * 3 ?",
+			"explanation": "Using the correct symbols, we have: Given expression = 8 / 6 - 4 * 7 + 3 = (4 / 3) - 4 * 7 + 3 = (4 / 3) - 28 + 3 = - 71 / 3",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": " - 71 / 3",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": " - 23 / 2 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": " 12",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " 14",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "If P denotes +, Q denotes *, R denotes / and S denotes -, then 18 Q 12 P 4 R 5 S 6 = ?",
+			"explanation": "Using the correct symbols, we have: Given expression = 18 * 12 / 4 + 5 - 6 = 18 * 3 + 5 - 6 = 53",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": " 36 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": " 53",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "59 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "65",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

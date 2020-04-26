@@ -1,0 +1,578 @@
+{
+    "id": 1,
+    "name": "Sequential Output Training Test 1",
+    "description": "Practice Sequential Output Training Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Study the following information carefully and answer the given questions:
+A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement:
+Input: now 41  28 for join 37 go 61
+Step I: 61 now 41 28 for join 37 go
+Step II: 61 for now 41 28 join 37 go
+Step III: 61 for 41 now 28 join 37 go
+Step IV: 61 for 41 go now 28 join 37
+Step V: 61 for 41 go 37 now 28 join
+Step VI: 61 for 41 go 37 join now 28
+Step VII: 61 for 41 go 37 join 28 now
+Step VIII: is the last step for this input.
+As per the rules followed in the above steps, find out in each of the following questions the appropriate step for the given input.
+
+Input: when you 22 special 31  16  47 town. Which of the following steps will be the last but one?",
+			"explanation": "The logic is: the words get arranged in alphabetical order. Where as the numbers get arranged in descending order. Numbers occupy odd places in the final steps while words occupy even positions. When any element gets arranged, the previous element occupying that position shifts one place towards right.
+Here we have to find out the penultimate second step.
+Input: when you 22 special 31  16  47 town
+Step I: 47 when you 22 special 31  16 town
+Step II: 47 special when you 22  31  16 town
+Step III: 47 special 31 when you 22 16 town
+Step IV: 47 special 31 town when you 22 16
+Step V: 47 special 31 town 22 when you 16
+Step VI: Special 31 town 22 when 16 you
+Here, step VI is last step. Thus, the penultimate step will be step V.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "  IV",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "  VI",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": " V",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": " VII",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Study the following information carefully and answer the given questions:
+A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement:
+Input: now 41  28 for join 37 go 61
+Step I: 61 now 41 28 for join 37 go
+Step II: 61 for now 41 28 join 37 go
+Step III: 61 for 41 now 28 join 37 go
+Step IV: 61 for 41 go now 28 join 37
+Step V: 61 for 41 go 37 now 28 join
+Step VI: 61 for 41 go 37 join now 28
+Step VII: 61 for 41 go 37 join 28 now
+Step VIII: is the last step for this input.
+As per the rules followed in the above steps, find out in each of the following questions the appropriate step for the given input.
+
+Input: chair wood 21  42  59 height bench 78. How many steps will be required to complete the rearrangement?",
+			"explanation": "The logic is: the words get arranged in alphabetical order. Where as the numbers get arranged in descending order. Numbers occupy odd places in the final steps while words occupy even positions. When any element gets arranged, the previous element occupying that position shifts one place towards right.
+Input: chair wood 21  42  59 height bench 78
+Step I: 78 chair wood 21  42  59 height bench
+Step II: 78 bench 59 chair wood 21  42  59 height
+Step III: 78 bench 59 chair wood 21  42 height
+Step IV: 78 bench 59 chair 42 wood 21 height
+Step V: 78 bench 59 chair 42 height wood 21
+Step VI: 78 bench 59 chair 42 height 21 wood
+Hence, step VI is the last step.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Three ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Four",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Five",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Six",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": " Study the following information carefully and answer the given questions:
+A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement:
+Input: now 41  28 for join 37 go 61
+Step I: 61 now 41 28 for join 37 go
+Step II: 61 for now 41 28 join 37 go
+Step III: 61 for 41 now 28 join 37 go
+Step IV: 61 for 41 go now 28 join 37
+Step V: 61 for 41 go 37 now 28 join
+Step VI: 61 for 41 go 37 join now 28
+Step VII: 61 for 41 go 37 join 28 now
+Step VIII: is the last step for this input.
+As per the rules followed in the above steps, find out in each of the following questions the appropriate step for the given input.
+
+Step IV of an input is: 
+74 again 69 call 17  32 horse desk. Which of the following is definitely the input? ?",
+			"explanation": "Here, it is a case of arrangement. Therefore the steps can't be obtained with certainly",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": " again call 74  69  17  32 horse desk",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "74 call again 17  69 horse 32 desk",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": " call 74 again 69  17  32 desk horse",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": " Cannot be determined",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Study the following information carefully and answer the given questions:
+A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement:
+Input: now 41  28 for join 37 go 61
+Step I: 61 now 41 28 for join 37 go
+Step II: 61 for now 41 28 join 37 go
+Step III: 61 for 41 now 28 join 37 go
+Step IV: 61 for 41 go now 28 join 37
+Step V: 61 for 41 go 37 now 28 join
+Step VI: 61 for 41 go 37 join now 28
+Step VII: 61 for 41 go 37 join 28 now
+Step VIII: is the last step for this input.
+As per the rules followed in the above steps, find out in each of the following questions the appropriate step for the given input.
+
+Step III of an input is:
+82 brown 74 sugar hobby lady 32  49. Which of the following will be step VI? ?",
+			"explanation": "The logic is: the words get arranged in alphabetical order. Where as the numbers get arranged in descending order. Numbers occupy odd places in the final steps while words occupy even positions. When any element gets arranged, the previous element occupying that position shifts one place towards right.
+Step III: 82 brown 74 sugar hobby lady 32  49
+Step IV: 82 brown 74 hobby sugar lady 32  49
+Step V: 82 brown 74 hobby 49 sugar lady 32
+Step VI: 82 brown 74 hobby 49 lady 32",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "82 brown 74 hobby 49 sugar lady 32",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "82 brown 74 hobby 49 lady sugar 32",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "82 brown 74 hobby 49 lady 32 sugar",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Cannot be determined",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": " Study the following information carefully and answer the given questions:
+A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement:
+Input: now 41  28 for join 37 go 61
+Step I: 61 now 41 28 for join 37 go
+Step II: 61 for now 41 28 join 37 go
+Step III: 61 for 41 now 28 join 37 go
+Step IV: 61 for 41 go now 28 join 37
+Step V: 61 for 41 go 37 now 28 join
+Step VI: 61 for 41 go 37 join now 28
+Step VII: 61 for 41 go 37 join 28 now
+Step VIII: is the last step for this input.
+As per the rules followed in the above steps, find out in each of the following questions the appropriate step for the given input.
+
+Input: goal team ask 12  92  85  42 sound. Which of the following will be step IV?  ?",
+			"explanation": "The logic is: the words get arranged in alphabetical order. Where as the numbers get arranged in descending order. Numbers occupy odd places in the final steps while words occupy even positions. When any element gets arranged, the previous element occupying that position shifts one place towards right.
+Input: goal team ask 12  92  85  42 sound
+Step I: 92 goal team ask 12  85  42 sound
+Step II: 92 ask goal team 12  85  42 sound
+Step III: 92 ask 85 goal team 12  42 sound
+Step IV: 92 ask 85 goal 42 team 12 sound",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "92 ask 85 goal 42 sound 12 team  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "92 ask 85 goal 42 sound team 12",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": " 92 ask 85 goal 42 team 12 sound ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": " 92 ask 85 goal team 12 42 sound",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Given an input, a coding machine generates pass codes for six batches every day as follows:
+Input: you should know about type of questions
+Pass Code:
+Batch I: you questions should of know type about
+Batch II: about you type questions know should of
+Batch III: about of you should type know questions
+And so on till the sixth batch.
+The first batch begins work at 10.. a.m. Each batch works for one hour. There is a rest period of one hour after the fourth batch's work is over.
+
+If the input on a day is 'eight friends are sitting in the circle', then what be the pass code for the batch at 3 p.m.? ?",
+			"explanation": "Here it is a case of shifting, And is a case of two-step shifting, i.e. the logic consists of two steps.
+
+This implies that the change from Batch II to Batch III is same as Input to Batch I.
+Therefore, the changes from Batch I to Batch II, Batch III to Batch IV and Batch V to Batch VI will be the same.
+Look at the changes from Input to Batch I; and from Batch I to Batch II.
+P. If input is           1 2 3 4 5 6 7
+Batch I becomes   1 7 2 6 3 5 4
+Q. And if Batch is   1 2 3 4 5 6 7
+Batch II becomes as follows: 7 1 6 2 5 3 4
+Using the above two-step logic. Let us make a chart.
+                              1 2 3 4 5 6 7
+Input:                   A B C D E F G
+Batch I: (10 - 11)  A G B F C E D
+Batch II: (11-12)   D A E G C B F
+Batch III: (12 - 1)  D F A B E C G
+Batch V: (3 - 4)     G B D A C E F
+Batch VI:               F G E B C D A
+The pass code for the batch at 3 p.m. means the pass code for the Batch V.
+Input: eight friends are sitting in the circle
+                    A B C D E F G
+Batch V:     G B D A C E F
+circle friends sitting eight are in the ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": " the circle in friends are sitting eight",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": " circle sitting are the in eight friends",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": " sitting friends the are circle in eight",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": " circle friends sitting eight are in the",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Given an input, a coding machine generates pass codes for six batches every day as follows:
+Input: you should know about type of questions
+Pass Code:
+Batch I: you questions should of know type about
+Batch II: about you type questions know should of
+Batch III: about of you should type know questions
+And so on till the sixth batch.
+The first batch begins work at 10.. a.m. Each batch works for one hour. There is a rest period of one hour after the fourth batch's work is over.
+
+Ajay was to attend the batch at 4 p.m. on a day with a pass code 'sentence awarded by high court was executed'. However, he was completed to work in the batch 12 noon on that day. What was his pass code then??",
+			"explanation": "Here it is a case of shifting, And is a case of two-step shifting, i.e. the logic consists of two steps.
+
+This implies that the change from Batch II to Batch III is same as Input to Batch I.
+Therefore, the changes from Batch I to Batch II, Batch III to Batch IV and Batch V to Batch VI will be the same.
+Look at the changes from Input to Batch I; and from Batch I to Batch II.
+P. If input is           1 2 3 4 5 6 7
+Batch I becomes   1 7 2 6 3 5 4
+Q. And if Batch is   1 2 3 4 5 6 7
+Batch II becomes as follows: 7 1 6 2 5 3 4
+Using the above two-step logic. Let us make a chart.
+                              1 2 3 4 5 6 7
+Input:                   A B C D E F G
+Batch I: (10 - 11)  A G B F C E D
+Batch II: (11-12)   D A E G C B F
+Batch III: (12 - 1)  D F A B E C G
+Batch V: (3 - 4)     G B D A C E F
+Batch VI:               F G E B C D A.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "awarded sentence executed high by court was ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "was executed by awarded court high sentence",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "by high was sentence court awarded executed ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "None of these ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Given an input, a coding machine generates pass codes for six batches every day as follows:
+Input: you should know about type of questions
+Pass Code:
+Batch I: you questions should of know type about
+Batch II: about you type questions know should of
+Batch III: about of you should type know questions
+And so on till the sixth batch.
+The first batch begins work at 10.. a.m. Each batch works for one hour. There is a rest period of one hour after the fourth batch's work is over.
+
+The pass code for the 6th batch on a day was 'mark your answer against appropriate serial number'. What was the input provided to the machine on that day?",
+			"explanation": "Here it is a case of shifting, And is a case of two-step shifting, i.e. the logic consists of two steps.
+
+This implies that the change from Batch II to Batch III is same as Input to Batch I.
+Therefore, the changes from Batch I to Batch II, Batch III to Batch IV and Batch V to Batch VI will be the same.
+Look at the changes from Input to Batch I; and from Batch I to Batch II.
+P. If input is           1 2 3 4 5 6 7
+Batch I becomes   1 7 2 6 3 5 4
+Q. And if Batch is   1 2 3 4 5 6 7
+Batch II becomes as follows: 7 1 6 2 5 3 4
+Using the above two-step logic. Let us make a chart.
+                              1 2 3 4 5 6 7
+Input:                   A B C D E F G
+Batch I: (10 - 11)  A G B F C E D
+Batch II: (11-12)   D A E G C B F
+Batch III: (12 - 1)  D F A B E C G
+Batch V: (3 - 4)     G B D A C E F
+Batch VI:               F G E B C D A.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "number against appropriate serial answer mark your",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "number your against mark appropriate answer serial",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": " number against serial appropriate answer mark your",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "your answer number mark serial appropriate against ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": " Study the following information carefully to answer these questions:
+A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement.
+Input: goal 63  57 home five task 82  17
+Step I: 82 goal 63  57 home five task 17
+Step II: 82 five goal 63  57 home task 17
+Step III: 82 five 63 goal 57 home task 17
+Step IV: 82 five 63 goal 57 home 17 task
+And Step IV is the last output.
+As per the rules followed in the above steps, find out in each of the questions.
+
+Input: world 23 new 47 major 13  62 desk. Which of the following will be step V ?",
+			"explanation": "I   62 world 23 new 47 major 13 desk
+II  62 desk world 23 new 47 major 13
+III  62 desk 47 world 23 new major 13
+IV  62 desk 47 major world 23 new 13
+V   62 desk 47 major 23 world new 13",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "62 desk 47 world 23 new major 13",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": " 62 desk 47 major world 23 new 13 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "62 desk 47 major 23 world new 13  ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "62 desk 47 major 23 new world 13 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": " Study the following information carefully to answer these questions:
+A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement.
+Input: goal 63  57 home five task 82  17
+Step I: 82 goal 63  57 home five task 17
+Step II: 82 five goal 63  57 home task 17
+Step III: 82 five 63 goal 57 home task 17
+Step IV: 82 five 63 goal 57 home 17 task
+And Step IV is the last output.
+As per the rules followed in the above steps, find out in each of the questions.
+
+Input: host 15  32 page 43 over mother 92. Which of the following steps will be the last but one ?",
+			"explanation": "I    92 host 15  32 page 43 over mother
+II   92 host 43  15  32 page over mother
+III  92 host 43 mother 15  32 page over
+IV  92 host 43 mother 32  15 page over
+V   92 host 43 mother 32 over 15 page",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "V ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "VI ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": " IV ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "VII",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

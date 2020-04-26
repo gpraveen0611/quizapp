@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Cause and Effect Test 1",
+    "description": "Practice Cause and Effect Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": " Event (A):   Mr. X was killed in the floods. <br/>Event (B):   It was raining heavily. ",
+            "explanation": "The given events are not related events as the place where Mr.X was killed and the place where it was raining heavily may or may not be the same.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "If 'A' is the effect and 'B' is its immediate and principle cause.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " If 'B' is the effect and 'A' is its immediate and principle cause.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "If 'A' is the effect but 'B' is not its immediate and principle cause. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": " None of these. ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "  Event (A): India's national game, Hockey, is now India's shame.  <br/>Event (B): India's national hockey team finished 11th among the 12 countries that played in the recent hockey world cup. ?",
+            "explanation": "Event (A) and (B) are related events and chronologically (B) occurs before (A). Only because  of finishing 11th among 12  countries in the Hockey World cup, Hockey has become India's shame.It is the immediate and principle cause.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": " If 'A' is the effect and 'B' is its immediate and principle cause.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": " If 'B' is the effect and 'A' is its immediate and principle cause. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": " If 'A' is the effect but 'B' is not its immediate and principle cause. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": " If 'B' is the effect but 'A' is not its immediate and principle cause.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Event (A): Company X is opening an office in city Y for marketing the company's products.<br/> Event (B): Company X has chalked out an expansion plan, involving raising production capacity at its existing plants.?",
+            "explanation": "Events (A) and (B) are related events and chronologically (B) occurs before (A) and because of as they are planning to increase capacity, they have to make a plan to sell their products also so they open new offices for marketing those products. But opening an office in a particular city, requires other events such as market survey etc. It is not the immediate and principle cause.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "If 'A' is the effect and 'B' is its immediate and principle cause. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": " If 'B' is the effect and 'A' is its immediate and principle cause",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "If 'A' is the effect but 'B' is not its immediate and principle cause.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": " If 'B' is the effect but 'A' is not its immediate and principle cause.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1013,
+            "name": "Event (A): Senior students ragged junior students.  <br/> Event (B): Senior students were suspended.  ?",
+            "explanation": "Event (A) and (B) are related. Chronologically (A) occurs before (B). Ragging of junior students is the immediate and principle cause for the suspension of the senior students. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": " If 'A' is the effect and 'B' is its immediate and principle cause.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "If 'B' is the effect and 'A' is its immediate and principle cause.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " If 'A' is the effect but 'B' is not its immediate and principle cause.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "If 'B' is the effect but 'A' is not its immediate and principle cause. ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1014,
+            "name": "Event (A): Indian cricket team won the match.<br/>Event (B): The bowlers of the Indian cricket team performed excellently. ?",
+            "explanation": "Here both the events are related events and chronologically (B) occurs before (A). But the excellent performance of the bowler is not the immediate and principle cause for the Indian victory. There may be other players (Batsman and fielders) who also need to play well for the Indian victory.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": " If 'A' is the effect and 'B' is its immediate and principle cause. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "If 'B' is the effect and 'A' is its immediate and principle cause.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": " If 'A' is the effect but 'B' is not its immediate and principle cause. ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": " If 'B' is the effect but 'A' is not its immediate and principle cause",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1015,
+            "name": " Event (A):  Now-a-days nefarious activities like bomb blasts and kidnappings are on the increase. <br/>Event (B):  Nefarious activities are done deliberately to create have among the people. ?",
+            "explanation": "The terrorists deliberately want to create panic among the people, hence they perpetrate activities like bomb blasts and kidnappings.<br/>Hence (B) is the immediate and principal cause and (A) is its effect.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": " If 'A' is the effect and 'B' is its immediate and principle cause.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": " If 'B' is the effect and 'A' is its immediate and principle cause. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "If 'A' is the effect but 'B' is not its immediate and principle cause. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": " If 'B' is the effect but 'A' is not its immediate and principle cause. ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1016,
+            "name": "Event (A):  The government has failed to stop Infiltration from across the boarder. <br/> Event (B):   Foreigners have been staying here for many years without permission. ?",
+            "explanation": "As the government has failed to stop infiltration from across the boarder, foreigners illegally entering have been the country end living here since many years. Hence, (A) is the immediate and principle cause and (B) is its effect.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": " If 'A' is the effect and 'B' is its immediate and principle cause. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": " If 'B' is the effect and 'A' is its immediate and principle cause.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": " If 'A' is the effect but 'B' is not its immediate and principle cause. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "If 'B' is the effect but 'A' is not its immediate and principle cause. ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1017,
+            "name": "  Event (A):  Banks perceive huge business opportunities in the insurance segment.<br/> Event (B):  As many as 11 nationalised banks are entering into the lucrative insurance market. ?",
+            "explanation": "The banks perceive huge business opportunities in the insurance sector hence, they are in the process of entering into the sector. So, (A) is the cause and (B) is its effect..",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " If 'A' is the effect and 'B' is its immediate and principle cause.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "If 'B' is the effect and 'A' is its immediate and principle cause.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "If 'A' is the effect but 'B' is not its immediate and principle cause.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "If 'B' is the effect but 'A' is not its immediate and principle cause. ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1018,
+            "name": " Event (A):  India has been categorized as one of the flawed democracies in the world. <br/>Event (B):  India is the greatest democratic country in the world.?",
+            "explanation": "Being the largest democratic country in the world is not the reason being categorized as a flawed democracy. .",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "If 'A' is the effect and 'B' is its immediate and principle cause.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "If 'B' is the effect and 'A' is its immediate and principle cause. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": " If 'A' is the effect but 'B' is not its immediate and principle cause. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " None of these. ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1019,
+            "name": "Event (A):  From now on the two multinationals Nokia and Siemens will operate as a single entity in India. <br/> Event (B):  The two multinationals have approvals to operate individually in India.?",
+            "explanation": "The two multinationals are already operating in India as individual players, but they got the permission to work together. Getting permission to operate jointly is the immediate and principal cause but having individual approvals is not the principal cause. <br/> Hence, A is the effect and B is not its immediate and principal cause.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": " If 'A' is the effect and 'B' is its immediate and principle cause.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": " If 'B' is the effect and 'A' is its immediate and principle cause. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": " If 'A' is the effect but 'B' is not its immediate and principle cause. ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": " If 'B' is the effect but 'A' is not its immediate and principle cause. ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Decision Making Test 1",
+    "description": "Practice Decision Making Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Amit Khanna, born on 5th june, 1973 has done his post-graduation in Marketing Management with first class. He has secured 50 % marks in the written Test. He has been working in an organisation as a Marketing Officer for the last four years. ?",
+			"explanation": "all conditions of eligibility are satisfied.a",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": " be a graduate with at least 50 % marks.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " have secured atleast 40 % marks in the written test.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "not be less than 24 years and more than 29 years as on 10th October, 1997.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": " should have work experience of at least two years as an officer.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": " Rohit Verma, has been working in an organisation as officer for the last ten years. His date of birth is 17th February, 1964. He has secured 60% marks in the degree examination and 40% marks in the written test. ?",
+			"explanation": "Condition (3) is violated but it can be waived by condition (6), which is missing.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": " be a graduate with at least 50 % marks.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "have secured atleast 40 % marks in the written test.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": " not be less than 24 years and more than 29 years as on 10th October, 1997.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "should have work experience of at least two years as an officer.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": " Manju sharma is a first class graduate and has done a diploma in Marketing Management. She has secured 50% marks in the written test. She was 23 years old as on 5th September, 1996.?",
+			"explanation": "The candidate satisfies all conditions except (4). But he fulfils condition (5) : (4) is waived.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": " be a graduate with at least 50 % marks.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": " have secured atleast 40 % marks in the written test.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "not be less than 24 years and more than 29 years as on 10th October, 1997.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": " should have work experience of at least two years as an officer.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": " Nitin Narang was born on 25th August, 1975. He has secured 60% and 50% marks in graduation and in the written test, respectively. He has been working in an organisation as Officer for the last four years. ?",
+			"explanation": "The candidate satisfies condition (6) instead of condition (3). ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "be a graduate with at least 50 % marks.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "have secured atleast 40 % marks in the written test.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "not be less than 24 years and more than 29 years as on 10th October, 1997.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": " fulfils all other criteria except at (4) above but has a diploma in Marketing Management, his/her case is to be referred to General Manager, Marketing.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Suman Malhotra is a graduate with first class and has secured 60% marks in the written test. She has been working as an Officer for the last three years. She was born on 20th May, 1972. ?",
+			"explanation": "All conditions of eligibility are satisfied.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "be a graduate with at least 50 % marks.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "not be less than 24 years and more than 29 years as on 10th October, 1997.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "should have work experience of at least two years as an officer. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "have secured atleast 40 % marks in the written test.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "You are a Deputy secretary in a ministry of the government of India where you are dealing with the appointment of ‘Technical Assistants’ on the basis of a written examination.10 candidates have been shortlisted for the two posts. Based on their educational and previous work experience you have to make your recommendation in order to preference. A senior official in the ministry. Who is known to you asks you to recommend the name of a candidate amongst the first two choices. What will you do ?",
+			"explanation": "Selecting option.(A)would harm your relationship with the senior official while option.(B) is complete negation of ethics and morality of an officer. Selecting option(D) is also not ethics and so in this case the best option is to examine the profile of all the candidates and to take decision on the basis of merit. Thus the correct answer is option (C).",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Bring the matter to the knowledge of your immediate superior officer and do as be verbally directs.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": " Company to the request of the senior officer. Who approached you and recommend the name of his candidate in the top two despite knowing that he is not among the best two.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Examine the profile of all ten candidates and take decision on merits even. If it means that the candidate Y is eventually selected.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": " See to it that the candidates Y is not selected at all by placing him down in the preference",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "You Just go to know that your friend has met with an accident and hearing this you immediately leave for the accident and hearing stop along with one more friend. In a hurry, you forget to take your license and helmet. You were flagged down to stop at the traffic intersection by the traffic constable. You will? ?",
+			"explanation": "(B) The policeman is doing his duty. So he won’t understand your reason. Also, that could be a wastage of time. So option(C) is eliminated. Dodging the policeman is making a crime hence it is also not ethical. Using references is again not an ethical behaviour. Hence the most appropriate option is (B) as you have done mistake so you have to pay fine for it.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Dodge the policeman",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": " Stop and pay time",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": " Stop and reason it out with about the policeman ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Stop and use references ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "You are a team manager, you find that your employee's performance is inappropriate that induces /creates a stress for you. You should:?",
+			"explanation": "Reporting the reasons to the higher authorities as mentioned on option (A) shows your inability to tackle the problem while options(B) and (D) do not serve the purpose effectively. For improving employees performance team managers should create an Organisational culture in which the employees feel to be concerned as mentioned in option(C). So, Option (C) is the best possible solution to this problem.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " Explore the reason of inappropriate performance and report to the higher authorities.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Start an incentive mechanism for better Performance.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Create an organizational culture in which the employees feel to be concerned",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": " Implement special Human resource training for the employees",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": " You are competing with your batch mate for a prestigious award to be decided based on an oral presentation. Ten minutes are allowed for each presentation. You have been asked by the committee to finish on time. Your friend however is allowed more than the stipulated time period you would. ?",
+			"explanation": "option (B) Would not be moral as everyone has the right to given justification while option.(C) is an escapist attitude, protesting is correct, but lodging a complaint to the concerned authority will give the result. Do option (A) Is the best course of action.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "Lodge a complaint to the chairperson against the discrimination. ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": " Not listen to any justification from the committee ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": " Ask for withdrawal of your name ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " Protest and leave the place. ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": " As a citizen, you have some work with a government department. The officials call you again and again and without directly asking you sends out feelers for a bribe. You want to get your work done you would. ?",
+			"explanation": "Option (A) is not correct and ethically not permitted. Option (B) will not solve your problem giving a written complaint about the feeler as mentioned in Option(D) is logically not correct. So best course of action is to go to the higher officer for help and verbally Complaining about feelers.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": " Give a bribe. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Behaves as, If you have not understood the feelers and persist with your application.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Go to the higher officer for help and verbally complaining about feelers. ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Send in a format complaint",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

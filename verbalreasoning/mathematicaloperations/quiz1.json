@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Mathematical and Computer Operations Test 1",
+    "description": "Practice Mathematical and Computer Operations Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": " In the following questions, the symbols @, #, $, % and © are used with the following meaning as illustrated below:<br/>'P$Q' means 'P is not greater than Q'.<br/>'P@Q' means 'P is neither smaller than nor equal to Q'.<br/>'P%Q' means 'P is neither greater than not equal to Q'.<br/>'P©Q' means 'P is not smaller than Q'.<br/>'P#Q' means 'P is neither greater than nor smaller than Q'.<br/>Now in each of the following questions assuming the given statements to be true, find which of the three conclusions I, II and III given below them is are definitely true.<br/> Statements: M @ R, R © K, J % K<br/>Conclusions: I. M @ J  II. J % R  III. K % M",
+            "explanation": "M > R --- (i)   R ≥ K --- (ii) J < K --- (iii)<br/>combining (i), (ii) and (iii), we get:<br/>M > R ≥ K > J => M > J (conclusion I),<br/>R > J (conclusion II),<br/>M > K (conclusion III),<br/>Hence, conclusion I (M > J), conclusion II (J < R) and conclusion III (K < M) are all true.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": " None follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Only either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Only II and III follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "All follow ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "In the following questions, the symbols @, #, $, % and © are used with the following meaning as illustrated below: <br/>'P$Q' means 'P is not greater than Q'.<br/>'P@Q' means 'P is neither smaller than nor equal to Q'.<br/>'P%Q' means 'P is neither greater than not equal to Q'.<br/>'P©Q' means 'P is not smaller than Q'.<br/>'P#Q' means 'P is neither greater than nor smaller than Q'.<br/> Now in each of the following questions assuming the given statements to be true, find which of the three conclusions I, II and III given below them is are definitely true.<br/> Statements: D © N, N # V, W $ V<br/> Conclusions: I. D # W  II. W % D III. V # ?",
+            "explanation": "D ≥ N -- (i)   N = V -- (ii) W ≤ V -- (iii) <br/> combining (i) and (ii), we get:<br/>  D ≥ N = V => D ≥ N. Hence, conclusion III (V = D) is not necessary true.<br/> Again, combining all (i), (ii) and (iii), we get<br/> D ≥ N = V ≥ W => D ≥ W. Hence, neither conclusion I (D = W) or conclusion II (W < D) is true. But both conclusion I (D = W) and conclusion II (W",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "None follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Only either I or II follows",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Only either II or III follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": " Only either II or III and I follow",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "In the following questions, the symbols @, #, $, % and © are used with the following meaning as illustrated below: <br/>'P$Q' means 'P is not greater than Q'.<br/> 'P@Q' means 'P is neither smaller than nor equal to Q'.<br/>'P%Q' means 'P is neither greater than not equal to Q'.<br/>'P©Q' means 'P is not smaller than Q'.<br/>'P#Q' means 'P is neither greater than nor smaller than Q'.<br/>Now in each of the following questions assuming the given statements to be true, find which of the three conclusions I, II and III given below them is are definitely true <br/> Statements: H % B, M © B, K # M <br/> Conclusions: I. K @ H  II. B # K III. K @ B",
+            "explanation": "H < B -- (i)  M ≥ B -- (ii)  K + M -- (iii)<br/> combining (ii) and (iii), we get: <br/> K = M ≥ B => K ≥ B. Hence, neither conclusion II (B = K) or conclusion III (K > B) is true. But, both conclusion I and II together make a complementary pair. Hence, either conclusion II (B = K) or conclusion III (K > B) is true. <br/> Again combining all (i), (ii) and (iii) we get K = M ≥ B > H =>  K > H (conclusion I). Hence conclusion I (K > H) is true.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": " All follow",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Only I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": " Only either II or III follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Only either II or III and I follows",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1013,
+            "name": "In the following questions, the symbols @, #, $, % and © are used with the following meaning as illustrated below:<br/>'P$Q' means 'P is not greater than Q'.<br/> 'P@Q' means 'P is neither smaller than nor equal to Q'.<br/>'P%Q' means 'P is neither greater than not equal to Q'.<br/>'P©Q' means 'P is not smaller than Q'.<br/> 'P#Q' means 'P is neither greater than nor smaller than Q'.<br/>Now in each of the following questions assuming the given statements to be true, find which of the three conclusions I, II and III given below them is are definitely true.<br/> Statements: V © M, N % V, J @ N <br/> Conclusions: I. J @ M II. M @ N III. V @ J ",
+            "explanation": "V ≥ M -- (i)  N < V -- (ii) J > N -- (iii)<br/> From (i) and (ii), no specific relation between M and N can be established. Hence, conclusion II (M > N) is not necessarily true. <br/> Again, from (i), (ii) and (iii), no specific relation between V and J can be established. Hence, conclusion III (V > J) is not necessarily true. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": " None follows",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": " Only I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " Only either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": " Only III follows",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1014,
+            "name": "In the following questions, the symbols @, #, $, % and © are used with the following meaning as illustrated below:<br/> 'P$Q' means 'P is not greater than Q'.<br/>'P@Q' means 'P is neither smaller than nor equal to Q'. <br/>'P%Q' means 'P is neither greater than not equal to Q'.<br/>'P©Q' means 'P is not smaller than Q'.<br/>'P#Q' means 'P is neither greater than nor smaller than Q'.<br/>Now in each of the following questions assuming the given statements to be true, find which of the three conclusions I, II and III given below them is are definitely true.<br/> Statements: T # R, R $ W, W % H <br/>Conclusions: I. H @ R II. H @ T III. H © T",
+            "explanation": "T = R -- (i)  R < W -- (ii)  W < H -- (iii) <br/> combining (ii) and (iii), we get <br/> H > W ≥ R => H > T (conclusion II). Hence, conclusion II (H ≥ T) is true but conclusion III (H ≥ T) is not true.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": " Only I follows ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Only II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": " Only I and II follows ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "all follows",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1015,
+            "name": "If 'P' denotes 'divided by'; 'Q' denotes 'added to'; 'M' denotes 'subtracted from'; 'B' denotes 'multiplied by'; then <br/> 1 8 B 1 2 P 4 M 8 Q 6 = ?",
+            "explanation": "1 8 B 1 2 P 4 M 8 Q 6 = 18 * 12 ÷ 4 - 8 + 6 = 52",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "108",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "46",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "17",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": " 52",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1016,
+            "name": "In these questions, the symbols @, *, $, # and % are used with the following meanings as illustrated below:<br/>'P@Q' means 'P is not smaller than Q'.<br/>'P#Q' means 'P is not greater than q'.<br/> 'P%Q' means 'P is neither smaller than nor greater than Q'.<br/> 'P$Q' means 'P is neither smaller than nor equal to Q'.<br/> Statements: T % B, M * B, J # B <br/> Conclusions: I. T % M   II. T % J",
+            "explanation": "T = B, M ≤ Q, J ≥ B <br/>  => T ≤ J, M ≤ Q",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "if only conclusion I is true. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": " if only conclusion II is true.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "if either conclusion I or II is true. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": " if neither conclusion I nor II is true. ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1017,
+            "name": " In these questions, the symbols @, *, $, # and % are used with the following meanings as illustrated below: <br/> 'P@Q' means 'P is not smaller than Q'.<br/>'P#Q' means 'P is not greater than q'.<br/>'P%Q' means 'P is neither smaller than nor greater than Q'.<br/>'P$Q' means 'P is neither smaller than nor equal to Q'.<br/>Statements: V # D, D * K, F $ K<br/> Conclusions: I. D @ F   II. V @ F",
+            "explanation": "V ≥ D, D ≤ K, F > K <br/> => D ≥ K < F => D < F <br/> => D ≥ F => D @ F",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "if only conclusion I is true.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "if only conclusion II is true.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "if either conclusion I or II is true.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": " if neither conclusion I nor II is true.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1018,
+            "name": " In these questions, the symbols @, *, $, # and % are used with the following meanings as illustrated below: <br/> 'P@Q' means 'P is not smaller than Q'.<br/>'P#Q' means 'P is not greater than q'.<br/>'P%Q' means 'P is neither smaller than nor greater than Q'.<br/>'P$Q' means 'P is neither smaller than nor equal to Q'.<br/>Statements: W # D, D % M, M * F<br/> Conclusions: I. D @ F   II. F % D ",
+            "explanation": "W ≥ D, D = M, M ≤ F<br/> => D ≤ F => D L F or D = F<br/> => D ≥ F or D = F <br/> => D @ F or D % F",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "if only conclusion I is true.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "if only conclusion II is true. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "if either conclusion I or II is true. ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " if neither conclusion I nor II is true. ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1019,
+            "name": "In these questions, the symbols @, *, $, # and % are used with the following meanings as illustrated below: <br/>'P@Q' means 'P is not smaller than Q'. <br/> 'P#Q' means 'P is not greater than q'.<br/>'P%Q' means 'P is neither smaller than nor greater than Q'.<br/> 'P$Q' means 'P is neither smaller than nor equal to Q'.<br/> Statements: H * R, R $ N, N @ K <br/>Conclusions: I. H @ K   II. K $ R ",
+            "explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": " if only conclusion I is true.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": " if only conclusion II is true. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "if either conclusion I or II is true ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": " if neither conclusion I nor II is true.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }
+    ]
+}
