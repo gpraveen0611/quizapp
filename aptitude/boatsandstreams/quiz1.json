@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Aboats and stream  Test 1",
+    "description": "Practice boats and streams Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A boat goes 100 km downstream in 10 hours, and 75 m upstream in 15 hours. The speed of the stream is?",
+            "explanation": "1/2 * 4 * 5 = 10 m²",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "<3>",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "<4>",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "<4(1/2)>",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "insufficient data",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "A boat goes 100 km downstream in 10 hours, and 75 m upstream in 15 hours. The speed of the stream is?",
+            "explanation": "100 --- 10           DS = 10 <br> ? ----  1 <br> 75 ---- 15     US = 5  <br> ? ----- 1     S = (10 - 5)/2  <br>   = 2 2 ½ kmph",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": " 7 km/h",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": " 5 km/h",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": " 3 km/h",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": " 2(1/2)km /h",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": " A man can row his boat with the stream at 6 km/h and against the stream in 4 km/h. The man's rate is?",
+            "explanation": "DS = 6 < br> US = 4 <br> S = ? <br> S = (6 - 4)/2 = 1 kmph",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "1 kmph",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "5 kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "8 kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "3 kmph",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1013,
+            "name": " A man can swim in still water at 4.5 km/h, but takes twice as long to swim upstream than downstream. The speed of the stream is?",
+            "explanation": "M = 4.5 <br> S = x <br> DS = 4.5 + x <br> US = 4.5 + x <br> 4.5 + x = (4.5 - x)2 <br> 4.5 + x = 9 -2x <br> 3x = 4.5 <br> x = 1.5",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "7.5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "2.25",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "1.5",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1014,
+            "name": " A man can row with a speed of 15 kmph in still water. If the stream flows at 5 kmph, then the speed in downstream is?",
+            "explanation": " ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "10 kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "5 kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "20 kmph",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "22 kmph",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1015,
+            "name": " A man can row upstream at 25 kmph and downstream at 35 kmph, and then find the speed of the man in still water?",
+            "explanation": "US = 25 <br> DS = 35 <br> M = (35 + 25)/2 = 30",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "60 kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "10 kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "30 kmph",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "5 kmph",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1016,
+            "name": "A boat can move upstream at 25 kmph and downstream at 35 kmph, then the speed of the current is?",
+            "explanation": "US = 25 <br> DS = 35 <br> M = (35 - 25)/2 = 5",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "5 kmph",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "10 kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "30 kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "15 kmph",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1017,
+            "name": "A man swims downstream 30 km and upstream 18 km taking 3 hours each time, what is the speed of the man in still water?",
+            "explanation": "30 --- 3    DS = 10  <br> ? ---- 1 <br> 18 ---- 3     US = 6  <br> ? ---- 1     M = ? <br> M = (10 + 6)/2 = 8",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "2 kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "8 kmph",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "16 kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "4 kmph",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1018,
+            "name": " A man swims downstream 72 km and upstream 45 km taking 9 hours each time; what is the speed of the current?",
+            "explanation": " 72 --- 9    DS = 8 <br> ? ---- 1 <br> 45 ---- 9      US = 5 <br> ? ---- 1       S = ? <br> S = (8 - 5)/2 = 1.5",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "3 kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "1.5 kmph",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "13 kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "6.5 kmph",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1019,
+            "name": "  A man can row 6 kmph in still water. When the river is running at 1.2 kmph, it takes him 1 hour to row to a place and black. What is the total distance traveled by the man?",
+            "explanation": "M = 6 <br> S = 1.2 <br> DS = 7.2 <br> US = 4.8 <br> x/7.2 + x/4.8 = 1 <br> x = 2.88 <br> D = 2.88 * 2 = 5.76",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "6.24 km",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": " 6 km",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": " 5.76 km",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": " 5.66 km",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }
+    ]
+}

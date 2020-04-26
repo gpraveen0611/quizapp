@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "probability Test 1",
+    "description": "Practice probability Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": " The probability that a number selected at random from the first 50 natural numbers is a composite number is?",
+            "explanation": "The number of exhaustive events = ⁵⁰C₁ = 50.<br> We have 15 primes from 1 to 50. <br> Number of favourable cases are 34.<br> Required probability = 34/50 = 17/25.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "21/25",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " 17/25",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "4/25",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "8/25",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": " If a number is chosen at random from the set {1, 2, 3, ...., 100}, then the probability that the chosen number is a perfect cube is?",
+            "explanation": "We have 1, 8, 27 and 64 as perfect cubes from 1 to 100.<br> Thus, the probability of picking a perfect cube is <br> 4/100 = 1/25.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "1/25 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": " 1/2 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "4/13 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": " 1/10 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "  Out of first 20 natural numbers, one number is selected at random. The probability that it is either an even number or a prime number is?",
+            "explanation": "n(S) = 20 <br> n(Even no) = 10 = n(E) <br> n(Prime no) = 8 = n(P) <br> P(EᴜP) = 10/20 + 8/20 - 1/20 = 17/20.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "1/2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "16/19",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "4/5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "17/20",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1013,
+            "name": " If four coins are tossed, the probability of getting two heads and two tails is?",
+            "explanation": "Since four coins are tossed, sample space = 2<sup>4</sup> <br> Getting two heads and two tails can happen in six ways.<br> n(E) = six ways <br> p(E) = 6/2<sup>4</sup> = 3/8",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "3/8 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "6/11 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " 2/5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "4/5",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1014,
+            "name": "  If a card is drawn from a well shuffled pack of cards, the probability of drawing a spade or a king is ?",
+            "explanation": "P(SᴜK) = P(S) + P(K) - P(S∩K), where S denotes spade and K denotes king. <br> P(SᴜK) = 13/52 + 4/52 - 1/52 = 4/13",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "19/52",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": " 17/52",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": " 5/13",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "4/13",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1015,
+            "name": "If six persons sit in a row, then the probability that three particular persons are always together is?",
+            "explanation": "Six persons can be arranged in a row in 6! ways. Treat the three persons to sit together as one unit then there four persons and they can be arranged in 4! ways. Again three persons can be arranged among them selves in 3! ways. Favourable outcomes = 3!4! Required probability = 3!4!/6! = 1/5.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "1/20",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "3/10",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "1/5  ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "4/5",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1016,
+            "name": " A bag contains 7 green and 8 white balls. If two balls are drawn simultaneously, the probability that both are of the same colour is? ",
+            "explanation": "Drawing two balls of same color from seven green balls can be done in ⁷C₂ ways.<br> Similarly from eight white balls two can be drawn in ⁸C₂ ways.<br>P = ⁷C₂/¹⁵C₂ + ⁸C₂/¹⁵C₂ = 7/15",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": " 8/15",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "2/5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": " 3/5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": " 7/15",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1017,
+            "name": "A basket has 5 apples and 4 oranges. Three fruits are picked at random. The probability that at least 2 apples are picked is?",
+            "explanation": "Total fruits = 9 <br> Since there must be at least two apples, <br> (⁵C₂ * ⁴C₁)/⁹C₃ + ⁵C₃/⁹C₃ = 25/42.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "25/42",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": " 9/20",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "10/23",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": " 41/42 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1018,
+            "name": "  Three 6 faced dice are thrown together. The probability that all the three show the same number on them is ?",
+            "explanation": "It all 3 numbers have to be same basically we want triplets. 111, 222, 333, 444, 555 and 666. Those are six in number. Further the three dice can fall in 6 * 6 * 6 = 216 ways.<br> Hence the probability is 6/216 = 1/36.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "1/216",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "1/36",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": " 5/9",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "5/12 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1019,
+            "name": "  Three 6 faced dice are thrown together. The probability that no two dice show the same number on them is ?",
+            "explanation": "No two dice show same number would mean all the three faces should show different numbers. The first can fall in any one of the six ways. The second die can show a different number in five ways. The third should show a number that is different from the first and second. This can happen in four ways.<br> Thus 6 * 5 * 4 = 120 favourable cases.<br> The total cases are 6 * 6 * 6 = 216.<br> The probability = 120/216 = 5/9..",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": " 7/12 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "5/9",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": " 1/36",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "  5/12",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }
+    ]
+}

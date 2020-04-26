@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "surds Test 1",
+    "description": "Practice surds Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": " Simplify the following:<br>(169/121)<sup>-3/2</sup> * 27/2 * (13/22)<sup>-1</sup>?",
+            "explanation": "(169/121)<sup>-3/2</sup> * 27/2 * (13/22)<sup>-1</sup> <br> <div>(13<sup>2</sup>/11<sup>2</sup>)<sup>-3/2</sup> * 27/2 * 22/13 = 13<sup>-3</sup>/11<sup>-3</sup> * 27/2 * 22/13</div> <br> <div>= 13<sup>-4</sup> 11<sup>4</sup> 3<sup>3</sup></div>",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "13<sup>-1</sup> 11<sup>4</sup> 3<sup>3</sup> ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "13<sup>-2</sup> 11<sup>4</sup> 3<sup>4</sup> ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "13<sup>-3</sup> 11<sup>4</sup> 3<sup>4</sup>",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "13<sup>-4</sup> 11<sup>4</sup> 3<sup>3</sup>",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "(27<sup>2</sup>/4<sup>-3</sup>)<sup>-5/6</sup> =?",
+            "explanation": "(27<sup>2</sup>/4<sup>-3</sup>)<sup>-5/6</sup> = [(3<sup>3</sup>)<sup>2</sup>/(2<sup>2</sup>)<sup>-3</sup>]<sup>-5/6</sup> <br> <div>= (3<sup>6</sup> * 2<sup>6</sup>)<sup>-5/6</sup> <br><div>= (6<sup>6</sup>)<sup>-5/6</sup> = 1/6<sup>5</sup> = 1/ 7776.</div> <br></div>.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "1/1296",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "1/46656  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "1/7256 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "1/7776 ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": " (5 - 7)<sup>2</sup> * (6 - 9)<sup>2</sup> / (2<sup>3</sup>)<sup>-2</sup> =?",
+            "explanation": "(5 - 7)<sup>2</sup> * (6 - 9)<sup>2</sup> / (2<sup>3</sup>)<sup>-2</sup> = (-2)<sup>2</sup> * (-3)<sup>2</sup> * 1/(2<sup>3</sup>)<sup>-2</sup> <br><div>= 4 * 9 * 64 = 2304.</div>.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "-2304",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "2304",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": " -2382",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": " 2382",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1013,
+            "name": " (8x<sup>9</sup> / 27y<sup>-6</sup>)<sup>-2/3</sup> = ?",
+            "explanation": "(8x<sup>9</sup> / 27y<sup>-6</sup>)<sup>-2/3</sup> = (8x<sup>9</sup>y<sup>6</sup> / 27)<sup>-2/3</sup> = [(2/3 x<sup>3</sup> y<sup>2</sup>)<sup>3</sup>]<sup>-2/3</sup> <br> <div>= 9/4 x<sup>-6</sup> y<sup>-4</sup>.</div>",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "9/4 x<sup>-6</sup> y<sup>-4</sup> ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "9/4 x<sup>-4</sup> y<sup>-6</sup> ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "9/4 x<sup>-6</sup> y<sup>4</sup> ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "9/4 x<sup>-4</sup> y<sup>6</sup>",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1014,
+            "name": " (3<sup>a+1</sup> 9<sup>a+2</sup> 27<sup>a</sup>) / (3<sup>a-1</sup> 9<sup>a</sup> 27<sup>a+1</sup>) = ?",
+            "explanation": "(3<sup>a+1</sup> 9<sup>a+2</sup> 27<sup>a</sup>) / (3<sup>a-1</sup> 9<sup>a</sup> 27<sup>a+1</sup>) = [3<sup>a+1</sup> 3<sup>2(a+2)</sup> (3<sup>3</sup>)<sup>a</sup>] / [3<sup>a-1</sup> (3<sup>2</sup>)<sup>a</sup> (3<sup>3</sup>)<sup>a+1</sup>] = 3<sup>6a+5</sup> / 3<sup>6a+2</sup> = 3<sup>3</sup> = 27.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "9 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "27 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "1",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1015,
+            "name": "(27<sup>2/3</sup> * 9<sup>1/2</sup> * 81<sup>1/4</sup>)<sup>-1/4</sup> = ?",
+            "explanation": "(27<sup>2/3</sup> * 9<sup>1/2</sup> * 81<sup>1/4</sup>)<sup>-1/4</sup> = [(3<sup>3</sup>)<sup>2/3</sup> * (3<sup>2</sup>)<sup>1/2</sup> * (3<sup>4</sup>)<sup>1/4</sup>]<sup>-1/4</sup> <br><div>= (3<sup>2</sup> * 3 * 3)<sup>-1/4</sup> = (3<sup>4</sup>)<sup>-1/4</sup> = 1/3.</div>",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "9",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "  1/3",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": " 1/9",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1016,
+            "name": " (3<sup>-3</sup> * 9<sup>5/2</sup>) / (27<sup>2/3</sup> * 3<sup>-4</sup>) =? ",
+            "explanation": "(3<sup>-3</sup> * 9<sup>5/2</sup>) / (27<sup>2/3</sup> * 3<sup>-4</sup>) = [3<sup>-3</sup> * (3<sup>2</sup>)<sup>5/2</sup>] / [(3<sup>3</sup>)<sup>2/3</sup> * 3<sup>-4</sup>] <br> <div>= (3<sup>-3</sup> * 3<sup>5</sup>) / (3<sup>2</sup> * 3<sup>-4</sup>) = (3<sup>-3+5</sup>)/(3<sup>2-4</sup>) = 3<sup>2</sup>/3<sup>-2</sup> = 3<sup>2</sup> * 3<sup>2</sup> = 81.</div>",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "3 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "9",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "81 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "21 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1017,
+            "name": "(9<sup>-7</sup> / 27<sup>-3</sup>)<sup>4/5</sup> = ?",
+            "explanation": "(9<sup>-7</sup> / 27<sup>-3</sup>)<sup>4/5</sup> = [(3<sup>2</sup>)<sup>-7</sup> / (3<sup>3</sup>)<sup>-3</sup>]<sup>4/5</sup> <br> <div>= (3<sup>-14</sup> 3<sup>9</sup>)<sup>4/5</sup> = 3<sup>-4</sup> .</div>.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "3<sup>-1</sup>",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "3<sup>-2</sup> ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "3<sup>-3</sup>",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "3<sup>-4</sup>  ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1018,
+            "name": " (17<sup>14</sup> * 17<sup>16</sup>) / 17<sup>-8</sup> = ?",
+            "explanation": "= 17<sup>14+16-8</sup> = 17<sup>22</sup>",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "17<sup>28</sup>",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "17<sup>24</sup>",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "17<sup>26</sup> ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " 17<sup>22</sup>",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1019,
+            "name": "   Simplify : 1 - {1 + (a<sup>2</sup> - 1)<sup>-1</sup>}<sup>-1</sup>?",
+            "explanation": "1 - {1 + (a<sup>2</sup> - 1)<sup>-1</sup>}<sup>-1</sup> = 1 - {1 + 1/a<sup>2</sup> - 1}<sup>-1</sup> = 1 - {a<sup>2</sup> / a<sup>2</sup> - 1}<sup>-1</sup> = 1 - (a<sup>2</sup> - 1)/a<sup>2</sup> = 1/a<sup>2</sup>..",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "1/a<sup>2</sup> ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": ".a<sup>2</sup>",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "-1/a<sup>2</sup> ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "-a<sup>2</sup>  ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }
+    ]
+}

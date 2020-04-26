@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "mensuration Test 1",
+    "description": "Practice mensuration Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "What is the are of an equilateral triangle of side 16 cm?",
+            "explanation": "Area of an equilateral triangle = √3/4 S² <br> If S = 16, Area of triangle = √3/4 * 16 * 16 = 64√3 cm²;",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "48√3 cm²",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "128√3 cm²",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "9.6√3 cm²",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "64√3 cm²",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "If the sides of a triangle are 26 cm, 24 cm and 10 cm, what is its area?",
+            "explanation": "The triangle with sides 26 cm, 24 cm and 10 cm is right angled, where the hypotenuse is 26 cm. <br>  Area of the triangle = 1/2 * 24 * 10 = 120 cm²",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": " 120 cm²",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": " 130 cm²",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": " 312 cm²",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": " 315 cm²",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": " The perimeter of a triangle is 28 cm and the inradius of the triangle is 2.5 cm. What is the area of the triangle?",
+            "explanation": "Area of a triangle = r * s <br> Where r is the inradius and s is the semi perimeter of the triangle.<br> Area of triangle = 2.5 * 28/2 = 35 cm²",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "25 cm²",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "42 cm²",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "49 cm²",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "none of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1013,
+            "name": "Find the area of trapezium whose parallel sides are 20 cm and 18 cm long, and the distance between them is 15 cm.?",
+            "explanation": "Area of a trapezium = 1/2 (sum of parallel sides) * (perpendicular distance between them) = 1/2 (20 + 18) * (15) = 285 cm²",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "225 cm²",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "275 cm²",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "285 cm²",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "315 cm²",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1014,
+            "name": " Find the area of a parallelogram with base 24 cm and height 16 cm?",
+            "explanation": "Area of a parallelogram = base * height = 24 * 16 = 384 cm²",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": " 262 cm²",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "384 cm²",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": " 192 cm²",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "131 cm²",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1015,
+            "name": "The ratio of the length and the breadth of a rectangle is 4 : 3 and the area of the rectangle is 6912 sq cm. Find the ratio of the breadth and the area of the rectangle??",
+            "explanation": "Let the length and the breadth of the rectangle be 4x cm and 3x respectively.<br>(4x)(3x) = 6912 <br> 12x² = 6912 <br> x² = 576 = 4 * 144 = 2² * 12² (x > 0) <br>=> x = 2 * 12 = 24 <br> Ratio of the breadth and the areas = 3x : 12x² = 1 : 4x = 1: 96.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": " 1 : 96",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "1 : 48",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": " 1 : 84",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "1 : 68",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1016,
+            "name": "The length of a rectangular floor is more than its breadth by 200%. If Rs. 324 is required to paint the floor at the rate of Rs. 3 per sq m, then what would be the length of the floor??",
+            "explanation": "Let the length and the breadth of the floor be l m and b m respectively. <br> l = b + 200% of b = l + 2b = 3b <br> Area of the floor = 324/3 = 108 sq m <br>l b = 108 i.e., l * l/3 = 108 <br>l² = 324 => l = 18.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "27m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "24m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "18 m",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "21 m",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1017,
+            "name": "An order was placed for the supply of a carpet whose breadth was 6 m and length was 1.44 times the breadth. What be the cost of a carpet whose length and breadth are 40% more and 25% more respectively than the first carpet. Given that the ratio of carpet is Rs. 45 per sq m?",
+            "explanation": "Length of the first carpet = (1.44)(6) = 8.64 cm <br> Area of the second carpet = 8.64(1 + 40/100) 6 (1 + 25/100) <br> = 51.84(1.4)(5/4) sq m = (12.96)(7) sq m <br> Cost of the second carpet = (45)(12.96 * 7) = 315 (13 - 0.04) = 4095 - 12.6 = Rs. 4082.40",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Rs. 3642.40",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": " Rs. 3868.80",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Rs. 4216.20",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": " Rs. 4082.40",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1018,
+            "name": " What will be the cost of building a fence around a square plot with area equal to 289 sq ft, if the price per foot of building the fence is Rs. 58?",
+            "explanation": "Let the side of the square plot be a ft.<br> a² = 289 => a = 17 <br> Length of the fence = Perimeter of the plot = 4a = 68 ft.<br> Cost of building the fence = 68 * 58 = Rs. 3944.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "Rs. 3944",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "Rs. 3828",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "Rs. 4176",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " Cannot be determined",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1019,
+            "name": " The area of a square is equal to five times the area of a rectangle of dimensions 125 cm * 64 cm. What is the perimeter of the square?",
+            "explanation": "Area of the square = s * s = 5(125 * 64)<br> => s = 25 * 8 = 200 cm <br> Perimeter of the square = 4 * 200 = 800 cm.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": " 600 cm",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "800 cm",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": " 400 cm",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": " 1000 cm",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }
+    ]
+}

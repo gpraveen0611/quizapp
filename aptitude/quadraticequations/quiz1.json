@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "quad equations Test 1",
+    "description": "Practice quad equations Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Find the roots of the quadratic equation: x² + 2x - 15 = 0?",
+            "explanation": "x² + 5x - 3x - 15 = 0 <br> x(x + 5) - 3(x + 5) = 0 <br> (x - 3)(x + 5) = 0 <br> => x = 3 or x = -5.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": " -5, 3",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " 3, 5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "-3, 5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "-3, -5",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "  Find the roots of the quadratic equation: 2x² + 3x - 9 = 0?",
+            "explanation": "2x² + 6x - 3x - 9 = 0 <br> 2x(x + 3) - 3(x + 3) = 0 <br> (x + 3)(2x - 3) = 0 <br> => x = -3 or x = 3/2.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": " 3, -3/2 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": " 3/2, -3 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "-3/2, -3 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "3/2, 3  ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "The roots of the equation 3x² - 12x + 10 = 0 are?",
+            "explanation": "The discriminant of the quadratic equation is (-12)² - 4(3)(10) i.e., 24. As this is positive but not a perfect square, the roots are irrational and unequal",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": " rational and unequal",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "complex",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "real and equal",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "irrational and unequal",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1013,
+            "name": "  If the roots of a quadratic equation are 20 and -7, then find the equation?",
+            "explanation": "Any quadratic equation is of the form <br> x² - (sum of the roots)x + (product of the roots) = 0 ---- (1) <br> where x is a real variable. As sum of the roots is 13 and product of the roots is -140, the quadratic equation with roots as 20 and -7 is: x² - 13x - 140 = 0.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": " x² + 13x - 140 = 0 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "x² - 13x + 140 = 0 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "x² - 13x - 140 = 0 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "x² + 13x + 140 = 0",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1014,
+            "name": " The sum and the product of the roots of the quadratic equation x² + 20x + 3 = 0 are??",
+            "explanation": "Sum of the roots and the product of the roots are -20 and 3 respectively.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "10, 3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": " -10, 3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "20, -3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1015,
+            "name": " If the roots of the equation 2x² - 5x + b = 0 are in the ratio of 2:3, then find the value of b?",
+            "explanation": "Let the roots of the equation 2a and 3a respectively.<br> 2a + 3a = 5a = -(- 5/2) = 5/2 => a = 1/2 <br> Product of the roots: 6a² = b/2 => b = 12a2 <br> a = 1/2, b = 3.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "3",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "4",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1016,
+            "name": "The sum of the squares of two consecutive positive integers exceeds their product by 91. Find the integers? ",
+            "explanation": "Let the two consecutive positive integers be x and x + 1 <br> x² + (x + 1)² - x(x + 1) = 91 <br> x² + x - 90 = 0 <br> (x + 10)(x - 9) = 0 => x = -10 or 9. <br> As x is positive x = 9 <br> Hence the two consecutive positive integers are 9 and 10.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "9, 10",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "10, 11",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "11, 12 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "12, 13 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1017,
+            "name": "One root of the quadratic equation x² - 12x + a = 0, is thrice the other. Find the value of a?",
+            "explanation": "Let the roots of the quadratic equation be x and 3x. <br> Sum of roots = -(-12) = 12 <br> a + 3a = 4a = 12 => a = 3 <br> Product of the roots = 3a² = 3(3)² = 27.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " 29",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "-27 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": " 28",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "None of these ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1018,
+            "name": "  The sum of the square of the three consecutive even natural numbers is 1460. Find the numbers?",
+            "explanation": "Three consecutive even natural numbers be 2x - 2, 2x and 2x + 2.<br> (2x - 2)² + (2x)² + (2x + 2)² = 1460 <br> 4x² - 8x + 4 + 4x² + 8x + 4 = 1460 <br> 12x² = 1452 => x² = 121 => x = ± 11 <br> As the numbers are positive, 2x > 0. Hence x > 0. Hence x = 11. <br> Required numbers are 20, 22, 24.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": " 18, 20, 22",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "20, 22, 24",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "22, 24, 26 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "24, 26, 28 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1019,
+            "name": "  If a and b are the roots of the equation x² - 9x + 20 = 0, find the value of a² + b² + ab?",
+            "explanation": "a² + b² + ab = a² + b² + 2ab - ab <br> i.e., (a + b)² - ab <br> from x² - 9x + 20 = 0, we havea + b = 9 and ab = 20. Hence the value of required expression (9)² - 20 = 61.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "-21",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": " 1",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "61 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": " 21 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }
+    ]
+}
