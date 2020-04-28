@@ -190,32 +190,32 @@
         },
         {
             "id": 1015,
-            "name": "  ?",
-            "explanation": "",
+            "name": "How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest  ?",
+            "explanation": "Time = (100 x 81/ 450 x 4.5) = 4 Years.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "%",
-                    "isAnswer": true
+                    "name": "3.5 years",
+                    "isAnswer":false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "",
-                    "isAnswer": false
+                    "name": "4 years",
+                    "isAnswer":true
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "  ",
+                    "name": "4.5 years  ",
                     "isAnswer": false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": " ",
+                    "name": "5 years ",
                     "isAnswer": false
                 }
             ],
@@ -227,32 +227,32 @@
         },
         {
             "id": 1016,
-            "name": " ? ",
-            "explanation": "",
+            "name": "Simple interest on a certain sum is 16/25 of the sum. Find the rate percent and time, If both are numerically equal? ? ",
+            "explanation": "Let sum = X. Then S.I = 16x/25<br>Let rate = R% and Time = R years<br>Therefore, (x * R * R)/100 = 16x/25 => R = 40/5 = 8",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "",
+                    "name": "Rate = 7% and Time = 7 years",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "",
+                    "name": "Rate = 8% and Time = 8 years",
                     "isAnswer": true
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": " ",
+                    "name": "Rate = 6% and Time = 6 years ",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " ",
+                    "name": "Rate = 5% and Time = 5 years ",
                     "isAnswer": false
                 }
             ],
