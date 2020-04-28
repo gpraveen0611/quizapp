@@ -1,7 +1,7 @@
 {
     "id": 1,
-    "name": "odd man out Test 1",
-    "description": "Practice add man out Online Test 1",
+    "name": "Odd Man Out Test 1",
+    "description": "Practice Odd Man Out Online Test 1",
     "questions": [
         {
             "id": 1010,
@@ -338,32 +338,32 @@
         },
         {
             "id": 1019,
-            "name": " ?",
-            "explanation": "27, 36, and 45 are divisible by 9, but not 30",
+            "name": "Four of the following five are alike in a certain way and so form a group. Which is the one that does not belong to that group?/",
+            "explanation": "",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": " 30 ",
-                    "isAnswer": true
+                    "name": " Tyre ",
+                    "isAnswer":false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "27",
-                    "isAnswer": false
+                    "name": "Speed",
+                    "isAnswer": true
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "36 ",
+                    "name": "Clutch ",
                     "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": " 45 ",
+                    "name": " Brake ",
                     "isAnswer": false
                 }
             ],
