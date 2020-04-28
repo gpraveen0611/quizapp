@@ -5,25 +5,26 @@
     "questions": [
         {
             "id": 1010,
-            "name": "The area of a triangle is with base 4m and height 5m? ,1/2 * 4 * 5 = 10 m²",
-            "questionTypeId": 1,
+            "name": "The area of a triangle is with base 4m and height 5m? ",
+            "explanation": "1/2 * 4 * 5 = 10 m²",
+			"questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "<20 sq m>",
+                    "name": "20 sq m",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "<10 sq m>",
+                    "name": "10 sq m",
                     "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "<5 sq m>",
+                    "name": "5 sq m",
                     "isAnswer": false
                 },
                 {
@@ -41,8 +42,9 @@
         },
         {
             "id": 1011,
-            "name": "The area of a triangle will be when a = 1m, b = 2m, c = 3m, a, b, c being lengths of respective sides.? ,S = (1 + 2 + 3)/2 = 3 => No triangle exists",
-            "questionTypeId": 1,
+            "name": "The area of a triangle will be when a = 1m, b = 2m, c = 3m, a, b, c being lengths of respective sides.?",
+            "explanation":"S = (1 + 2 + 3)/2 = 3 => No triangle exists",
+			"questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -77,8 +79,9 @@
         },
         {
             "id": 1012,
-            "name": "The length of each side of an equilateral triangle having an area of 4√3 cm² is?, √3/4 a²= 4√3 a=4",
-            "questionTypeId": 1,
+            "name": "The length of each side of an equilateral triangle having an area of 4√3 cm² is? ",
+            "explanation":"√3/4 a²= 4√3 a=4",
+			"questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -113,8 +116,9 @@
         },
         {
             "id": 1013,
-            "name": "The altitude of an equilateral triangle of side 2√3 cm is?,√3/2 * 2√3 = 3 cm",
-            "questionTypeId": 1,
+            "name": "The altitude of an equilateral triangle of side 2√3 cm is?",
+            "explanation":"√3/2 * 2√3 = 3 cm",
+			"questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -150,7 +154,8 @@
         {
             "id": 1014,
             "name": "The base of a right triangle is 8 and hypotenuse is 10. Its area is?",
-            "questionTypeId": 1,
+            "explanation":"no explanation",
+			"questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -185,8 +190,9 @@
         },
         {
             "id": 1015,
-            "name": "The sides of a triangle are in the ratio 5: 12: 13 and its perimeter is 300 m, its area is?, 5x + 12x + 13x = 300 => x = 10 a = 50, b = 120, c = 130 S = (50 + 120 + 130)/2 = 150 A=√(150*100*30*20) = 3000Sq m",
-            "questionTypeId": 1,
+            "name": "The sides of a triangle are in the ratio 5: 12: 13 and its perimeter is 300 m, its area is?",
+            "explanation":" 5x + 12x + 13x = 300 => x = 10 a = 50, b = 120, c = 130 S = (50 + 120 + 130)/2 = 150 A=√(150*100*30*20) = 3000Sq m",
+			"questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -221,8 +227,9 @@
         },
         {
             "id": 1016,
-            "name": "What is the area of square field whose side of length 15 m?, 15 * 15 = 225 sq m",
-            "questionTypeId": 1,
+            "name": "What is the area of square field whose side of length 15 m?",
+            "explanation":"no explanation",
+			"questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -257,8 +264,9 @@
         },
         {
             "id": 1017,
-            "name": "What is the area of a square field whose diagonal of length 20 m?,d²/2 = (20 * 20)/2 = 200",
-            "questionTypeId": 1,
+            "name": "What is the area of a square field whose diagonal of length 20 m?",
+            "explanation":"d²/2 = (20 * 20)/2 = 200",
+			"questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -293,8 +301,9 @@
         },
         {
             "id": 1018,
-            "name": "What is the perimeter of a square field whose diagonal is 8√2? ,a√2 = 8√2 a=8 4a = 32 m",
-            "questionTypeId": 1,
+            "name": "What is the perimeter of a square field whose diagonal is 8√2? ",
+            "explanation":"a√2 = 8√2 a=8 4a = 32 m",
+			"questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -329,8 +338,9 @@
         },
         {
             "id": 1019,
-            "name": "The ratio of the area of a square to that of the square drawn on its diagonal is?, a²:(a√2)² a²: 2a² 1: 2",
-            "questionTypeId": 1,
+            "name": "The ratio of the area of a square to that of the square drawn on its diagonal is? ",
+            "explanation":"a²:(a√2)² a²: 2a² 1: 2",
+			"questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -362,366 +372,6 @@
                 "name": "Multiple Choice",
                 "isActive": true
             }
-        },
-        {
-            "id": 1020,
-            "name": "The perimeter of one square is 48 cm and that of another is 20 cm. Find the perimeter and the diagonal of a square which is equal in area to these two combined?  ,4a = 48  4a = 20 a = 12, a = 5, a² = 144       a² = 25 Combined area = a² = 169 => a = 13 d = 13√2",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "15√2 cm",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "13√2 cm",
-                    "isAnswer": true
-                },
-                {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "16√2 cm",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "17√2 cm",
-                    "isAnswer": false
-                }
-            ],
-            "questionType": {
-                "id": 1,
-                "name": "Multiple Choice",
-                "isActive": true
-            }
-        },
-        {
-            "id": 1021,
-            "name": "If the perimeter of a rectangular garden is 600 m, its length when its breadth is 100 m is?, 2(l + 100) = 600 => l = 200 m",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "650 m",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "600 m",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "200 m",
-                    "isAnswer": true
-                },
-                {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "300 m",
-                    "isAnswer": false
-                }
-            ],
-            "questionType": {
-                "id": 1,
-                "name": "Multiple Choice",
-                "isActive": true
-            }
-        },
-        {
-            "id": 1022,
-            "name": "A rectangular field has area equal to 150 sq m and perimeter 50 m. Its length and breadth must be?,lb = 1502(l + b) = 50 => l + b = 25 l – b = 5 l = 15   b = 10",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "12 m, 10 m",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "13 m, 12 m",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "14 m, 11 m",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "15 m, 10 m",
-                    "isAnswer": true
-                }
-            ],
-            "questionType": {
-                "id": 1,
-                "name": "Multiple Choice",
-                "isActive": true
-            }
-        },
-        {
-            "id": 1023,
-            "name": "One side of a rectangular field is 4 m and its length along diagonal is 5 m. What is the area of the field?, 5=√(4²+b²) b²=9 lb = 3 * 4 = 12",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "12 sq m",
-                    "isAnswer": true
-                },
-                {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "4√14 sq m",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "20 sq m",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "15 sq m",
-                    "isAnswer": false
-                }
-            ],
-            "questionType": {
-                "id": 1,
-                "name": "Multiple Choice",
-                "isActive": true
-            }
-        },
-        {
-            "id": 1024,
-            "name": "A man walked 20 m to cross a rectangular field diagonally. If the length of the field is 16 cm. Find the breadth of the field is?, 20= √((16)²+b²) b = 12",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "11 m",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "12 m",
-                    "isAnswer": true
-                },
-                {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "13 m",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "14 m",
-                    "isAnswer": false
-                }
-            ],
-            "questionType": {
-                "id": 1,
-                "name": "Multiple Choice",
-                "isActive": true
-            }
-        },
-        {
-            "id": 1025,
-            "name": "Sides of a rectangular park are in the ratio 3: 2 and its area is 3750 sq m, the cost of fencing it at 50 ps per meter is?, 3x * 2x = 3750 => x = 25, 2(75 + 50) = 250 m 250 * 1/2 = Rs.125",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "Rs.150",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "Rs.100",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "Rs.125",
-                    "isAnswer": true
-                },
-                {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "Rs.175",
-                    "isAnswer": false
-                }
-            ],
-            "questionType": {
-                "id": 1,
-                "name": "Multiple Choice",
-                "isActive": true
-            }
-        },
-        {
-            "id": 1026,
-            "name": "How many paying stones, each measuring 2 1/2 m * 2 m are required to pave a rectangular court yard 30 m long and 16 1/2 m board?, 30 * 33/2 = 5/2 * 2 * x => x = 99",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "99",
-                    "isAnswer": true
-                },
-                {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "90",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "95",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "100",
-                    "isAnswer": false
-                }
-            ],
-            "questionType": {
-                "id": 1,
-                "name": "Multiple Choice",
-                "isActive": true
-            }
-        },
-        {
-            "id": 1027,
-            "name": "Find the number of square tiles to cover the floor of a room measuring 4 m * 9 m leaving 0.25 m space around the room. A side of square tile is given to be 25 cms?, 3 1/2 * 8 1/2 = 1/4 * 1/4 * x => x = 476",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "425",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "476",
-                    "isAnswer": true
-                },
-                {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "450",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "350",
-                    "isAnswer": false
-                }
-            ],
-            "questionType": {
-                "id": 1,
-                "name": "Multiple Choice",
-                "isActive": true
-            }
-        },
-        {
-            "id": 1028,
-            "name": "A rectangular farm has to be fenced one long side, one short side and the diagonal. If the cost of fencing is Rs.10 per meter. The area of farm is 1200 m² and the short side is 30 m long. How much would the job cost? ,l * 30 = 1200 => l = 40 d = √(40)²+(30)² ,40 + 30 + 50 = 120, 120 * 10 = 1200",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "Rs.700",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "Rs.1200",
-                    "isAnswer": true
-                },
-                {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "Rs.1400",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "Rs.1500",
-                    "isAnswer": false
-                }
-            ],
-            "questionType": {
-                "id": 1,
-                "name": "Multiple Choice",
-                "isActive": true
-            }
-        },
-        {
-            "id": 1029,
-            "name": "The length of the rectangular field is double its width. Inside the field there is square shaped pond 8m long. If the area of the pond is 1/8 of the area of the field. What is the length of the field?, A/8 = 8 * 8 => A = 8 * 8 * 8x * 2x = 8 * 8 * 8, x = 16 => 2x = 32",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "31 m",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "32 m",
-                    "isAnswer": true
-                },
-                {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "16 m",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "20 m",
-                    "isAnswer": false
-                }
-            ],
-            "questionType": {
-                "id": 1,
-                "name": "Multiple Choice",
-                "isActive": true
-            }
         }
-    ]
-}
+	]
+}        

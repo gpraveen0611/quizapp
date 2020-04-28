@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Tranformation Test 1",
-    "description": "Practice Transformation Online Test 1",
+    "name": "odd man out Test 1",
+    "description": "Practice add man out Online Test 1",
     "questions": [
         {
             "id": 1010,
-            "name": " You will not recover fast. Refrain from smoking. <br/>a) Unless you recover ----------- <br/>b) If you want to refrain from smoking ----------- <br/>c) Inspite of refraining from -----------",
-			"explanation": "no explanation ",
+            "name": " A boy has nine trousers and 12 shirts. In how many different ways can he select a trouser and a shirt ?",
+            "explanation": "The boy can select one trouser in nine ways.<br> The boy can select one shirt in 12 ways.<br> The number of ways in which he can select one trouser and one shirt is 9 * 12 = 108 ways.<br>.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Only A",
+                    "name": "21",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Only B",
+                    "name": "12",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "A, B & C",
+                    "name": "9",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "None of these",
+                    "name": "108",
                     "isAnswer": true
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "He is rich. He is kind. <br/>a) Although he ----------- <br/>b) Rich as ----------- <br/>c) Inspite of -----------",
-			"explanation": "no explanation",
+            "name": " How many three letter words are formed using the letters of the word TIME ?",
+            "explanation": "The number of letters in the given word is four. <br> The number of three letter words that can be formed using these four letters is ⁴P₃ = 4 * 3 * 2 = 24..",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "Only A",
+                    "name": "12 ",
                     "isAnswer": false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "A & B",
+                    "name": " 20",
                     "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "B & C",
+                    "name": "16 ",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "A, B & C",
+                    "name": "24",
                     "isAnswer": true
                 }
             ],
@@ -79,32 +79,217 @@
         },
         {
             "id": 1012,
-            "name": " He may be innocent. I do not know. <br/>a) I doubt ----------- <br/>b) I do not ----------- <br/>c) That he is ----------",
-			"explanation": "no explanation",
+            "name": "  The number of arrangements that can be made with the letters of the word MEADOWS so that the vowels occupy the even places?",
+            "explanation": "The word MEADOWS has 7 letters of which 3 are vowels.<br> -V-V-V- <br> As the vowels have to occupy even places, they can be arranged in the 3 even places in 3! i.e., 6 ways. While the consonants can be arranged among themselves in the remaining 4 places in 4! i.e., 24 ways.<br>  Hence the total ways are 24 * 6 = 144..",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "Only A",
+                    "name": "720",
                     "isAnswer": false
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "Only C",
-                    "isAnswer": false
+                    "name": "144",
+                    "isAnswer": true
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "A & B",
+                    "name": "120",
                     "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "Only B",
+                    "name": "36",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1013,
+            "name": "  The number of permutations of the letters of the word 'MESMERISE' is_?",
+            "explanation": "n items of which p are alike of one kind, q alike of the other, r alike of another kind and the remaining are distinct can be arranged in a row in n!/p!q!r! ways.<br> The letter pattern 'MESMERISE' consists of 10 letters of which there are 2M's, 3E's, 2S's and 1I and 1R.<br> Number of arrangements = 9!/(2!)² 3!",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": " 9!/(2!)² 3! ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "8!/(2!)² (3!)2 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " 9!/(2!)² (3!)2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": " 5!/(2!)² 3!",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1014,
+            "name": "   A committee has 5 men and 6 women. What are the number of ways of selecting 2 men and 3 women from the given committee?",
+            "explanation": "The number of ways to select two men and three women = ⁵C₂ * ⁶C₃ <br> = (5 *4 )/(2 * 1) * (6 * 5 * 4)/(3 * 2) <br> = 200",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "150 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "200",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "250 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "300",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1015,
+            "name": " What are the number of ways to select 3 men and 2 women such that one man and one woman are always selected ?",
+            "explanation": "The number of ways to select three men and two women such that one man and one woman are always selected = Number of ways selecting two men and one woman from men and five women <br> = ⁴C₂ * ⁵C₁ = (4 * 3)/(2 * 1) * 5 <br> = 30 ways.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "100 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "60",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "30 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "20",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1016,
+            "name": "  A committee has 5 men and 6 women. What are the number of ways of selecting a group of eight persons?",
+            "explanation": "Total number of persons in the committee = 5 + 6 = 11 <br>Number of ways of selecting group of eight persons = ¹¹C₈ = ¹¹C₃ = (11 * 10 * 9)/(3 * 2) = 165 ways. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "165",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "185",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "205",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "2257",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1017,
+            "name": " There are 18 stations between Hyderabad and Bangalore. How many second class tickets have to be printed, so that a passenger can travel from any station to any other station?",
+            "explanation": "The total number of stations = 20 <br> From 20 stations we have to choose any two stations and the direction of travel (i.e., Hyderabad to Bangalore is different from Bangalore to Hyderabad) in ²⁰P₂ ways. <br> ²⁰P₂ = 20 * 19 = 380",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "200",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "190 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "100",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "380 ",
                     "isAnswer": true
                 }
             ],
@@ -114,219 +299,34 @@
                 "isActive": true
             }
         },
-		{
-			"id": 1013,
-            "name": "The thief entered the room. He found it empty. <br/>a) Entering ----------- <br/>b) Although the thief ----------- <br/>c) As soon as -----------",
-			"explanation": "no explanation ",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1067,
-                    "questionId": 1010,
-                    "name": "Only A",
-                    "isAnswer": true
-                },
-                {
-                    "id": 1068,
-                    "questionId": 1010,
-                    "name": "Only B",
-                    "isAnswer": true
-                },
-                {
-                    "id": 1069,
-                    "questionId": 1010,
-                    "name": "Only C",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1070,
-                    "questionId": 1010,
-                    "name": "B & C",
-                    "isAnswer": false
-                }
-            ],
-            "questionType": {
-                "id": 1,
-                "name": "Multiple Choice",
-                "isActive": true
-            }
-		},
-		{
-			"id": 1014,
-            "name": "The boy got his leg badly injured. He was playing hockey. <br/>a) While the boy was ----------- <br/>b) While playing ----------- <br/>c) Since his leg was ----------- ",
-			"explanation": "",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1071,
-                    "questionId": 1010,
-                    "name": "Only A",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1072,
-                    "questionId": 1010,
-                    "name": "Only B",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1073,
-                    "questionId": 1010,
-                    "name": "Only C",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1074,
-                    "questionId": 1010,
-                    "name": "A & B only",
-                    "isAnswer": true
-                }
-            ],
-            "questionType": {
-                "id": 1,
-                "name": "Multiple Choice",
-                "isActive": true
-            }
-		},
-		{
-			"id": 1015,
-            "name": "The Chief Guest arrived. The proceedings of the function began. <br/>a) Having ----------- <br/>b) Only when ----------- <br/>C) The arrival -----------",
-			"explanation": "no explanation",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1075,
-                    "questionId": 1010,
-                    "name": "Only A",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1076,
-                    "questionId": 1010,
-                    "name": "Only B",
-                    "isAnswer": true
-                },
-                {
-                    "id": 1077,
-                    "questionId": 1010,
-                    "name": "Only C",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1078,
-                    "questionId": 1010,
-                    "name": "A & B",
-                    "isAnswer": false
-                }
-            ],
-            "questionType": {
-                "id": 1,
-                "name": "Multiple Choice",
-                "isActive": true
-            }
-		},
-		{
-			"id": 1016,
-            "name": "She is very simple, one cannot see through his plans. <br/>a) She is too ----------- <br/>b) Being very ----------- <br/>c) She is so -----------",
-			"explanation": "no explanation",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1079,
-                    "questionId": 1010,
-                    "name": "Only A",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1080,
-                    "questionId": 1010,
-                    "name": "A, B & C",
-                    "isAnswer": true
-                },
-                {
-                    "id": 1081,
-                    "questionId": 1010,
-                    "name": "Only B",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1082,
-                    "questionId": 1010,
-                    "name": "A & C",
-                    "isAnswer": false
-                }
-            ],
-            "questionType": {
-                "id": 1,
-                "name": "Multiple Choice",
-                "isActive": true
-            }
-		},
-		{
-			"id": 1017,
-            "name": " He is in great troubles. He is cheerful. <br/>a) Besides being ----------- <br/>b) Since he ----------- <br/>c) For all -----------",
-			"explanation": "no explanation",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1083,
-                    "questionId": 1010,
-                    "name": "Only A",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1084,
-                    "questionId": 1010,
-                    "name": "Only B",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1085,
-                    "questionId": 1010,
-                    "name": "Only C",
-                    "isAnswer": true
-                },
-                {
-                    "id": 1086,
-                    "questionId": 1010,
-                    "name": "A & B",
-                    "isAnswer": false
-                }
-            ],
-            "questionType": {
-                "id": 1,
-                "name": "Multiple Choice",
-                "isActive": true
-            }
-		},
-		{
-			"id": 1018,
-            "name": "He made a promise. He kept it. <br/>a) Making ----------- <br/>b) He not only ----------- <br/>c) Besides making -----------",
-			"explanation": "no explanation  ",
+        {
+            "id": 1018,
+            "name": " A letter lock consists of three rings each marked with six different letters. The number of distinct unsuccessful attempts to open the lock is at the most?",
+            "explanation": "Since each ring consists of six different letters, the total number of attempts possible with the three rings is = 6 * 6 * 6 = 216. Of these attempts, one of them is a successful attempt.<br> Maximum number of unsuccessful attempts = 216 - 1 = 215.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "A & B",
+                    "name": "216",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "B & C",
-                    "isAnswer": true
+                    "name": "243",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "A, B & C",
-                    "isAnswer": false
+                    "name": "215",
+                    "isAnswer": true
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "Only A",
+                    "name": " 729 ",
                     "isAnswer": false
                 }
             ],
@@ -335,36 +335,36 @@
                 "name": "Multiple Choice",
                 "isActive": true
             }
-		},
-		{
-			"id": 1019,
-            "name": "He worked hard. He did not succeed. <br/>a) Although he ----------- <br/>b) Notwithstanding ----------- <br/>c) Besides working -----------",
-			"explanation": "no explanation",
+        },
+        {
+            "id": 1019,
+            "name": "Four of the following five are alike in a certain way and so form a group. Which is the one that does not belong to that group?/",
+            "explanation": "",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "Only A",
-                    "isAnswer": false
+                    "name": " Tyre ",
+                    "isAnswer":false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Only B",
-                    "isAnswer": false
+                    "name": "Speed",
+                    "isAnswer": true
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Only C",
+                    "name": "Clutch ",
                     "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "A & B",
-                    "isAnswer": true
+                    "name": " Brake ",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -372,6 +372,6 @@
                 "name": "Multiple Choice",
                 "isActive": true
             }
-		}
+        }
     ]
 }
