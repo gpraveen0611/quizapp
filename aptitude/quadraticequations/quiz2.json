@@ -5,7 +5,7 @@
     "questions": [
         {
             "id": 1010,
-            "name": "Find the roots of the quadratic equation: 2x2 + 3x - 9 = 0?",
+            "name": "Find the roots of the quadratic equation: 2x<sup>2</sup> + 3x - 9 = 0?",
 			"explanation": "2x2 + 6x - 3x - 9 = 0 <br>2x(x + 3) - 3(x + 3) = 0<br>(x + 3)(2x - 3) = 0<br>=> x = -3 or x = 3/2.",
             "questionTypeId": 1,
             "options": [
@@ -117,7 +117,7 @@
         },
 		{
 			"id": 1013,
-            "name": "Solve for x: x2-3x-10 = 0",
+            "name": "Solve for x: x<sup>2</sup>-3x-10 = 0",
 			"explanation": "Let us express -3x as a sum of -5x and +2x.<br>x2-5x+2x-10 = 0<br>x(x-5)+2(x-5) = 0<br>(x-5)(x+2) = 0<br>x-5 = 0 or x+2 = 0<br>x = 5 or x = -2",
             "questionTypeId": 1,
             "options": [
@@ -191,8 +191,7 @@
 		},
 		{
 			"id": 1015,
-            "name": " I. 3x2 – 5x – 12 = 0,
-            II. 3y2 – 8y – 16 = 0",
+            "name": " I. 3x2 – 5x – 12 = 0, II. 3y2 – 8y – 16 = 0",
 			"explanation": "x = -4/3, 3 <br>y = -4/3, 4<br>Put all values on number line and analyze the relationship<br>-4/3…….. 3……..4",
             "questionTypeId": 1,
             "options": [
