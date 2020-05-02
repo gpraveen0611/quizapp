@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Logical Problems Test 1",
+    "description": "Practice  Logical Problems Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Five children are sitting in a row. S is sitting next to P but not T. K is sitting next to R who is sitting on the extreme left and T is not sitting next to K. Who are sitting adjacent to S?",
+			"explanation": "S is sitting next to P . So the order S,P or P,S is followed. K is sitting next to R.So, the order R, K is followed because R is on the extreme left. T is not next to P or K.<br>So the arrangement will be R, K,P,S,T. Clearly, P and T are sitting adjacent to S.   ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "K & P",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " R & P",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Only P ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": " P and T",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": " In a family, there are husband-wife, two sons and two daughters. All the ladies were invited to a dinner. Both sons went out to play. Husband did not return from office. Who was at home?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Only wife was at home",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Nobody was at home",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Only sons were at home",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "All ladies were at home ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Fact 1: All chickens are birds.<br>Fact 2: Some chickens are hens.<br>Fact 3: Female birds lay eggs.<br><br> If the first three statements are facts, which of the following statements must also be a fact? <br><br>I.All birds lay eggs.<br>II.Hens are birds.<br>III.Some chickens are not hens. ",
+			"explanation": "The first statement cannot be true because only female birds lay eggs.Statement II is true because hens are chickens and chickens are birds.Statement III is also true because if only some chickens are hens, then some must not be hens.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "I only",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "II only ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": " II and III only",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "None of the statements is a known fact.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": " In Arun opinion, his weight is greater than 65 kg but less than 72 kg. His brother doesn't agree with Arun and he thinks that Aruns weight is greater than 60 kg but less than 70 kg. His mother's view is that his weight cannot be greater than 68 kg. If all are them are correct in their estimation, what is the average of different probable weights of Arun?",
+			"explanation": "If all are correct the weight should be 66 or 67. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": " 67 kg  ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": " 68 kg",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " 69 kg ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "  69 kg",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Blueberries cost more than strawberries.<br>Blueberries cost less than raspberries.<br> Raspberries cost more than strawberries and blueberries<br><br>If the first two statements are true, the third statement is",
+			"explanation": "Because the first two statements are true, raspberries are the most expensive of the three.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "true",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "false",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "uncertain",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "None",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Based on the following statements, which is the correct conclusion drawn.<br><br>Only gentlemen can become members of the club. Many of the members of the club are officers. Some of the officers have been invited for dinner. ",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "All the members of the club have been invited for dinner",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Some of the officers are not gentlemen ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "All gentlemen are members of the club ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Only gentlemen have been invited for dinner",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": " Nikhil gets Rs.250 from his parents every week for his expenses. He puts Rs.5 in his piggy bank on everyday except Sunday when he puts Rs.10 in the piggy bank.He eats subsidized lunch in the college canteen for Rs. 10 on all college days except Saturday when he treats himself to the special lunch for Rs.25. Bus fare to college is Rs.4 each way.He has got a holiday on Sunday. This week, Nikhil wants to buy a book which costs Rs.100. For this, he was walking to and from the college He is left with Rs.3 after buying the book. Assuming no other expenses, how many times did Nikhil walk this week?  ",
+			"explanation": "40 goes into the piggy bank leaving Rs.210 for expenses. Normal expense on lunch is Rs.75 and on bus Rs.48, leaving Rs.87. Nikhil is short of Rs.13 for the book.<br> if he saves bus fares, he must walk four times saving Rs.16, and then he is left with Rs.3 after buying the book. Hence option c.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "2",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "4",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "5",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "All the trees in the park are flowering trees<br>Some of the trees in the park are dogwoods<br>All dogwoods in the park are flowering trees<br><br>If the first two statements are true, the third statement is",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " true ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "false  ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "uncertain",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "None",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "The day after the day after tomorrow is four days before Monday. What day is it today?",
+			"explanation": "our days before Monday is Thursday, simply because four days after Thursday is Monday.Besides, day after the day after tomorrow is Thursday only if present day is Monday.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "Monday",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "Tuesday",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "Wednesday",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "Thursday   ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "A man has 53 socks in his drawer: 21 identical blue, 15 identical black and 17 identical red. The lights are fused and he is completely in the dark. How many socks must he take out to make 100 percent certain he has a pair of black socks?",
+			"explanation": "If he takes out 38 socks, although it is very unlikely, it is possible they could all be blue and red. To make 100 percent certain that he also has a pair of black socks he must take out a further two socks.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "30 Socks ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "25 Socks",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "55 Socks",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "40 Socks",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

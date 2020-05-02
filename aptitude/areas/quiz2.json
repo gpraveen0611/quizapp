@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Areas Quiz Test 1",
+    "description": "Practice Areas Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "The ratio between the length and the breadth of a rectangular park is 3: 2. If a man cycling along the boundary of the park at the speed of 12 km/hr completes one round in 8 minutes, then the area of the park (in sq. m) is:",
+			"explanation": "Perimeter = Distance covered in 8 min. =12000x 8m = 1600 m. <br> Let length = 3x metres and breadth = 2x metres. <br> Then, 2(3x + 2x) = 1600 or x = 160. <br> Length = 480 m and Breadth = 320 m. <br> Area = (480 x 320) m2 = 153600 m2.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "15360",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "153600",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "30720",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "307200",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "The percentage increase in the area of a rectangle, if each of its sides is increased by 20% is:",
+			"explanation": "Let original length = x metres and original breadth = y metres.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "32%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "34%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "42%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "44%",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "What will be the cost of gardening 1-meter boundary around a rectangular plot having a perimeter of 340 meters at the rate of Rs. 10 per square meter?",
+			"explanation": "In this question, we are having a perimeter. <br>We know Perimeter = 2(l+b), right <br> So, <br> 2(l+b) = 340 <br>As we have to make 1 meter boundary around this, so<br> Area of boundary = ((l+2)+(b+2)-lb) <br> = 2(l+b)+4 = 340+4 = 344<br> So required cost will be = 344 * 10 = 3440",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Rs. 3430",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "3440",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "3450",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "3460",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "The sides of a rectangle are in the ratio of 6: 5 and its area is 1331 sq.m. Find the perimeter of a rectangle.",
+			"explanation": "Let 6x and 5x be sides of the rectangle <br> 6x × 5x = 1331 <br>11x2 = 1331 <br> x2 = 1331/11 = 121 => x = 11 <br> Length = 6x = 6 × 11 = 66 <br> Breadth = 5x => 5 × 11 = 55 <br> Perimeter = 2 (l+b) => 2 (66+55) = 121 m",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "120 m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "121cm",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "121m",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "None of These",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "The sides of a rectangle are in the ratio 4:3 and its area is 972sq.m find the perimeter of the rectangle?",
+			"explanation": "let 4x and 3x be sides of the rectangle <br>We know that area of rectangle = l×b <br> 4x × 3x = 972 <br> 12x2 = 972 <br> X2 = 81 <br>X = 9     Therefore length = 4x = 4×9 = 36m <br> Breadth = 3x = 3×9 = 27m <br>Therefore perimeter = 2 (l+b) = 2(36+27) = 126m",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "120m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "122m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "124m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "126m",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "If the length and breadth of a rectangular room are each increased by 1 m, then the area of floor is increased by 21 sq. m. If the length is increased by 1 m and breadth is decreased by 1 m, then the area is decreased by 5 sq. m. The perimeter of the floor is :",
+			"explanation": "Let length = x metres and breadth = y metres. <br> Then,(x+ 1) (y + 1) - xy = 21 <br> => x + y = 20 ...(i) <br> And, xy - [(x + 1)(y- 1)] = 5 <br> <=> x - y = 6 ...(ii) <br> Solving (i) and (ii), we get : x = 13 and y = 7. <br> So, length = 13 m and breadth = 7 m. <br> Perimeter = [2 (13 + 7)] m = 40 m.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "30m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "32m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "36m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "40m",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A metallic sheet is of rectangular shape with dimensions 48 m x 36 m. From each of its corners, a square is cut off so as to make an open box. If the length of the square is 8 m, the volume of the box (in m3) is:",
+			"explanation": "Clearly, l = (48 – 16)m = 32 m,<br>b = (36 -16)m = 20 m,<br> h = 8 m. <br> Volume of the box = (32 x 20 x 8) Cu.m = 5120 Cu.m.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "4830",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "5120",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "6420",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "8960",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "In two triangle, the ratio of the areas is 4:3 and that of their heights is 3:4 the ratio of their bases is",
+			"explanation": "Given a1/a2 =4/3, h1/h2=3/4 <br>also, we know that <br> a1/a2=(1/2×b1×h1)/(1/2×b2×h2)<br> on substituting in above equation, we get <br> b1/b2= 16/9 <br> therefore b1:b2= 16:9",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "16:9  ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": " 9:16 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "9:12",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "16:12",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Area of four walls of a room is 99 m2. The length and breadth of the room are 7.5 m and 3.5m respectively. The height of the room is:",
+			"explanation": "2(7.5+3.5)×h = 99 <br>2(11)h = 99 <br> 22h = 99 <br> h = 99/22 = 9/2 = 4.5 m",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "4.5 Cm",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "5.5 m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "4.5 m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "5.5 Cm",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "The difference between the length and breadth of a rectangle is 23 m. If its perimeter is 206 m, then its area is:",
+			"explanation": "We have: (l - b) = 23 and 2(l + b) = 206 or (l + b) = 103. <br>Solving the two equations, we get l = 63 and b = 40.<br>Area = (l x b) = (63 x 40) = 2520 sq.m",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "2520",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "2420",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "2320",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "2620",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

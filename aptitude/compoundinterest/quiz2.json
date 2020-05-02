@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Compound Interest Quiz Test 1",
+    "description": "Practice Compound Interest Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Find compound interest on Rs. 8000 at 15% per annum for 2 years 4 months, compounded annually",
+			"explanation": "Time = 2 years 4 months = 2(4/12) years = 2(1/3) years.<br>Amount = Rs'. [8000 X (1+(15/100))^2 X (1+((1/3)*15)/100)]<br>=Rs. [8000 * (23/20) * (23/20) * (21/20)]<br>= Rs. 11109. .<br>:. C.I. = Rs. (11109 - 8000) = Rs. 3109.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "2109",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "3109",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "4109",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "6109",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Find the compound interest on Rs. 7500 at 4% per annum for 2 years, compounded annually.",
+			"explanation": "Amount=[7500×(1+4/100)2]=(7500×26/25×26/25)=8112",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Rs. 610",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Rs. 612",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Rs. 614",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Rs. 616",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "The simple interest on a sum of money for 3 years at 6²/3 % per annum is $ 6750. What will be the compound interest on the same sum at the same rate for the same period, compounded annually? ",
+			"explanation": "Given, SI = $ 6750, R = 203% p.a. and T = 3 years.<br>sum = 100 × SI / R × T<br>= $ (100 × 6750 × ³/20 × 1/3 ) = $ 33750.<br>Now, P = $ 33750, R = 203% p.a. and T = 3 years.<br>Therefore, amount after 3 years<br>= $ {33750 × (1 + (20/3 × 100)}³ [using A = P (1 + R/100)]<br>= $ (33750 × 16/15 × 16/15 × 16/15) = $ 40960<br>Thus, amount = $ 40960<br>Hence, compound interest = $ (40960 - 33750) = $ 7210",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "8125",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "6655",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "4496",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "7210",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "If a sum of Rs.8000 lended for 20% per annum at compound interest then the sum of the amount will be Rs.13824 in:",
+			"explanation": "Let Principal = P, Rate = R% per annum, Time = n years.<br>When interest is compounded Annually total amount can be calculated by using the formula,<br>Total Amount = P(1 + R/100)n<br>Given that, P = Rs.8000, R = 20% per annum<br>We have to find the time period during which the amount will be Rs.13824<br>i.e., Rs.13824 = 8000 x (1 + 20/100)^n<br>13824/8000 = (120/100)n<br>(24/20)^3 = (12/10)n<br>(12/10)^3 = (12/10)n<br>Therefore, n = 3.<br>Hence the required time period is 3 years.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "2 years",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "3 years",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "1 years",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "4 years",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "In what time will Rs. 1000 become Rs. 1331 at 10% per annum compounded annually?",
+			"explanation": "Principal = Rs. 1000; Amount = Rs. 1331; Rate = 10% p.a. Let the time be n years.<br>Then, [ 1000 (1+ (10/100))n ] = 1331 or (11/10)n = (1331/1000) = (11/10)3<br>n = 3 years.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "1 year",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "4 year",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "3 year",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "6 year",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "What is the difference between the compound interests on Rs. 5000 for 11/2 years at 4% per annum compounded yearly and half-yearly?",
+			"explanation": "Amount after 11/2 years when interest is compounded yearly<br>=5000×(1+4/100)^1×(1+(1/2×4)/100)<br>= 5000×104/100× (1+2/100)<br>=5000×104/100×102/100<br>=50×104×51/50<br>=104×51=Rs. 5304<br>Compound Interest for 1 1/2 years when interest is compounded yearly = Rs.(5304 - 5000)<br>Amount after 11/2 years when interest is compounded half-yearly<br>=P(1+(R/2)/100)^2T=5000(1+(4/2)/100)^2×32<br>=5000(1+2/100)3<br>=5000(102/100)3<br>=5000(102/100)(102/100)(102/100)<br>=50×102×51/50×51/50=102×51×51/50=51×51×51/25=Rs. 5306.04<br>Compound Interest for 1 1/2 years when interest is compounded half-yearly = Rs.(5306.04 - 5000)<br>Difference in the compound interests = (5306.04 - 5000) - (5304 - 5000) = 5306.04 - 5304 = Rs. 2.04",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Rs. 2.04",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Rs. 4.80",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Rs. 3.06 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Rs. 8.30",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "What would be the compound interest on Rs.7700/- at 15 ¼% per annum for 2 years compounded annually",
+			"explanation": "Principal = Rs. 7700/- <br>time = 2 years<br>rate = 15 ¼%<br>Amount = P(1+R/100)n<br>= 7700 × (1 + 61/(4 × 100)2)<br>= 7700 × [(1 + 61/400)2]<br>= 7700 × [(461/400)2)]<br>= 7700 × 461/400 × 461/400<br>= 7700 × 1.1525 × 1.1525<br>= 7700 × 1.32825625<br>= 10227.573125<br>C.I = 10227.573125 - 7700 = 2527.57/-",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Rs.2725.75/-",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Rs.2527.57/-",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Rs.2227.57/-",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Rs.2520.57/-",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "There is 80% increase in an amount in 8 years at simple interest. What will be the compound interest of 80% increase in an amount in 8 years at simple interest? What will be the compound interest of Rs. 14,000 after 3 years at the same rate?",
+			"explanation": "Let P = Rs.100<br>Simple Interest = Rs. 80 ( ? 80% increase is due to the simple interest)<br>Rate of interest=(100×SI)/PT=(100×80)/(100×8) =10% per annum<br>Now let's find out the compound interest of Rs. 14,000 after 3 years at 10%<br>P = Rs.14000<br>T = 3 years<br>R = 10%<br>Amount after 3 years =P(1+R/100)^T<br>=14000(1+10/100)^3<br>=14000(110/100)^3<br>=14000(11/10)^3<br>=14×11^3=18634.<br>Compound Interest = Rs.18634 - Rs.14000 = Rs.4634",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " Rs.3794 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Rs.3714",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Rs.4612",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "Rs.4634",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "The compound interest on Rs. 30,000 at 7% per annum is Rs. 4347. The period (in years) is:",
+			"explanation": "Amount = Rs. (30000 + 4347) = Rs. 34347<br>Let the time be n years.<br>Then, 30000(1 +7n/100)= 34347<br>(107/100)^ n=34347/30000=11449/10000= (107/100)^2<br>n = 2 years",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "2",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "2 1/2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "4",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " 3 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "You have an investment proposition in front of you where you would invest 100 dollars in a project and after 2 years you can sell the investment. You would earn 5% paid annually OR you can receive the interest quarterly. Which one should you go for?",
+			"explanation": "It is better to receive the interest quarterly as then you are receiving money more frequently and can reinvest that right away after quarter 1 instead of waiting the full year and then reinvest.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "annually as you receive more in one go ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "makes no difference as the investment is the same",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "quarterly as you receive more",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "depends on future interest rate variations",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

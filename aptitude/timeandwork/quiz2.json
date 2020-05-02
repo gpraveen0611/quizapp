@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Time and Work Quiz Test 1",
+    "description": "Practice Time and Work Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Worker A takes 8 hours to do a job. Worker B takes 10 hours to do a job. How long should it take both A and B, working together to do the same job?",
+			"explanation": "In this type of questions, first we need to calculate 1 hours work, then their collective work as A's 1-hour work is 1/8<br>B's 1-hour work is 1/10<br>(A+B)'s 1 hour work = 1/8 + 1/10= 9/40<br>So both will finish the work in 40/9 hours=4 4/9",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "4/9",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "2 4/9",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "3 4/9",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "4 4/9",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Two pipes can fill the cistern in 10hr and 12 hr respectively, while the third empty it in 20hr. If all pipes are opened simultaneously, then the cistern will be filled in",
+			"explanation": "Work done by all the tanks working together in 1 hour.<br>110+112-120=215<br>Hence, a tank will be filled in 152 = 7.5 hour",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "7.5 hr",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "8 hr",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "8.5 hr",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "10 hr",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?",
+			"explanation": "C's 1 day's work =1/3-1/6+1/8=1/3-7/24=1/24.<br>A's wages : B's wages : C's wages =1/6:1/8:1/24= 4 : 3 : 1.<br>C's share (for 3 days) = Rs.(3 x1/24x 3200) = Rs. 400.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Rs. 375",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": " Rs. 400",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Rs. 600",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Rs. 800",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "A and B can do a piece of work in 4 days, while C and D can do the same work in 12 days. In how many days will A, B, C and D do it together?",
+			"explanation": "A, B, C and D will together take ¼ + 1/12 = 4/12 = 1/3 ? 3 days to complete the work.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "12 days",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "4 days",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "3 days",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "2 Days",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "A and B can together complete a piece of work in 4 days. If A alone can complete the same work in 12 days, in how many days can B alone complete that work?",
+			"explanation": "(A+B)'s 1 day work = 1/4<br>A's 1 day work = 1/12<br>B's 1 day work = (1/4-1/12)=3-1/12=1/6.<br>So B alone can complete the work in 6 days",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "4 days",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "5 days",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "6 days",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "7 days",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "A completes a work in 12 days and B complete the same work in 24 days. If both of them work together, then the number of days required to complete the work will be",
+			"explanation": "If A can complete a work in x days and B can complete the same work in y days, then, <br>both of them together can complete the work in x y/ x+ y days<br>Therefore, here, the required number of days = 12 × 24/ 36 = 8 days.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "8 days",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "5 days",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "6 days",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "7 days",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A is twice as good a workman as B and is therefore able to finish a piece of work in 30 days less than B.In how many days they can complee the whole work; working together?",
+			"explanation": "Ratio of times taken by A and B = 1 : 2.<br>The time difference is (2 - 1) 1 day while B take 2 days and A takes 1 day.<br>If difference of time is 1 day, B takes 2 days.<br>If difference of time is 30 days, B takes 2 x 30 = 60 days.<br>So, A takes 30 days to do the work.<br>A's 1 day's work = 1/30<br>B's 1 day's work = 1/60<br>(A + B)'s 1 day's work = 1/30 + 1/60 = 1/20<br>A and B together can do the work in 20 days.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "10 Days",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "20 Days",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "30 Days",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "40 Days",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Anil and Babu can do a job in 8 days. Babu and Charan can do the same job in 12 days. Anil, Babu, and Charan can do the job in 6 days. In how many days Anil and Charan can complete the job?",
+			"explanation": "Anil and Babu can do a job in 8 days<br>Combined efficiency of Anil + Babu = 100/8 = 12.5% ……………………………………(1)<br>Similarly, combined efficiency of Babu + Charan = 100/12 = 8.33%……………………..(2)<br>Similarly, combined efficiency of Anil + Babu + Charan = 100/6 = 16.66%……………..(3)<br>So now, if we want to calculate the efficiency of Anil and Charan together, we need to first calculate the individual efficiency of Anil and Charan.<br>So we first deduct equation 1 from equation 3 to get efficiency of Charan. Then we deduct equation 2 from equation 3 we will get efficiency of Anil.<br>Let’s calculate the efficiency of Charan = (Anil + Babu + Charan) – (Anil + Babu) = 16.66 – 12.5 = 4.16%<br>In the same way, we calculate the efficiency of Anil = 16.66 – 8.33 = 8.33%<br>So, combined efficiency of Anil and Charan = 8.33% + 4.16% ˜ 12.5%<br>They need = 100/12.5 = 8 days.<br>So they can complete the job in 8 days.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "6 days",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": " 8 days ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "10 days",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "12 days",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Shush and Komal can do a job together in 7 days. Shush is 7/4 times as efficient as Komal. The same job can be done by Shush alone in",
+			"explanation": "Ratio of efficiency of Shush and Komal = 1:7/4 = 4:7<br>As the time taken is inversely proportional to efficiency, therefore, if Komal takes 7x days to complete work, Asha will take 4x days.<br>Therefore 1/7x + 1/4x = 1/7 => (4+7)/28x = 1/7<br>=> 28x = 11 × 7<br>Therefore x = {(11×7)/28} = 11/4<br>Shush will complete the work in 4x = 4 (11/4) = 11 days.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "49/4 days",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "49/3 days",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "1 days",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "28/3 days",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "A and B together can complete a task in 20 days. B and C together can complete the same task in 30 days. A and C together can complete the same task in 30 days. What is the respective ratio of the number of days taken by A when completing the same task alone to the number of days taken by C when completing the same task alone?",
+			"explanation": "Efficiency of A and B = 1/20 per day = 5% per day ________________1<br>Efficiency of B and C = 1/30 per day = 3.33% per day______________2<br>Efficiency of C and A = 1/30 per day = 3.33% per day______________3<br>Taking equation 2 and 3 together<br>B + C = 3.33% and C + A = 3.33%<br>C and 3.33% will be removed. Hence A = B<br>Efficiency of A = B = 5%/2 = 2.5% = 1/40<br>Efficiency of C = 3.33% - 2.5% = 0.833% = 1/120<br>A can do the job in 40 days and C can do the job in 120 days he they work alone.<br>Ratio of number of days in which A and C can complete the job 1:3.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "1:3",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "2:4",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "3:1",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "4:5",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Averages Quiz Test 1",
+    "description": "Practice Averages Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "The average of runs of a cricket player of 10 innings was 32. How many runs must he make in his next innings so as to increase his average of runs by 4?",
+			"explanation": "Average = total runs / no.of innings = 32<br>So, total = Average x no.of innings = 32 x 10 = 320.<br>Now increase in avg = 4runs. So, new avg = 32+4 = 36runs<br>Total runs = new avg x new no. of innings = 36 x 11 = 396<br>Runs made in the 11th inning = 396 - 320 = 76",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "76",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "79",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "85",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "87",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Average of all prime numbers between 30 to 50",
+			"explanation": "Prime numbers between 30 and 50 are:<br>31, 37, 41, 43, 47<br>Average of prime numbers between 30 to 50 will be<br>((31+37+41+43+47)/5)=199/5=39.8",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "37",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "37.8",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "39",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "39.8",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "The captain of a cricket team of 11 members is 26 years old and the wicketkeeper is 3 years older. If the ages of these two are excluded, the average age of the remaining players is one year less than the average age of the whole team. What is the average age of the team?",
+			"explanation": "Let the average age of the whole team by x years.<br>11x – (26 + 29) = 9(x -1)<br>11x – 9x = 46<br>2x = 46<br>x = 23.<br><br>So, average age of the team is 23 years.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "24 years",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": " 23 years",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "25 years",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Average of 10 matches is 32, How many runs one should score to increase his average by 4 runs.",
+			"explanation": "Average after 11 innings should be 36<br><br>So, Required score = (11 * 36) - (10 * 32)= 396 - 320 = 76",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "76 ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "70",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "78",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "80 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "There are 36 boys and 44 girls in a class. The average score of boys is 40 points and girls is 35 points. Then what will be the average score of the class?",
+			"explanation": "Average score of 36 boys = 40 points<br>Total score of 36 boys = 36 x 40 = 1440<br>Average score of 44 girls = 35 points<br>Total score of 44 girls = 35 x 44 = 1540<br>Total score of(36+44)80 Students = 1440 + 1540 = 2980 points<br>Average score of the whole class = (2980 / 80) = 37.25<br>Hence the required answer is 37.25 points.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "35.5 points",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "37.25 points",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "28.95 points",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "40.04 points",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "The mean weight of a group of seven boys is 56 kg. The individual weights (in kg) of six of them are 52, 57, 55, 60, 59 and 55. Find the weight of the seventh boy.",
+			"explanation": "Mean weight of 7 boys = 56 kg.<br>Total weight of 7 boys = (56 × 7) kg = 392 kg.<br>Total weight of 6 boys = (52 + 57 + 55 + 60 + 59 + 55) kg= 338 kg.<br>Weight of the 7th boy = (total weight of 7 boys) - (total weight of 6 boys)<br>= (392 - 338) kg = 54 kg.<br>Hence, the weight of the seventh boy is 54 kg.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "64",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "88",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "28",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "54",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Average weight of 25 boys in a class is 48 kgs. The average weight of the class of 40 students is 45 kgs. What is the average weight of the 15 girls in the class?",
+			"explanation": "Total weight of boys in the class = 25 *48 = 1200 kgs<br>Total weight of all students in the class = 45 * 40 = 1800 kgs<br>Total weight of the girls in the class = 1800 - 1200 = 600 kgs<br>Average weight of girls = 600/15 = 40 kgs<br>Correct answer choice (3)",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "40 kgs",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "44 kgs",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "42 kgs",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "39 kgs",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Average of 16 numbers is 8. If 2 is added to every number, the new average will be:",
+			"explanation": "Average of 16 numbers = 8<br>Thus, total of 16 numbers = 16 * 8 = 128<br>When 2 is added to every number then total of 16 numbers increases by 16 * 2 = 32<br>Thus, new total of 16 numbers = 128 + 32 = 160<br>New average of 16 numbers = 160 / 16 = 10",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " 10 ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": " 13 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "9",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "8",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "In the first 10 overs of a cricket game, the run rate was only 3.2. What should be the run rate in the remaining 40 overs to reach the target of 282 runs?",
+			"explanation": "Runs scored in the first 10 overs = 10 × 3.2 = 32<br>Total runs = 282<br>Remaining runs to be scored = 282 - 32 = 250<br>Remaining overs = 40<br>Run rate needed = 250/40=6.25",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "6.25",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "5.5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "7.4",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "5",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "The average weight of 15 girls in a group is 24 kg when a new girl included the average weight increases by 2. What is the weight of the new girl?",
+			"explanation": "Average weight of 15 girls = 24 kg<br>Total weight of 15 girls = 24 x 15 = 360 kg<br>Average after including a new girl = 24 + 2 = 26 kg<br>Total weight of 16 girls = 26 x 16 = 416 kg<br>Weight of the new girl = Total weight of 16 girls - Total weight of 15 girls<br><br>= 416 - 360 = 56 kg. Hence the required answer is 56 kg.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "28 kg",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "34 kg",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "56 kg",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

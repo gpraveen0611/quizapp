@@ -1,0 +1,379 @@
+{
+    "id": 1,
+    "name": "Time and Distance Quiz Test 1",
+    "description": "Practice Time and Distance Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
+			"explanation": "Speed = 600/ 5 x 60 m/sec. = 2 m/sec. = 2 x 18/5km/hr =7.2 km/hr",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "3.6",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "7.2",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "8.4",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "An aeroplane covers a certain distance at a speed of 240 kmph in 5 hours. To cover the same distance in 1 hours, it must travel at a speed of:",
+			"explanation": "Distance = (240 x 5) = 1200 km. <br> Speed = Distance/Time <br> Speed = 1200/(5/3) km/hr. <br> Required speed = 1200 x 3/5km/hr = 720 km/hr.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "300kmph",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "360kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "600",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "720",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A car covers its journey at the speed of 80km/hr in 10hours. If the same distance is to be covered in 4 hours, by how much the speed of car will have to increase?",
+			"explanation": "Initial speed = 80km/hr <br> Total distance = 80 * 10 = 800km <br> new speed = 800/4 =200km/hr <br> Increase in speed = 200 - 80 = 120km/hr",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "40km/hr",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "60km/hr ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "90km/hr",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "120km/hr",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "A person walking at 4 Kmph reaches his office 8 minutes late. If he walks at 6 Kmph, he reaches there 8 minutes earlier. How far is the office from his house?
+            ",
+			"explanation": "S1×S2/S2-S1 × T1+T2/60 <br> = 4×6/2 × 16/6 <br> = 24/2 × 16/60 <br> = 8 × 2/5 <br> = 16/5 = 3 1/5 Km ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "3 1/5 Km",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "2 1/5 Km",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "4 1/5 Km ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "5 1/5 Km ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "An express train travelled at an average speed of 100 km/hr, stopping for 3 minutes after every 75 km. How long did it take to reach its destination 600 km from the starting point?",
+			"explanation": "Time taken to cover 600 km = (600/100)hrs =6 hrs. <br> Number of stoppages = 600/75 - 1 =7. <br> Total Time of stoppages= (3 x 7)min=21 min. <br> Hence, total time taken=6 hrs 21 min.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "6 hrs 27 min",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "6 hrs 24 min",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "6 hrs 21 min",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "6 hrs 30 min",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Two trains starting at the same time from 2 stations 200 km apart and going in opposite direction cross each other at a distance of 110 km from one of the stations. What is the ratio of their speeds?",
+			"explanation": "In the same time, they cover 110 km and 90 km respectively. <br> For the same time, speed and distance is inversely proportional. <br> So ratio of their speed = 110:90 = 11: 9",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "11:9",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "7:3 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "18:4",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": " Walking at the rate of 4 kmph a man cover a certain distance in 2 hr 45 min. Running at a speed of 16.5 kmph the man will cover the same distance in. ",
+			"explanation": "Distance = Speed × time <br> Here time = 2hr 45 min = 11/4 hr <br> Distance = 4×11/4=11 km <br> New Speed =16.5 kmph <br> Therefore time = D/S=11/16.5=40 min ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "12 min",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "40 min",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "50 min",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "60 min",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Walking 6/7th of his usual speed, a man is 12 minutes too late. What is the usual time taken by him to cover that distance?",
+			"explanation": "New speed =6/7 of usual speed <br> Speed and time are inversely proportional.<br>Hence new time =7/6 of usual time <br>Hence, 7/6 of usual time - usual time =12 minutes <br> ⇒1/6 of usual time =12 minutes <br>Therefore, usual time =12×6=72 minutes=1 hour 12 minutes",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "1 hr 42 min  ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": " 1 hr ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "2 hr",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "1 hr 12 min",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "The speed of a car increases by 2 kms after every one hour. If the distance travelling in the first one hour was 35 kms. what was the total distance travelled in 12 hours?",
+			"explanation": "Total distance travelled in 12 hours =(35+37+39+.....upto 12 terms)<br> This is an A.P with first term, a=35, number of terms,<br> n= 12,d=2.<br> Required distance = 12/2[2 x 35+{12-1) x 2]<br> =6(70+23) <br> = 552 kms.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "456 km",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "482 km",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "558 km",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "552 km",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "A runner can complete a 750 m race in two and a half minutes. Will he be able to beat another runner who runs at 17.95 km/hr?",
+			"explanation": "We are given that the first runner can complete a 750 m race in 2 minutes and 30 seconds or 150 seconds. <br> => Speed of the first runner = 750 / 150 = 5 m / sec <br> We convert this speed to km/hr by multiplying it by 18/5. <br> => Speed of the first runner = 18 km / hr <br> Also, we are given that the speed of the second runner is 17.95 km/hr. <br> Therefore, the first runner can beat the second runner.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Yes",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "No",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Insufficient Data",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "None",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

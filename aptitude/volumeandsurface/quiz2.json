@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Volume and Surface Area Quiz Test 1",
+    "description": "Practice Volume and Surface Area Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A hall is 15 m long and 12 m broad. If the sum of the areas of the floor and the ceiling is equal to the sum of the areas of four walls, the volume of the hall is:",
+			"explanation": "2(15 + 12) x h = 2(15 x 12)<br>h =180/27m =20/3m.<br>Volume = (15 x 12 x 20/3) m3= 1200 m3.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "720",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "900",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "1200",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "1800",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "A cylindrical jar of radius 15 cm is filled with water up to a height of 25 cm. 15 spherical balls of radii 2 cm each are immersed in the jar. Find the new level to which water is filled in the jar. [Take π = 3.]",
+			"explanation": "Volume of one sphere = 4 / 3× 3 × (23) = 32 cm3<br>[Volume of the sphere = 4 / 3π (r3).]<br>Volume of 15 spheres = 15 × 32 = 480 cm3<br>[Multiply.]<br>Volume of water in the jar = 3 × (152) × 25 = 16875 cm3<br>[Volume of the cylinder = π (r2) h.]<br>Total volume of water + balls(V) ⇒ 480 + 16875 = 17355 cm3<br>[Simplify.]<br>Volume of the water in the cylinder when spherical balls are immersed = 17355 cm3<br>⇒ 3 × (15)2 h = 17355 cm3<br>Height to which water is filled in the jar ⇒ 173553 × (15)² = 25.71 cm",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "25.71 cm",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "32.71 cm",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "27.71 cm",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "30.71 cm",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "50 men took a dip in a water tank 40 m long and 20 m broad on a religious day. If the average displacement of water by a man is 4 m3, then the rise in the water level in the tank will be:",
+			"explanation": "Total volume of water displaced = (4 x 50) m3 = 200 m3<br>Rise in water level = (200/40 x 20) m 0.25 m = 25 cm",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "20 cm",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "25 cm",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "35 cm",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "50 cm",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "A cube of edge 15 cm is immersed completely in a rectangular vessel containing water. If the dimensions of the base of the vessel are 20 cm × 15 cm, find the rise in water level.",
+			"explanation": "Increase in volume = Volume of the cube = (15 × 15 × 15) cm³<br>Raise in water level = (Voulme/Area) = (15 x 15 x 15/ 20 x 15)cm = 11.25 cm ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "10.25 cm",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "11.25 cm",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "12.25 cm",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "13.25 cm",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "The side of a cube is 15 m, find it's surface area?",
+			"explanation": "Surface area = 6 a2 sq. units<br>6 a2 = 6 × 225 = 1350 m2",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "1350 m2",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "1250 m2",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "1300 m2",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "1450 m2",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "The volume of a cube is 1728 cc. Find its surface.",
+			"explanation": "a3 = 1728 => a = 12<br>6a2 = 6 * 12 * 12 = 864 Sq.cm",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "864 Sq.cm",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "648 Sq.cm",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "486 Sq.cm",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "468 Sq.cm",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "The edge of three cubes of metal is 3 dm, 4 dm and 5 dm. They are melted and formed into a single cube. Find the edge of the new cube?",
+			"explanation": "3^3 + 4^3 + 5^3 = a^3 => a = 6",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "3 dm",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "4 dm",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "5 dm",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "6 dm",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Find the volume of a cube of side length 10cm.",
+			"explanation": "(Voulme of the cube) = (Side of length)^3 = (10)^3 = 1000 cu.cm",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "1000 Cu.cm",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "1825 Cu.cm",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "1800 Cu.cm",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "2000 Cu.cm",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "An adhesive compound in liquid form is prepared in a container of hemispherical shape having a radius of 180 cm. This compound is to be packed in cylindrical bottles of radius 1 cm and height of 4 cm. How many bottles are needed if the liquid prepared exactly fills the container? [Take π = 3.]",
+			"explanation": "Number of bottles required = total volume of the liquidvolume of one bottle<br>Volume of the liquid = Volume of the hemisphere ⇒ 2 / 3× 3 × 1803 = 11664000 cm3<br>[Volume of the hemisphere = 2 / 3π r3.]<br>Volume of one bottle ⇒ 3 × (1)2 × 4 = 12 cm3<br>[Volume of the cylinder = π (r)2 h.]<br>Number of bottles ⇒ 11664000 / 12 = 972000 (approximately)",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "1.94",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "388800",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "972000",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "16200",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "How many iron rods, each of length 7 m and diameter 2 cm can be made out of 0.88 cubic metre of iron.",
+			"explanation": "Volume of 1 rod = (22/7 x 1/100 x 1/100 x 7) = 11/5000 cu.cm<br>Volume of iron = 0.88 cu. m<br>Number of Rods = (0.88 x 5000/11) = 400",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "400",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "800",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "1200",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "1600",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

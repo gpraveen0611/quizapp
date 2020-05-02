@@ -1,0 +1,380 @@
+{
+    "id": 1,
+    "name": "Mixtures and Alligations Quiz Test 1",
+    "description": "Practice Mixtures and Alligations Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A 20 litre mixture of milk and water contains milk and water in the ratio 3 : 2. 10 litres of the mixture is removed and replaced with pure milk and the operation is repeated once more. At the end of the two removals and replacement, what is the ratio of milk and water in the resultant mixture?",
+			"explanation": "The 20 litre mixture contains milk and water in the ratio of 3 : 2. Therefore, there will be 12 litres of milk in the mixture and 8 litres of water in the mixture.<br>Step 1. When 10 litres of the mixture is removed, 6 litres of milk is removed and 4 litres of water is removed. Therefore, there will be 6 litres of milk and 4 litres of water left in the<br>container. It is then replaced with pure milk of 10 litres. Now the container will have 16 litres of milk and 4 litres of water.<br>Step 2. When 10 litres of the new mixture is removed, 8 litres of milk and 2 litres of water is removed. The container will have 8 litres of milk and 2 litres of water in it. Now 10 litres of<br>pure milk is added. Therefore, the container will have 18 litres of milk and 2 litres of water in it at the end of the second step.<br>Therefore, the ratio of milk and water is 18 : 2 or 9 : 1.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "17 : 3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "9:1",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "3:17",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "5:3",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": " In what ratio,water must be mixed with fruit juice costing Rs.24 per litre so that the juice would be worth of Rs.20 per litre?",
+			"explanation": "Cost of 1 litre of water = Rs.0 = cheaper quantity.<br>Cost of 1 litre of juice = Rs.24 = dearer quantity.<br>And, the mean price = m = Rs.20<br>Therefore, (Cheaper quantity) : (Dearer quantity) = (d - m) : (m - c) = 4:20 = 1:5<br>Hence, the required answer is 1:5.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "1:4",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "1:5",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "1:6",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "2:5",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A vessel is filled with liquid, 3 parts of which are water and 5 parts syrup. How much of the mixture must be drawn off and replaced with water so that the mixture may be half water and half syrup?",
+			"explanation": "Suppose the vessel initially contains 8 litres of liquid.<br>Let x litres of this liquid be replaced with water.<br>Quantity of water in new mixture =3 -3x/8+ xlitres<br>Quantity of syrup in new mixture =5 -5x/8litres<br>3 -3x/8+ x=5 -5x/8<br>5x + 24 = 40 - 5x<br>10x = 16<br>x =8/5.<br>So, part of the mixture replaced = 8/5x1/8=1/5.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "1/3",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": " 1/4",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "1/5",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "1/7",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "A container contains 40 litres of milk. From this container 4 litres of milk was taken out and replaced by water. This process was repeated further two times. How much milk is now contained by the container?",
+			"explanation": "milk contained by the container now<br>= 40(1-4/40)^3<br>= 4(1- 1/10)^3<br>= 40×9/10×9/10×9/10<br>= 29.16",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "26 litres",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "29.16 litre",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "28 litre",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "28.2 litre",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "One type of liquid contains 25 % of benzene, the other contains 30% of benzene. A can is filled with 6 parts of the first liquid and 4 parts of the second liquid. Find the percentage of benzene in the new mixture.",
+			"explanation": "Let the percentage of benzene =X<br>(30 - X)/(X- 25) = 6/4 = 3/2<br>=> 5X = 135 or<br>X = 27 so,<br>required percentage of benzene = 27 %",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "28%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "25%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "30%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "27%",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "How many kgs of Basmati rice costing Rs.42/kg should a shopkeeper mix with 25 kgs of ordinary rice costing Rs.24 per kg so that he makes a profit of 25% on selling the mixture at Rs.40/kg?",
+			"explanation": "Let the amount of Basmati rice being mixed be x kgs.<br>As the trader makes 25% profit by selling the mixture at Rs.40/kg, his cost per kg of the mixture = Rs.32/kg.<br>i.e. (x×42)+(25×24)=32(x+25)<br>42x+600=32x+800<br>10x=200<br>x=20kgs.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "20.0 kgs",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "12.5 kgs",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": " 16.0 kgs",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "200.0 kgs",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "In a mixture the ratio of alcohol to water is 5 : 4. If 5 litres more alcohol is added the ratio becomes 3 : 2. How many litres of alcohol was in the original mixture?",
+			"explanation": "Let the quantity of alcohol and water in the mixture be 5x and 4x respectively.<br>Thus, according to the problem,<br>10x + 10 = 12x<br>or, 2x = 10<br>or, x = 5<br>quantity of alcohol = 5x = 5 * 5 = 25 litres",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "15 litres",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "20 litres",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "22.50 litres",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "25 litres",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "A can contains a mixture of two liquids A and B in the ratio 7: 5. When 9 liters of the mixture is drawn off and the can is filled with B, the ratio of A and B becomes 7: 9. How many liters of liquid A was contained by the can initially?",
+			"explanation": "Suppose the can initially contain 7x and 5x liters of mixtures A and B respectively<br>Quantity of A in mixture left =(7x - 7/12 x 9) = (7x - 21/4) litres.<br>Quantity of B in mixture left = (5x - 5/12 x 9) = (5x - 15/4) litres.<br>(7x - 21/4)/[(5x - 15/4 + 9)] = 7/9<br>=> 252x -189 = 140x + 147<br>=> x =3.<br>So, the can contain 21 liters of A.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "20",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "21",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "25",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A housewife has 11 litre of Solution that contains sodium carbonate Solution and benzene Solution in the ratio 3 : 1. She adds 250 ml of 3 : 2 Solution of sodium carbonate and benzene Solution to it and then uses 250 ml of the combined mixture to make strong organic Solution How much of pure sodium carbonate Solution is she left with?",
+			"explanation": "ln a mixture of 1,000 ml sodium carbonate : benzene Solution = 3 : 1.<br>Hence, sodium carbonate: 750 ml benzene Solution 250 ml<br>A 250 ml of 3: 2 Solution contains 150 ml sodium carbonate Solution and l00ml benzene Solution.<br>Total sodium carbonate Solution = 900 ml, total benzene Solution = 350 ml<br>After using 250 ml to make strong organic Solution , sodium carbonate Solution used = 250/1250 x 900 = 180 ml<br>pure sodium carbonate Solution left = 900 -180 =720ml",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "1000 ml",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "912.5 ml",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "750 ml",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "720 ml",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "A vessel is filled with liquid, 3 parts of which are water and 5 parts of syrup. How much of the mixture must be drawn off and replaced with water so that the mixture may be half water and half syrup?",
+			"explanation": "Suppose the vessel initially contains 8 litres of liquid.
+
+            Let x litres of this liquid be replaced with water.<br>Quantity of water in new mixture = (3-3x/8+x)litres.<br>Quantity of syrup in new mixture = (5-5x/8) litres.<br>(3-3x/8+x)=(5-5x/8)<br>=> 5x + 24 = 40 - 5x<br>=> 10x = 16 => x = 8/5<br>So, part of the mixture replaced = (85×18) = 1/5.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "1/3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "1/4",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "1/5",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "1/7",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Percentages Quiz Test 1",
+    "description": "Practice Percentages Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "What will be the fraction of 20%",
+			"explanation": "It will 20*1/100 = 1/5",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "1/4",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "1/5",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "1/10",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "None of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had:",
+			"explanation": "Suppose originally he had x apples.<br>Then, (100 - 40)% of x = 420.<br>60/100 x x = 420<br>x = 420 x 100/60 = 700.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "588 apples",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "600 apples",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "672 apples",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "700 apples",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "In an election between two candidates, one got 55% of the total valid votes, 20% of the votes were invalid. If the total number of votes was 7500, the number of valid votes that the other candidate got, was :",
+			"explanation": "Total number of votes = 7500<br>Given that 20% of Percentage votes were invalid<br>=> Valid votes = 80%<br>Total valid votes = 7500*(80/100)<br>1st candidate got 55% of the total valid votes.<br>Hence the 2nd candidate should have got 45% of the total valid votes<br>=> Valid votes that 2nd candidate got = total valid votes x (45/100)<br>7500*(80/100)*(45/100) = 2700",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "2500",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "2700",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "2900",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "3000",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:",
+			"explanation": "Let their marks be (x + 9) and x.<br>Then, x + 9 = 56/100(x + 9 + x)<br>25(x + 9) = 14(2x + 9)<br>3x = 99<br>x = 33<br>So, their marks are 42 and 33.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "39, 30",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "41, 32",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "42, 33 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "43, 34",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "The price of sugar having gone down by 10%, a consumer can buy 5 kg more sugar for Rs 270. The difference between the original and reduced price per kg is",
+			"explanation": "Reduced price => Rp/100y per kg<br>R = Rs 270 , p=10% ,y=5kg<br>{(270×10)/(100×5)} = Rs. 5.4<br>Original prices per kg= Rp/(100-p)y per kg<br>{(270 x 10)/ (100 – 10)5} = 2700/450 = Rs. 6<br>Difference will be = 6-5.4= Rs 0.6 = 60 paise",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "62 paise",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "60 paise",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "75 paise",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "53 paise",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "A shopkeeper bought 600 oranges and 400 bananas. He found 15% of oranges and 8% of bananas were rotten. Find the percentage of fruits in good condition.",
+			"explanation": "Total number of fruits shopkeeper bought = 600 + 400 = 1000<br>Number of rotten oranges = 15% of 600<br>= 15/100 × 600<br>= 9000/100<br>= 90<br>Number of rotten bananas = 8% of 400<br>= 8/100 × 400<br>= 3200/100<br>= 32<br>Therefore, total number of rotten fruits = 90 + 32 = 122<br>Therefore Number of fruits in good condition = 1000 - 122 = 878<br>Therefore Percentage of fruits in good condition = (878/1000 × 100)%<br>= (87800/1000)%<br>= 87.8%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "23.4%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "54.8%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "64.5%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "87.8%",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": " Three candidates contested an election and received 1136, 7636 and 11628 votes respectively. What percentage of the total votes did the winning candidate got ",
+			"explanation": "Total number of votes polled = (1136 + 7636 + 11628) = 20400.<br> So, Required percentage = 11628/20400 * 100 = 57%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "55%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "56%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "57%",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "58%",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "2.09 can be expressed in terms of percentage as",
+			"explanation": "While calculation in terms of percentage we need to multiply by 100, <br> so 2.09 * 100 = 209.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "2.09%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "20.9%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "209%",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "0.209%",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A reduction of 10% in the price of wheat enables a man to buy 50 g of wheat more for a rupee. How much wheat could originally be had for a rupee?",
+			"explanation": "Original prices per kg= Rp/(100-p)y per kg<br>{(1 x 10)/(100 – 10)0.05} = Rs. 20/9 /kg<br>It means the man can buy 1 kg or 1000 gm in Rs 20/9 or he can buy<br>(1000 x 9)/20 = 450g in one rupee.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "400g",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "500g",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "450g",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " 400g ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "75 g of sugar solution has 30% sugar in it. Then, the quantity of sugar that should be added to the solution to make the quantity of the sugar 70% in the solution, is",
+			"explanation": "Sugar in original solution = (75 x 30) / 100 = 22.5 g<br>Let x g of sugar be mixed<br>According to the question<br>{(22.5 + p)/(75 + p)} x 100 = 70<br>2250 + 100p = 75 × 70 + 70p<br>2250 + 100p = 5250 + 70p<br>30p = 5250 – 2250= 3000<br>=> p = 3000/30 = 100g",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "125 g",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "100 g",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "120 g",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "130 g",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

@@ -1,0 +1,379 @@
+{
+    "id": 1,
+    "name": "Probability Quiz Test 1",
+    "description": "Practice Probability Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Sam and Joan are playing a tennis match. If the probability of Sam's win is 0.59, then find the probability of Joan's win.",
+			"explanation": "Let event A = Sam wins and event B = Joan wins. Then,<br>P(A) = 0.59<br>Since if Sam wins, Joan cannot win and if Joan wins, Sam cannot win, so we can say that the events A and B are mutually exclusive. Other than these two events, there are<br>no any other possible outcomes. So,<br>P(A)+P(B) = 1<br>0.59+P(B) = 1<br>P(B) = 1-0.59 = 0.41",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "0.47",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "0.36",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "0.41",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "0.25",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Let A and B be events on the same sample space, with P (A) = 0.6 and P (B) = 0.7. Can these two events be disjoint?",
+			"explanation": "These two events cannot be disjoint because P(A)+P(B) >1.<br>P(A?B) = P(A)+P(B)-P(A?B).<br>An event is disjoint if P(A?B) = 0. If A and B are disjoint P(A?B) = 0.6+0.7 = 1.3<br>And Since probability cannot be greater than 1, these two mentioned events cannot be disjoint.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Yes",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "No",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "None of the above",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "All The above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A family has two children. find the probability that both the children are girls given that at least one of them is a girl?",
+			"explanation": "Let b stand for boy and g for girl. The sample space of the experiment is<br>S = {(g, g), (g, b), (b, g), (b, b)}<br>Let E and F denote the following events :<br>E : ‘both the children are girls’<br>F : ‘at least one of the child is a girl’<br>Then E = {(g,g)} and F = {(g,g), (g,b), (b,g)}<br>Now E n F = {(g,g)}<br>Thus P(F) = 3/4<br>and P (E n F )= 1/4<br>Therefore P(E|F) = P(E n F)/P(F) = (1/4)/(3/4) = 1/3",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "1/4",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "2/3",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "1/3",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "1/4",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "In a lottery, there are 10 prizes and 25 blanks. A lottery is drawn at random. What is the probability of getting a prize?",
+			"explanation": "P(getting a prize) = 10 / (10+25)<br>‹=› 10 / 35<br>‹=› 2 / 7.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "1/10",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "2/5",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "2/7",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "5/7",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Determine the probability that a digit chosen at random from the digits 1, 2, 3, …12 will be odd.",
+			"explanation": "Total no. of Digits = 12. Equally likely cases = 12.
+            <br>There are six odd digits. Probability = 6 / 12 = 1 / 2",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "1/2",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "1/9",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "5/9",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "4/9",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?",
+			"explanation": "Here, S = {1, 2, 3, 4, ...., 19, 20}.<br>Let E = event of getting a multiple of 3 or 5 = {3, 6 , 9, 12, 15, 18, 5, 10, 20}.<br>P(E) = n(E)/n(S) = 9/20.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "1/2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": " 2/5",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": " 8/15",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "9/20",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Which of these numbers cannot be a probability?",
+			"explanation": "A probability is always greater than or equal to 0 and less than or equal to 1, hence only a) and c) above cannot represent probabilities: -0.00010 is less than 0 and 1.001 is greater than 1.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "-0.00001",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "0.5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "1.001",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "1",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "A pack contains 4 blue, 2 red and 3 black pens. If 2 pens are drawn at random from the pack, NOT replaced and then another pen is drawn. What is the probability of drawing 2 blue pens and 1 black pen?",
+			"explanation": "Probability of drawing 1 blue pen = 4/9<br>Probability of drawing another blue pen = 3/8<br>Probability of drawing 1 black pen = 3/7<br>Probability of drawing 2 blue pens and 1 black pen = 4/9 * 3/8 * 3/7 = 1/14",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "2/14",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "1/14",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "6/17",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "8/12",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "In a throw of dice what is the probability of getting number greater than 5",
+			"explanation": "Number greater than 5 is 6, so only 1 number<br>Total cases of dice = [1,2,3,4,5,6]<br>So probability = 1/6",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "1/2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "1/3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "1/5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "1/6",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "The probability that Soumya will get marry within 365 days is 'a' and the probability that her colleague Alma get marry within 365 days is 'b'. Find the probability that only one of the two gets marry at the end of 365 days.",
+			"explanation": "The probability that Soumya will get marry than Alma will be =a(1-b). Similarly, The probability that Alma will get marry than Soumya will be b(1-a). The probability that either of these two get marry =a(1-b) +b(1-a) =a+b-2ab.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "a-b-2ab",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "a+b-2ab",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "a-b+2ab",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "ab-a-b",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

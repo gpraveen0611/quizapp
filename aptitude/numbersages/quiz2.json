@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Numbers and Ages Quiz Test 1",
+    "description": "Practice Numbers and Ages Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. What is the age of the youngest child?",
+			"explanation": "Let the ages of children be x, (x + 3), (x + 6), (x + 9) and (x + 12) years.<br>Then, x + (x + 3) + (x + 6) + (x + 9) + (x + 12) = 50<br>5x = 20<br>x = 4.<br>Age of the youngest child = x = 4 years.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "4 years",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "8 years",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "10 years",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Father is four times more than the age of his daughter. If after 5 years, he would be four times of daughter’s age, then further after 5 years, how many times he would be of his daughter’s age?",
+			"explanation": "Let the daughter's age be y and father's age be 4y.<br>Father’s age is 4 times more aged than his daughter, therefore father’s present age = y + 4y = 5y<br>After five years, father’s age will be three times his daughter age.<br>(4y + 5) = 3 (y + 5)<br>y = 10<br>After 5 years it was (4y + 5), then after further 5 years, father’s age = (4y +10) and daughter’s age = (y + 10)<br>(4y + 10) / (y + 10) = ?<br>Substituting the value of y, we get<br>[(4x10) + 10] / [10+10] = 5/2 = 2.5<br>After another 5 years, father will be 2.5 times of daughter's age.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "1.5 time",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "2 times",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "2.5 times",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "3 times",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Raju age after 15 years will be 5 times his age 5 years back, What is the present age of Raju",
+			"explanation": "Clearly,<br>x+15 = 5(x-5)<br><=> 4x = 40 => x = 10",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "15",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "14",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "8",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "What is John’s present age, if after 10 years his age will be 5 times his age 5 years back.",
+			"explanation": "1) Let John’s present age be x<br>2) John’s age before 5 years = (x - 5)<br>3) John’s age after 10 years = (x + 10)<br>We are given that, John’s age after 10 years (x + 10) is 5 times his age 5 years back (x – 5)<br>Therefore,<br>(x + 10) = 5 (x – 5)<br>Solving the equation, we get<br>x + 10 = 5x – 25<br>4x = 35<br>x = 8.75 years",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "6.2 years",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "7.7 years",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "8.7 years",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "10 years",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Ten years ago, P was half of Q's age. If the ratio of their present ages is 3:4, what will be the total of their present ages?",
+			"explanation": "Let the present age of P and Q be 3x and 4x respectively.<br>Ten years ago, P was half of Q's age<br>(3x-10)=1/2(4x-10)?6x-20=4x-10=> 2x=10=>x=5<br>Total of their present ages=3x+4x=7x=7×5=35",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "45",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "40",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "35",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "30",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "When Rajesh was born, his father age was 29 years older than his Brother and his Mother was 25 years older than his Sister. If his Brother is 2 years elder than his Sister. After 6 years the average age of the family is 20. Then what is the age of Mother when Rajesh was born?",
+			"explanation": "Sister = x; Brother = x+2; Father = 29+x+2; Mother = 25+x<br>Present age – 4x+58<br>After 6 years<br>4x+58+30 = 4x+88<br>4x+88 = 100<br>x = 3<br>Mothers age = 25+x = 28.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "27",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "28",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "29",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "30",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Mindy’s current age is 3 times that of her daughter, Cindy. 4 years ago, Mindy’s age was 4 times that of her daughter, what will be Cindy’s age 5 years from now?",
+			"explanation": "Let Cindy’s current age be x. Then Mindy’s age is 3x.<br>According to the question,<br>3x-4=4(x-4)<br>Or, 3x-4=4x-16<br>Or, x=12.<br>Thus, 5 years from now, Cindy’s age will be 12+5=17years.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "17 Years",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "21 Years",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "27 Years",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "15 Years",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "The ages of two persons differ by 16 years. 6 years ago, the elder one was 3 times as old as the younger one. What are their present ages of the elder person?",
+			"explanation": "Let's take the present age of the elder person = x and the present age of the younger person = x 16 (x 6) = 3 (x-16-6) => x 6 = 3x 66 => 2x = 60 => x = 60/2 = 30",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "30",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "25",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "20",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "15",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "The present ages of three persons in proportions 4 : 7 : 9. Eight years ago, the sum of their ages was 56. Find their present ages (in years).",
+			"explanation": "Let their present ages be 4x, 7x and 9x years respectively.<br>Then, (4x – 8) + (7x – 8) + (9x – 8) = 56<br>20x = 80<br>x = 4.<br>Their present ages are 4x = 16 years, 7x = 28 years and 9x = 36 years respectively.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "8, 20, 28",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "16, 28, 36",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "20, 35, 45",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "The sum of present ages of Ashok, Anil and Ajay is 75 years.If 5 years ago the ratio of their ages was 3 : 4 : 5, What is the present age of Anil?",
+			"explanation": "Let 5 years age, the age of ashok, Anil and Ajay were 3x, 4x and 5x years. Then, their present ages are ( 3x + 5), (4x + 5) abd ( 5x + 5) years.<br>Now, 3x +5 + 4x +5 + 5x + 5 = 75 => 12x = 60 x = 5<br>Hence, present age of Anil = 4x + 5 = 4 x 5 + 5 = 25 years.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "26 Years",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "25 Years",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "32 Years",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "65 Years",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

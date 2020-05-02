@@ -1,0 +1,380 @@
+{
+    "id": 1,
+    "name": "Permutations Quiz Test 1",
+    "description": "Practice Permutations Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A college has 10 basketball players. A 5-member team and a captain will be selected out of these 10 players. How many different selections can be made?",
+			"explanation": "A team of 6 members has to be selected from the 10 players. This can be done in 10C6 or 210 ways.<br>Now, the captain can be selected from these 6 players in 6 ways.<br>Therefore, total ways the selection can be made is 210*6 = 1260.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "1260",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "210",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "10C6 * 6!",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "10C5 * 6!",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Out of 7 consonants and 4 vowels, how many words of 3 consonants and 2 vowels can be formed?",
+			"explanation": "Number of ways of selecting 3 consonants from 7= 7C3<br>Number of ways of selecting 2 vowels from 4= 4C2<br>Number of ways of selecting 3 consonants from 7 and 2 vowels from 4<br>= 7C3 × 4C2<br>=(7×6×5/3×2×1)×(4×3/2×1)=210<br>It means we can have 210 groups where each group contains total 5 letters (3 consonants and 2 vowels).<br>Number of ways of arranging 5 letters among themselves=5!=5×4×3×2×1=120<br>Hence, required number of ways=210×120=25200",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "24400",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "21300",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "210",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "25200",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A boy has nine trousers and 12 shirts. In how many different ways can he select a trouser and a shirt?",
+			"explanation": "The boy can select one trouser in nine ways.<br>The boy can select one shirt in 12 ways.<br>The number of ways in which he can select one trouser and one shirt is 9 * 12 = 108 ways.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "21",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "12",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "9",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "108",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Find the sum of all the 4 digit numbers that can be formed with the digits 3, 4, 5 and 6",
+			"explanation": "No. of Digits = 4 All are distinct; They can be arranged in 4! = 24 ways<br>Each of the digits 3, 4, 5 and 6 occur at unit place = 3! Ways = 6 ways.<br>Thus there will be 6 numbers ending with 3, 4, 5 and 6 each. So the sum of the digits at unit's place = 6(3 + 4 + 5 + 6) =108<br>The sum of numbers = 108 × 103 + 108 × 102 + 108 × 101 + 108 × 100 = 119988",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "119988",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "11988",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "191988",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?",
+			"explanation": "The word 'LEADING' has 7 different letters.<br>When the vowels EAI are always together, they can be supposed to form one letter.<br>Then, we have to arrange the letters LNDG (EAI).<br>Now, 5 (4 + 1) letters can be arranged in 5! = 120 ways.<br>The vowels (EAI) can be arranged among themselves in 3! = 6 ways.<br>Required number of ways = (120 x 6) = 720.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "720",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "520",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "700",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "750",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "How many combinations of students are possible if the group is to consist of exactly 3 freshmen?",
+			"explanation": "Here we need the number of possible combinations of 3 out of 5 freshmen,5C3, and the number of possible combinations of 3 out of the 15 sophomores and juniors,15C3. Note that we want 3 freshmen and 3 students from the other classes. Therefore, we multiply the number of possible groups of 3 of the 5 freshmen times the number of possible groups of 3 of the 15 students from the other classes. 5C3×15C3=4,550.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "5000",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "4550",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "4000",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "3550",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Find the number of words, with or without meaning, that can be formed with the letters of the word ‘SWIMMING?",
+			"explanation": "The word ‘SWIMMING contains 8 letters. Of which, I occurs twice and M occurs twice. <br>Therefore, the number of words formed by this word = 8! / (2!*2!) = 10080.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "10080",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "4569",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "9800",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "2478",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "A five-digit number is formed using digits 1, 3, 5, 7 and 9 without repeating any one of them. What is the sum of all such possible numbers?",
+			"explanation": "If we fix 1 at the unit’s place, the other digits can be arranged in 4! = 24 ways.<br>So, there are 24 numbers which have 1 at the unit’s place and sum of these numbers is 24.<br>Similarly, there will be 24 numbers each with 3, 5, 7 and 9 at the unit’s place.<br>So, the sum of all the numbers at the unit’s place will be:<br>24 + 24 × 3 + 24 × 5 + 24 × 7 + 24 × 9 = 24 + 72 + 120 + 168 + 216 = 600.<br>Similarly, the sum of the digits at the ten’s place, hundred’s place,<br>thousand’s place and ten thousand’s place will be 600.<br>So, the sum of all numbers = 600 (1 + 10 +100 +1,000 +10,000) = 6666600.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "6666600",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "6666660",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "6666666",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "An intelligence agency forms a code of two distinct digits selected from 0, 1, 2, …., 9 such that the first digit of the code is nonzero. The code, handwritten on a slip, can
+            however potentially create confusion, when read upsidedown-for example, the code 91 may appear as 16. How many codes are there for which no such confusion can
+            arise?",
+			"explanation": "The available digits are 0,1,2, …9.<br>The first digit can be chosen in 9 ways (0 not acceptable), the second digit can be accepted in 9 ways (digits repetition not allowed).<br>Thus, the code can be made in 9 × 9 = 81 ways.<br>Now there are only 4 digits 1, 6, 8, 9 which can create confusion.<br>Hence, the total number of codes which create confusion are = 4 × 3 = 12.<br>Out of these 12 codes 69 and 96 will not create confusion.Hence, in total 12 – 2 = 10 codes will create confusion.<br>Hence, the total codes without confusion are 81 – 10 = 71.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "80",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "78",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "71",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "69",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "A college has 10 basketball players. A 5-member team and a captain will be selected out of these 10 players. How many different selections can be made?",
+			"explanation": "A team of 6 members has to be selected from the 10 players. This can be done in 10C6 or <br>210 ways. Now, the captain can be selected from these 6 players in 6 ways.<br>Therefore, total ways the selection can be made is 210×6= 1260.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "1260",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "1400",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "1250",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "1600",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

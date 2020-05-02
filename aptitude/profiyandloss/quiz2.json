@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Profit and Loss Quiz Test 1",
+    "description": "Practice Profit and Loss Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A merchant sold an article at 10% loss. If he had sold it Rs 450 more, 8% would have been gained on the cost price. Find the cost price?",
+			"explanation": "Let the cost price be 100%. It is sold at 10% loss. So it is sold at 90% of the cost price.<br> 90 % of the cost price + 450 = 108% of the Cost price 18% of the cost price = Rs 450 <br> Cost price of the book = 450/18 x 100 = Rs 2500",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Rs 1200",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Rs 1800",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Rs 1500",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Rs 2500",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "If a man reduces the selling price of a fan from Rs.400 to Rs.380, his loss increases by 2%. The cost price of the fan is",
+			"explanation": "Let C.P be Rs.x <br>Then, 2% of x=(400 - 380)<br>=20<br>x/50 = 20<br>x=1000.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Rs. 480",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Rs. 500",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Rs. 600",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Rs. 1000 ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A shopkeeper buys a TV at Rs.42000 and sells it a Rs.45000.What is his profit or loss? ",
+			"explanation": "C.P = Rs.42000 S.P = Rs.45000 As S.P > C.P So he makes profit profit = S.P - C.P = Rs.3000",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "RS.2500",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "RS.3000 ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "RS.4500",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "RS.2000",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Sam purchased 20 dozens of toys at the rate of Rs. 375 per dozen. He Sold each one of the rate of Rs. 33.What was his percentage profit?",
+			"explanation": "Cost Price of 1 toy = Rs. (375/12) = Rs. 31.25<br>Selling Price of 1 toy = Rs. 33<br>So, Gain = Rs. (33- 31.25) = Rs. 1.75<br>Profit % = [(1.75/31.25) * 100] % = 28/5 % = 5.6 %",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "3.5",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "4.5",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " 5.6",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "6.5 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "If the cost price is 25% of selling price. Then what is the profit percent.",
+			"explanation": "Let the S.P = 100<br>then C.P. = 25<br>Profit = 75<br>Profit% = 75/25 * 100 = 3005",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "150%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "200%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "300%",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "350%",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": " John buys an old scooter for Rs. 4700 and spends Rs. 800 on its repairs. If he sells the scooter for Rs. 5800, what is his gain percent?",
+			"explanation": "cost price =4700+800=5500<br>selling price =5800<br>gain =5800-5500=300<br>gain percent =(300×100)/5500 =60/11%=5 5/11%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "12%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "10% ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "4 4/7%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "5 5/11%",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:",
+			"explanation": "C.P. of 56 kg rice = Rs. (26 x 20 + 30 x 36) = Rs. (520 + 1080) = Rs. 1600.<br>S.P. of 56 kg rice = Rs. (56 x 30) = Rs. 1680.<br>Gain =(80/1600*100) % = 5%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "No profit, no loss",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "5%",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "8%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "10%",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "The owner of an electronics shop charges his customer 22% more than the cost price. If a customer paid Rs 10,980 for a DVD player, then what was the cost price of the DVD player?",
+			"explanation": "CP of DVD player = Rs x<bk>According to the question,<bk>= x(1+22/100)<br>= Rs 10980<br>x = 10980 × 50/61 = Rs 9000",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Rs 8000",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": " Rs 8800 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Rs 9500",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "Rs 9000",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A kind of tape is selling at a profit of 12% of selling price, equal to 18 cents per yard. What is the selling price of the tape?",
+			"explanation": "Profit / % profit = selling price<br>$.18 / .12 = $1.50 selling price",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "$ 1.50",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "$ 1.00",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "$ 1.20",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "none of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Samant bought a microwave oven and paid 10 % less than the original price. He sold it with 30% profit on the price he had paid.What percentage of profit did Samant earn on the original price?",
+			"explanation": "Let the original price=Rs.100.<br>Then, C.P= Rs.90.<br>S.P =130% of Rs. 90=Rs.(130/100×90)= Rs.117.<br>Required percentage= (117 - 100)%=17%.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "17% ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "20%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "27%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "32%",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

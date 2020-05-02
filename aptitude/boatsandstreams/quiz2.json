@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Boats and Streams Quiz Test 1",
+    "description": "Practice Boats and Streams Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A boat can travel with a speed of 13 km/hr in still water. If the speed of the stream is 4 km/hr, find the time taken by the boat to go 68 km downstream.",
+			"explanation": "Speed downstream = (13 + 4) km/hr = 17 km/hr.<br>Time taken to travel 68 km downstream =68/17hrs = 4 hrs.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "2 hours",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "3 hours",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "4 hours",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "5 hours",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "A man can row upstream 10 kmph and downstream 20 kmph. Find the man rate in still water and rate of the stream.",
+			"explanation": "If a is rate downstream and b is rate upstream<br>Rate in still water = 1/2(a+b)<br>Rate of current = 1/2(a-b)<br>=> Rate in still water = 1/2(20+10) = 15 kmph<br>=> Rate of current = 1/2(20-10) = 5 kmph",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "0,5",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "5,5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "15,5",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "10,5",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A man's speed with the current is 15 km/hr and the speed of the current is 2.5 km/hr. The man's speed against the current is:",
+			"explanation": "Man's speed with the current = 15 km/hr<br>=> speed of the man + speed of the current = 15 km/hr<br>speed of the current is 2.5 km/hr<br>Hence, speed of the man = 15 - 2.5 = 12.5 km/hr<br>man's speed against the current = speed of the man - speed of the current<br>= 12.5 - 2.5 = 10 km/hr",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "8.5 km/hr",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "10 km/hr",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "12.5 km/hr",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "9 km/hr",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "A man takes 20 minutes to row 12 km upstream which is a third more than the time he takes on his way downstream. What is his speed in still water?",
+			"explanation": "Let the speed in still water = x km/hr. Takes 20 min. to row 12 km upstream ? speed of u/s = 36 km/hr. Also, time taken for u/s is 1/3 more than for d/s.<br>distance covered in d / s will be 1/3 more.<br>Hence distance covered by man for d / s in 20 min. = 12 × (12/3) = 16km.<br>So speed of d / s = 48 km/hr.<br>x + y = 48 and x – y = 36 ? x = 42 km/hr.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "41 km/hr",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "36 km/hr",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "42 km/hr",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "45 km/hr",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "A man's speed with the current is 15 km/hr and the speed of the current is 2.5 km/hr. The man's speed against the current is:",
+			"explanation": "Man's speed with the current = 15 km/hr<br>=> speed of the man + speed of the current = 15 km/hr<br>speed of the current is 2.5 km/hr<br>Hence, speed of the man = 15 - 2.5 = 12.5 km/hr<br>man's speed against the current = speed of the man - speed of the current = 12.5 - 2.5 = 10 km/hr",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "8.5 km/hr",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "10 km/hr",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "12.5 km/hr",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "9 km/hr",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "In one hour, a boat goes 11km along the stream and 5 km against it. Find the speed of the boat in still water",
+			"explanation": "We know we can calculate it by 1/2(a+b)=> 1/2(11+5) = 1/2(16) = 8 km/hr",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "7",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "8",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "9",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": " A boat runs at 22 km per hour along the stream and 10 km per hour against the stream. Find the ratio of the speed of the boat in still water to that of the speed of the stream. ",
+			"explanation": "Speed along the stream = speed downstream = a = 22 km/hr<br>And speed against the stream = speed upstream = b = 10 km/hr.<br>Now, the speed in still water = a + b / 2 km/hr = (22 + 10) / 2 = 16 km/hr.<br>And the speed of stream = a - b / 2 km/hr = (22 - 10) / 2 = 6 km/hr.<br>Required ratio = speed in still water : speed of stream = 16:6 = 8:3.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "2:3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "8:3",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "5:3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "7:3",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "In one hour, a boat goes 11 kmph along the stream and 5 kmph against the stream. The speed of the boat in still water (in kmph) is :",
+			"explanation": "Speed in still water = 1/2(11 + 5) kmph = 8 kmph.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " 3 kmph ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": " 5 kmph ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "8 kmph",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "9 kmph",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A boat sails 15 km of a river towards upstream in 5 hours. How long will it take to cover the same distance downstream, if the speed of the current is one-fourth the speed of the boat in still water:",
+			"explanation": "Upstream speed = B-S<br>Downstream speed = B+s<br>B-S = 15/5 = 3 km/h<br>Again B= 4S<br>Therefore B-S = 3= 3S<br>=>S = 1 and B= 4 km/h<br>Therefore B+S = 5km/h<br>Therefore, Time during downstream = 15/5 = 3h",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "1.8h",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "3h",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "4h",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "5h",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Speed of a boat in standing water is 9 kmph and the speed of the stream is 1.5 kmph. A man rows to a place at a distance of 105 km and comes back to the starting point. The total time taken by him is:",
+			"explanation": "Speed upstream = 7.5 kmph.<br>Speed downstream = 10.5 kmph.<br>Total time taken =105/7.5 +105/10.5 hours = 24 hours.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "16",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "18",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "20",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "24",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

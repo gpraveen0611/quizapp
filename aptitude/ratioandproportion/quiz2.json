@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Ratio and Proportion Quiz Test 1",
+    "description": "Practice Ratio and Proportion Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A mixture contains alcohol and water in the ratio 4 : 3. If 5 liters of water is added to the mixture, the ratio becomes 4: 5. Find the quantity of alcohol in the given mixture.",
+			"explanation": "Let the quantity of alcohol and water be 4x litres and 3x litres respectively <br>4x/(3x+5) = 4/5<br>20x = 4(3x+5)<br>8x = 20<br>x = 2.5<br>Quantity of alcohol = (4 x 2.5) litres = 10 litres.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "12",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "15",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "18",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "A bag contains 50 P, 25 P and 10 P coins in the ratio 5: 9: 4, amounting to Rs. 206. Find the number of coins of each type respectively.",
+			"explanation": "let ratio be x.<br>Hence no. of coins be 5x ,9x , 4x respectively<br>Now given total amount = Rs.206<br>=> (.50)(5x) + (.25)(9x) + (.10)(4x) = 206<br>we get x = 40<br>=> No. of 50p coins = 200<br>=> No. of 25p coins = 360<br>=> No. of 10p coins = 160",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "360, 160, 200",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "160, 360, 200",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "200, 360,160",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "200,160,300",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Find the third proportional to 9 and 12?",
+			"explanation": "Formula = Third proportional = (b × b)/a<br>A = 9 and B = 12<br>(12 × 12)/ 9 = 144/9 = 16",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "9",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "108",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "16",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "48",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "In a certain room, there are 28 women and 21 men. What is the ratio of men to women? What is the ratio of women to the total number of people?",
+			"explanation": "Men : women = 21 : 28 = 3:4<br>Women : total number of people = 28 : 49 = 4 : 7",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "5:4",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "4:7",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "6:3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "8:7",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "In a bag, there are a certain number of toy-blocks with alphabets A, B, C and D written on them. The ratio of blocks A:B:C:D is in the ratio 4:7:3:1. If the number of ‘A’ blocks is 50 more than the number of ‘C’ blocks, what is the number of ‘B’ blocks?",
+			"explanation": "Let the number of the blocks A,B,C,D be 4x, 7x, 3x and 1x respectively<br>=> 4x = 3x + 50<br>=> x = 50.<br>So the number of ‘B’ blocks is 7*50 = 350.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "650",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "480",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "578",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "350",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Arrange the following ratios in descending order. 2 : 3, 3 : 4, 5 : 6, 1 : 5",
+			"explanation": "Given ratios are 2/3, 3/4, 5/6, 1/5<br><br>The L.C.M. of 3, 4, 6, 5 is 2 × 2 × 3 × 5 = 60<br><br>Now, 2/3 = (2 × 20)/(3 × 20) = 40/60<br><br>3/4 = (3 × 15)/(4 × 15) = 45/60<br><br>5/6 = (5 × 10)/(6 × 10) = 50/60<br><br>1/5 = (1 × 12)/(5 × 12) = 12/60<br><br>Clearly, 50/60 > 45/60 > 40/60 > 12/60<br><br>Therefore, 5/6 > 3/4 > 2/3 > 1/5<br><br>So, 5 : 6 > 3 : 4 > 2 : 3 > 1 : 5",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "5 : 6 > 3 : 4 > 2 : 3 > 1 : 5",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "5 : 6 > 3 : 4 < 2 : 3 > 1 : 5",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "5 : 6 < 3 : 4 > 2 : 3 <1 : 5",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "5 : 6 < 3 : 4 > 2 : 3 <1 : 5",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Find the fourth proportional to 2.4, 4.6 and 7.6?",
+			"explanation": "Formula = Fourth propotional = (b × c)/a<br>A = 2.4 , B = 4.6 and C = 7.6<br>(4.6 × 7.6)/2.4 = 14.56",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "14",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "14.657",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "15.53",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "14.56",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "If a:b=1:2 and b:c=3:4 find a:b:c?",
+			"explanation": "a:b = 1:2, b:c = 3:4<br>1:2<br>3:4<br>(a = 1 × 3 = 3, b = 2 × 3 = 6 and c = 2 × 4 = 8)<br>(a = a × b, b = b × b and c = b × c)<br>a:b:c = 3:6:8",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " 3:8:6 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "3:12:6",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "3:6:8",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "1:2:4",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "The length and width of a rectangle are in the ratio 3:5. If its perimeter is 48 cm, find its length and width.",
+			"explanation": "From the given ratio,<br>length = 3x and width = 5x<br>Perimeter = 48<br>2(l+w) = 48<br>2(3x + 5x) = 48<br>8x = 24<br>x = 3<br>Therefore,<br>Length = 3(3) = 9 cm<br>Width = 5(3) = 15 cm.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "9, 15",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "6, 18",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "5 14",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "8, 20",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Given ratio are<br>a:b = 2:3<br>b:c = 5:2<br>c:d = 1:4<br>Find a:b:c.",
+			"explanation": "Multiplying the first ratio by 5, second by 3 and third by 6, we have<br>a:b = 10: 15<br>b:c = 15 : 6<br>c:d = 6 : 24<br>In the ratio’s above, all the mean terms are equal, thus<br>a:b:c:d = 10:15:6:24",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "2:3:6",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "4:5:6",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "10:15:6",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "1:5:7",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

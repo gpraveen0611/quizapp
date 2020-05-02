@@ -1,0 +1,379 @@
+{
+    "id": 1,
+    "name": "Quadratic Equations Quiz Test 1",
+    "description": "Practice Quadratic Equations Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Find the roots of the quadratic equation: 2x2 + 3x - 9 = 0?",
+			"explanation": "2x2 + 6x - 3x - 9 = 0 <br>2x(x + 3) - 3(x + 3) = 0<br>(x + 3)(2x - 3) = 0<br>=> x = -3 or x = 3/2.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "3, -3/2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "3/2, -3",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "-3/2, -3 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "3/2, 3",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "The sum and the product of the roots of the quadratic equation x2 + 20x + 3 = 0 are?",
+			"explanation": "Sum of the roots and the product of the roots are -20 and 3 respectively.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "10, 3",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "-10, 3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "20, -3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "None of these ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Solve (x + 1)(x – 3) = 0. ",
+			"explanation": "(x + 1)(x – 3) = 0 <br> x + 1 = 0, x – 3 = 0 <br>x = –1, x = 3<br>That was quick! And my answer is:<br>x = –1, 3",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "–1, 3",
+                    "isAnswer":true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": " 2, 3",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "–1, 5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "–1, 6",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Solve for x: x2-3x-10 = 0",
+			"explanation": "Let us express -3x as a sum of -5x and +2x.<br>x2-5x+2x-10 = 0<br>x(x-5)+2(x-5) = 0<br>(x-5)(x+2) = 0<br>x-5 = 0 or x+2 = 0<br>x = 5 or x = -2",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "2, 5 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "5, -2",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " 4, 7",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": " 8,9",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Simplify x: 3x2+2x =1",
+			"explanation": "Rewriting our equation, we get 3x2+2x-1= 0<br>Here, the coefficient of x2 is 3. In these cases, we multiply the constant c with the coefficient<br> of x2. Therefore, the product of the numbers we choose should be equal to<br>-3 (-1*3).<br>Expressing 2x as a sum of +3x and –x <br>3x2+3x-x-1 = 0 <br>3x(x+1)-1(x+1) = 0 <br>(3x-1)(x+1) = 0 <br>3x-1 = 0 or x+1 = 0 <br>x = 1/3 or x = -1",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "1/3, -1",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "2, 5",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "3, 7",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "8, 9",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": " I. 3x2 – 5x – 12 = 0,
+            II. 3y2 – 8y – 16 = 0",
+			"explanation": "x = -4/3, 3 <br>y = -4/3, 4<br>Put all values on number line and analyze the relationship<br>-4/3…….. 3……..4",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "If x > y",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": " If x < y",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "If x ≥ y ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "If x = y or relation cannot be established",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Solve x2 = 24 – 10x?",
+			"explanation": "Rewriting the equation into the standard quadratic form,<br>x2 +10x-24 = 0<br>What are the two numbers which when added give +10 and when multiplied give -24? 12 and -2.<br>So this can be solved by the factoring method. But let’s solve it using the new method, applying the quadratic formula.<br>Here, a = 1, b = 10 and c = -24.<br>x = [-10 ± √(100 – 4*1*-24)] / 2*1<br>x = [-10 ± √(100-(-96))] / 2<br>x = [-10 ± √196] / 2<br>x = [-10 ± 14] / 2<br>x = 2 or x= -12 are the roots.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "2, 8",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "2, -12",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "3, 8",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "8, 5",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "I. 4x2 + 3x – 27 = 0,<br>II. 3y2 – 20y + 32 = 0",
+			"explanation": "x =2.25, -3<br>y = 8/3, 4<br>Put all values on number line and analyze the relationship<br>-3……..2.25……..8/3……….4",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "If x > y ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "If x < y",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "If x ≥ y",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "If x ≤ y",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "How many real roots does the equation have?x2+3x+4=0",
+			"explanation": "D = 32 - 4 ⋅ 4 = -7 < 0<br>So the equation has 0 real roots.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "0",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "1",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "3",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Find the lesser root of the equation x2−12x+35=0.",
+			"explanation": "x2−12x+35=x2−7x−5x+35=x(x−7)−5(x−7)=(x−5)(x−7). Its roots are 5 and 7 and the lesser one is 5.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "5,7",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "8,8",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "9,6",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "10,5",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

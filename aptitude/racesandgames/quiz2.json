@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Races and Games Quiz Test 1",
+    "description": "Practice Races and Games Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Karan and Arjun run a 100-meter race, where Karan beats Arjun by 10 meters. To do a favour to Arjun, Karan starts 10 meters behind the starting line in a second 100-meter race. They both run at their earlier speeds. Which of the following is true in connection with the second race?",
+			"explanation": "In a 100 meters race, when Karan runs 100 meters, Arjun runs 90 meters. Since time is constant, the ratio of distances is equal to the ratio of speeds. So, the ratio of speeds of Karan and Arjun is 100:90 = 10:9. In the second case, Karan will have to run 110 meters to complete the race. In this case, the ratio of distances travelled will be equal to the ratio of speeds 10:9. So, when Karan runs 110 meters, Arjun will run (110 x 9)/10 = 99 meters, i.e., he needs to cover 1 meter to complete the race. In other words, Karan beats Arjun by 1 meter.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Karan and Arjun reach the finishing line simultaneously",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Arjun beats Karan by 1 meter",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Karan beats Arjun by 1 meter",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Arjun beats Karan by 11 meters",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "In 100 m race, A covers the distance in 36 seconds and B in 45 seconds. In this race A beats B by:",
+			"explanation": "Distance covered by B in 9 sec. = (100/45)*9m = 20m<br>A beats B by 20 meters.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "20m",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "25m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "22.5m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "9m",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A is 2 1/3 times as fast as B. If A gives B a start of 80 m, how long should the race course be so that both of them reach at the same time?",
+			"explanation": "Speed of A : Speed of B = 7/3 : 1 = 7 : 3<br>It means, in a race of 7 m, A gains (7-3)=4 meter<br>If A needs to gain 80 metre, race should be of 7/4×80 = 140 metre",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,170 metre
+                    "questionId": 1010,
+                    "name": "170 metre",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "150 metre",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "140 metre",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "160 metre",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "If in a game of 80, P can give 16 points to Q and R can give 20 points to P, then in a game of 150, how many points can R give to Q?",
+			"explanation": "When P scores 80, Q scores 64.<br>When R scores 80, P scores 60<br>Hence, when R scores 150, Q scores (60 * 64 * 150) / (80 * 80) = 90<br>Therefore, in a game of 150, R can give 60 points to Q.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "48",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "60",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "54",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "90",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "A can give B a start of 20 metres and C a start of 39 metres in a walking race of 400 metres. How much can B give C a start?",
+			"explanation": "(L - x12)x23 = L(x13 - x12)= (400 - 20)x23 = 400(39 - 20)= x23 = 20 metres",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "20 m",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "18 m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "15 m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "25 m",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "At a game billiards, A can give B 10 points in 60 and he can give C 15 in 60. How many can B can give C in a game of 90?",
+			"explanation": "If A score 60 points, B score 50 points and C score 45 points.<br>When B scores 50 points, C scores 45 points.<br>When B scores 90 points, C scores (45/50 *90) points = 81 points.<br>B can give C, 9 points in a game of 90.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "9",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "8",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "7",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "In a 200m race, if A gives B a start of 25 meters, then A wins the race by 10 seconds. Alternatively, if A gives B a start of 45 meters the race ends in a dead heat. How long does A take to run 200m?",
+			"explanation": "A gives B a start of 25 meters and still wins the race by 10 seconds.<br>Alternatively, if A gives B a start of 45 meters, then the race ends in a dead heat.<br>Therefore, the additional 20 meters start given to B compensates for the 10 seconds.i.e., B runs 20 meters in 10 seconds.<br>Hence, B will take 100 seconds to run 200 meters.<br>We know that A gives B a start of 45 meters. B will take 22.5 seconds to run this 45 meters as B runs 20 meters in 10 seconds or at the speed of 2 m/s.<br>Hence, A will take 22.5 seconds lesser than B or 100 - 22.5 = 77.5 seconds to complete the race.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "100 seconds",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "112.5 seconds",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "775 seconds",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "87.5 seconds",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "In a game of 200m race, A can win B by 50 m and B can win C by 8 m. In the same race, A can win C by:",
+			"explanation": "Given that, A can win B by 50 m.<br>That is, When A runs 200 m then B can run (200 - 50 = )150 m.<br>And, B can win C by 8 m means, When B runs 200 m then C can run (200 - 8 =) 192 m.<br>Therefore, A:B = 200:150 and B:C = 200:192<br>We have to find A: C.<br>A:C = A/C = A/B x B/C = (200 / 150) x ( 200 / 192) = (4 / 3) x (200 / 192) = 200 / (3 x 48) = 200 /1 44<br>That is, A:C = 200:144.<br>Hence, A wins C by 200-144 m = 56 m.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "52m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "58m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "56m",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "54m",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "In a race of 200 m, A can beat B by 31 m and C by 18 m. In a race of 350 m, C will beat B by:",
+			"explanation": "A : B = 200 : 169.<br>A : C = 200 : 182.<br>C/A = (C/A x A/B) = (182/200 x 200/169) = 182 : 169.<br>When C covers 182 m, B covers 169 m.<br>When C covers 350 m, B covers (169/182 x 350) m = 325 m.<br>Therefore, C beats B by (350 - 325) m = 25 m.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "22.75 m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "25m",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "19.5m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "18.5",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "In a 100 m race, A can beat B by 25 m and B can beat C by 4 m.In the same race, A can beat C by :",
+			"explanation": "A : B = 100 : 75 and B : C = 100 : 96.<br>A : C = = = = 100 : 72.<br>A beats C by (100 - 72) m = 28 m.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "21 m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "26 m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "28 m",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "29 m",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

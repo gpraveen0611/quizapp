@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Surds and Indices Quiz Test 1",
+    "description": "Practice Surds and Indices Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "If 3^(x - y) = 27 and 3^(x + y) = 243, then x is equal to:",
+			"explanation": "3x - y = 27 = 33 x - y = 3 ....(i)<br>3x + y = 243 = 35 x + y = 5 ....(ii)<br>On solving (i) and (ii), we get x = 4.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "0",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "2",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "4",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "The value of (√8)1/3 is:",
+			"explanation": "(√8)1/3 = (81/2)1/3= 81/6 = (23)1/6= 21/2= √2.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "2",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "4",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "2",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "8 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "If 7^(x - y) = 343 and 7^(x + y) = 16807, what is the value of x?",
+			"explanation": "7^(x - y) = 343 = 7^3<br>=> x - y = 3 ---------------------------(Equation 1)<br>7^(x + y) = 16807 = 7^5<br>=> x + y = 5 ---------------------------(Equation 2)<br>(Equation 1)+ (Equation 2) => 2x = 3 + 5 = 8<br>=> x = 8⁄2 = 4",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "4",
+                    "isAnswer":true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": " 3",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "1",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "If 6^m = 46656, What is the value of 6^m-2",
+			"explanation": "a^m.a^n=a^m−n<br>Given that 6m = 46656<br>6^m−2=6^m/6^2=46656/6^2=46656/36=1296",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "36 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "7776",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "216",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "1296",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "(256)^0.16 x (256)^0.09 = ?",
+			"explanation": "(256)^0.16 x (256)^0.09 = (256)^(0.16 + 0.09)<br>= (256)^0.25<br>= (256)^(25/100)<br>= (256)^(1/4)<br>= (44)^(1/4)<br>= 44^(1/4)<br>= 4^1<br>= 4",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "16",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "4",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "64",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "256.25",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "(27^2/4^-3)^-5/6 =?",
+			"explanation": "(27^2/4^-3)^-5/6 = [(3^3)^2/(2^2)^-3]^-5/6<br>= (3^6 * 2^6)^-5/6<br>= (6^6)^-5/6 = 1/6^5 = 1/ 7776.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "1/1296",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "1/46656",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "1/7256",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "1/7776",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "If 2x × 8(1/4) = 2(1/4) then find the value of x",
+			"explanation": "2^x × 8^(1/4) = 2^(1/4)<br>As bases are not equal we cannot add the indices, hence first convert all the numbers with same base.<br>2^x × (2^3)^(1/8) = 2^(1/4)<br>Law of Indices (x^m)^n = x^mn<br>2^x × 2^(3/4) = 2^(1/4)<br>2^[x + (3/4)] = 2^(1/4)<br>x +3/4 = 1/4<br>x = 1/4 –3/4= –2/4= –1/2",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "–1/2",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "1/2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "1/4",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "-1/4",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "If a and b are whole numbers such that ab = 121, then find the value of (a – 1)^b + 1",
+			"explanation": "121 = 11^2 , hence value of a = 11 and b = 2 can be considered.<br>Therefore, the value of (a – 1)^b + 1 = (11 – 1)^ 2 + 1= 10^3",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "0",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "102",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "103",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "The value of (8^-25 - 8^-26) is:",
+			"explanation": "8^-25 - 8^-26 = 1/8^25-1/8^26<br>= (8 - 1)/ 8^26 = 7 x 8^-26",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "7 x 8^-26",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "8 x 8^-26",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "7 x 8^-25",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "If √2n =64, then the value of n is:",
+			"explanation": "√2n =64 => 2n/2 = 64= 26<br>n/2=6; n=12",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "4",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "12",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

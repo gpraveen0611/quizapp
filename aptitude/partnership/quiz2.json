@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Partnership Quiz Test 1",
+    "description": "Practice Partnership Quiz Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A and B started a business by investing Rs.4000/- and Rs.5000/- respectively. Find the A’s share out of a total profit of Rs.1800:",
+			"explanation": "A = Rs.4000/-<br>B = Rs.5000/-<br>A share 4 parts & B share 5 parts<br>Total 9 parts -----> Rs.1800/-<br>----> 1 part -------> Rs.200/-<br>A share = 4 parts -----> Rs.800/-",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Rs.1000/-",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Rs.1800/-",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Rs.800/-",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Rs.400/-",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Sumit and Ravi started a business by investing Rs 85000 and 15000 respectively. In what ratio the profit earned after 2 years be divided between Sumit and Ravi respectively.",
+			"explanation": "P:Q = 85000:15000 = 17:3",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "17:1",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "17:2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "17:3",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "17:4",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Raj invested Rs 76000 in a business. After few months Monty joined him and invests Rs 57000. At the end of the year, both of them share the profits at the ratio of 2:1. After how many months Monty joined Raj?",
+			"explanation": "We can simply compute per month investment of both partnership<br>Raj invested Rs 76,000 for 12 months and Monty invested Rs 57,000 for x months.<br>Now 76000 × 12 / 57000 × x = 2 :1<br>=> 76 × 12 / 2 = 57x<br>=> x = 8<br>So Monty invested his money for 8 months and he joined after 4 months.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "4 Months",
+                    "isAnswer":true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "7 Months",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "8 Months",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "12 Months",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "A and B invest in a business in the ratio 3:2. If 5% of the total profit goes to charity and A's share is Rs. 855, the total profit is:",
+			"explanation": "Let the total profit be Rs. 100.<br>After paying to charity, A's share = Rs.95 x3/5 = Rs. 57.<br>If A's share is Rs. 57, total profit = Rs. 100.<br>If A's share Rs. 855, total profit = 100/57x 855= 1500.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Rs. 1425",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Rs. 1500",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "Rs. 1537.50",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Rs. 1576",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Ravi, Ram and Raj together started a business in partnership. The ratio of their capitals is 4:5:9.If their annual profit be Rs. 30600/-. What will be Raj’s share in this profit?",
+			"explanation": "Ravi : Ram : Raj = 4 : 5 : 9<br>Raj’s share = Rs(30600 * 9/18)<br>= Rs(30600 * 1/2) = 15300/-<br>Ram’s share = (30600 * 5/18) = 1700 * 5 = 8500/-<br>Ravi’s share = 6800/-",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Rs. 8500/-",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Rs. 15,300/-",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Rs. 6800/-",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Rs. 15030/-",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Varun, Sachin and Kowshi, enter into a partnership. Varun puts Rs. 500 for 3 months. Sachin Rs. 650 for 8 months and Kowshik Rs. 300 for 11 months. They gain Rs., 840. Find the share of Kowshik.",
+			"explanation": "Varun, Sachin, Koushik's investments 500, 650, 300<br>Investment period = 3, 8, 11<br>Profit ratio 500 x 3 : 650 x 8 : 300 x 11<br>Total profit = Rs 840<br>Share of Koushik = 33 parts<br>= (840/10) x 33 = 277.20",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Rs. 260.20",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Rs. 126",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": " Rs. 277.20",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Rs. 300.80",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A, B and C investment in a partnership in the ratio of 5: 6: 8. The ratio of their profit is 5 : 3: 12. Find the ratio of time for their investment?",
+			"explanation": "Required Ratio = (5/5) : (3/6) : (12/8)<br>= 1 : (1/2) : (3/2)<br>= 2 : 1 : 3",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "1:3:5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "2:1:3",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "1:7:5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "4:3:5",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Sheela started a business in 2009 by investing Rs.50,000. She invested Rs. 20,000 as additional amount in 2010 and her friend Devi joined her with an amount of Rs.70,000. Sheela invested another Rs. 20,000 in 2011 and Anu joined them with Rs. 70,000. At the end of these 3 years, they earned a profit of Rs. 3,00,000. Find Devi's share?",
+			"explanation": "Sheela invested Rs.50,000 for 12 months, Rs.(50000 + 20000) for 12 months and Rs.(50000 + 20000 + 20000) for 12 months.<br>i.e., she invested Rs.50,000 for 12 months, Rs.70000 for 12 months and Rs.90000 for 12 months.<br>Devi invested Rs. 70000 for 2 years; i.e., Rs.70000 for 24 months<br>And, Anu invested Rs.70000 for 1 year; i.e., Rs. 70000 for 12 months.<br>Their investing ratio:<br>Sheela : Devi : Anu = (50,000 x 12 + 70000 x 12 + 90000 x 12):(70000 x 24):(70000 x 12)<br>= (25,20,000):(16,80,000):(8,40,000) = 252:168:84 = 3:2:1<br>Total profit for 3 years = Rs.3,00,000<br>Therefore, Devi's share = Rs.(3,00,000 x 2 /(3+2+1)) = Rs.(3,00,000 x 2/6) = Rs.1,00,000",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Rs.1,00,000",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Rs.1,50,000",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Rs.1,25,000",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "Rs. 75,000",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A,B and C enter into a partnership investing Rs 35000, Rs 45000 and 55000. Find the their respective shares in annual profit of 40,500",
+			"explanation": "A:B:C = 35000:45000:55000 = 7:9:11<br>A's share = (7/27) *40500 = Rs 10500<br>B's share = (9/27) *40500 = Rs 13500<br>C's share = (11/27)*40500 = Rs 16500",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "10500, 13500, 19500",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "10500, 13500, 18500",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "10500, 13500, 17500",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "10500, 13500, 16500",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Anil, Mukesh and Ritesh started a business each investing Rs.20,000. After 4 months Anil withdraws Rs.6000, Mukesh withdraws Rs.8000, Ritesh invests Rs.6000 more At the end of the years, a total profit was Rs.65600. Find the share of Ritesh.",
+			"explanation": "Ratio capital of Anil, mukesh and Ritesh.<br>= ( 20,000 x 4 + 14000 x 8 ) : ( 20,000 x 4 + 12000 x 8 ) : ( 20,000 x 4 + 26000 x 8 )<br>= 192000 : 176000 : 288000<br>Anil share = (65600 x 192 / 656 ) = 19200<br>Mukesh share = ( 65600 x 176 / 656 ) = 17600<br>Ritesh share = (65600 x 288 / 656 ) = 28800/-.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Rs. 20000",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Rs. 28800",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Rs. 17600",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Rs. 19200",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}
