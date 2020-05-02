@@ -302,9 +302,7 @@
 		},
 		{
 			"id": 1018,
-            "name": "An intelligence agency forms a code of two distinct digits selected from 0, 1, 2, …., 9 such that the first digit of the code is nonzero. The code, handwritten on a slip, can
-            however potentially create confusion, when read upsidedown-for example, the code 91 may appear as 16. How many codes are there for which no such confusion can
-            arise?",
+            "name": "An intelligence agency forms a code of two distinct digits selected from 0, 1, 2, …., 9 such that the first digit of the code is nonzero. The code, handwritten on a slip, can however potentially create confusion, when read upsidedown-for example, the code 91 may appear as 16. How many codes are there for which no such confusion can arise?",
 			"explanation": "The available digits are 0,1,2, …9.<br>The first digit can be chosen in 9 ways (0 not acceptable), the second digit can be accepted in 9 ways (digits repetition not allowed).<br>Thus, the code can be made in 9 × 9 = 81 ways.<br>Now there are only 4 digits 1, 6, 8, 9 which can create confusion.<br>Hence, the total number of codes which create confusion are = 4 × 3 = 12.<br>Out of these 12 codes 69 and 96 will not create confusion.Hence, in total 12 – 2 = 10 codes will create confusion.<br>Hence, the total codes without confusion are 81 – 10 = 71.",
             "questionTypeId": 1,
             "options": [
