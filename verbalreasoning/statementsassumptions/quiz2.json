@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Statements and Assumptions Test 2",
+    "description": "Practice Statements and Assumptions Online Test 2",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Statement : Savita made an application to the bank for a loan of Rs 180000 by mortgaging his house to the bank and promised to repay it in 5 years.<br>Assumptions:<br>I. The bank has a practice of granting loans for Rs. 100000 and above.<br>II. The bank accepts house as collateral security against such loans.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Only assumption I is implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Only assumption II is implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Either I or II is implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Both I and II are implicit",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Statement: Sachin wrote to his brother at Bangalore to collect personally the application form the University for the Post-graduation Course in Mathematics.<br>Assumptions:<br>1. The University may issue application forms to a person other than the prospective student.<br>2. Sachin's brother may receive the letter well before the last date of collecting application forms.",
+			"explanation": "Since Sachin has asked his brother to collect the form, it is evident that the university may issue the form to anybody and that Sachin's brother would receive the letter before the last date of collecting the forms. So, both I and II are implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Only assumption I is implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Only assumption II is implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Both I and II are implicit",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Either I or II is implicit",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Statement: Unemployment allowance should be given to all unemployed Indian youth above 18 years of age.<br>Assumptions:<br>There are unemployed youth in India who needs monetary support.<br>The government has sufficient funds to provide allowance to all unemployed youth.",
+			"explanation": "I directly follows from the statement and so is implicit. Also, the statement is a suggestion and does not tell about a government policy or its position of funds. So, II is not implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Only assumption I is implicit",
+                    "isAnswer":true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Only assumption II is implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Either I or II is implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Neither I nor II is implicit",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Statement: Anger is energy, in a more proactive way and how to channellise it is in itself a skill.<br>Assumptions: I. Anger need to be channelized.<br>II. Only skilful people can channellise anger to energy.",
+			"explanation": "In this, the author is not clearly stated whether there is a need to channellise anger into energy or not. So, I is irrelevant. In statement II it is given that channelizing anger to energy is a skill. Here the assumption of the author is that only those people who have the skill can channelize anger to energy. Only II is implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "If only assumption I is implicit.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "If only assumption II is implicit.",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "if either I or II is implicit.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "if neither I or II is implicit.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Statement: The education of a student at collegiate level, not taking into account maintenance expenses, costs four hundred rupees a year. Collegiate education is thus drawing heavily upon the national resources of an impoverished community. So college education should be restricted to a brilliant few.<br>Assumptions:<br>I. Our resources are very limited.<br>II. Only a few students should be admitted to the colleges.",
+			"explanation": "The use of the words 'impoverished community' in the statement makes I implicit while the phrase 'college education should be restricted to a brilliant few' makes II implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Only assumption I is implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Both I and II are implicit",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Either I or II is implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Neither I nor II is implicit",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Statement: It is desirable to put the child in the school at the age of 5 years or so.<br>Assumptions:<br>I. At that age the child reaches appropriate level of development and is ready to learn.<br>II. The schools do not admit children after six years of age.",
+			"explanation": "It is logical to say that at the age of 5 years the child reaches an appropriate level of development and is ready to learn. Hence, an assumption I is very much implicit in the statement. Assumption II is not implicit as it is not relevant.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": " if only assumption I is implicit",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "if only assumption II is implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "if either I or II is implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "if neither I nor II is implicit",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Statement: Quite independent of the global economic meltdown, India's neglect of its physical infrastructure has been a malaise demanding radical treatment.<br>Assumptions:<br>I. Radical treatment would reduce the adverse effects of global economic meltdown and India's neglect of its physical infrastructure.<br>II. Physical infrastructure is the base of high growth trajectory.",
+			"explanation": "The author assumes that the Indian Government should have taken care of its physical infrastructure. Radical change is for physical infrastructure but not global economy.So, I is not an assumption. In the statement nothing is stated about the growth rate. Hence II is irrelevant.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "if only assumption I is implicit.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "if only assumption II is implicit.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "if either I or II is implicit.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "if neither I nor II is implicit",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Statement: The price of the BIG cement has reduced.<br>Assumptions:<br>1) The cement may be of cheap quality.<br>2) The company will suffer losses by reducing the price.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " If only assumption (1) is implicit. ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "If only assumption (2) is implicit.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "If either (1) or (2) is implicit.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "If neither (1) nor (2) is implicit.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Statement: In order to bring punctuality in our office, we must provide conveyance allowance to our employees. In charge of a company tells Personnel Manager.<br>Assumptions:<br>Conveyance allowance will not help in bringing punctuality.<br>Discipline and reward should always go hand in hand.",
+			"explanation": "Assumption I goes against the statement. So, it is not implicit. The allowance will serve as a reward to the employees and shall provoke them to come on time. So, II is implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "Only assumption I is implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "Only assumption II is implicit",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "Either I or II is implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "Neither I nor II is implicit",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Statement: It is desirable to put the child in school at the age of 5 or so.<br>Assumptions:<br>I. At that age, the child reaches an appropriate level of development and is ready to learn.<br>II. The schools do not admit children after six years of age.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Only assumption I is implicit",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Only assumption II is implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Either I or II is implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Neither I nor II is implicit",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

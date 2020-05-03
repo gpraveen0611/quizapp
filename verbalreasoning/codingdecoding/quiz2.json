@@ -1,37 +1,37 @@
 {
     "id": 1,
-    "name": "Analogy Quiz Test 2",
-    "description": "Practice Analogy Quiz Online Test 2",
+    "name": "Coding Decoding Test 2",
+    "description": "Practice Coding – Decoding Online Test 2",
     "questions": [
         {
             "id": 1010,
-            "name": "Paw : Cat :: Hoof : ?",
-			"explanation": "As cat has Paw similarly Horse has Hoof.",
+            "name": "If in a certain language, MADRAS is coded as NBESBT, how is BOMBAY coded in that code?",
+			"explanation": "Each letter in the word is moved one step forward to obtain the corresponding letter of the code.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Lamb",
+                    "name": "CPNCBX",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Elephant",
-                    "isAnswer":false
+                    "name": "CPNCBZ",
+                    "isAnswer":true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Lion",
+                    "name": "CPOCBZ ",
                     "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Horse",
-                    "isAnswer": true
+                    "name": "CQOCBZ",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "Complete analogous pair: Moon : Satellite : : Earth : ?",
-			"explanation": "Moon is a satellite and earth is a planet.",
+            "name": "If PAINT is coded as 74128 and EXCEL IS CODED AS 93596 then how would you encode ACCEPT?",
+			"explanation": "Clearly, in the given code, the alphabets are coded as follows: <br>P A I N T E X C E L<br>7 4 1 2 8 9 3 5 9 6<br>Like A C C E P T<br>4 5 5 9 7 8",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "Sun",
-                    "isAnswer":false
+                    "name": "455978",
+                    "isAnswer":true
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "Planet",
-                    "isAnswer": true
+                    "name": "547978",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Solar System",
+                    "name": "554978",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Asteroid",
+                    "name": "735961",
                     "isAnswer": false
                 }
             ],
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "Man : Biography :: Nation : ?",
-			"explanation": "Second contains the story of the first.",
+            "name": " In a code language if POSE is coded as OQNPRTDF, then the word TYPE will be coded as",
+			"explanation": "The word has been coded in such as way that codes for letter P are OQ (One letter behind and one letter ahead of P in alphabet). Similarly, codes for O are NP and so on.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "Leader",
+                    "name": "SUXZOQFD",
                     "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "People",
+                    "name": "SUXZQOFD",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "Geography",
-                    "isAnswer": false
+                    "name": "SUXZOQDF",
+                    "isAnswer": true
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "History",
-                    "isAnswer": true
+                    "name": "SUXZQODE",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -117,32 +117,32 @@
         },
 		{
 			"id": 1013,
-            "name": "the evening is to morning as dinner is to?",
-			"explanation": "no explanation",
+            "name": "If in a certain code, MICROWAVE is written as LJBSNXZWD, how is POPULAR written in that code?",
+			"explanation": "1st letter - 1, 2nd letter + 1, 3rd letter - 1, 4th letter + 1... Thus, POPULAR --> OPOVKBQ ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "breakfast",
-                    "isAnswer":true
+                    "name": " QBIKVPAV",
+                    "isAnswer":false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "soup",
+                    "name": "OPKVPAV",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "coffee ",
-                    "isAnswer": false
+                    "name": "OPOVKBQ",
+                    "isAnswer": true
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "time",
+                    "name": "KBQVOPAwrong",
                     "isAnswer": false
                 }
             ],
@@ -154,33 +154,33 @@
 		},
 		{
 			"id": 1014,
-            "name": "Architect : Building :: Sculptor : ?",
-			"explanation": "As 'Architect' makes 'Building' similarly 'Sculptor' makes 'Statue'.",
+            "name": "If the TAP is coded as SZO, then how is FREEZE coded?",
+			"explanation": "Clearly, T -1 = S<br>A -1 = Z<br>P -1 = O<br><br>So FREEZE will be, F -1 E<br>R -1 Q<br>E -1 D<br>E -1 D<br>Z -1 Y<br>E -1 D",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Museum",
+                    "name": "ATSSTS",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "Statue",
-                    "isAnswer":false
+                    "name": "EQDDYD",
+                    "isAnswer":true
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "Chisel",
+                    "name": "ESDDYD",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "Stone",
-                    "isAnswer":true
+                    "name": "EQDDZD",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -191,32 +191,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "Crime is related to Police in the same way as Flood is related to",
-			"explanation": "no explanation",
+            "name": "In a certain code IMTITJU is written as TMIIUJT. How is TEMREMP written in that code?",
+			"explanation": "In the given code, the letters of even numbered position have been left as they as they are while the first and the third letters have been interchanged. Similarly, the fifth and the seventh letters have been interchanged.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "Dam",
-                    "isAnswer": true
+                    "name": "METERPM",
+                    "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " River",
-                    "isAnswer":false
+                    "name": "METRPME",
+                    "isAnswer":true
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "Rain",
+                    "name": "ETRMMEP",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "Reservoirwrong",
+                    "name": "MTERPME",
                     "isAnswer": false
                 }
             ],
@@ -228,32 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": "Oxygen : Burn : : Carbon dioxide : ?",
-			"explanation": "Oxygen supports burning while carbon dioxide extinguishes a fire. Hence, option C is correct.",
+            "name": "If in a certain code ROPE is coded as 6821, CHAIR is coded as 73456 what will be the code for CRAPE?",
+			"explanation": "Clearly, in the given code, the alphabets are coded as follows.<br>R O P E C H A I<br>6 8 2 1 7 3 4 5<br>So CRAPE is coded as 76421, So the answer is (2)",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "Isolate",
-                    "isAnswer": false
+                    "name": "73456",
+                    "isAnswer":false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "Foam",
-                    "isAnswer": false
+                    "name": "76421",
+                    "isAnswer": true
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "Extinguish",
-                    "isAnswer": true
+                    "name": "77246",
+                    "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": "Explode",
+                    "name": "77123",
                     "isAnswer":false
                 }
             ],
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Cube is related to Square in the same way as Square is related to",
-			"explanation": "Cube comprises Square on all of its surfaces. In the same way square comprises Line on all of its sides.",
+            "name": "If white is called blue, blue is called red, red is called yellow, yellow is called green, green is called black, black is called violet and violet is called orange, what would be the colour of human blood?",
+			"explanation": "The colour of the human blood is ‘red’, and as it is given that ‘red’ is called ‘yellow’. So, the colour of human blood is ‘yellow’.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "Line",
-                    "isAnswer":true
+                    "name": "Red",
+                    "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": " Triangle ",
+                    "name": "Green",
                     "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "Point",
-                    "isAnswer":false
+                    "name": "Yellow",
+                    "isAnswer":true
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "Plane",
+                    "name": "Violet",
                     "isAnswer": false
                 }
             ],
@@ -302,32 +302,32 @@
 		},
 		{
 			"id": 1018,
-            "name": "As ‘Grain’ is related to ‘Salt’, similarly ‘Chip’ is related to which among the following options?",
-			"explanation": "As we take a grain of salt with a pinch, similarly it’s about the chip of glass.",
+            "name": "Which of the following code for ‘plan’?",
+			"explanation": "We have to find ‘plan’ code. Now the same steps follow. plan is given in first step. Total count of letters is 4 and last letter is N and ‘p’ is coded as & so Final answer will be- &N4",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "pottery",
+                    "name": "%N5",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Wood",
+                    "name": "@E4",
                     "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "grass",
-                    "isAnswer": false
+                    "name": "&N4",
+                    "isAnswer": true
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "glass",
+                    "name": "#E6",
                     "isAnswer": false
                 }
             ],
@@ -339,32 +339,32 @@
 		},
 		{
 			"id": 1019,
-            "name": "TRIAL : JURY :: ?",
-			"explanation": "As 'jury' settles the 'trial' similarly the job of the arbiter is to settle the 'dispute'. Hence the answer is option A.",
+            "name": "In a certain language, the word CASUAL is coded as DZUSDI. How is the word ZODIAC coded in that language?",
+			"explanation": "In this series 1st pair words are followed and preceded by ‘1’ letter,<br>2nd pair words are followed and preceded by ‘2’ letter and 3rd pair words are followed and preceded by ‘3’ letter.<br>So the answer is ANFGDZ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "dispute : arbiter",
-                    "isAnswer": true
+                    "name": "AMFGDZ",
+                    "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "poll : contestant",
+                    "name": "ANGFDZ",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "championship : spectator",
-                    "isAnswer": false
+                    "name": "ANFGDZ",
+                    "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "conference : speaker",
+                    "name": "ANFGDY",
                     "isAnswer": false
                 }
             ],

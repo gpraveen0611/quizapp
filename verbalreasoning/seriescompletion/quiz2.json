@@ -1,37 +1,37 @@
 {
     "id": 1,
-    "name": "Analogy Quiz Test 2",
-    "description": "Practice Analogy Quiz Online Test 2",
+    "name": "Series Completion Quiz Reasoning Test 2",
+    "description": "Practice Series Completion Reasoning Online Test 2",
     "questions": [
         {
             "id": 1010,
-            "name": "Paw : Cat :: Hoof : ?",
-			"explanation": "As cat has Paw similarly Horse has Hoof.",
+            "name": "In the following question, a number series is given with one term missing. Choose the correct alternative that will the same pattern and fill in the blank spaces.: 1, 4, 9, 16, 25, x",
+			"explanation": "The numbers are 1^2, 2^2, 3^2, 4^2, 5^2. <br> .'. Missing number = 62 = 36.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Lamb",
+                    "name": "35",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Elephant",
-                    "isAnswer":false
+                    "name": "36",
+                    "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Lion",
-                    "isAnswer":false
+                    "name": "48",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Horse",
-                    "isAnswer": true
+                    "name": "49",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -42,33 +42,33 @@
         },
         {
             "id": 1011,
-            "name": "Complete analogous pair: Moon : Satellite : : Earth : ?",
-			"explanation": "Moon is a satellite and earth is a planet.",
+            "name": "4, 12, 36, 108, ?",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "Sun",
+                    "name": "124",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "Planet",
-                    "isAnswer": true
+                    "name": "216",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Solar System",
+                    "name": "304",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Asteroid",
-                    "isAnswer": false
+                    "name": "324",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "Man : Biography :: Nation : ?",
-			"explanation": "Second contains the story of the first.",
+            "name": "120, 99, 80, 63, 48, ?",
+			"explanation": "The pattern is – 21, – 19, – 17, – 15,…..So, missing term = 48 – 13 = 35.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "Leader",
-                    "isAnswer":false
+                    "name": "35",
+                    "isAnswer": true
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "People",
+                    "name": "38",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "Geography",
+                    "name": "39",
                     "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "History",
-                    "isAnswer": true
+                    "name": "40",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -117,32 +117,32 @@
         },
 		{
 			"id": 1013,
-            "name": "the evening is to morning as dinner is to?",
-			"explanation": "no explanation",
+            "name": "AZ, CX, FU, ?",
+			"explanation": "no explanation ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "breakfast",
-                    "isAnswer":true
+                    "name": "IR",
+                    "isAnswer": false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "soup",
+                    "name": "IV",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "coffee ",
-                    "isAnswer": false
+                    "name": "JQ",
+                    "isAnswer": true
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "time",
+                    "name": "KP ",
                     "isAnswer": false
                 }
             ],
@@ -154,33 +154,33 @@
 		},
 		{
 			"id": 1014,
-            "name": "Architect : Building :: Sculptor : ?",
-			"explanation": "As 'Architect' makes 'Building' similarly 'Sculptor' makes 'Statue'.",
+            "name": "Complete the series 2,2,5, 13,28,....",
+			"explanation": "+1^2-1, +2^2-1, +3^2-1,+4^2-1<br>5^2-1 = 28 + 24= 52",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Museum",
+                    "name": "50",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "Statue",
-                    "isAnswer":false
+                    "name": "51",
+                    "isAnswer": false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "Chisel",
-                    "isAnswer":false
+                    "name": "52",
+                    "isAnswer": true
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "Stone",
-                    "isAnswer":true
+                    "name": "53",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -191,32 +191,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "Crime is related to Police in the same way as Flood is related to",
-			"explanation": "no explanation",
+            "name": "0.5,0.55,0.65,0.8,?",
+			"explanation": "The pattern is + 0.05,0.10,+ 0.15,....<br>Missing number = 0.8 + 0.20 = 1.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "Dam",
-                    "isAnswer": true
+                    "name": "0.9",
+                    "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " River",
-                    "isAnswer":false
+                    "name": "1",
+                    "isAnswer": true
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "Rain",
+                    "name": "0.82",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "Reservoirwrong",
+                    "name": "0.95",
                     "isAnswer": false
                 }
             ],
@@ -228,32 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": "Oxygen : Burn : : Carbon dioxide : ?",
-			"explanation": "Oxygen supports burning while carbon dioxide extinguishes a fire. Hence, option C is correct.",
+            "name": "0,2,3,5,8,10,15,17,24,26,?",
+			"explanation": "The given sequence is a combination of two series :<br>I. 0,3,8,15,24,(.....) and II. 2,5,10,17,26. The pattern in both I and II is +3,+5,+7,+9,Missing number = 24 + 11 = 35.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "Isolate",
-                    "isAnswer": false
+                    "name": "35",
+                    "isAnswer": true
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "Foam",
+                    "name": "30",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "Extinguish",
-                    "isAnswer": true
+                    "name": "32",
+                    "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": "Explode",
+                    "name": "28",
                     "isAnswer":false
                 }
             ],
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Cube is related to Square in the same way as Square is related to",
-			"explanation": "Cube comprises Square on all of its surfaces. In the same way square comprises Line on all of its sides.",
+            "name": "3, 10, 101,?",
+			"explanation": "Each term in the series is obtained by adding 1 to the square of the preceding term. <br>So, missing term = (101)2 + 1 = 10202.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "Line",
-                    "isAnswer":true
+                    "name": "10101",
+                    "isAnswer": false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": " Triangle ",
+                    "name": "10201",
                     "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "Point",
-                    "isAnswer":false
+                    "name": "10202",
+                    "isAnswer": true
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "Plane",
+                    "name": "11012",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "As ‘Grain’ is related to ‘Salt’, similarly ‘Chip’ is related to which among the following options?",
-			"explanation": "As we take a grain of salt with a pinch, similarly it’s about the chip of glass.",
+            "name": "589654237, 89654237, 8965423, 965423, ?",
+			"explanation": "The digits are removed one by one from the beginning and the end in order alternately so as to obtain the subsequent terms of the series.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "pottery",
+                    "name": "58965",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Wood",
+                    "name": "65423",
                     "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "grass",
+                    "name": "89654",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "glass",
-                    "isAnswer": false
+                    "name": "96542 ",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -339,32 +339,32 @@
 		},
 		{
 			"id": 1019,
-            "name": "TRIAL : JURY :: ?",
-			"explanation": "As 'jury' settles the 'trial' similarly the job of the arbiter is to settle the 'dispute'. Hence the answer is option A.",
+            "name": " Find the missing number in the following series?<br>3, 5, 5, 19, 7, 41, 9, ?",
+			"explanation": "Fiest series : 3, 5, 7, 9<br>Second series : 5, 19, 41, ?<br>Difference of Second series are 14, 22, 30 etc<br>Next term is 41+30 i.e equal to 71",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "dispute : arbiter",
+                    "name": "71",
                     "isAnswer": true
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "poll : contestant",
+                    "name": "61",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "championship : spectator",
+                    "name": "79",
                     "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "conference : speaker",
+                    "name": "69",
                     "isAnswer": false
                 }
             ],

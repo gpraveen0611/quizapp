@@ -1,37 +1,37 @@
 {
     "id": 1,
-    "name": "Blood Relations Test 2",
-    "description": "Practice Blood Relations Online Test 2",
+    "name": "Inferences Reasoning Test 2",
+    "description": "Practice Inferences Reasoning Online Test 2",
     "questions": [
         {
             "id": 1010,
-            "name": "Pointing to a girl in the photograph, Ajay said, Her mother's brother is the only son of my mother's father. How is the girl's mother related to Ajay?",
-			"explanation": "Only son of Ajay's mother's father -- Ajay's maternal uncle.<br>So, the girl's maternal uncle is Ajay's maternal uncle.<br>Thus, the girl's mother is Ajay's aunt.",
+            "name": " Should the institute conduct classes in remote villages?<br>Arguments:<br>I. Yes, this will help those students who belong to villages and cannot visit urban areas for studies. <br>II. No, this is not an economically viable proposal, as the number of students who attend such classes cannot contribute to break-even.",
+			"explanation": "Statement I: The basic purpose of conducting classes is to help students. Hence, a statement I is a strong argument as it conveys this idea. <br> Statement II: If the institute conducts classes with the intention of making profits, then this is a valid point to be considered. Hence, statement II is also strong.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Mother",
+                    "name": "if only argument I is strong.",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Sister",
+                    "name": "if only argument II is strong.",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Aunt",
-                    "isAnswer":true
+                    "name": "if either I or II is strong.",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Grandmother",
-                    "isAnswer": false
+                    "name": "If both I and II are strong.",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": " If 'X $ Y' means 'X is father of Y'; 'X # Y' means 'X is mother of Y'; 'X × Y' means 'X is sister of Y', then how is D related to N in N # A $ B × D ?",
-			"explanation": "N # A $ B × D means N is the mother of A, who is the father of B, who is the sister of D. Thus, <br>D is the son or daughter of A and N is the mother of A. <br>So, D is the grandson or granddaughter of N.",
+            "name": "Statements: The interview panel may select a candidate who neither possesses the desired qualifications nor the values and attributes.<br>Conclusions: I. The inclusion of specialists on the interview panel does not guarantee that the selection will be proper.<br>II. The interview test has certain limitations in the matter of selection of candidates.",
+			"explanation": "Clearly, both I and II correctly explain the given statement. So, both follow.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "Nephew",
+                    "name": "Only conclusion I follows",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "Grandson",
+                    "name": "Only conclusion II follows",
                     "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Granddaughter",
+                    "name": " Either I or II follows",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Cannot be Determined ",
+                    "name": "Both I and II follow",
                     "isAnswer": true
                 }
             ],
@@ -79,33 +79,33 @@
         },
         {
             "id": 1012,
-            "name": "Pointing to a photograph, Vipul said, She is the daughter of my grandfather's only son. How is Vipul related to the girl in the photograph?",
+            "name": " People are always less happy to accept scientific data they feel contradicts their preconceived beliefs. No surprise here; no human likes to be wrong. But science isn't supposed to care about preconceived notions. Science, at least good science, tells us about the world as it is, and not as some wish it to be. Sometimes what science finds is consistent with a particular religion's wishes. But usually, it is not. What can be inferred about good science?",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "Father",
+                    "name": "A good science is well received by the educated people.",
                     "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "Brother",
-                    "isAnswer":true
+                    "name": "A good science is based on concrete results obtained through testing the hypothesis.",
+                    "isAnswer": true
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "Cousin",
+                    "name": "A good science and religion are same.",
                     "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "Uncle",
+                    "name": "A good science will always prove the general populace wrong.",
                     "isAnswer": false
                 }
             ],
@@ -117,32 +117,32 @@
         },
 		{
 			"id": 1013,
-            "name": "A is B's sister. C is B's mother. D is C's father. E is D's mother. Then, how is A related to D?",
-			"explanation": "A is the sister of B and B is the daughter of C. So, A is the daughter of C. Also, D is the father of C. So, A is the granddaughter of D.",
+            "name": " The most recent case of euthanasia in India was that of a Mumbai couple who approached the courts to seek medical termination of a pregnancy after the legally permissible abortion time limit had been crossed. According to the parents, the foetus had been detected to have serious disabilities which would affect the quality of life of the child if born. The court denied them permission, giving its own logic underlining the unborn baby’s right to live despite disabilities. Fortunately or unfortunately, the issue was resolved in a different way when the mother suffered a miscarriage a little later and lost the baby.<br> Globally, in a landmark case, a British teenage girl won the right to die the way she wants. Terminally ill Hanah Jones, just 13 years old, has spent much of the past eight years in hospital wards undergoing treatment for leukaemia. Euthanasia is complex because the issue is attached to ending life, voluntarily. Surprisingly, today it has been legalised only in a handful of countries. But here too and elsewhere the many forms of euthanasia have been taken into consideration. <br> The Mumbai couple approached the court because the courts have the authority to sanction euthanasia. Hence, the inference is definitely true? ",
+			"explanation": "no explanation ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "Granddaughter",
+                    "name": "if you think that the answer is definitely true.",
                     "isAnswer":true
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "Grandfather",
+                    "name": "if you think that the answer is probably true.",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "Daughterwrong",
+                    "name": "if the data provided is inadequate to answer the question.",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "Grandmother",
+                    "name": "if the answer is definitely false.",
                     "isAnswer": false
                 }
             ],
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "Pointing to a photograph, a man said, 'I have no brother or sister but that man's father is my father's son.' Whose photograph was it?",
-			"explanation": "Since the person who is telling has no brother or sister, so his father-son is he himself. So the man in the photograph is his son.",
+            "name": "The granite produced in India does not match with the quality of international level.",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "His own",
+                    "name": "if you think that the answer is definitely true.",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "His Son",
-                    "isAnswer":true
+                    "name": "if you think that the answer is probably true.",
+                    "isAnswer": false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "His Father",
-                    "isAnswer":false
+                    "name": "if the data provided is inadequate to answer the question.",
+                    "isAnswer": true
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "His Grandfather",
+                    "name": "if the answer is definitely false.",
                     "isAnswer":false
                 }
             ],
@@ -191,32 +191,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "There are six children playing. Football namely A, B, C, D, E, and E. A and E are a brother. F is the sister of E, C is the only son of A's. Uncle B and D are the daughters of the brother of C's father. How is D related to A?",
+            "name": "Statements: In a one day cricket match, the total runs made by a team were 200. Out of these 160 runs were made by spinners <br>Conclusions: <br>I 10% of the team consists of spinners<br>II The opening batsmen were spinners",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "Uncle",
+                    "name": "Only conclusion I follows",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "Sister",
+                    "name": "Only conclusion II follows",
                     "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "Niece",
+                    "name": "Either I or II follows",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "Cousin",
+                    "name": "Neither conclusion I nor II follows",
                     "isAnswer": true
                 }
             ],
@@ -228,32 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": "Ravi said to Seeta, 'Your mother is the daughter of my grandmother'. How are Ravi and ",
-			"explanation": "Grandmother— Grandmother-mother<br>Sita's mother-Daughter<br>Ravi— Sita",
+            "name": "____ is easy for humans, but difficult for computers",
+			"explanation": "A statement is given followed by two inferences I and II. You have to consider the statement to be true even if it seems to be at variance from commonly known facts. You have to decide which of the given inferences, if any, follow from the given statement.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "Uncle - Niece",
+                    "name": "Drawing inferences",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "Cousin",
+                    "name": "Induction",
                     "isAnswer": true
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "Father - Daughter",
+                    "name": "Deduction",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": "None of these",
+                    "name": "None of the above",
                     "isAnswer":false
                 }
             ],
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?",
-			"explanation": "If D is Male, the answer is Nephew.<br>If D is Female, the answer is Niece.<br>As the sex of D is not known, hence, the relation between D and A cannot be determined.",
+            "name": "Should the institute conduct classes in remote villages? <br> Arguments: <br>I. Yes, this will help those students who belong to villages and cannot visit urban ares for studies. <br>II. No, this is not an economically viable proposal, as the number of students who attend such classes cannot contribute to break-even.",
+			"explanation": "Statement I: The basic purpose of conducting classes is to help students. Hence, statement I is a strong argument as it conveys this idea. <br> Statement II: If the institute conducts classes with the intention of making profits, then this is a valid point to be considered. Hence, statement II is also strong.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "Brother",
-                    "isAnswer":false
+                    "name": "if only argument I is strong.",
+                    "isAnswer": false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": " Sister",
+                    "name": "if only argument II is strong.",
                     "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "Nephew",
+                    "name": "if either I or II is strong.",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "Cannot be determined",
+                    "name": "If both I and II are strong",
                     "isAnswer": true
                 }
             ],
@@ -302,32 +302,32 @@
 		},
 		{
 			"id": 1018,
-            "name": "Pointing to a photograph of a boy Suresh said, “He is the son of the only son of my mother.” How is Suresh related to that boy?",
-			"explanation": "The boy in the photograph is the only son of the son of Suresh’s mother<br> i.e., the son of Suresh. Hence, Suresh is the father of a boy.",
+            "name": "Statements: I know nothing except the fact of my ignorance. <br>Conclusions: <br>I. Writer's knowledge is very poor. <br>II. The world of knowledge is too vast to be explored by a single person.",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "Brother",
+                    "name": "Only conclusion I follows",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Father",
+                    "name": "Only conclusion II follows",
                     "isAnswer": true
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "Uncle",
+                    "name": "Either I or II follows",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "Cousin",
+                    "name": "Neither I nor II follows",
                     "isAnswer": false
                 }
             ],
@@ -339,32 +339,32 @@
 		},
 		{
 			"id": 1019,
-            "name": "Introducing a girl, a boy said, 'She is the daughter of the mother of the daughter of my aunt.' How is the girl related to the boy?",
-			"explanation": "Break the given sentence at is.<br>Resolving from the last,<br>Daughter of my aunt - cousin<br>Mother of my cousin - aunt<br>Daughter of my aunt - cousin.<br>So, the answer is a cousin.",
+            "name": " My brother usually gets off work around 6; so he’ll probably get off around 6 today.",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "Cousin",
+                    "name": "Inductive reasoning",
                     "isAnswer": true
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Niece",
+                    "name": " Deductive reasoning",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Daughter",
+                    "name": "Observation",
                     "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "Aunt",
+                    "name": "None of the above",
                     "isAnswer": false
                 }
             ],

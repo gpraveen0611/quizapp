@@ -1,37 +1,37 @@
 {
     "id": 1,
-    "name": "Analogy Quiz Test 2",
-    "description": "Practice Analogy Quiz Online Test 2",
+    "name": "Symbols and Notations Test 2",
+    "description": "Practice Symbols and Notations Online Test 2",
     "questions": [
         {
             "id": 1010,
-            "name": "Paw : Cat :: Hoof : ?",
-			"explanation": "As cat has Paw similarly Horse has Hoof.",
+            "name": "These questions are based on the following information.<br>( I ) 'A * B' means 'A is father of B'<br>( II ) 'A – B' means 'A is sister of B'<br>( III ) 'A + B' means 'A is mother of B'<br>( IV ) 'A/B' means 'A is sister of B'<br>In the expression D + F * O / P, how is O related to D?",
+			"explanation": "D + F * O / P<br>D + F means D is mother of F<br>F * O means F is father of O<br>O * P means O is brother of P",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Lamb",
+                    "name": "Grand daughter",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Elephant",
+                    "name": "Son",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Lion",
-                    "isAnswer":false
+                    "name": "Grand Son ",
+                    "isAnswer":true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Horse",
-                    "isAnswer": true
+                    "name": "Daughter",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -42,33 +42,33 @@
         },
         {
             "id": 1011,
-            "name": "Complete analogous pair: Moon : Satellite : : Earth : ?",
-			"explanation": "Moon is a satellite and earth is a planet.",
+            "name": "a + b means a is neither less than nor equal to b.<br>a - b means a is neither smaller nor greater than b.<br>a = b means a is not less than b.<br>a * b means a is not greater than b.<br>a / b means a is neither greater than nor equal to b.<br>Statement: A + B, B * C, C * D<br>Conclusions: I. A + D<br>II. A = C",
+			"explanation": "a + b means a > b, a - b means a = b, a = b means a > b, a * b means a < b and a / b means a < b.<br>According to the statement<br>A + B => A > B<br>B * C => B < C<br>C * D => C < D<br>A > B < C < D<br>Conclusion (1): A + D => A > D which can not be definitely determined because A could be either greater than, less than or equal to D.<br>Conclusion (II): A = C => A > C<br>Which can not be determined as A can be less than C.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "Sun",
+                    "name": "if only conclusion (I) follows",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "Planet",
-                    "isAnswer": true
+                    "name": "if only conclusion (II) follows",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Solar System",
+                    "name": "if both conclusions (I) and (II) follows",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Asteroid",
-                    "isAnswer": false
+                    "name": "if neither (I) nor (II) follows",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "Man : Biography :: Nation : ?",
-			"explanation": "Second contains the story of the first.",
+            "name": "A + B means A is the son of B; A – B means A is the wife of B; A*B means A is the brother of B; A/B means A is the mother of B and A = B means A is the sister of B. What does P + R –Q mean?",
+			"explanation": "Clearly, P + R – Q means P is the son of R who is the wife of Q i.e. Q is the father of P.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "Leader",
-                    "isAnswer":false
+                    "name": "Q is the father of P",
+                    "isAnswer":true
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "People",
+                    "name": "Q is the son of P",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "Geography",
+                    "name": "Q is the uncle of P",
                     "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "History",
-                    "isAnswer": true
+                    "name": "Q is the brother of P",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -117,32 +117,32 @@
         },
 		{
 			"id": 1013,
-            "name": "the evening is to morning as dinner is to?",
-			"explanation": "no explanation",
+            "name": " IF ‘+’ stands for ‘-‘ , ‘-‘ stands for ‘x’, ’x’ stands for ‘÷’and ‘÷’stands for ‘+’then what is the value of 56x7÷13-11+15-8÷2-7?",
+			"explanation": "Changing the symbols as given in the problem the above expression is<br>56÷7+13x11-15x8+2x7<br>Solving the BODMAS rule, we get 8+143-120+14=165-120=45.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "breakfast",
+                    "name": "45",
                     "isAnswer":true
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "soup",
+                    "name": "30",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "coffee ",
+                    "name": "60",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "time",
+                    "name": "90",
                     "isAnswer": false
                 }
             ],
@@ -154,33 +154,33 @@
 		},
 		{
 			"id": 1014,
-            "name": "Architect : Building :: Sculptor : ?",
-			"explanation": "As 'Architect' makes 'Building' similarly 'Sculptor' makes 'Statue'.",
+            "name": "Statements :<br>R % N, N # F, F @ B<br> Conclusions: I. F & R<br>II. B $ N",
+			"explanation": "i) A © B ? A = B<br>(ii) A % B ? A = B<br>(iii)A * B ? A > B<br>(iv) A @ B ? A = B<br>(v) A $ B ? A < B<br>R % N ? R = N<br>N # F ? N = F<br>F @ B ? F > B<br>? R = N = F > B<br>Conclusions<br>I. F & R ? F = R : Not True<br>II. B $ N ? B < N : True",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Museum",
+                    "name": "If only conclusion I is true",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "Statue",
-                    "isAnswer":false
+                    "name": "If only conclusion II is true",
+                    "isAnswer":true
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "Chisel",
+                    "name": "if either conclusion I or conclusion II is true",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "Stone",
-                    "isAnswer":true
+                    "name": "If neither conclusion I nor conclusion II is true",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -191,32 +191,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "Crime is related to Police in the same way as Flood is related to",
-			"explanation": "no explanation",
+            "name": "If A @ B means ‘A is the mother of B’, A # B means ‘A is the brother of B’, A * B means ‘A is the sister of B’, A % B means ‘A is the father of B’, then which of the following indicates the relationship R is the grandmother of Q?",
+			"explanation": "You can solve these problems by checking the options one by one.<br>Let us consider option a) R @ P * S % Q<br>R @ P – R is the mother of P<br>P * S – P is the sister of S<br>S % Q – S is the father of Q<br>From these 3 statements, we can write that R is the mother of P and S and S is the father of Q.<br>Therefore, R is the grandmother of Q.<br>Thus option a) is the answer. (In case, if it did not match you have to check each option in the same way to find the answer.)<br>Hence, the answer is R @ P * S % Q.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "Dam",
+                    "name": "R @ P * S % Q",
                     "isAnswer": true
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " River",
+                    "name": "P @ R % S * Q",
                     "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "Rain",
+                    "name": "P $ R @ S * Q",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "Reservoirwrong",
+                    "name": "R * Q $ S # P",
                     "isAnswer": false
                 }
             ],
@@ -228,32 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": "Oxygen : Burn : : Carbon dioxide : ?",
-			"explanation": "Oxygen supports burning while carbon dioxide extinguishes a fire. Hence, option C is correct.",
+            "name": " Select the correct combination of mathematical sings to replace # signs and to balance the given equation.<br>4 * 6 * 6 * 2 * 20 ",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "Isolate",
+                    "name": "+÷ = ÷",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "Foam",
-                    "isAnswer": false
+                    "name": "× - + =",
+                    "isAnswer": true
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "Extinguish",
-                    "isAnswer": true
+                    "name": "+ - = ÷",
+                    "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": "Explode",
+                    "name": "- + = ÷",
                     "isAnswer":false
                 }
             ],
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Cube is related to Square in the same way as Square is related to",
-			"explanation": "Cube comprises Square on all of its surfaces. In the same way square comprises Line on all of its sides.",
+            "name": "Find the missing term:<br>5 10 16 ? 31 40",
+			"explanation": "10-5=5<br>16-10=6<br>23-16=7<br>So, Ans = 23",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "Line",
-                    "isAnswer":true
+                    "name": "21",
+                    "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": " Triangle ",
+                    "name": "32",
                     "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "Point",
-                    "isAnswer":false
+                    "name": "23",
+                    "isAnswer":true
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "Plane",
+                    "name": "None of these",
                     "isAnswer": false
                 }
             ],
@@ -302,32 +302,32 @@
 		},
 		{
 			"id": 1018,
-            "name": "As ‘Grain’ is related to ‘Salt’, similarly ‘Chip’ is related to which among the following options?",
-			"explanation": "As we take a grain of salt with a pinch, similarly it’s about the chip of glass.",
+            "name": "Select the correct combination of mathematical signs to replace ? signs and to balance the given equation.<br>8 ? 5 ? 2 ?72 ? 4",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "pottery",
+                    "name": "= ×+÷",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Wood",
-                    "isAnswer": false
+                    "name": "+× = ÷",
+                    "isAnswer": true
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "grass",
+                    "name": "× =+÷",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "glass",
+                    "name": "×+ = ÷",
                     "isAnswer": false
                 }
             ],
@@ -339,32 +339,32 @@
 		},
 		{
 			"id": 1019,
-            "name": "TRIAL : JURY :: ?",
-			"explanation": "As 'jury' settles the 'trial' similarly the job of the arbiter is to settle the 'dispute'. Hence the answer is option A.",
+            "name": "A $ B means A is the father of B; A # B means A is the sister of B; A * B means A is the daughter of B and A @ B means A is the brother of B. Which of the following indicates that M is the wife of Q?",
+			"explanation": "Q $ R ? Q is the father of R. R @ T  R is the brother of T Hence, Q is the father of T T * M ? T is the daughter of M Hence, M is the mother of T Hence, M is the wife of Q.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "dispute : arbiter",
-                    "isAnswer": true
+                    "name": "Q $ R # T @ M ",
+                    "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "poll : contestant",
+                    "name": "Q $ R @ T # M",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "championship : spectator",
+                    "name": "Q $ R * T # M",
                     "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "conference : speaker",
+                    "name": "Q $ R @ T * M",
                     "isAnswer": false
                 }
             ],

@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Sequential Output Training Test 2",
+    "description": "Practice Sequential Output Training Online Test 2",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Input: 15 give not hot 45 33 for<br>Step I: for give not hot 45 33 15<br>Step II: for not give hot 33 45 15<br>Step III: 15 not give hot 33 45 for<br>Step IV: 15 give not hot 45 33 hot<br>Step V: for give not hot 45 33 15<br>If ’19 36 43 50 31 22 25’ is the input, then find out the step IV?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "43 19 36 50 31 22 25",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "25 22 31 50 43 36 19",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "50 31 22 25 43 36 19",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "19 36 43 50 31 22 25",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "The first term in a sequence is 1 and the second term is 5. From the third term on each term is the average (arithmetic mean) of all preceding terms. What is the 25th term in the sequence?",
+			"explanation": "Start constructing the sequence until you see the pattern1...5...(average of 1 and 5 = 3)...(average of 1, 5, and 3 = 3)...(average of 1,5,3 and 3 = 3)<br>now you can see that all subsequent terms will be 3",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "2.5",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "3",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "2.5",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "An electronic device rearranges numbers step-by-step in a particular order according to set of rules. The device stops when the final result is obtained.<br>Input: 84 15 35 04 18 96 62 08<br>Step 1: 96 84 15 35 04 18 62 08<br><br>Step 2: 96 84 62 15 35 04 18 08<br>Step 3: 96 84 62 35 15 04 18 08<br>Step 4: 96 84 62 35 18 15 04 08<br>Step 5: 96 84 62 35 18 15 08 04<br>And Step 5 is the last step for this input. Now, find out an appropriate step in the following question following the above rule.<br>Input: 16 09 24 28 15 04<br>What will be the third step for this input?",
+			"explanation": "Carefully observing the given arrangement, we find the following pattern:<br>We observe that the given numbers are arranged in descending order (from left to right), altering the position of only one number in each step, followed by the other numbers as it is. The process continues till the whole set of numbers is arranged in the descending order.<br>Step1: 28 16 09 24 15 04<br>Step2: 28 24 16 09 15 04<br>Step3: 28 24 16 15 09 04<br>Hence, the answer is B",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "28 24 15 16 04 09",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "28 24 16 15 09 04",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "24 28 15 16 09 04",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "28 24 16 15 04 09",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Input:done with 41 17 one 13 front 24<br>Step I: with done 41 17 one 13 front 24<br>Step II: with 13 done 41 17 one front 24<br>Step III: with 13 one done 41 17 front 24<br>Step IV: with 13 one 41 done 17 front 24<br>Step V: with 13 one 41 front done 17 24<br>Step VI: with 13 one 41 front 24 done 17 And<br>step VI is the last step of the above input.<br>As per the rules followed in the above step, find out the appropriate step for the above input. Input: daughter female 45 16 painter 23 elder grand 22 42<br>The following output will be in which step? Painter 22 grand 23 female daughter 45 16 elder 42",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "III",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "IV",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "VI",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "V",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "A number sorting machine when given an input of numbers, rearranges them in a particular manner step-by-step as indicated below till all the numbers are arranged. Given<br>below is an illustration of this arrangement.<br>Input : 39 121 48 18 76 112 14 45 63 96<br>Step I : 14 39 121 48 18 76 112 45 63 96<br>Step II : 14 39 48 18 76 112 45 63 96 121<br>Step III : 14 18 39 48 76 112 45 63 96 121<br>Step IV : 14 18 39 48 76 45 63 96 112 121<br>Step V : 14 18 39 45 48 76 63 96 112 121<br>Step VI : 14 18 39 45 48 63 76 96 112 121<br>And Step VI is the last step for this input.<br>How many steps will be required for getting the final output for the following input?<br>Input : 101 85 66 49 73 39 142 25 115 74",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Five",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Seven",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Six",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Eight",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Study the following information carefully and answer the given questions:<br>A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an<br>illustration of input and rearrangement:<br>Input: now 41 28 for join 37 go 61<br>Step I: 61 now 41 28 for join 37 go<br>Step II: 61 for now 41 28 join 37 go<br>Step III: 61 for 41 now 28 join 37 go<br>Step IV: 61 for 41 go now 28 join 37<br>Step V: 61 for 41 go 37 now 28 join<br>Step VI: 61 for 41 go 37 join now 28<br>Step VII: 61 for 41 go 37 join 28 now<br>Step VIII: is the last step for this input.<br>As per the rules followed in the above steps, find out in each of the following questions the appropriate step for the given input.<br>Input: chair wood 21 42 59 height bench 78. How many steps will be required to complete the rearrangement?",
+			"explanation": "The logic is: the words get arranged in alphabetical order. Where as the numbers get arranged in descending order. Numbers occupy odd places in the final steps while<br>words occupy even positions. When any element gets arranged, the previous element occupying that position shifts one place towards right.<br>Input: chair wood 21 42 59 height bench 78<br>Step I: 78 chair wood 21 42 59 height bench<br>Step II: 78 bench 59 chair wood 21 42 59 height<br>Step III: 78 bench 59 chair wood 21 42 height<br>Step IV: 78 bench 59 chair 42 wood 21 height<br>Step V: 78 bench 59 chair 42 height wood 21<br>Step VI: 78 bench 59 chair 42 height 21 wood<br>Hence, step VI is the last step.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Three",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Four",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Five",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Six",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "An electronic device when fed with the numbers, rearranges them in a particular order following certain rules. The following is a step-by-step process of rearrangement<br>for the given input of numbers.<br>Input :- 85 16 36 04 19 97 63 09<br>Step I :- 97 85 16 36 04 19 63 09<br>Step II :- 97 85 63 16 36 04 19 09<br>Step III :- 97 85 63 36 16 04 19 09<br>Step IV :- 97 85 63 36 19 16 04 09<br>Step V :- 97 85 63 36 19 16 09 04 (for the given input step V is the last step). Which of the following will be Step III for the given input ?<br>Input :- 09 25 16 30 32 19 17 06",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "32 09 25 16 30 19 17 06",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "32 30 09 25 16 19 17 06",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "32 30 25 09 16 19 17 06",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "35 25 09 16 30 19 17 06",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Input: every and peer to an for Which of the following steps would be 'an and every for peer to'?",
+			"explanation": "Input :<br>every and peer to an for<br>Step I :<br>an every and peer to for<br>Step II :<br>an and every peer to for<br>Step III :<br>an and every for peer to",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "II",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "III",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "IV",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "V",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Which of the following will be the last step for the given input?<br>Input : 16 09 25 27 06 05",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "I",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "II",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "III",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "IV",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Input: unique ask van pin fan egg charger oil ink mobile<br>Step I: unique ask van pin fan egg oil ink mobile charger<br>Step II: fan unique ask van pin egg ink mobile charger oil<br>Step III: ink fan unique ask van pin egg charger oil mobile<br>Step IV: pin ink fan unique ask van charger oil mobile egg<br>Step V: ask pin ink fan unique charger oil mobile egg van<br>And Step V is the last step of the rearrangement.<br>Which word would be at fifth position from the right end in step II?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "rat",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "pen",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "net",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "item",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

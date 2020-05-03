@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Evaluating Course of Action Test 2",
+    "description": "Practice Evaluating Course of Action Online Test 2",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Statement: Ministry of Tourism in its one of the reports revealed that due to recent social disturbances in the country, the number of foreign tourists has decreased considerably, which resulted in a financial loss of Rs.100 crore.<br>Courses of Action:<br>I. The Government should provide financial support to the tourism sector.<br>II. Foreign tourists should be informed that they visit the country at their risk.",
+			"explanation": "Financial support to the tourism sector is not a permanent solution. Secondly, a constant risk for the foreign tourists will never encourage tourism in India. Hence, none of the courses action is the right solution in this direction.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "If only conclusion I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "If only conclusion II follows.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "If either I or II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "If neither I nor II follows.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Statement: Huge amount of resources are required to develop tourist places in a country like India, which is endowed with vast coastlines, rivers, forests, temples etc<br>Courses of Action:<br>I. More tourist resorts along the coastlines only should be started<br>II. The tourist potential of India should be exploited",
+			"explanation": "As in the given statement, India is already endowed with tourist spots. Therefore, the existing potential should be exploited.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "If only conclusion I follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "If only conclusion II follows",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "If either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "If neither I nor II follows",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Statement: A large number of people in ward X of the city are diagnosed to be suffering from a fatal malaria type.<br>Courses of Action:<br>The city municipal authority should take immediate steps to carry out extensive fumigation in ward X.<br>The people in the area should be advised to take steps to avoid mosquito bites.",
+			"explanation": "Clearly, prevention from mosquitoes and elimination of mosquitoes are two ways to prevent malaria. So, both the courses follow.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Only I follows",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Only II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Both I and II follow",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Statement:<br>A large number of people in Rampur city are diagnosed to be suffering from a dengue.<br>Courses of Action:<br>I. The city municipal authority should take immediate steps to carry out extensive fumigation in Rampur.<br>II. The citizens of Rampur should be advised to take proper steps to prevent mosquito bites.",
+			"explanation": "Clearly,<br>I. Elimination of mosquitoes<br>II. Prevention from mosquitoes<br>Both the two Courses of Action will prevent dengue and reduce the problem. So, both the courses follow and answer is option (e)",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "If only I follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": " If only II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "If neither I nor II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "If both I and II follow",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Statement: Many people in city Y are suffering from flu.<br>Action:<br>I. The Municipal Corporation should take immediate steps to control the disease.<br>II. People in the city should be advised to take certain measures from their end to prevent the disease.",
+			"explanation": "So here, both the options have a positive approach and objective of both the approaches is to treat and eradicate the disease.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Only I follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Only II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Either I or II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Both I and II follow",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Statement: The World Bank estimates that India is one of the highest-ranking countries in the world for the number of children suffering from malnutrition.<br>Action:<br>I. Government, People and various NGOs should come together and try to eradicate the problem.<br>II. Government should take help financial help from foreign countries to eradicate this problem.",
+			"explanation": "1st option is appropriate. People, government and NGOs all of them should join their hands and work in a coordinated way to solve this problem. 2nd option is not true because in a country like India, to solve such problems there is no need of getting financial aid from foreign countries. A proper budget and planning can solve the problem.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Only I follows",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Only II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Either I or II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Neither I nor II follows",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Statement: Since its launching in 1981, Vayudoot has so far accumulated losses amounting to Rs 153 crore.<br>Courses of Action:<br>Vayudoot should be directed to reduce wasteful expenditure and to increase passenger fare.<br>An amount of about Rs 300 crore should be provided to Vayudoot to make the airliner economically viable.",
+			"explanation": "Clearly, for better economic gain, losses should be reduced and income increased. So, only course I follows.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Only I follows",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Only II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Neither I nor II follows",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Statement:As stated in the recent census report the female to male ratio is alarmingly low.<br>Courses of Action:<br>1. The government should conduct another census to verify the results.<br>2. The government should immediately issue orders to all the departments to encourage people to improve the ratio.",
+			"explanation": "A census is always conducted with the utmost precision, leaving chances of only negligible differences. So, I does not follow. Further, the ratio can be improved by creating awareness among the masses and abolishing female foeticide.<br>Thus, only course II follows.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Only I follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Only II follows",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Either I or II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "Neither I nor II follows",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Statement: The army has been alerted in the district following floods triggered by incessant rains.<br>Courses of Action:<br>A. Relief to flood affected people should be arranged.<br>B. Supply of food articles should be arranged.<br>C. Adequate medical facilities should be arranged.",
+			"explanation": "Once the army has been made aware about the flood situation, the next step would be to provide the necessary relief material to the flood-affected people in the form of food, medicine, clothing, shelter etc. This is an established fact and should not require any other form of reasoning to come up with the solution.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "Only A follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "Only B follows",
+                    "isAnswer": false   
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "Only A and C follow",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "All Follow",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Statement: Many cases of cholera were reported from a nearby village.<br>Courses of action:<br>I the question to be raised in the legislative assembly.<br>II A team of doctors should be rushed to the village.",
+			"explanation": "I course of action is not the immediate relief to the victims. Thus I is not the right course of action to be chosen for the problem. The immediate medical aid will definitely mitigate the problem to a large extent. Thus II course of action is the immediate action to be taken and it is the remedial step.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "If only I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "If only II follows",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "If either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "If neither I nor II follows",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

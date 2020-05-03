@@ -1,37 +1,37 @@
 {
     "id": 1,
-    "name": "Blood Relations Test 2",
-    "description": "Practice Blood Relations Online Test 2",
+    "name": "Statements and Conclusions Test 2",
+    "description": "Practice Statements and Conclusions Online Test 2",
     "questions": [
         {
             "id": 1010,
-            "name": "Pointing to a girl in the photograph, Ajay said, Her mother's brother is the only son of my mother's father. How is the girl's mother related to Ajay?",
-			"explanation": "Only son of Ajay's mother's father -- Ajay's maternal uncle.<br>So, the girl's maternal uncle is Ajay's maternal uncle.<br>Thus, the girl's mother is Ajay's aunt.",
+            "name": "Statement:<br>During 1997-98 the total loss incurred by the 1 1 1 public sector units was to the tune of Rs. 6809 crores which has converted into paid capitals by the government of its total investment of Rs. 5129 crores.<br>Conclusions:<br>I. The government is left with only one option, that is, to privatise these units.<br>II. The government did not take care in the matter of investments in these public sector units.",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Mother",
+                    "name": "If only conclusion I follows",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Sister",
+                    "name": "If only conclusion II follows",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Aunt",
-                    "isAnswer":true
+                    "name": " If either I or II follows",
+                    "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Grandmother",
-                    "isAnswer": false
+                    "name": "If neither I nor II follows",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": " If 'X $ Y' means 'X is father of Y'; 'X # Y' means 'X is mother of Y'; 'X × Y' means 'X is sister of Y', then how is D related to N in N # A $ B × D ?",
-			"explanation": "N # A $ B × D means N is the mother of A, who is the father of B, who is the sister of D. Thus, <br>D is the son or daughter of A and N is the mother of A. <br>So, D is the grandson or granddaughter of N.",
+            "name": "Statements:<br>In a one day cricket match, the total runs made by a team were 200. Out of these 160 runs were made by spinners <br>Conclusions:<br>80% of the team consists of spinners<br>The opening batsmen were spinners",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "Nephew",
+                    "name": "Only conclusion I follows",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "Grandson",
+                    "name": "Only conclusion II follows",
                     "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Granddaughter",
+                    "name": "Either I or II follows",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Cannot be Determined ",
+                    "name": "Neither I nor II follows",
                     "isAnswer": true
                 }
             ],
@@ -79,33 +79,33 @@
         },
         {
             "id": 1012,
-            "name": "Pointing to a photograph, Vipul said, She is the daughter of my grandfather's only son. How is Vipul related to the girl in the photograph?",
-			"explanation": "no explanation",
+            "name": "Statement:<br>Parents are prepared to pay any price for an elite education to their children.<br>Conclusions:<br>I. All parents these days are very well off<br>II. Parents have an obsessive passion for perfect development of their children through good schooling",
+			"explanation": "It may be conclusion from the statement that since parents want a perfect development of their children through good schooling therefore they are prepared to pay any price for a good education but the statement does not give sense of the parents being very well off. Hence, only Conclusion II follows.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "Father",
+                    "name": " if only Conclusion I follows",
                     "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "Brother",
+                    "name": " if only Conclusion II follows",
                     "isAnswer":true
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "Cousin",
+                    "name": "if either I or II follows",
                     "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "Uncle",
+                    "name": "if neither I nor II follows",
                     "isAnswer": false
                 }
             ],
@@ -117,32 +117,32 @@
         },
 		{
 			"id": 1013,
-            "name": "A is B's sister. C is B's mother. D is C's father. E is D's mother. Then, how is A related to D?",
-			"explanation": "A is the sister of B and B is the daughter of C. So, A is the daughter of C. Also, D is the father of C. So, A is the granddaughter of D.",
+            "name": "Statement :<br>Good voice is a natural gift but one has to keep practising to improve and excel well in the field of music.<br>Conclusions :<br>I. Natural gifts need nurturing and care.<br>II. Even though your voice is not good, one can keep practising.",
+			"explanation": "I conclusion follows to statement, but second is not stated in statement so it do not follow.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "Granddaughter",
+                    "name": "Only conclusion I follows",
                     "isAnswer":true
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "Grandfather",
+                    "name": "Only conclusion II follows",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "Daughterwrong",
+                    "name": "Either I or II follows",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "Grandmother",
+                    "name": "Neither I nor II follows",
                     "isAnswer": false
                 }
             ],
@@ -154,33 +154,33 @@
 		},
 		{
 			"id": 1014,
-            "name": "Pointing to a photograph, a man said, 'I have no brother or sister but that man's father is my father's son.' Whose photograph was it?",
-			"explanation": "Since the person who is telling has no brother or sister, so his father-son is he himself. So the man in the photograph is his son.",
+            "name": "Statement: Vegetable prices are soaring in the market<br>Conclusions: I. Vegetables are becoming a rare commodity<br>II. People cannot eat vegetables",
+			"explanation": "The availability of vegetables is not mentioned in the given statement. So, I does not follow. Also, II is not directly related to the statement and so it also does not follow.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "His own",
+                    "name": "if only conclusion I follows",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "His Son",
-                    "isAnswer":true
+                    "name": "if only conclusion II follows",
+                    "isAnswer":false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "His Father",
+                    "name": "if either I nor II follows",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "His Grandfather",
-                    "isAnswer":false
+                    "name": " if neither I nor II follows",
+                    "isAnswer":true
                 }
             ],
             "questionType": {
@@ -191,32 +191,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "There are six children playing. Football namely A, B, C, D, E, and E. A and E are a brother. F is the sister of E, C is the only son of A's. Uncle B and D are the daughters of the brother of C's father. How is D related to A?",
+            "name": "Statement:<br>The world is neither good nor evil, each man manufactures a world for himself<br>Conclusions :<br>I. Some people find this world quite good<br>II. Some people find this world quite bad",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "Uncle",
+                    "name": "Only conclusion I follows",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "Sister",
+                    "name": "Only conclusion II follows",
                     "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "Niece",
+                    "name": "Either I or II follows",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "Cousin",
+                    "name": "Neither I or II follows",
                     "isAnswer": true
                 }
             ],
@@ -228,32 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": "Ravi said to Seeta, 'Your mother is the daughter of my grandmother'. How are Ravi and ",
-			"explanation": "Grandmother— Grandmother-mother<br>Sita's mother-Daughter<br>Ravi— Sita",
+            "name": "Statements:<br>1. Knowledge is not a skill. It is learning and experience.<br>2. The illiterate are not those who cannot read and write but those who cannot learn.<br>Conclusions:<br>I. Those who cannot read and write are literate.<br>II. Knowledge and skill are two different things.<br><br>Find which of the given conclusions logically follows from the given statement",
+			"explanation": "Conclusions:<br>I. Those who cannot read and write are literate.<br>In statement it is given that, those who cannot learn are illiterate, but it is not mentioned as those who cannot read and write are literate or illiterate. So this conclusion does not follow.<br>II. Knowledge and skill are two different things. It is given that ‘Knowledge is not a skill’. Thus knowledge and skill are two different things. Thus this conclusion follows. Therefore, only conclusion II follows.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "Uncle - Niece",
+                    "name": "Only conclusion I follows",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "Cousin",
+                    "name": "Only conclusion II follows",
                     "isAnswer": true
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "Father - Daughter",
+                    "name": "Either I or II follows",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": "None of these",
+                    "name": "Neither I or II follows",
                     "isAnswer":false
                 }
             ],
@@ -265,33 +265,33 @@
 		},
 		{
 			"id": 1017,
-            "name": "If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?",
-			"explanation": "If D is Male, the answer is Nephew.<br>If D is Female, the answer is Niece.<br>As the sex of D is not known, hence, the relation between D and A cannot be determined.",
+            "name": "Statement:<br>Self-discipline is the key for order in the society.<br>Conclusions:<br>I. Disturbances in the society are due to people without self-discipline.<br>II. There is nobody with self-discipline in the society.",
+			"explanation": "Conclusion I:<br>Disturbances in the society are due to people without self-discipline.We see that the question sentence states that discipline is key to ORDER in the society so people without discipline must be the source of the disturbance. Hence, it follows. Conclusion II:<br>There is nobody with self-discipline in the society.<br>There is no given statement in the argument about all the people in the society that points or establishes this fact. Thus this conclusion does not follow.<br>Hence, only I follows.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "Brother",
+                    "name": "Both conclusions I and II follow",
                     "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": " Sister",
+                    "name": "Neither conclusion I nor II follows",
                     "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "Nephew",
-                    "isAnswer":false
+                    "name": "Only conclusion I follows",
+                    "isAnswer":true
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "Cannot be determined",
-                    "isAnswer": true
+                    "name": "Only conclusion II follows",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -302,32 +302,32 @@
 		},
 		{
 			"id": 1018,
-            "name": "Pointing to a photograph of a boy Suresh said, “He is the son of the only son of my mother.” How is Suresh related to that boy?",
-			"explanation": "The boy in the photograph is the only son of the son of Suresh’s mother<br> i.e., the son of Suresh. Hence, Suresh is the father of a boy.",
+            "name": "Statements:<br>The old order changed yielding place to new<br>Conclusions :<br>I. Change is the law of nature<br>II. Discard old ideas because they are old",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "Brother",
-                    "isAnswer": false
+                    "name": "Only conclusion I follows",
+                    "isAnswer":true
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Father",
-                    "isAnswer": true
+                    "name": "Only conclusion II follows",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "Uncle",
+                    "name": "Either I or II follows",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "Cousin",
+                    "name": "Neither I nor II follows",
                     "isAnswer": false
                 }
             ],
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "Introducing a girl, a boy said, 'She is the daughter of the mother of the daughter of my aunt.' How is the girl related to the boy?",
-			"explanation": "Break the given sentence at is.<br>Resolving from the last,<br>Daughter of my aunt - cousin<br>Mother of my cousin - aunt<br>Daughter of my aunt - cousin.<br>So, the answer is a cousin.",
+            "name": "Statements:<br>The government has spoiled many top ranking financial institutions by appointing bureaucrats as Directors of these institutions.<br>Conclusions:<br>The government should appoint Directors of the financial institutes taking into consideration the expertise of the person in the area of finance.<br>The Director of the financial institutions should have expertise commensurate with the financial work carried out by the institute.",
+			"explanation": "According to the statement, Government has spoiled financial institutions by appointing bureaucrats as Directors. This means that only those persons should be appointed as Directors who are experts in finance and are acquainted with the financial work of the institute. So, both I and II follow.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "Cousin",
-                    "isAnswer": true
+                    "name": "Only conclusion I follows",
+                    "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Niece",
+                    "name": "Only conclusion II follows",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Daughter",
+                    "name": "Either I or II follows",
                     "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "Aunt",
-                    "isAnswer": false
+                    "name": "Both I and II follow",
+                    "isAnswer": true
                 }
             ],
             "questionType": {

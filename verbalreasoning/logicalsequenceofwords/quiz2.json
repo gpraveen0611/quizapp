@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Analogy Quiz Test 2",
-    "description": "Practice Analogy Quiz Online Test 2",
+    "name": "Logical Sequence Of Words Test 2",
+    "description": "Practice Logical Sequence Of Words Online Test 2",
     "questions": [
         {
             "id": 1010,
-            "name": "Paw : Cat :: Hoof : ?",
-			"explanation": "As cat has Paw similarly Horse has Hoof.",
+            "name": "In each of the following questions, arrange the giver, words in a meaningful sequence and then choose the most appropriate sequence from amongst the alternatives provided below each question<br>1. Site 2. Plan 3. Rent 4. Money 5. Building 6. Construction",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Lamb",
+                    "name": "1, 2, 3, 6, 5, 4",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Elephant",
+                    "name": "2, 3, 6, 5, 1, 4",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Lion",
+                    "name": "3, 4, 2, 6, 5, 1",
                     "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Horse",
+                    "name": "4, 1, 2, 6, 5, 3",
                     "isAnswer": true
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "Complete analogous pair: Moon : Satellite : : Earth : ?",
-			"explanation": "Moon is a satellite and earth is a planet.",
+            "name": "Arrange the words given below in a meaningful sequence.<br>1.Presentation 2.Recommendation 3. Arrival 4.Discussion 5. Introduction",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "Sun",
+                    "name": "5, 3, 4, 1, 2",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "Planet",
-                    "isAnswer": true
+                    "name": "3, 5, 4, 2, 1",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Solar System",
-                    "isAnswer": false
+                    "name": "3, 5, 1, 4, 2",
+                    "isAnswer": true
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Asteroid",
+                    "name": "5, 3, 1, 2, 4",
                     "isAnswer": false
                 }
             ],
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "Man : Biography :: Nation : ?",
-			"explanation": "Second contains the story of the first.",
+            "name": "Arrange the words given below in a meaningful and Logical sequence.<br>1. Windows 2. Walls 3. Floor 4. Foundation 5. Roof 6. Room",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "Leader",
+                    "name": "4, 1, 5, 6, 2, 3",
                     "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "People",
-                    "isAnswer":false
+                    "name": "4, 2, 1, 5, 3, 6",
+                    "isAnswer":true
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "Geography",
+                    "name": "4, 3, 5, 6, 2, 1",
                     "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "History",
-                    "isAnswer": true
+                    "name": "4, 5, 3, 2, 1, 6",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -117,32 +117,32 @@
         },
 		{
 			"id": 1013,
-            "name": "the evening is to morning as dinner is to?",
-			"explanation": "no explanation",
+            "name": "1. Table 2. Tree 3. Wood 4. Seed 5. Plant",
+			"explanation": "no explanation ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "breakfast",
-                    "isAnswer":true
+                    "name": "4,5,3,2,1",
+                    "isAnswer":false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "soup",
-                    "isAnswer":false
+                    "name": "4,5,2,3,1",
+                    "isAnswer":true
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "coffee ",
+                    "name": "1,3,2,4,5",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "time",
+                    "name": "1,2,3,4,5",
                     "isAnswer": false
                 }
             ],
@@ -154,33 +154,33 @@
 		},
 		{
 			"id": 1014,
-            "name": "Architect : Building :: Sculptor : ?",
-			"explanation": "As 'Architect' makes 'Building' similarly 'Sculptor' makes 'Statue'.",
+            "name": "Arrange the words given below in a meaningful sequence. <br>1.Elephant 2.Cat 3.Mosquito 4.Tiger 5. Whale",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Museum",
+                    "name": "5, 3, 1, 2, 4",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "Statue",
-                    "isAnswer":false
+                    "name": "3, 2, 4, 1, 5",
+                    "isAnswer":true
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "Chisel",
+                    "name": "1, 3, 5, 4, 2",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "Stone",
-                    "isAnswer":true
+                    "name": "2, 5, 1, 4, 3",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -191,32 +191,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "Crime is related to Police in the same way as Flood is related to",
+            "name": "Evaporation : Cloud : Rain",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "Dam",
-                    "isAnswer": true
+                    "name": "Sneezing : Cough : Cold",
+                    "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " River",
-                    "isAnswer":false
+                    "name": "Accident : Injury : Pain",
+                    "isAnswer":true
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "Rain",
+                    "name": "Tanning : Leather : Purse ",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "Reservoirwrong",
+                    "name": "Bud : Flower : Fragrance",
                     "isAnswer": false
                 }
             ],
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": "Oxygen : Burn : : Carbon dioxide : ?",
-			"explanation": "Oxygen supports burning while carbon dioxide extinguishes a fire. Hence, option C is correct.",
+            "name": " Ink : Pen : Paper",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "Isolate",
+                    "name": " Watch : Dial : Strap",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "Foam",
+                    "name": "Book : Paper : Words",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "Extinguish",
-                    "isAnswer": true
+                    "name": "Farmer : Plough : Field",
+                    "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": "Explode",
-                    "isAnswer":false
+                    "name": "Colour : Brush : Canvas",
+                    "isAnswer":true
                 }
             ],
             "questionType": {
@@ -265,33 +265,33 @@
 		},
 		{
 			"id": 1017,
-            "name": "Cube is related to Square in the same way as Square is related to",
-			"explanation": "Cube comprises Square on all of its surfaces. In the same way square comprises Line on all of its sides.",
+            "name": "Arrange the words given below in a meaningful sequence.<br>1. Police 2. Punishment 3. Crime 4. Judge 5. Judgement",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "Line",
-                    "isAnswer":true
+                    "name": "3, 1, 2, 4, 5",
+                    "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": " Triangle ",
+                    "name": " 1, 2, 4, 3, 5 ",
                     "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "Point",
+                    "name": "5, 4, 3, 2, 1",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "Plane",
-                    "isAnswer": false
+                    "name": "3, 1, 4, 5, 2",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "As ‘Grain’ is related to ‘Salt’, similarly ‘Chip’ is related to which among the following options?",
-			"explanation": "As we take a grain of salt with a pinch, similarly it’s about the chip of glass.",
+            "name": "Arrange the words given below in a meaningful sequence.<br>1. Word 2. Paragraph 3. Sentence<br>4. Letters 5. Phrase",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "pottery",
+                    "name": "4, 1, 5, 2, 3",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Wood",
+                    "name": "4, 1, 3, 5, 2",
                     "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "grass",
+                    "name": "4, 2, 5, 1, 3",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "glass",
-                    "isAnswer": false
+                    "name": "4, 1, 5, 3, 2",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "TRIAL : JURY :: ?",
-			"explanation": "As 'jury' settles the 'trial' similarly the job of the arbiter is to settle the 'dispute'. Hence the answer is option A.",
+            "name": "Arrange the words given below in a meaningful sequence.<br>1. Never 2. Sometimes 3. Generally 4. Seldom 5. Always",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "dispute : arbiter",
-                    "isAnswer": true
+                    "name": "5, 2, 1, 3, 4 ",
+                    "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "poll : contestant",
+                    "name": "5, 2, 4, 3, 1",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "championship : spectator",
+                    "name": "5, 3, 2, 1, 4",
                     "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "conference : speaker",
-                    "isAnswer": false
+                    "name": "5, 3, 2, 4, 1",
+                    "isAnswer": true
                 }
             ],
             "questionType": {

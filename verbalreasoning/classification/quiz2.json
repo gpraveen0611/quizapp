@@ -1,30 +1,30 @@
 {
     "id": 1,
-    "name": "Analogy Quiz Test 2",
-    "description": "Practice Analogy Quiz Online Test 2",
+    "name": "Classification Verbal Reasoning Test 2",
+    "description": "Practice Classification Verbal Reasoning Online Test 2",
     "questions": [
         {
             "id": 1010,
-            "name": "Paw : Cat :: Hoof : ?",
-			"explanation": "As cat has Paw similarly Horse has Hoof.",
+            "name": "Choose the word which is least like other words in the group.",
+			"explanation": "Here, all except Horse, are wild animals, while Horse can be domesticated.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Lamb",
+                    "name": "Zebra",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Elephant",
+                    "name": "Lion",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Lion",
+                    "name": "Tiger",
                     "isAnswer":false
                 },
                 {
@@ -42,33 +42,33 @@
         },
         {
             "id": 1011,
-            "name": "Complete analogous pair: Moon : Satellite : : Earth : ?",
-			"explanation": "Moon is a satellite and earth is a planet.",
+            "name": "Choose the word which is least like the others word in a group?",
+            "explanation": "All except Tomato grow underground",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "Sun",
+                    "name": "Carrot",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "Planet",
-                    "isAnswer": true
+                    "name": "Ginger",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Solar System",
-                    "isAnswer": false
+                    "name": "Potato",
+                    "isAnswer":false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Asteroid",
-                    "isAnswer": false
+                    "name": " Tomato",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "Man : Biography :: Nation : ?",
-			"explanation": "Second contains the story of the first.",
+            "name": " In this question, five words have been given, out of which four are alike in some manner and the fifth one is different. Choose out the odd one?",
+			"explanation": "All except Potassium are metals used in semiconductor devices.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "Leader",
-                    "isAnswer":false
+                    "name": "Potassium",
+                    "isAnswer":true
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "People",
+                    "name": "Silicon",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "Geography",
+                    "name": "Zirconium",
                     "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "History",
-                    "isAnswer": true
+                    "name": "Gallium",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "the evening is to morning as dinner is to?",
-			"explanation": "no explanation",
+            "name": "Choose out the odd one?",
+			"explanation": "All except Spider are insects having four legs",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "breakfast",
-                    "isAnswer":true
+                    "name": "Ant",
+                    "isAnswer":false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "soup",
+                    "name": "Bee",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "coffee ",
+                    "name": "Moth",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "time",
-                    "isAnswer": false
+                    "name": "Spider",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -154,33 +154,33 @@
 		},
 		{
 			"id": 1014,
-            "name": "Architect : Building :: Sculptor : ?",
-			"explanation": "As 'Architect' makes 'Building' similarly 'Sculptor' makes 'Statue'.",
+            "name":"Choose or find odd word: Garnet , Ruby , Graphite , Emerald , Topaz",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Museum",
+                    "name": "Garnet",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "Statue",
+                    "name": "Ruby",
                     "isAnswer":false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "Chisel",
-                    "isAnswer":false
+                    "name": "Graphite",
+                    "isAnswer":true
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "Stone",
-                    "isAnswer":true
+                    "name": "Emerald",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -191,32 +191,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "Crime is related to Police in the same way as Flood is related to",
+            "name": "Choose the word which is least like the others word in a group?",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "Dam",
+                    "name": "Calendar",
                     "isAnswer": true
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " River",
+                    "name": " Date",
                     "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "Rain",
+                    "name": " Day",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "Reservoirwrong",
+                    "name": " Month",
                     "isAnswer": false
                 }
             ],
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": "Oxygen : Burn : : Carbon dioxide : ?",
-			"explanation": "Oxygen supports burning while carbon dioxide extinguishes a fire. Hence, option C is correct.",
+            "name": "Find the odd one out",
+			"explanation": "Cruise = a sea voyage for pleasure.<br>All other words are related to ‘journey on land, sea with an aim’",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "Isolate",
+                    "name": "crusade",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "Foam",
+                    "name": "campaign",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "Extinguish",
-                    "isAnswer": true
+                    "name": "expedition",
+                    "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": "Explode",
-                    "isAnswer":false
+                    "name": "cruise",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Cube is related to Square in the same way as Square is related to",
-			"explanation": "Cube comprises Square on all of its surfaces. In the same way square comprises Line on all of its sides.",
+            "name": "In the following questions, a set of similar terms is given in which one of the term is odd and does not fit in the given set. You have to choose the term which does NOT fit in the set.",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "Line",
-                    "isAnswer":true
+                    "name": "1089",
+                    "isAnswer": false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": " Triangle ",
+                    "name": "729",
                     "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "Point",
-                    "isAnswer":false
+                    "name": "644",
+                    "isAnswer": true
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "Plane",
+                    "name": "529",
                     "isAnswer": false
                 }
             ],
@@ -302,32 +302,32 @@
 		},
 		{
 			"id": 1018,
-            "name": "As ‘Grain’ is related to ‘Salt’, similarly ‘Chip’ is related to which among the following options?",
-			"explanation": "As we take a grain of salt with a pinch, similarly it’s about the chip of glass.",
+            "name": "Choose the number which is different from others in the group.",
+			"explanation": "Each of the numbers except 27, is a prime number.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "pottery",
+                    "name": "17",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Wood",
-                    "isAnswer": false
+                    "name": "27",
+                    "isAnswer": true
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "grass",
+                    "name": "29",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "glass",
+                    "name": "37",
                     "isAnswer": false
                 }
             ],
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "TRIAL : JURY :: ?",
-			"explanation": "As 'jury' settles the 'trial' similarly the job of the arbiter is to settle the 'dispute'. Hence the answer is option A.",
+            "name": "Choose the word which is different from the rest.",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "dispute : arbiter",
-                    "isAnswer": true
+                    "name": "Cap",
+                    "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "poll : contestant",
+                    "name": "Turban",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "championship : spectator",
+                    "name": " Helmet",
                     "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "conference : speaker",
-                    "isAnswer": false
+                    "name": "Veil",
+                    "isAnswer": true
                 }
             ],
             "questionType": {

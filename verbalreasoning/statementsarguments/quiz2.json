@@ -1,37 +1,37 @@
 {
     "id": 1,
-    "name": "Analogy Quiz Test 2",
-    "description": "Practice Analogy Quiz Online Test 2",
+    "name": "Statements and Arguments Test 2",
+    "description": "Practice Statements and Arguments Online Test 2",
     "questions": [
         {
             "id": 1010,
-            "name": "Paw : Cat :: Hoof : ?",
-			"explanation": "As cat has Paw similarly Horse has Hoof.",
+            "name": "Statement: Should vacations of court judges be reduced?<br>Arguments:<br>I. Yes, it will speed up judicial process and many people are likely to get justice in reasonable time.<br>II. Yes, it is a sign of British legacy, why should we carry it further?",
+			"explanation": "I is a strong argument. If we have more working days, it is natural that more work can be done. Good qualities or system of even our enemy can be adopted. Hence II is weak.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Lamb",
-                    "isAnswer": false
+                    "name": "If only argument I is strong",
+                    "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Elephant",
+                    "name": "If only argument II is strong",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Lion",
+                    "name": "If either I or II is strong",
                     "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Horse",
-                    "isAnswer": true
+                    "name": "If neither I nor II is strong",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "Complete analogous pair: Moon : Satellite : : Earth : ?",
-			"explanation": "Moon is a satellite and earth is a planet.",
+            "name": "Statement: Should non-vegetarian food be totally banned in our country?<br>Arguments:<br>1. Yes. It is expensive and therefore it is beyond the means of most people in our country.<br>2. No. Nothing should be banned in a democratic country like ours.",
+			"explanation": "Clearly, restriction on the diet of people will be denying them their basic human right. So, only argument II holds.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "Sun",
+                    "name": "Only argument I is strong",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "Planet",
+                    "name": "Only argument II is strong",
                     "isAnswer": true
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Solar System",
+                    "name": "Either I or II is strong",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Asteroid",
+                    "name": "Neither I nor II is strong",
                     "isAnswer": false
                 }
             ],
@@ -79,33 +79,33 @@
         },
         {
             "id": 1012,
-            "name": "Man : Biography :: Nation : ?",
-			"explanation": "Second contains the story of the first.",
+            "name": "Statement: Should the railways immediately stop issuing free passes to all its employees?<br>Arguments:<br>I. No. The employees have the right to travel free.<br>II. Yes. This will help railways to provide better facility.",
+			"explanation": "The free passes given to railway employees is a privilege for them, not their right. So, argument I does not hold. Argument II seems to be vague.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "Leader",
+                    "name": "Only argument I is strong",
                     "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "People",
+                    "name": "Only argument II is strong",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "Geography",
+                    "name": "Either I or II is strong",
                     "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "History",
+                    "name": "Neither I nor II is strong",
                     "isAnswer": true
                 }
             ],
@@ -117,32 +117,32 @@
         },
 		{
 			"id": 1013,
-            "name": "the evening is to morning as dinner is to?",
-			"explanation": "no explanation",
+            "name": "Statement: Should India encourage exports, when most things are insufficient for internal use itself?<br>Arguments:<br>Yes. We have to earn foreign exchange to pay for our imports.<br>No. Even selective encouragement would lead to shortages.",
+			"explanation": "Clearly, India can export only the surplus and that which can be saved after fulfilling its own needs, to pay for its imports. Encouragement to export cannot lead to shortages as it shall provide the resources for imports. So, only argument I hold.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "breakfast",
+                    "name": "Only argument I is strong",
                     "isAnswer":true
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "soup",
+                    "name": "Only argument II is strong",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "coffee ",
+                    "name": "Either I or II is strong",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "time",
+                    "name": "Neither I nor II is strong",
                     "isAnswer": false
                 }
             ],
@@ -154,33 +154,33 @@
 		},
 		{
 			"id": 1014,
-            "name": "Architect : Building :: Sculptor : ?",
-			"explanation": "As 'Architect' makes 'Building' similarly 'Sculptor' makes 'Statue'.",
+            "name": "Statement:<br> Should schools in India have only one board of education?<br>Arguments:<br>I) Yes, it will create uniformity and equality in education.<br>II No, it will reduce chances of either quality education or/and may affect literacy rate.",
+			"explanation": "India is a huge country with many languages, cultures, and religions. Under such circumstances, where many students are dropping out, if the system is made restricted to a certain language or medium, there might be a serious drop in the literacy rate of the country.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Museum",
+                    "name": "Only argument I is strong",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "Statue",
-                    "isAnswer":false
+                    "name": "Only argument II is strong",
+                    "isAnswer":true
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "Chisel",
+                    "name": "Either argument I or II is strong",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "Stone",
-                    "isAnswer":true
+                    "name": "Neither argument I nor II is strong",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "Crime is related to Police in the same way as Flood is related to",
-			"explanation": "no explanation",
+            "name": "Statement:<br>Should the government levy tax agricultural income also?<br>Arguments:<br>I. Yes, that is the only way to fill government's coffer.<br>II. No, 80% of our population live in rural areas.",
+			"explanation": "Argument I and II both are weak, the argument that government's coffer can be filed only with the tax on agriculture is totally irrelevant secondly, it cannot be said that all the 80% rural population are poor.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "Dam",
-                    "isAnswer": true
+                    "name": "if only Arguments I is strong",
+                    "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " River",
+                    "name": "if only Arguments II is strong",
                     "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "Rain",
+                    "name": "if either I or II is strong",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "Reservoirwrong",
-                    "isAnswer": false
+                    "name": "if neither I nor II is strong",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -228,32 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": "Oxygen : Burn : : Carbon dioxide : ?",
-			"explanation": "Oxygen supports burning while carbon dioxide extinguishes a fire. Hence, option C is correct.",
+            "name": "Statement: Should fashionable dresses be banned?<br>Arguments: Yes. Fashions keep changing and hence consumption of cloth increases.<br>No. Fashionable clothes are a person’s self expression and therefore his/her fundamental right.",
+			"explanation": "Clearly, imposing ban on fashionable dresses will be a restriction on the personal choice and hence the right to freedom of an individual. So, only argument II is strong.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "Isolate",
+                    "name": "Only argument I is strong",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "Foam",
-                    "isAnswer": false
+                    "name": "Only argument II is strong",
+                    "isAnswer": true
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "Extinguish",
-                    "isAnswer": true
+                    "name": "Either I or II is strong",
+                    "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": "Explode",
+                    "name": "Neither I nor II is strong",
                     "isAnswer":false
                 }
             ],
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Cube is related to Square in the same way as Square is related to",
-			"explanation": "Cube comprises Square on all of its surfaces. In the same way square comprises Line on all of its sides.",
+            "name": "Statement:<br>Should the number of holidays of government employees be reduced?<br>Arguments:<br>I. Yes, our government employees are having a maximum number of holidays among the other countries of the world.<br>II. Yes, it will lead to increased productivity of government offices.",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "Line",
-                    "isAnswer":true
+                    "name": "Only argument I is strong",
+                    "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": " Triangle ",
-                    "isAnswer":false
+                    "name": "Only Argument II is strong.",
+                    "isAnswer":true
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "Point",
+                    "name": "Either I or II is strong.",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "Plane",
+                    "name": "Neither I nor II is strong.",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "As ‘Grain’ is related to ‘Salt’, similarly ‘Chip’ is related to which among the following options?",
-			"explanation": "As we take a grain of salt with a pinch, similarly it’s about the chip of glass.",
+            "name": "Statement:<br>Should there be students union in college/university?<br>Arguments:<br>No. This will create a political atmosphere in the campus.<br>Yes, it is very necessary Students are future political leaders.",
+			"explanation": "The students union formation shall be a step towards giving to students the basic education in the field of politics. However, it shall create the same political atmosphere in the campus. Thus, both the arguments hold strong.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "pottery",
+                    "name": "Only argument I is strong",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Wood",
+                    "name": "Only argument II is strong",
                     "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "grass",
+                    "name": "Either I or II is strong",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "glass",
-                    "isAnswer": false
+                    "name": "Both I and II are strong",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -339,32 +339,32 @@
 		},
 		{
 			"id": 1019,
-            "name": "TRIAL : JURY :: ?",
-			"explanation": "As 'jury' settles the 'trial' similarly the job of the arbiter is to settle the 'dispute'. Hence the answer is option A.",
+            "name": "Statement: Should new big industries be started in Mumbai?<br>Arguments: <br>Yes. It will create job opportunities.<br> No. It will further add to the pollution of the city.",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "dispute : arbiter",
-                    "isAnswer": true
+                    "name": "Only argument I is strong",
+                    "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "poll : contestant",
+                    "name": "Only argument II is strong",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "championship : spectator",
-                    "isAnswer": false
+                    "name": "Either I or II is strong",
+                    "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "conference : speaker",
+                    "name": "Neither I nor II is strong",
                     "isAnswer": false
                 }
             ],
