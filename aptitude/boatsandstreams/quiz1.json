@@ -1,7 +1,7 @@
 {
     "id": 1,
-    "name": "Aboats and stream  Test 1",
-    "description": "Practice boats and streams Online Test 1",
+    "name": "Boats and streams Test 1",
+    "description": "Practice Boats and Streams Online Test 1",
     "questions": [
         {
             "id": 1010,
@@ -43,7 +43,7 @@
         {
             "id": 1011,
             "name": "A boat goes 100 km downstream in 10 hours, and 75 m upstream in 15 hours. The speed of the stream is?",
-            "explanation": "100 --- 10           DS = 10 <br> ? ----  1 <br> 75 ---- 15     US = 5  <br> ? ----- 1     S = (10 - 5)/2  <br>   = 2 2 ½ kmph",
+            "explanation": "100 --- 10           DS = 10 <br> ? ----  1 <br> 75 ---- 15     US = 5  <br> ? ----- 1     S = (10 - 5)/2  <br>   = 2 ½ kmph",
             "questionTypeId": 1,
             "options": [
                 {
@@ -79,8 +79,8 @@
         },
         {
             "id": 1012,
-            "name": " A man can row his boat with the stream at 6 km/h and against the stream in 4 km/h. The man's rate is?",
-            "explanation": "DS = 6 < br> US = 4 <br> S = ? <br> S = (6 - 4)/2 = 1 kmph",
+            "name": " A man can row his boat with the stream at 6 km/h and against the stream in 4 km/h. The stream rate is?",
+            "explanation": "DS = 6 </br> US = 4 </br> S = ? </br> S = (6 - 4)/2 = 1 kmph",
             "questionTypeId": 1,
             "options": [
                 {
@@ -117,7 +117,7 @@
         {
             "id": 1013,
             "name": " A man can swim in still water at 4.5 km/h, but takes twice as long to swim upstream than downstream. The speed of the stream is?",
-            "explanation": "M = 4.5 <br> S = x <br> DS = 4.5 + x <br> US = 4.5 + x <br> 4.5 + x = (4.5 - x)2 <br> 4.5 + x = 9 -2x <br> 3x = 4.5 <br> x = 1.5",
+            "explanation": "M = 4.5 <br> S = x <br> DS = 4.5 + x <br> US = 4.5 - x <br> 4.5 + x = (4.5 - x)2 <br> 4.5 + x = 9 -2x <br> 3x = 4.5 <br> x = 1.5",
             "questionTypeId": 1,
             "options": [
                 {
@@ -154,7 +154,7 @@
         {
             "id": 1014,
             "name": " A man can row with a speed of 15 kmph in still water. If the stream flows at 5 kmph, then the speed in downstream is?",
-            "explanation": " ",
+            "explanation": "Ds=m+x = 15+5 = 20 kmph ",
             "questionTypeId": 1,
             "options": [
                 {
@@ -191,7 +191,7 @@
         {
             "id": 1015,
             "name": " A man can row upstream at 25 kmph and downstream at 35 kmph, and then find the speed of the man in still water?",
-            "explanation": "US = 25 <br> DS = 35 <br> M = (35 + 25)/2 = 30",
+            "explanation": "US = 25 <br> DS = 35 <br> S = (35 + 25)/2 = 30",
             "questionTypeId": 1,
             "options": [
                 {
@@ -339,7 +339,7 @@
         {
             "id": 1019,
             "name": "  A man can row 6 kmph in still water. When the river is running at 1.2 kmph, it takes him 1 hour to row to a place and black. What is the total distance traveled by the man?",
-            "explanation": "M = 6 <br> S = 1.2 <br> DS = 7.2 <br> US = 4.8 <br> x/7.2 + x/4.8 = 1 <br> x = 2.88 <br> D = 2.88 * 2 = 5.76",
+            "explanation": "M = 6 <br> S = 1.2 <br> DS = 7.2 <br> US = 4.8 <br> D/7.2 + D/4.8 = 1 <br> D = 2.88 <br> 2D = 2.88 * 2 = 5.76 km",
             "questionTypeId": 1,
             "options": [
                 {

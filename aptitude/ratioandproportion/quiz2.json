@@ -1,7 +1,7 @@
 {
     "id": 1,
-    "name": "Ratio and Proportion Test 1",
-    "description": "Practice Ratio and Proportion Online Test 1",
+    "name": "Ratio and Proportion Test 2",
+    "description": "Practice Ratio and Proportion Online Test 2",
     "questions": [
         {
             "id": 1010,
@@ -117,8 +117,8 @@
         },
 		{
 			"id": 1013,
-            "name": "In a certain room, there are 28 women and 21 men. What is the ratio of men to women? What is the ratio of women to the total number of people?",
-			"explanation": "Men : women = 21 : 28 = 3:4<br>Women : total number of people = 28 : 49 = 4 : 7",
+            "name": "In a certain room, there are 28 women and 21 men. What is the ratio of women to the total number of people?",
+			"explanation": "Women : total number of people = 28 : 49 = 4 : 7",
             "questionTypeId": 1,
             "options": [
                 {
@@ -339,32 +339,32 @@
 		},
 		{
 			"id": 1019,
-            "name": "Given ratio are<br>a:b = 2:3<br>b:c = 5:2<br>c:d = 1:4<br>Find a:b:c.",
+            "name": "Given ratios are<br>a:b = 2:3<br>b:c = 5:2<br>c:d = 1:4<br>Find a:b:c:d?",
 			"explanation": "Multiplying the first ratio by 5, second by 3 and third by 6, we have<br>a:b = 10: 15<br>b:c = 15 : 6<br>c:d = 6 : 24<br>In the ratio’s above, all the mean terms are equal, thus<br>a:b:c:d = 10:15:6:24",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "2:3:6",
+                    "name": "2:3:6:9",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "4:5:6",
+                    "name": "4:5:6:7",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "10:15:6",
+                    "name": "10:15:6:24",
                     "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "1:5:7",
+                    "name": "1:5:7:21",
                     "isAnswer": false
                 }
             ],
