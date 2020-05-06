@@ -43,31 +43,31 @@
         {
             "id": 1011,
             "name": "An aeroplane covers a certain distance at a speed of 240 kmph in 5 hours. To cover the same distance in 1 hours, it must travel at a speed of:",
-			"explanation": "Distance = (240 x 5) = 1200 km. <br> Speed = Distance/Time <br> Speed = 1200/(5/3) km/hr. <br> Required speed = 1200 x 3/5km/hr = 720 km/hr.",
+			"explanation": "Distance = (240 x 5) = 1200 km. <br> Speed = Distance/Time <br> Speed = 1200/(1) km/hr = 1200 km/hr.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "300kmph",
+                    "name": "300 kmph",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "360kmph",
+                    "name": "360 kmph",
                     "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "600",
+                    "name": "600 kmph",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "720",
+                    "name": "1200 kmph",
                     "isAnswer": true
                 }
             ],
@@ -192,7 +192,7 @@
 		{
 			"id": 1015,
             "name": "Two trains starting at the same time from 2 stations 200 km apart and going in opposite direction cross each other at a distance of 110 km from one of the stations. What is the ratio of their speeds?",
-			"explanation": "In the same time, they cover 110 km and 90 km respectively. <br> For the same time, speed and distance is inversely proportional. <br> So ratio of their speed = 110:90 = 11: 9",
+			"explanation": "In the same time, they cover 110 km and 90 km respectively. <br> For the same time, speed and distance is directly proportional. <br> So ratio of their speed = 110:90 = 11: 9",
             "questionTypeId": 1,
             "options": [
                 {
@@ -303,7 +303,7 @@
 		{
 			"id": 1018,
             "name": "The speed of a car increases by 2 kms after every one hour. If the distance travelling in the first one hour was 35 kms. what was the total distance travelled in 12 hours?",
-			"explanation": "Total distance travelled in 12 hours =(35+37+39+.....upto 12 terms)<br> This is an A.P with first term, a=35, number of terms,<br> n= 12,d=2.<br> Required distance = 12/2[2 x 35+{12-1) x 2]<br> =6(70+23) <br> = 552 kms.",
+			"explanation": "Total distance travelled in 12 hours =(35+37+39+.....upto 12 terms)<br> This is an A.P with first term, a=35, number of terms,<br> n= 12,d=2.<br/>Distance=n/2[2a+{n-1}d]<br> Required distance = 12/2[2 x 35+{12-1) x 2]<br> =6(70+23) <br> = 552 kms.",
             "questionTypeId": 1,
             "options": [
                 {

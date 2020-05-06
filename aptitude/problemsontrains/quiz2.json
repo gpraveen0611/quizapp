@@ -43,7 +43,7 @@
         {
             "id": 1011,
             "name": "A 400m long train is running at 72 Kmph. how much time will it take to cross an electric pole?",
-			"explanation": "Distance = Speed × Time<br>If we convert Kmph into Mpsec multiply by 5/18,<br>400 = 72 KmpH × time<br>400 = 72×5/18 × time<br>Time = 20Sec",
+			"explanation": "Distance = Speed × Time<br>If we convert Kmph into Mpsec multiply by 5/18,<br>400 = 72 Kmph × time<br>400 = 72×5/18 × time<br>Time = 20 Sec",
             "questionTypeId": 1,
             "options": [
                 {
@@ -265,7 +265,7 @@
 		},
 		{
 			"id": 1017,
-            "name": "A train is 100 meters long and is running at the speed of 30 km per hour. Find the time it will take to pass a man standing at a crossing.",
+            "name": "A train of 100 meters long and is running at the speed of 30 km per hour. Find the time it will take to pass a man standing at a crossing.",
 			"explanation": "As we need to get answer in seconds, so never forget to convert speed into meter per second.<br>Speed = 30 km/hr = 30* 5/18 m/sec<br>= 25/3 m/sec<br><br>Distance = length of train = 100 meter<br><br>Required time =12 seconds",
             "questionTypeId": 1,
             "options": [
@@ -302,7 +302,7 @@
 		},
 		{
 			"id": 1018,
-            "name": "A train of length 250 m runs at a speed of 70 km/hr. What will be the time taken to cross any stationary object standing at the railway station?",
+            "name": "A train of length 250 m runs at a speed of 70 km/hr. What will be the approximate time taken to cross any stationary object standing at the railway station?",
 			"explanation": "Length of train = 250 m, speed of train = 70 km/hr<br>Length of train is always considered as distance, and hence here distance = 250 m<br>1) First convert speed of km/hr into m/s<br>Speed of train = 70 x 5/18 = 19.44 m/s<br><br>2) We know that,<br>Speed = Distance/Time<br>Time taken to cross stationary object = 250/19.44<br>Time taken to cross stationary object= 12.86 sec",
             "questionTypeId": 1,
             "options": [
