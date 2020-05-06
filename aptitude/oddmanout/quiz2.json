@@ -236,7 +236,7 @@
                     "id": 1079,
                     "questionId": 1010,
                     "name": "28",
-                    "isAnswer": false
+                    "isAnswer": true
                 },
                 {
                     "id": 1080,
@@ -248,7 +248,7 @@
                     "id": 1081,
                     "questionId": 1010,
                     "name": "30",
-                    "isAnswer": true
+                    "isAnswer": false
                 },
                 {
                     "id": 1082,
@@ -303,7 +303,7 @@
 		{
 			"id": 1018,
             "name": "Find the Missing Number 8, 24, 12, 36, 18, 54, __",
-			"explanation": "Numbers are alternatively multiplied by 3 and divided by 2<br><br>i.e)54/2 = 27",
+			"explanation": "Numbers are consecutively multiplied by 3 and divided by 2<br><br>i.e)54/2 = 27",
             "questionTypeId": 1,
             "options": [
                 {

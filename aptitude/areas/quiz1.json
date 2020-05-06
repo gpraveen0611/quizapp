@@ -6,7 +6,7 @@
         {
             "id": 1010,
             "name": "The area of a triangle is with base 4m and height 5m? ",
-            "explanation": "1/2 * 4 * 5 = 10 m²",
+            "explanation": "1/2 * 4 * 5 = 10 m²<br/>Formula: A = 1/2 (b*h)",
 			"questionTypeId": 1,
             "options": [
                 {
@@ -43,7 +43,7 @@
         {
             "id": 1011,
             "name": "The area of a triangle will be when a = 1m, b = 2m, c = 3m, a, b, c being lengths of respective sides.?",
-            "explanation":"S = (1 + 2 + 3)/2 = 3 => No triangle exists",
+            "explanation":"S = (1 + 2 + 3)/2 = 3 => No triangle exists<br/>A = Square root of s(s-a)(s-b)(s-c), s= (a+b+c)/2",
 			"questionTypeId": 1,
             "options": [
                 {
@@ -80,7 +80,7 @@
         {
             "id": 1012,
             "name": "The length of each side of an equilateral triangle having an area of 4√3 cm² is? ",
-            "explanation":"√3/4 a²= 4√3 a=4",
+            "explanation":"Area = √3/4 a² = 4√3 <br/>a=4",
 			"questionTypeId": 1,
             "options": [
                 {
@@ -117,7 +117,7 @@
         {
             "id": 1013,
             "name": "The altitude of an equilateral triangle of side 2√3 cm is?",
-            "explanation":"√3/2 * 2√3 = 3 cm",
+            "explanation":"Length of altitude is √3/2 a =  √3/2 * 2√3 = 3 cm",
 			"questionTypeId": 1,
             "options": [
                 {
@@ -154,7 +154,7 @@
         {
             "id": 1014,
             "name": "The base of a right triangle is 8 and hypotenuse is 10. Its area is?",
-            "explanation":"no explanation",
+            "explanation":"H² = A²+O²<br/> O²=10²-8²<br/>O=6<br>Area = 1/2(8*6) = 24",
 			"questionTypeId": 1,
             "options": [
                 {
@@ -191,7 +191,7 @@
         {
             "id": 1015,
             "name": "The sides of a triangle are in the ratio 5: 12: 13 and its perimeter is 300 m, its area is?",
-            "explanation":" 5x + 12x + 13x = 300 => x = 10 a = 50, b = 120, c = 130 S = (50 + 120 + 130)/2 = 150 A=√(150*100*30*20) = 3000Sq m",
+            "explanation":" 5x + 12x + 13x = 300 => x = 10 a = 50, b = 120, c = 130 S = (50 + 120 + 130)/2 = 150 <br>A = Square root of s(s-a)(s-b)(s-c), s = (a+b+c)/2</br>A=√(150*100*30*20) = 3000 Sq m",
 			"questionTypeId": 1,
             "options": [
                 {
@@ -228,7 +228,7 @@
         {
             "id": 1016,
             "name": "What is the area of square field whose side of length 15 m?",
-            "explanation":"no explanation",
+            "explanation":"Area = S² = 15² = 225",
 			"questionTypeId": 1,
             "options": [
                 {

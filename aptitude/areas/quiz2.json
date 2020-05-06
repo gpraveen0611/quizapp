@@ -1,7 +1,7 @@
 {
     "id": 1,
     "name": "Areas Quiz Test 2",
-    "description": "Practice Areas Quiz Online Test 2",
+    "description": "Practice Areas Quiz Test 2",
     "questions": [
         {
             "id": 1010,
@@ -43,7 +43,7 @@
         {
             "id": 1011,
             "name": "The percentage increase in the area of a rectangle, if each of its sides is increased by 20% is:",
-			"explanation": "Let original length = x metres and original breadth = y metres.",
+			"explanation": "Let original length = x metres and original breadth = y metres.<br>% Increase in the area of rectangle is x% + y% + (x%y%)/100<br/> = 20%+20%+(20%*20%)/100 = 44%",
             "questionTypeId": 1,
             "options": [
                 {
@@ -79,8 +79,8 @@
         },
         {
             "id": 1012,
-            "name": "What will be the cost of gardening 1-meter boundary around a rectangular plot having a perimeter of 340 meters at the rate of Rs. 10 per square meter?",
-			"explanation": "In this question, we are having a perimeter. <br>We know Perimeter = 2(l+b), right <br> So, <br> 2(l+b) = 340 <br>As we have to make 1 meter boundary around this, so<br> Area of boundary = ((l+2)+(b+2)-lb) <br> = 2(l+b)+4 = 340+4 = 344<br> So required cost will be = 344 * 10 = 3440",
+            "name": "What will be the cost of gardening 2-meter boundary around a rectangular plot having a perimeter of 340 meters at the rate of Rs. 10 per square meter?",
+			"explanation": "In this question, we are having a perimeter. <br>We know Perimeter = 2(l+b), right <br> So, <br> 2(l+b) = 340 <br>As we have to make 2 meter boundary around this, so<br> Area of boundary = ((l+2)+(b+2)-lb) <br> = 2(l+b)+4 = 340+4 = 344<br> So required cost will be = 344 * 10 = 3440",
             "questionTypeId": 1,
             "options": [
                 {
@@ -302,7 +302,7 @@
 		},
 		{
 			"id": 1018,
-            "name": "Area of four walls of a room is 99 m2. The length and breadth of the room are 7.5 m and 3.5m respectively. The height of the room is:",
+            "name": "Lateral Surface Area of four walls of a room is 99 m2. The length and breadth of the room are 7.5 m and 3.5m respectively. The height of the room is:",
 			"explanation": "2(7.5+3.5)×h = 99 <br>2(11)h = 99 <br> 22h = 99 <br> h = 99/22 = 9/2 = 4.5 m",
             "questionTypeId": 1,
             "options": [
@@ -322,7 +322,7 @@
                     "id": 1089,
                     "questionId": 1010,
                     "name": "4.5 m",
-                    "isAnswer": false
+                    "isAnswer": true
                 },
                 {
                     "id": 1090,

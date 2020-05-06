@@ -1,12 +1,12 @@
 {
     "id": 1,
-    "name": "Surds and Indices Test 2",
-    "description": "Practice Surds and Indices Online Test 2",
+    "name": "Surds & Indices Test 2",
+    "description": "Practice Surds & Indices Online Test 2",
     "questions": [
         {
             "id": 1010,
             "name": "If 3^(x - y) = 27 and 3^(x + y) = 243, then x is equal to:",
-			"explanation": "3x - y = 27 = 33 x - y = 3 ....(i)<br>3x + y = 243 = 35 x + y = 5 ....(ii)<br>On solving (i) and (ii), we get x = 4.",
+			"explanation": "Formula: a^m = a^n => m=n<br/> = 3^(x - y) = 3^3 = x - y = 3 ....(i)<br>3^(x + y) = 243 = 3^5 <br/>= x + y = 5 ....(ii)<br>On solving (i) and (ii), we get x = 4.",
             "questionTypeId": 1,
             "options": [
                 {
@@ -43,7 +43,7 @@
         {
             "id": 1011,
             "name": "The value of (√8)1/3 is:",
-			"explanation": "(√8)1/3 = (81/2)1/3= 81/6 = (23)1/6= 21/2= √2.",
+			"explanation": "(√8)1/3 = (8^1/2)^1/3= 8^1/6 = (2^3)^1/6= 2^1/2= √2.",
             "questionTypeId": 1,
             "options": [
                 {
@@ -61,7 +61,7 @@
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "2",
+                    "name": "√2",
                     "isAnswer": true
                 },
                 {
@@ -118,7 +118,7 @@
 		{
 			"id": 1013,
             "name": "If 6^m = 46656, What is the value of 6^m-2",
-			"explanation": "a^m.a^n=a^m−n<br>Given that 6m = 46656<br>6^m−2=6^m/6^2=46656/6^2=46656/36=1296",
+			"explanation": "a^m/a^n=a^(m−n)<br>Given that 6m = 46656<br>6^m−2=6^m/6^2=46656/6^2=46656/36=1296",
             "questionTypeId": 1,
             "options": [
                 {
@@ -228,7 +228,7 @@
 		},
 		{
 			"id": 1016,
-            "name": "If 2x × 8(1/4) = 2(1/4) then find the value of x",
+            "name": "If 2^x * 8^(1/4) = 2^(1/4) then find the value of x",
 			"explanation": "2^x × 8^(1/4) = 2^(1/4)<br>As bases are not equal we cannot add the indices, hence first convert all the numbers with same base.<br>2^x × (2^3)^(1/8) = 2^(1/4)<br>Law of Indices (x^m)^n = x^mn<br>2^x × 2^(3/4) = 2^(1/4)<br>2^[x + (3/4)] = 2^(1/4)<br>x +3/4 = 1/4<br>x = 1/4 –3/4= –2/4= –1/2",
             "questionTypeId": 1,
             "options": [
@@ -265,7 +265,7 @@
 		},
 		{
 			"id": 1017,
-            "name": "If a and b are whole numbers such that ab = 121, then find the value of (a – 1)^b + 1",
+            "name": "If a and b are whole numbers such that a^b = 121, then find the value of (a – 1)^(b + 1)",
 			"explanation": "121 = 11^2 , hence value of a = 11 and b = 2 can be considered.<br>Therefore, the value of (a – 1)^b + 1 = (11 – 1)^ 2 + 1= 10^3",
             "questionTypeId": 1,
             "options": [
@@ -284,13 +284,13 @@
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "102",
+                    "name": "10^2",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "103",
+                    "name": "10^3",
                     "isAnswer": true
                 }
             ],

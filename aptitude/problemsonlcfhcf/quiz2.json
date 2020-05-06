@@ -1,7 +1,7 @@
 {
     "id": 1,
     "name": "Problems on LCM and HCF Test 2",
-    "description": "Practice Problems on LCM and HCF Online Test 2",
+    "description": "Practice Problems on LCM and HCF Test 2",
     "questions": [
         {
             "id": 1010,
@@ -155,7 +155,7 @@
 		{
 			"id": 1014,
             "name": "Two numbers are in the ratio of 15:11. If their H.C.F. is 13, find the numbers.",
-			"explanation": "Let the required numbers be 15.x and 11x.<br>Then, their H.C.F. is x. So, x = 13.<br>The numbers are (15 x 13 and 11 x 13) i.e., 195 and 143.",
+			"explanation": "Formula: Product of two numbers = LCM*HCF <br/>Let the required numbers be 15x and 11x.<br>Then, their H.C.F. is x. So, x = 13.<br>The numbers are (15 x 13 and 11 x 13) i.e., 195 and 143.",
             "questionTypeId": 1,
             "options": [
                 {
@@ -302,7 +302,7 @@
 		},
 		{
 			"id": 1018,
-            "name": "A, B and C start at the same time in the same direction to run around a circular stadium. A completes a round in 252 seconds, B in 308 seconds and c in 198 seconds, all starting at the same point.",
+            "name": "A, B and C start at the same time in the same direction to run around a circular stadium. A completes a round in 252 seconds, B in 308 seconds and c in 198 seconds, all starting at the same point. At what time they will meet again?",
 			"explanation": "L.C.M. of 252, 308 and 198 = 2772.<br>So, A, B and C will again meet at the starting point in 2772 sec. i.e., 46 min. 12 sec.",
             "questionTypeId": 1,
             "options": [

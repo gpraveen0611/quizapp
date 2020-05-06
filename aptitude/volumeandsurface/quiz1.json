@@ -1,11 +1,11 @@
 {
     "id": 1,
-    "name": "volumes Test 1",
-    "description": "Practice volumes Online Test 1",
+    "name": "Volumes & Surface Area Test 1",
+    "description": "Practice Volumes & Surface Area Test 1",
     "questions": [
         {
             "id": 1010,
-            "name": " The edge of a cube is 2a cm. Find its surface?",
+            "name": " The edge of a cube is 2a cm. Find its total surface area?",
             "explanation": "6a² = 6 * 2a * 2a = 24a²;",
             "questionTypeId": 1,
             "options": [
@@ -42,7 +42,7 @@
         },
         {
             "id": 1011,
-            "name": "The surface of a cube is 24sq cm. Find its volume?",
+            "name": "The total surface of a cube is 24 sq cm. Find its volume?",
             "explanation": "6a² = 24 <br> a = 2 => a³ = 8cc",
             "questionTypeId": 1,
             "options": [
@@ -79,7 +79,7 @@
         },
         {
             "id": 1012,
-            "name": "  The volume of a cube is 1728 cc. Find its surface?",
+            "name": "  The volume of a cube is 1728 cc. Find its total surface area?",
             "explanation": "a³ = 1728 => a = 12 <br> 6a² = 6 * 12 * 12 = 864",
             "questionTypeId": 1,
             "options": [
@@ -301,7 +301,7 @@
         },
         {
             "id": 1018,
-            "name": " If the sides of two cubes are in the ratio 3: 1 the ratio of their total surface area is?",
+            "name": " If the sides of two cubes are in the ratio 3: 1 the ratio of their total surface areas is?",
             "explanation": " a1 : a2 = 3 : 1 <br> 6 (a1)² : 6 (a2)² = 9: 1",
             "questionTypeId": 1,
             "options": [
@@ -339,7 +339,7 @@
         {
             "id": 1019,
             "name": "The area of the floor of a room is 20 m² that of a longer wall 15 m² and of the shorter wall 12 m², find the edge of the new cube?",
-            "explanation": " lb = 20 ; lh = 15 ; fh = 12 <br> (lbh)² = 20 * 15 * 12 => lbh = 60 m³",
+            "explanation": " lb = 20 ; lh = 15 ; bh = 12 <br> (lbh)² = 20 * 15 * 12 => lbh = 60 m³",
             "questionTypeId": 1,
             "options": [
                 {
