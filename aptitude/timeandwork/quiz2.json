@@ -43,14 +43,14 @@
         {
             "id": 1011,
             "name": "Two pipes can fill the cistern in 10hr and 12 hr respectively, while the third empty it in 20hr. If all pipes are opened simultaneously, then the cistern will be filled in",
-			"explanation": "Work done by all the tanks working together in 1 hour.<br>110+112-120=215<br>Hence, a tank will be filled in 152 = 7.5 hour",
+			"explanation": "Work done by all the tanks working together in 1 hour.<br>1/10+1/12-1/20=2/15<br>Hence, a tank will be filled in 15/2 = 7.5 hour",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
                     "name": "7.5 hr",
-                    "isAnswer":false
+                    "isAnswer":true
                 },
                 {
                     "id": 1060,
@@ -62,7 +62,7 @@
                     "id": 1061,
                     "questionId": 1010,
                     "name": "8.5 hr",
-                    "isAnswer": true
+                    "isAnswer": false
                 },
                 {
                     "id": 1062,
@@ -80,7 +80,7 @@
         {
             "id": 1012,
             "name": "A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?",
-			"explanation": "C's 1 day's work =1/3-1/6+1/8=1/3-7/24=1/24.<br>A's wages : B's wages : C's wages =1/6:1/8:1/24= 4 : 3 : 1.<br>C's share (for 3 days) = Rs.(3 x1/24x 3200) = Rs. 400.",
+			"explanation": "C's 1 day's work = 1/3-1/6-1/8=1/3-7/24=1/24.<br>A's wages : B's wages : C's wages =1/6:1/8:1/24= 4 : 3 : 1.<br>C's share (for 3 days) = Rs.(3 x1/24x 3200) = Rs. 400.",
             "questionTypeId": 1,
             "options": [
                 {
@@ -303,7 +303,7 @@
 		{
 			"id": 1018,
             "name": "Shush and Komal can do a job together in 7 days. Shush is 7/4 times as efficient as Komal. The same job can be done by Shush alone in",
-			"explanation": "Ratio of efficiency of Shush and Komal = 1:7/4 = 4:7<br>As the time taken is inversely proportional to efficiency, therefore, if Komal takes 7x days to complete work, Asha will take 4x days.<br>Therefore 1/7x + 1/4x = 1/7 => (4+7)/28x = 1/7<br>=> 28x = 11 × 7<br>Therefore x = {(11×7)/28} = 11/4<br>Shush will complete the work in 4x = 4 (11/4) = 11 days.",
+			"explanation": "Ratio of efficiency of Shush and Komal = 7/4:1 = 7:4<br>As the time taken is inversely proportional to efficiency, therefore, if Komal takes 7x days to complete work, Shush will take 4x days.<br>Therefore 1/7x + 1/4x = 1/7 => (4+7)/28x = 1/7<br>=> 28x = 11 × 7<br>Therefore x = {(11×7)/28} = 11/4<br>Shush will complete the work in 4x = 4 (11/4) = 11 days.",
             "questionTypeId": 1,
             "options": [
                 {
@@ -340,7 +340,7 @@
 		{
 			"id": 1019,
             "name": "A and B together can complete a task in 20 days. B and C together can complete the same task in 30 days. A and C together can complete the same task in 30 days. What is the respective ratio of the number of days taken by A when completing the same task alone to the number of days taken by C when completing the same task alone?",
-			"explanation": "Efficiency of A and B = 1/20 per day = 5% per day ________________1<br>Efficiency of B and C = 1/30 per day = 3.33% per day______________2<br>Efficiency of C and A = 1/30 per day = 3.33% per day______________3<br>Taking equation 2 and 3 together<br>B + C = 3.33% and C + A = 3.33%<br>C and 3.33% will be removed. Hence A = B<br>Efficiency of A = B = 5%/2 = 2.5% = 1/40<br>Efficiency of C = 3.33% - 2.5% = 0.833% = 1/120<br>A can do the job in 40 days and C can do the job in 120 days he they work alone.<br>Ratio of number of days in which A and C can complete the job 1:3.",
+			"explanation": "Efficiency of A and B = 1/20 per day = 5% per day ________________1<br>Efficiency of B and C = 1/30 per day = 3.33% per day______________2<br>Efficiency of C and A = 1/30 per day = 3.33% per day______________3<br>Taking equation 2 and 3 together<br>B + C = 3.33% and C + A = 3.33%<br>C and 3.33% will be removed. Hence A = B<br>Efficiency of A = B = 5%/2 = 2.5% = 1/40<br>Efficiency of C = 3.33% - 2.5% = 0.833% = 1/120<br>A can do the job in 40 days and C can do the job in 120 days if they work alone.<br>Ratio of number of days in which A and C can complete the job 1:3.",
             "questionTypeId": 1,
             "options": [
                 {
