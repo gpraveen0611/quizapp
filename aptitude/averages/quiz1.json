@@ -1,12 +1,12 @@
 {
     "id": 1,
-    "name": "Average Test 1",
-    "description": "Practice Average Online Test 1",
+    "name": "Averages Test 1",
+    "description": "Practice Averages Online Test 1",
     "questions": [
         {
             "id": 1010,
             "name": "The average of first 10 even numbers is?",
-            "explanation": "Sum of 10 even numbers = 10 * 11 = 110 <br> Average = 110/10 = 11",
+            "explanation": "Sum of 10 even numbers = 10 * 11 = 110 <br> Average = 110/10 = 11<br/>(or)<br/>The average of first n even numbers is n(n+1)/n = n+1",
             "questionTypeId": 1,
             "options": [
                 {
@@ -117,7 +117,7 @@
         {
             "id": 1013,
             "name": "The average of first 10 natural numbers is?",
-            "explanation": "Sum of 10 natural no. = 110/2 = 55 <br> Average = 55/10 = 5.5 ",
+            "explanation": "Sum of 10 natural no. = 110/2 = 55 <br> Average = 55/10 = 5.5 <br/>(or)<br/>The average of 1st n natural numbers = n(n+1)/2n = n+1/2",
             "questionTypeId": 1,
             "options": [
                 {
@@ -154,7 +154,7 @@
         {
             "id": 1014,
             "name": " The average of first 10 odd numbers is?",
-            "explanation": "Sum of 10 odd no. = 100 <br> Average = 100/10 = 10",
+            "explanation": "Sum of 10 odd no. = 100 <br> Average = 100/10 = 10<br/>(or)<br/>The average of 1st n odd numbers = n^2/n=n",
             "questionTypeId": 1,
             "options": [
                 {
