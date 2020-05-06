@@ -1,12 +1,12 @@
 {
     "id": 1,
-    "name": "compound interest Test 1",
-    "description": "Practice compound interest Online Test 1",
+    "name": "Compound Interest Test 1",
+    "description": "Practice Compound Interest Test 1",
     "questions": [
         {
             "id": 1010,
             "name": " Find the compound interest and the amount on Rs.8000 at 5% per annum for 3 years when C.I is reckoned yearly??",
-            "explanation": "A = 8000(21/20)³ <br> = 9261 <br>   = 8000 <br>  --------- <br>  1261;",
+            "explanation": "A = 8000(21/20)³ <br> = 9261 - 8000 = 1261;",
             "questionTypeId": 1,
             "options": [
                 {
@@ -80,7 +80,7 @@
         {
             "id": 1012,
             "name": " Find out the C.I on Rs.5000 at 4% p.a. compound half-yearly for 1 1/2 years?",
-            "explanation": "A = 5000(51/50)³ <br>  = 5306.04 <br>   5000 <br> ---------- <br> 306.04",
+            "explanation": "A = 5000(51/50)³ <br>  = 5306.04 - 5000 = 306.04",
             "questionTypeId": 1,
             "options": [
                 {
@@ -154,7 +154,7 @@
         {
             "id": 1014,
             "name": "  At the end of three years what will be the compound interest at the rate of 10% p.a. on an amount of Rs.20000?",
-            "explanation": "A = 20000(11/10)³ <br>  = 26620 <br>  = 20000 <br> ---------- <br>  6620",
+            "explanation": "A = 20000(11/10)³ <br>  = 26620 - 20000 = 6620",
             "questionTypeId": 1,
             "options": [
                 {
@@ -191,31 +191,31 @@
         {
             "id": 1015,
             "name": "  Find the C.I. on a sum of Rs.1600 for 9 months at 20% per annum, interest being compounded quarterly?",
-            "explanation": "A = 1600(21/20)³ = 2522",
+            "explanation": "A = 1600(21/20)³ = 252.2",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "Rs.17684",
+                    "name": "Rs.176.84",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " Rs.1684",
+                    "name": " Rs.168.4",
                     "isAnswer": false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": " Rs.2522",
+                    "name": " Rs.252.2",
                     "isAnswer": true
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "Rs.3408  ",
+                    "name": "Rs.340.8  ",
                     "isAnswer": false
                 }
             ],
