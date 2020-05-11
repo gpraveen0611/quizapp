@@ -5,33 +5,33 @@
     "questions": [
         {
             "id": 1010,
-            "name": "If the sides of a triangle are 26 cm, 24 cm and 10 cm, what is its area?",
-			"explanation": "The triangle with sides 26 cm, 24 cm and 10 cm is right-angled, where the hypotenuse is 26 cm.<br> Area of the triangle = 1/2 * 24 * 10 = 120 cm2",
+            "name": "A typist uses a paper 30 cm × 15 cm. He leaves a margin of 2.5 cm at the top and the bottom and 1.25 cm on either side. What percentage of paper area is approximately available for typing?",
+			"explanation": "Total area = (30 × 15) cm2 = 450 cm2<br> Area used = [(30 - 1.25 × 2) × (15 - 2.5 × 2)]<br>=(27.5 × 10) cm2 = 275 cm2 <br> Percentage of area used = [(275/450) × 100]% = 61.1% ~ 60% (approx..)",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "120 cm2",
-                    "isAnswer": true
+                    "name": "65%",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "130 cm2",
+                    "name": "70%",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "312 cm2",
+                    "name": "80%",
                     "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "315cm2",
-                    "isAnswer": false
+                    "name": "60%",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
