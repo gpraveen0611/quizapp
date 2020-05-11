@@ -339,32 +339,32 @@
 		},
 		{
 			"id": 1019,
-            "name": "A vessel is filled with liquid, 3 parts of which are water and 5 parts of syrup. How much of the mixture must be drawn off and replaced with water so that the mixture may be half water and half syrup?",
-			"explanation": "Suppose the vessel initially contains 8 litres of liquid.<br/>Let x litres of this liquid be replaced with water.<br>Quantity of water in new mixture = (3-3x/8+x)litres.<br>Quantity of syrup in new mixture = (5-5x/8) litres.<br>(3-3x/8+x)=(5-5x/8)<br>=> 5x + 24 = 40 - 5x<br>=> 10x = 16 => x = 8/5<br>So, part of the mixture replaced = (85×18) = 1/5.",
+            "name": "A vessel is full of mixture of spirit and water in which there is 20 per cent of spirit. 5 litres are drawn off and the vessel is filled up with water. If the spirit is now 12 %, find the total quantity in the vessel (in ltrs)?",
+			"explanation": "Let the total mixture be x liters.<br>It contains 20 % spirit i.e.0.2 of the total mixture. When 5 liters are drawn off, quantity of spirit removed = 0.2(5) = 1 liters.<br>Remaining spirit = 0.2x –1.<br>Also remaining spirit = 0.12x. <br>  0.2x - 1 = 0.12x ? x = 12.5L.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "1/3",
+                    "name": "72",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "1/4",
-                    "isAnswer":false
+                    "name": "12.5",
+                    "isAnswer": true
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "1/5",
-                    "isAnswer": true
+                    "name": "60",
+                    "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "1/7",
+                    "name": "7.2",
                     "isAnswer": false
                 }
             ],
