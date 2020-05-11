@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "A cistern is normally filled in 8 hrs. but takes 2 hrs. longer to fill because of a leak in its bottom. If the cistern is full, the leak will empty it in?",
-			"explanation": "Here x = 8 hrs. and y = 8 + 2 = 10 hrs.<br>Now, applying the given rule, we have the<br>Required answer = (8 x 10) /(10 - 8) = 40 hrs.",
+            "name": "12 buckets of water fill a tank when the capacity of each tank is 13.5 liters. How many buckets will be needed to fill the same tank,if the capacity of each bucket is 9 liters?",
+			"explanation": "Capacity of the tank = (12 x 13.5) liters = 162 liters.<br>Capacity of each bucket = 9 liters<br>Number of buckets needed = 162/9 =18.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "16 hrs",
+                    "name": "8",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "25 hrs",
+                    "name": "15",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "40 hrs",
-                    "isAnswer": true
+                    "name": "16",
+                    "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "20 hrs",
-                    "isAnswer": false
+                    "name": "18",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
