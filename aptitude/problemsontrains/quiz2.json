@@ -5,32 +5,32 @@
     "questions": [
         {
             "id": 1010,
-            "name": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
-			"explanation": "Speed= 60 x5/18 m/sec= 50/3 m/sec.<br>Length of the train = (Speed x Time).<br>Length of the train = 50/3x 9m = 150 m.",
+            "name": "A 270 metres long train running at the speed of 120 kmph crosses another train running in opposite direction at the speed of 80 kmph in 9 seconds. What is the length of the other train?",
+			"explanation": "Relative speed = (120 + 80) km/hr = (200 x5/18) m/sec = 500/9m/sec.<br> Let the length of the other train be x metres <br> then,x + 270/9=500/9 <br> x + 270 = 500 <br> x = 230.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "120 metres",
-                    "isAnswer": false
+                    "name": "230 m",
+                    "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "180 metres",
+                    "name": "240 m",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": " 150 metres",
-                    "isAnswer":true
+                    "name": "260 m",
+                    "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "324 metres",
+                    "name": "320 m",
                     "isAnswer": false
                 }
             ],
@@ -117,8 +117,8 @@
         },
 		{
 			"id": 1013,
-            "name": "A train of length 110 meters is running at a speed of 60 kmph. In what time, it will pass a man who is running at 6 kmph in the direction opposite to that in which the train is going?",
-			"explanation": "Distance = 110 m<br>Relative speed = 60 + 6 = 66 kmph (Since both the train and the man are in moving in opposite direction)= (66*5/18) m/sec = 55/3 m/sec<br>Time taken to pass the man = (100*3/55) = 6 sec",
+            "name": "Two trains of equal lengths take 10 seconds and 15 seconds respectively to cross a telegraph post. If the length of each train be 120 metres, in what time (in seconds) will they cross each other travelling in opposite direction?",
+			"explanation": "Speed of the first train = (120/10)m/sec = 12 m/sec.<br>Speed of the second train = (120/15) m/sec = 8 m/sec.<br> Relative speed = (12 + 8) = 20 m/sec.<br> Required time = [(120 + 120)/20] sec = 12 sec.",
             "questionTypeId": 1,
             "options": [
                 {
@@ -130,20 +130,20 @@
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "8",
-                    "isAnswer":false
+                    "name": "12",
+                    "isAnswer":true
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "4",
+                    "name": "15",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "6",
-                    "isAnswer": true
+                    "name": "20",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?",
-			"explanation": "Speed = (54 * 5/18) m/sec = 15 m/sec <br>Length of the train = (15 x 20) m = 300 m.<br>Let the length of the platform be x meters.<br>then, x+300 / 36 =15<br>= x+300 = 540<br>= x = 240m",
+            "name": "Two trains 140 m and 160 m long run at the speed of 60 km/hr and 40 km/hr respectively in opposite directions on parallel tracks. The time (in seconds) which they take to cross each other, is:",
+			"explanation": "Relative speed = (60 + 40) km/hr =(100 * 5/18) m/sec = (250/9) m/sec.<br> Distance covered in crossing each other = (140 + 160) m = 300 m.<br> Required time = 300 * 9/250 sec = 54/5 sec = 10.8 sec",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "120m",
+                    "name": "9",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "240m",
-                    "isAnswer":true
+                    "name": "9.6",
+                    "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "280m",
+                    "name": "10",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "420m",
-                    "isAnswer": false
+                    "name": "10.8",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -339,32 +339,32 @@
 		},
 		{
 			"id": 1019,
-            "name": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
-			"explanation": "= 60 x 8/15 x 9 = 150 meters",
+            "name": "A goods train runs at the speed of 72 kmph and crosses a 250 m long platform in 26 seconds. What is the length of the goods train?",
+			"explanation": "Speed = (72 x5/18)m/sec = 20 m/sec <br> Time = 26 sec. <br> Let the length of the train be x metres.<br> Then, x + 250/26= 20 <br> x + 250 = 520 <br> x = 270.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": " 120 metres",
+                    "name": "230 m",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "180 meters",
+                    "name": "240 m",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "324 meters",
+                    "name": "260 m",
                     "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "150 meters",
+                    "name": "270 m",
                     "isAnswer": true
                 }
             ],
