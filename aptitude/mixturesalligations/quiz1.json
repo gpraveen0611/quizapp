@@ -5,32 +5,32 @@
     "questions": [
         {
             "id": 1010,
-            "name": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is?",
-            "explanation": "[45 X 5/18] m/sec = [25/2] m/sec Time = 30 sec Let the length of bridge be x metres. Then, (130 + x)/30 = 25/2 => 2(130 + x) = 750 => x = 245 m.",
+            "name": "Priya owns a shop. She wants to maximize her profit margin by mixing the various varities of rice in his biryani. In what ratio must Priya mix rice which is worth Rs.56 with rice worth Rs. 38, so that the mixture can be worth 45 rupees?",
+            "explanation": "From the question we know that,<br>Quantity of cheaper is = 38<br>Quantity of dearer is = 56<br> Hence Mean is 47 <br> (56 – 47) = 9 <br> (47 – 38) = 9 <br> Required ratio= 9:9 = 1:1",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": " 200 m",
+                    "name": "1:2",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "225 m",
-                    "isAnswer": false
+                    "name": "1:1",
+                    "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "245 m",
-                    "isAnswer": true
+                    "name": "1:4",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "250 m",
+                    "name": "3:1",
                     "isAnswer": false
                 }
             ],
@@ -42,33 +42,33 @@
         },
         {
             "id": 1011,
-            "name": " A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
-            "explanation": "(60 * 5/18) m/sec = (50/3) m/sec Length of the train = (Speed x Time) = (50/3 * 9) m = 150 m.",
+            "name": "In what ratio must two kinds of sugar at Rs. 1.15 and Rs. 1.24 per kg be mixed so that by selling at Rs. 1.50 per kg, 25% may be gained?",
+            "explanation": "SP = 1.50 Rs. Profit = 25%. CP = 1.50 x (100/125) = 1.20Rs.<br> Therefore required ratio = 4 : 5",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "120 metres",
-                    "isAnswer": false
+                    "name": "4:5",
+                    "isAnswer": true
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": " 180 metres",
+                    "name": "5:4",
                     "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": " 324 metres",
+                    "name": "1:1",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": " 150 metres",
-                    "isAnswer": true
+                    "name": "2:3",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -79,33 +79,33 @@
         },
         {
             "id": 1012,
-            "name": "  A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:?",
-            "explanation": "Speed of the train relative to man = (125/10) m/sec = (25/2) m/sec. [(25/2) * (18/5)] km/hr = 45 km/hr. Let the speed of the train be x km/hr. Then, relative speed = (x - 5) km/hr. x - 5 = 45 ==> x = 50 km/hr.",
+            "name": "A hospital uses a mixture of salt and water at Rs. 7.62/litre. This mixture contains 5 % salt. Another mixture containing 75 % water costs Rs. 7.82/litre. How much does the patient pay if he buys 5 litres of mixture containing 18% salt?",
+            "explanation": "1st mixture contains 5 % salt. 2nd mixture contains 75 % water i.e. 25 % salt.<br>Required % of salt = 18 %. ? Required ratio = 25 – 18 : 18 – 5 = 7 : 13 and equired price of the mixture = 7.82 – x : x – 7.62 = 7 : 13 ? x = 7.75/ liter. <br> Hence price of 5 liters of this mixture = 7.75 x 5 = Rs. 38.75.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "45 km/hr",
+                    "name": "Rs. 83.75",
                     "isAnswer": false
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "50 km/hr",
-                    "isAnswer": true
+                    "name": "Rs. 73.85",
+                    "isAnswer": false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "54 km/hr",
+                    "name": "Rs. 37.85",
                     "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": " 55 km/hr",
-                    "isAnswer": false
+                    "name": "Rs. 38.75",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -116,33 +116,33 @@
         },
         {
             "id": 1013,
-            "name": " The length of the bridge, which a train 130 meters long and travelling at 45 km/hr can cross in 30 seconds, is?",
-            "explanation": "Speed = (45 * 5/18) m/sec = (25/2) m/sec. Time = 30 sec. Let the length of bridge be x meters. Then, (130 + X)/30 = 25/2 ==> 2(130 + X) = 750 ==> X = 245 m.",
+            "name": "How many kg of custard powder costing Rs. 42 per kg must be mixed with 16 kg of custard powder costing Rs. 60 per kg so that 20 % may be gained by selling the mixture at Rs. 60 per kg?",
+            "explanation": "SP = 60. Gain= 20%. CP = (100/120) x 60.= CP = 50.<br> Ratio between the 2 varieties of custard powder = 60 – 50 : 50 –42 = 10 : 8 <br>  if x is the required quantity then 10 : 8 = x : 16 ? x =20 kg.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "200 m",
+                    "name": "11 kg",
                     "isAnswer": false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "  225 m",
+                    "name": "14 kg",
                     "isAnswer": false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "245 m",
-                    "isAnswer": true
+                    "name": "12 kg",
+                    "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "250 m",
-                    "isAnswer": false
+                    "name": "20 kg",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
