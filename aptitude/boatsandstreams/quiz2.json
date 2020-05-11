@@ -1,7 +1,7 @@
 {
     "id": 1,
-    "name": "Boats and Streams Quiz Test 2",
-    "description": "Practice Boats and Streams Quiz Online Test 2",
+    "name": "Boats and Streams Test 2",
+    "description": "Practice Boats and Streams Online Test 2",
     "questions": [
         {
             "id": 1010,
@@ -154,33 +154,33 @@
 		},
 		{
 			"id": 1014,
-            "name": "A man's speed with the current is 15 km/hr and the speed of the current is 2.5 km/hr. The man's speed against the current is:",
-			"explanation": "Man's speed with the current = 15 km/hr<br>=> speed of the man + speed of the current = 15 km/hr<br>speed of the current is 2.5 km/hr<br>Hence, speed of the man = 15 - 2.5 = 12.5 km/hr<br>man's speed against the current = speed of the man - speed of the current = 12.5 - 2.5 = 10 km/hr",
+            "name": "Speed of a boat in standing water is 9 kmph and the speed of the stream is 1.5 kmph. A man rows to a place at a distance of 105 km and comes back to the starting point. The total time taken by him is:",
+			"explanation": "Speed upstream = 7.5 kmph.<br> Speed downstream = 10.5 kmph.<br> Total time taken =105/7.5+105/10.5)hours = 24 hours",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "8.5 km/hr",
+                    "name": "16 hours",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "10 km/hr",
-                    "isAnswer":true
+                    "name": "18 hours",
+                    "isAnswer":false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "12.5 km/hr",
+                    "name": "20 hours",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "9 km/hr",
-                    "isAnswer":false
+                    "name": "24 hours",
+                    "isAnswer":true
                 }
             ],
             "questionType": {

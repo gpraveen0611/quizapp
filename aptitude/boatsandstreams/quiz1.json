@@ -5,32 +5,32 @@
     "questions": [
         {
             "id": 1010,
-            "name": "A boat goes 100 km downstream in 10 hours, and 75 m upstream in 15 hours. The speed of the stream is?",
-            "explanation": "1/2 * 4 * 5 = 10 m²",
+            "name": "A boatman goes 2 km against the current of the stream in 1 hour and goes 1 km along the current in 10 minutes. How long will it take to go 5 km in stationary water?",
+            "explanation": "Rate downstream = (1/10x 60) km/hr = 6 km/hr.<br> Rate upstream = 2 km/hr.<br> Speed in still water = 1/2(6 + 2) km/hr = 4 km/hr.<br> Required time =5/4 hrs = 1(1/4) hrs = 1 hr 15 min.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "<3>",
-                    "isAnswer": true
+                    "name": "40 minutes",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "<4>",
+                    "name": "1 hour",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "<4(1/2)>",
-                    "isAnswer": false
+                    "name": "1 hr 15 min",
+                    "isAnswer": true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "insufficient data",
+                    "name": "1 hr 30 min",
                     "isAnswer": false
                 }
             ],
