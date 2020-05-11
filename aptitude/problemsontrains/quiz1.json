@@ -116,32 +116,32 @@
         },
         {
             "id": 1013,
-            "name": " The length of the bridge, which a train 130 meters long and travelling at 45 km/hr can cross in 30 seconds, is?",
-            "explanation": "Speed = (45 * 5/18) m/sec = (25/2) m/sec. Time = 30 sec. Let the length of bridge be x meters. Then, (130 + X)/30 = 25/2 ==> 2(130 + X) = 750 ==> X = 245 m.",
+            "name": " Two trains are running in opposite directions in the same speed. The length of each train is 120 meter. If they cross each other in 12 seconds, the speed of each train (in km/hr) is",
+            "explanation": "Distance covered = 120+120 = 240 m <br> Time = 12 s <br> Let the speed of each train = x. <br> Then relative velocity = x+x = 2x <br> 2x = distance/time = 240/12 = 20 m/s <br> Speed of each train = x = 20/2 = 10 m/s <br> = 10*18/5 km/hr = 36 km/hr",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "200 m",
+                    "name": "30 Km/hr",
                     "isAnswer": false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "  225 m",
-                    "isAnswer": false
+                    "name": "36 Km/hr",
+                    "isAnswer": true
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "245 m",
-                    "isAnswer": true
+                    "name": "80 Km/hr",
+                    "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "250 m",
+                    "name": "90 Km/hr",
                     "isAnswer": false
                 }
             ],
@@ -264,32 +264,32 @@
         },
         {
             "id": 1017,
-            "name": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?",
-            "explanation": "Speed = [54 * 5/18] m/sec = 15 m/sec.<br>Length of the train = (15 * 20) m = 300 m. <br> Let the length of the platform be x meters. <br> Then, x + 300 / 36 = 15 <br> x + 300 = 540 <br> x = 240 m.",
+            "name": "A train is 360 meter long is running at a speed of 45 km/hour. In what time will it pass a bridge of 140 meter length?",
+            "explanation": "Speed = 45 Km/hr = 45*(5/18) m/sec <br> = 25/2 m/sec <br> Total distance = 360+140 = 500 meter <br> Time = Distance/speed <br> = 500*2/25= 40 seconds",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "180 m",
+                    "name": "20 seconds",
                     "isAnswer": false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": " 200 m",
+                    "name": "30 seconds",
                     "isAnswer": false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "240 m",
+                    "name": "40 seconds",
                     "isAnswer": true
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "320 m",
+                    "name": "50 seconds",
                     "isAnswer": false
                 }
             ],
