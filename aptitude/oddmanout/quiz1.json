@@ -5,33 +5,33 @@
     "questions": [
         {
             "id": 1010,
-            "name": " A boy has nine trousers and 12 shirts. In how many different ways can he select a trouser and a shirt ?",
-            "explanation": "The boy can select one trouser in nine ways.<br> The boy can select one shirt in 12 ways.<br> The number of ways in which he can select one trouser and one shirt is 9 * 12 = 108 ways.<br>.",
+            "name": "Find out the wrong number in the series: 3, 8, 15, 24, 34, 48, 63",
+            "explanation": "The differences between consecutive terms are respectively 5, 7, 9, 11, and 13.<br> So, 34 is the wrong number.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "21",
+                    "name": "15",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "24",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "9",
-                    "isAnswer": false
+                    "name": "34",
+                    "isAnswer": true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "108",
-                    "isAnswer": true
+                    "name": "48",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -42,33 +42,33 @@
         },
         {
             "id": 1011,
-            "name": " How many three letter words are formed using the letters of the word TIME ?",
-            "explanation": "The number of letters in the given word is four. <br> The number of three letter words that can be formed using these four letters is ⁴P₃ = 4 * 3 * 2 = 24..",
+            "name": "Find out the wrong number in the series:125, 106, 88, 76, 65, 58, 53",
+            "explanation": "To get the next number in the given series go on subtracting prime numbers 19, 17, 13, 11, 7, and 5 from the numbers.<br> So, the wrong number in the series is 88.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "12 ",
+                    "name": "125",
                     "isAnswer": false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": " 20",
+                    "name": "106",
                     "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "16 ",
-                    "isAnswer": false
+                    "name": "88",
+                    "isAnswer": true
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "24",
-                    "isAnswer": true
+                    "name": "76",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -79,21 +79,21 @@
         },
         {
             "id": 1012,
-            "name": "  The number of arrangements that can be made with the letters of the word MEADOWS so that the vowels occupy the even places?",
-            "explanation": "The word MEADOWS has 7 letters of which 3 are vowels.<br> -V-V-V- <br> As the vowels have to occupy even places, they can be arranged in the 3 even places in 3! i.e., 6 ways. While the consonants can be arranged among themselves in the remaining 4 places in 4! i.e., 24 ways.<br>  Hence the total ways are 24 * 6 = 144..",
+            "name": "What should come in place of the question mark (?) in the following number series:4, 5, 14, 51, ?",
+            "explanation": "No Explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "720",
-                    "isAnswer": false
+                    "name": "220",
+                    "isAnswer": true
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "144",
-                    "isAnswer": true
+                    "name": "162",
+                    "isAnswer": false
                 },
                 {
                     "id": 1065,
