@@ -116,32 +116,32 @@
         },
         {
             "id": 1013,
-            "name": "  The number of permutations of the letters of the word 'MESMERISE' is_?",
-            "explanation": "n items of which p are alike of one kind, q alike of the other, r alike of another kind and the remaining are distinct can be arranged in a row in n!/p!q!r! ways.<br> The letter pattern 'MESMERISE' consists of 10 letters of which there are 2M's, 3E's, 2S's and 1I and 1R.<br> Number of arrangements = 9!/(2!)² 3!",
+            "name": "What is the next number in the following number series <br> 3, 5, 8, 15, 28, 51, ?",
+            "explanation": "No Explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": " 9!/(2!)² 3! ",
+                    "name": "98",
                     "isAnswer": true
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "8!/(2!)² (3!)2 ",
+                    "name": "102",
                     "isAnswer": false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": " 9!/(2!)² (3!)2",
+                    "name": "87",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": " 5!/(2!)² 3!",
+                    "name": "79",
                     "isAnswer": false
                 }
             ],
@@ -153,32 +153,32 @@
         },
         {
             "id": 1014,
-            "name": "   A committee has 5 men and 6 women. What are the number of ways of selecting 2 men and 3 women from the given committee?",
-            "explanation": "The number of ways to select two men and three women = ⁵C₂ * ⁶C₃ <br> = (5 *4 )/(2 * 1) * (6 * 5 * 4)/(3 * 2) <br> = 200",
+            "name": "Find out the wrong number in the series: 455, 445, 465, 435, 485, 415,515,455",
+            "explanation": "The given series is made of two different series:<br> First: 455, 465, 485, 515, and <br> Second: 445, 435, 415,455 <br> The sequence in first series is + 10, + 20, + 30, and the sequence in second series: -10, -20. So, the number 455 is wrong as it should be 415 - 30 = 385",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "150 ",
-                    "isAnswer": false
+                    "name": "455",
+                    "isAnswer": true
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "200",
-                    "isAnswer": true
+                    "name": "465",
+                    "isAnswer": false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "250 ",
+                    "name": "485",
                     "isAnswer": false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "300",
+                    "name": "415",
                     "isAnswer": false
                 }
             ],
@@ -190,32 +190,32 @@
         },
         {
             "id": 1015,
-            "name": " What are the number of ways to select 3 men and 2 women such that one man and one woman are always selected ?",
-            "explanation": "The number of ways to select three men and two women such that one man and one woman are always selected = Number of ways selecting two men and one woman from men and five women <br> = ⁴C₂ * ⁵C₁ = (4 * 3)/(2 * 1) * 5 <br> = 30 ways.",
+            "name": "Find the odd number in the following number series? <br> 24, 4, 13, 41, 151, 640",
+            "explanation": "The given number series follows the pattern that,<br> 24×0 + 4  = 4 <br>  4×1  + 9  = 13 <br> 13×2 + 16 = 42 <br> 42×3 + 25  = 151 <br> 151×4 + 36 =  640 <br> therefore, the odd number in the given series is 41",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "100 ",
+                    "name": "4",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "60",
+                    "name": "640",
                     "isAnswer": false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "30 ",
+                    "name": "41",
                     "isAnswer": true
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "20",
+                    "name": "13",
                     "isAnswer": false
                 }
             ],
@@ -227,32 +227,32 @@
         },
         {
             "id": 1016,
-            "name": "  A committee has 5 men and 6 women. What are the number of ways of selecting a group of eight persons?",
-            "explanation": "Total number of persons in the committee = 5 + 6 = 11 <br>Number of ways of selecting group of eight persons = ¹¹C₈ = ¹¹C₃ = (11 * 10 * 9)/(3 * 2) = 165 ways. ",
+            "name": "Find the one which does not belong to that group?",
+            "explanation": "The digits on either side of the letter in each of the groups 1P6, 2T0, and 1R8 indicate the place value of the letter in the alphabet.<br> This pattern is not followed by 2Y4.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "165",
-                    "isAnswer": true
+                    "name": "2T0",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "185",
+                    "name": "1R8",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "205",
-                    "isAnswer": false
+                    "name": "2Y4",
+                    "isAnswer": true
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": "2257",
+                    "name": "1P6",
                     "isAnswer": false
                 }
             ],
@@ -264,33 +264,33 @@
         },
         {
             "id": 1017,
-            "name": " There are 18 stations between Hyderabad and Bangalore. How many second class tickets have to be printed, so that a passenger can travel from any station to any other station?",
-            "explanation": "The total number of stations = 20 <br> From 20 stations we have to choose any two stations and the direction of travel (i.e., Hyderabad to Bangalore is different from Bangalore to Hyderabad) in ²⁰P₂ ways. <br> ²⁰P₂ = 20 * 19 = 380",
+            "name": "Find the next number in te given series ? <br> 5, 25, 61, 113, ...",
+            "explanation": "No Explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "200",
+                    "name": "142",
                     "isAnswer": false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "190 ",
-                    "isAnswer": false
+                    "name": "181",
+                    "isAnswer": true
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "100",
+                    "name": "156",
                     "isAnswer": false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "380 ",
-                    "isAnswer": true
+                    "name": "179",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -301,32 +301,32 @@
         },
         {
             "id": 1018,
-            "name": " A letter lock consists of three rings each marked with six different letters. The number of distinct unsuccessful attempts to open the lock is at the most?",
-            "explanation": "Since each ring consists of six different letters, the total number of attempts possible with the three rings is = 6 * 6 * 6 = 216. Of these attempts, one of them is a successful attempt.<br> Maximum number of unsuccessful attempts = 216 - 1 = 215.",
+            "name": "7 9 19 18 31 29 <br> Find the odd number in the given Number Series?",
+            "explanation": "Here the given number series follows a pattern of two alternate series.<br> 1. 7 19 31 ...(Difference of 12)<br> 2. 9 18 27 ...(Difference of 9) <br> Here the odd number is 29 instead of 27 <br> And the next number is 31 + 12 = 43 & 27 + 9 = 36",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "216",
+                    "name": "31",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "243",
-                    "isAnswer": false
+                    "name": "29",
+                    "isAnswer": true
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "215",
-                    "isAnswer": true
+                    "name": "18",
+                    "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " 729 ",
+                    "name": "19",
                     "isAnswer": false
                 }
             ],
@@ -338,33 +338,33 @@
         },
         {
             "id": 1019,
-            "name": "Four of the following five are alike in a certain way and so form a group. Which is the one that does not belong to that group?/",
+            "name": "Find the odd one out of the following options.",
             "explanation": "",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": " Tyre ",
+                    "name": "Sapphire",
                     "isAnswer":false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Speed",
-                    "isAnswer": true
+                    "name": "Ruby",
+                    "isAnswer": false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Clutch ",
+                    "name": "Topaz",
                     "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": " Brake ",
-                    "isAnswer": false
+                    "name": "Granite",
+                    "isAnswer": true
                 }
             ],
             "questionType": {

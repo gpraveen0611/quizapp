@@ -5,32 +5,32 @@
     "questions": [
         {
             "id": 1010,
-            "name": "Solve the equation for x : 19(x + y) + 17 = 19(-x + y) - 21",
-			"explanation": "19x + 19y + 17 = -19x + 19y - 21<br>38x = -38 => x = -1",
+            "name": "A bag contains equal number of Rs.5, Rs.2 and Re.1 coins. If the total amount in the bag is Rs.1152, find the number of coins of each kind?",
+			"explanation": "Let the number of coins of each kind be x.<br> 5x + 2x + 1x = 1152<br> 8x = 1152 => x = 144",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "-1",
-                    "isAnswer": true
+                    "name": "432",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "-2",
+                    "name": "288",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "-3",
-                    "isAnswer":false
+                    "name": "144",
+                    "isAnswer":true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "-4",
+                    "name": "72",
                     "isAnswer": false
                 }
             ],
@@ -42,33 +42,33 @@
         },
         {
             "id": 1011,
-            "name": "The cost of 10 kg of apples is equal to the cost of 24 kg of rice. The cost of 6 kg of flour equals the cost of 2 kg of rice. The cost of each kg of flour is Rs.20.50. Find the total cost of 4 kg of apples, 3 kg of rice and 5 kg of flour?",
-			"explanation": "Let the costs of each kg of apples and each kg of rice be Rs.a and Rs.r respectively.<br>10a = 24r and 6 * 20.50 = 2r<br>a = 12/5 r and r = 61.5<br>a = 147.6<br>Required total cost = 4 * 147.6 + 3 * 61.5 + 5 * 20.5<br>= 590.4 + 184.5 + 102.5 = Rs.877.40",
+            "name": "In a three digit number, the hundred digit is 2 more than the tens digit and the units digit is 2 less than the tens digit. If the sum of the digits is 18, find the number?",
+			"explanation": "Let the three digit numbers be 100a + 10b + c <br> a = b + 2 <br> c = b - 2 <br> a + b + c = 3b = 18 => b = 6 <br> So a = 8 and b = 4 <br> Hence the three digit number is: 864 <br/>Hence the three digit number is: 864",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "Rs.849.40",
+                    "name": "975",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "Rs.877.40",
-                    "isAnswer": true
+                    "name": "753",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Rs.901.60",
+                    "name": "642",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Rs.815.20",
-                    "isAnswer": false
+                    "name": "None of these",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -79,33 +79,33 @@
         },
         {
             "id": 1012,
-            "name": "Solve the equation x+34=82",
-			"explanation": "x=82-34=48",
+            "name": "When 2 is added to half of one-third of one-fifth of a number, the result is one-fifteenth of the number. Find the number?",
+			"explanation": "Let the number be 2 + 1/2[1/3(a/5)] = a/15<br>= 2 = a/30 => a = 60",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "58",
+                    "name": "40",
                     "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "48",
-                    "isAnswer":true
+                    "name": "50",
+                    "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "55",
-                    "isAnswer": false
+                    "name": "60",
+                    "isAnswer": true
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "60",
+                    "name": "70",
                     "isAnswer": false
                 }
             ],
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "Find c, if 5c - 2 = 33.",
-			"explanation": "5c=35. c=7.",
+            "name": "Mudit's age 18 years hence will be thrice his age four years ago. Find Mudit's present age?",
+			"explanation": "Let Mudit's present age be 'm' years.<br> m + 18 = 3(m - 4) = 2m = 30 => m = 15 years.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "7",
-                    "isAnswer":true
+                    "name": "12 years",
+                    "isAnswer":false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "9",
+                    "name": "21 years",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "11",
+                    "name": "18 years",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "13",
-                    "isAnswer": false
+                    "name": "None of these",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "Solve the equation 2x + 5 = 9",
-			"explanation": "2x=4 => x=2.",
+            "name": "The sum of four consecutive even numbers is 292. What would be the smallest number?",
+			"explanation": "Let the four consecutive even numbers be 2(x - 2), 2(x - 1), 2x, 2(x + 1) <br> Their sum = 8x - 4 = 292 => x = 37 <br> Smallest number is: 2(x - 2) = 70.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer":true
+                    "name": "74",
+                    "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "5",
+                    "name": "76",
                     "isAnswer":false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "7",
-                    "isAnswer":false
+                    "name": "70",
+                    "isAnswer":true
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "9",
+                    "name": "68",
                     "isAnswer":false
                 }
             ],
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "Simplify x + 1 = 9?",
-			"explanation": "x = 9-1=8",
+            "name": "The cost of 16 pens and 8 pencils is Rs.352 and the cost of 4 pens and 4 pencils is Rs.96. Find the cost of each pen?",
+			"explanation": "Let the cost of each pen and pencil be 'p' and 'q' respectively.<br> 16p + 8q = 352 --- (1) <br> 4p + 4q = 96 <br> 8p + 8q = 192 --- (2) <br> (1) - (2) => 8p = 160 <br>  p = 20",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "8",
-                    "isAnswer": true
+                    "name": "Rs.32",
+                    "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "47",
+                    "name": "Rs.28",
                     "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "57",
+                    "name": "Rs.36",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "67",
-                    "isAnswer": false
+                    "name": "None of these",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -228,32 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": "Three friends, returning from a movie, stopped to eat at a restaurant. After dinner, they paid their bill and noticed a bowl of mints at the front counter. Sita took 1/3 of the mints, but returned four because she had a momentary pang of guilt. Fatima then took 1/4 of what was left but returned three for similar reasons. Eswari then took half of the remainder but threw two back into the bowl. The bowl had only 17 mints left when the raid was over. How many mints were originally in the bowl?",
-			"explanation": "Let's the initial count be X<br>Sita took 1/3 and returned four = > Current count is X - X/3 + 4 = 2X/3 + 4<br>Fatima took 1/4 and returned three = > Current count is 3/4 * (2X/3 + 4) + 3 = X/2 + 3 + 3 = X/2 + 6<br>Eshwari took half of remaining and returned two = > 1/2 (X/2 + 6) + 2 = X/4 + 3 + 2 = X/4 + 5<br>It is given that X/4 + 5 = 17<br>X/4 = 12<br>X = 48<br>Answer : None of these.",
+            "name": "A bag contains a total of 93 coins in the form of one rupee and 50 paise coins. If the total value of coins in the bag is Rs.56, find the number of 50 paise coins in the bag?",
+			"explanation": "Let the number of one rupee coins in the bag be x.<br> Number of 50 paise coins in the bag is 93 - x.<br> Total value of coins <br> [100x + 50(93 - x)]paise = 5600 paise <br> x = 74",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "38",
+                    "name": "60",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "31",
+                    "name": "56",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "41",
+                    "name": "64",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": "None of these",
+                    "name": "74",
                     "isAnswer":true
                 }
             ],
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Using only 2, 5, 10, 25 and 50 paise coins, what will be the minimum number of coins required to pay exactly 78 paise, 69 paise, and Re. 1.01 to three different persons?",
-			"explanation": "As we need the minimum number of coins go for the highest denomination first<br>78 -- > 50 + 2 x 10 + 4 x 2 (7 coins)<br>69 -- > 50 + 10 + 5 + 2 x 4 (5 coins)<br>1.01 -- > 50 + 25 + 2 x 10 + 3 x 2 (7 Coins)<br>Total = 7 + 5 + 7 = 19 coins.",
+            "name": "P, Q and R have Rs.6000 among themselves. R has two-thirds of the total amount with P and Q. Find the amount with R?",
+			"explanation": "Let the amount with R be Rs.r <br> r = 2/3 (total amount with P and Q)n <br> r = 2/3(6000 - r) => 3r = 12000 - 2r <br>  5r = 12000 => r = 2400.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "19",
-                    "isAnswer":true
+                    "name": "Rs.3000",
+                    "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "20",
+                    "name": "Rs.3600",
                     "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "17",
-                    "isAnswer":false
+                    "name": "Rs.2400",
+                    "isAnswer":true
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "1",
+                    "name": "Rs.4000",
                     "isAnswer": false
                 }
             ],
@@ -302,32 +302,32 @@
 		},
 		{
 			"id": 1018,
-            "name": "The product of two consecutive odd numbers is 4623. Which is the greater of the two numbers?",
-			"explanation": "X (X + 2) = 4623<br>X² + 2X – 4623 = 0<br>X² + 69X – 67X – 4623 = 0<br>(X - 67)(X + 69) = 0<br>X = 67, Greater odd number = X + 2 => 67 + 2 = 69",
+            "name": "Eight years ago, Ajay's age was 4/3 times that of Vijay. Eight years hence, Ajay's age will be 6/5 times that of Vijay. What is the present age of Ajay?",
+			"explanation": "Let the present ages of Ajay and Vijay be 'A' and 'V' years respectively.<br>A - 8 = 4/3 (V - 8) and A + 8 = 6/5 (V + 8) <br> 3/4(A - 8) = V - 8 and 5/6(A + 8) = V + 8 <br> V = 3/4 (A - 8) + 8 = 5/6 (A + 8) - 8 <br> =3/4 A - 6 + 8 = 5/6 A + 20/3 - 8 <br> = 10 - 20/3 = 10/12 A - 9/12 A <br> = 10/3 = A/12 => A = 40.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "66",
+                    "name": "30 years",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "69",
+                    "name": "40 years",
                     "isAnswer": true
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "68",
+                    "name": "32 years",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "67",
+                    "name": "48 years",
                     "isAnswer": false
                 }
             ],
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "The number obtained by interchanging the digits of a two-digit number is less than the original number by 63. If the sum of the digits of the number is 11, what is the original number?",
-			"explanation": "10X + Y – (10Y + X) = 63<br>9X – 9Y = 63<br>X – Y = 7<br>X + Y = 11<br>Solving these equations, we get<br>X = 9, Y = 2<br>Required number = 10X + Y<br>=> 10 * 9 + 2 = 92",
+            "name": "On the independence day, bananas were be equally distributed among the children in a school so that each child would get two bananas. On the particular day 360 children were absent and as a result each child got two extra bananas. Find the actual number of children in the school?",
+			"explanation": "Let the number of children in the school be x. Since each child gets 2 bananas, total number of bananas = 2x.<br> 2x/(x - 360) = 2 + 2(extra) <br> = 2x - 720 = x => x = 720.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "29",
+                    "name": "600",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "92",
-                    "isAnswer":true
+                    "name": "620",
+                    "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "74",
+                    "name": "500",
                     "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "Cannot be determined",
-                    "isAnswer": false
+                    "name": "720",
+                    "isAnswer": true
                 }
             ],
             "questionType": {

@@ -5,32 +5,32 @@
     "questions": [
         {
             "id": 1010,
-            "name": "Find the roots of the quadratic equation: 2x<sup>2</sup> + 3x - 9 = 0?",
-			"explanation": "2x2 + 6x - 3x - 9 = 0 <br>2x(x + 3) - 3(x + 3) = 0<br>(x + 3)(2x - 3) = 0<br>=> x = -3 or x = 3/2.",
+            "name": "If a and b are the roots of the equation x<sup>2</sup> - 9x + 20 = 0, find the value of a<sup>2</sup> + b<sup>2</sup> + ab?",
+			"explanation": "a<sup>2</sup> + b<sup>2</sup> + ab = a<sup>2</sup> + b<sup>2</sup> + 2ab - ab <br>i.e., (a + b)<sup>2</sup> - ab <br> from x<sup>2</sup> - 9x + 20 = 0, we have <br> a + b = 9 and ab = 20. Hence the value of required expression 81 - 20 = 61.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "3, -3/2",
+                    "name": "-21",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "3/2, -3",
-                    "isAnswer":true
+                    "name": "1",
+                    "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "-3/2, -3 ",
-                    "isAnswer":false
+                    "name": "61",
+                    "isAnswer":true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "3/2, 3",
+                    "name": "21",
                     "isAnswer": false
                 }
             ],
