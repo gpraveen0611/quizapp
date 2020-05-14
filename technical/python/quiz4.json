@@ -1,37 +1,37 @@
 {
     "id": 1,
-    "name": "PHP Quiz 1",
-    "description": "PHP Quiz 1",
+    "name": "Python Quiz 4",
+    "description": "Python Quiz 4",
     "questions": [
         {
             "id": 1010,
-            "name": " In PHP a variable needs to be declare before assign",
+            "name": "What is the out of the code? <br/> def rev_func(x,length):  <br/> print(x[length-1],end='' '') rev_func(x,length-1)  <br/> x=[11, 12, 13, 14, 15]  <br/> rev_func(x,5)    ",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "True ",
+                    "name": "The program runs fine without error ",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "False",
-                    "isAnswer": true
+                    "name": " Program displays 15 14 13 12 11",
+                    "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Depends on website",
+                    "name": " Program displays 11 12 13 14 15",
                     "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "  Depends on server ",
-                    "isAnswer": false
+                    "name": " Program displays 15 14 13 12 11 and then raises an index out of range exception. ",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "  Which one of the following keywords is used to define an abstract class?",
+            "name": " Which function can be used on the file to display a dialog for saving a file?",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " extends ",
+                    "name": " Filename = savefilename() ",
                     "isAnswer": false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": " implements  ",
+                    "name": "  Filename = asksavefilename()  ",
                     "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "  abstract ",
+                    "name": " Fielname = asksaveasfilename() ",
                     "isAnswer": true
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": " new",
+                    "name": "  No such option in python",
                     "isAnswer": false
                 }
             ],
@@ -79,32 +79,32 @@
         },
         {
             "id": 1012,
-            "name": "  Which of the following type of variables are instances of programmer-defined classes?",
-			"explanation": "are instances of programmer-defined classes, which can package up both other kinds of values and functions that are specific to the class",
+            "name": " Select the valid code to bind a canvas with a key event p −",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "Strings",
+                    "name": " Canvas.entered(Enter, p)",
                     "isAnswer": false
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "Arrays",
+                    "name": "Canvas.entered(''<Enter> '',p)",
                     "isAnswer": false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": " Objects",
+                    "name": " Canvas.bind(''<key> '',p)",
                     "isAnswer": true
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "Resources",
+                    "name": " Canvas.bind(key,p)",
                     "isAnswer": false
                 }
             ],
@@ -116,33 +116,33 @@
         },
 		{
 			"id": 1013,
-            "name": " Which one of the following is the correct abstract method?",
-			"explanation": "no explanation",
+            "name": " Which is invalid in python for z = 5 ?",
+			"explanation": "z = z++ is not valid in python, it is not a legal expression. It results in syntax error",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "public function write()",
-                    "isAnswer": false
+                    "name": "z = z++",
+                    "isAnswer": true
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "abstract function write()",
+                    "name": " z = ++z",
                     "isAnswer": false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": " abstract public write()",
+                    "name": "z += 1",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "abstract public function write() ",
-                    "isAnswer": true
+                    "name": "z -= 1 ",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -153,32 +153,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "PHP is _______ scripting language.",
+            "name": "What is the value of a? <br/> a= 4*4-4+4/4",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Server-side",
+                    "name": "13",
                     "isAnswer": true
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Clint-side",
+                    "name": "5",
                     "isAnswer": false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "Middle-side",
+                    "name": "19",
                     "isAnswer": false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "Out-side ",
+                    "name": "4 ",
                     "isAnswer": false
                 }
             ],
@@ -190,32 +190,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "   Which one of the following keyword is used in conjunction with an Exception object?",
+            "name": "   What will be the value of x? <br/> x = ~~~~19 <br/> print(x)   ",
 			"explanation": " no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " throws ",
+                    "name": " 23 ",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "exception",
+                    "name": "-23",
                     "isAnswer": false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "throw",
+                    "name": "19",
                     "isAnswer": true
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "final",
+                    "name": "-20",
                     "isAnswer": false
                 }
             ],
@@ -227,33 +227,33 @@
 		},
 		{
 			"id": 1016,
-            "name": " Which of the following array represents an array with a numeric index?",
+            "name": "What will be the output of the code? <br/> z = ''Best website is Tutorials Point'' <br/> z.find(''Tutorials'')",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": " Numeric Array",
-                    "isAnswer": true
+                    "name": "3",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "Associative Array",
+                    "name": "13",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "Multidimentional Array",
+                    "name": "17",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": "None of the above",
-                    "isAnswer": false
+                    "name": "16",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -264,33 +264,33 @@
 		},
 		{
 			"id": 1017,
-            "name": " PHP Stands for",
+            "name": " How can we generate random numbers in python using methods?",
 			"explanation": "no explanation ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "Php Hypertext Processor",
+                    "name": "random.uniform ()",
                     "isAnswer": false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": " Php Hypertext Preprocessor ",
-                    "isAnswer": true
+                    "name": "random.randint() ",
+                    "isAnswer": false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "Php Hypermarkup Preprocessor",
+                    "name": "random.random()",
                     "isAnswer": false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "Php Hypermarkup Processor",
-                    "isAnswer": false
+                    "name": "All of the above  ",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -301,32 +301,32 @@
 		},
 		{
 			"id": 1018,
-            "name": "  In PHP Language variables are case sensitive",
+            "name": " What is output of following − <br/> print('any'.encode())",
 			"explanation": " no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "True",
-                    "isAnswer": true
+                    "name": "‘any’",
+                    "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": " False",
+                    "name": "‘yan’",
                     "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "Depends on website",
-                    "isAnswer": false
+                    "name": "b’any’",
+                    "isAnswer": true
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Depends on server ",
+                    "name": "x’any’ ",
                     "isAnswer": false
                 }
             ],
@@ -338,33 +338,33 @@
 		},
 		{
 			"id": 1019,
-            "name": " What is the default execution time set in set_time_limit()? ",
+            "name": "Which of the following is correct about Python?",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "20 secs ",
+                    "name": "It supports functional and structured programming methods as well as OOP. ",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "30 secs  ",
-                    "isAnswer": true
+                    "name": "It can be used as a scripting language or can be compiled to byte-code for building large applications.  ",
+                    "isAnswer": false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "40 secs",
+                    "name": "It provides very high-level dynamic data types and supports dynamic type checking",
                     "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "35 secs ",
-                    "isAnswer": false
+                    "name": "All of the above ",
+                    "isAnswer": true
                 }
             ],
             "questionType": {

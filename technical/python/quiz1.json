@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "PHP Quiz 1",
-    "description": "PHP Quiz 1",
+    "name": "Python Quiz 1",
+    "description": "Python Quiz 1",
     "questions": [
         {
             "id": 1010,
-            "name": " In PHP a variable needs to be declare before assign",
+            "name": "What is the output of the following? <br/> print(Hello {0!r} and {0!s}.format('foo', 'bin')) ",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "True ",
+                    "name": "Hello foo and foo ",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "False",
+                    "name": "Hello ‘foo’ and foo",
                     "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Depends on website",
+                    "name": " Hello foo and ‘bin’",
                     "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "  Depends on server ",
+                    "name": " Error ",
                     "isAnswer": false
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "  Which one of the following keywords is used to define an abstract class?",
+            "name": " What Relationship Is Appropriate For Fruit And Papaya?",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " extends ",
+                    "name": " association ",
                     "isAnswer": false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": " implements  ",
+                    "name": " composition  ",
                     "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "  abstract ",
+                    "name": "  inheritance ",
                     "isAnswer": true
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": " new",
+                    "name": " All of the above ",
                     "isAnswer": false
                 }
             ],
@@ -79,33 +79,33 @@
         },
         {
             "id": 1012,
-            "name": "  Which of the following type of variables are instances of programmer-defined classes?",
-			"explanation": "are instances of programmer-defined classes, which can package up both other kinds of values and functions that are specific to the class",
+            "name": " Which of the following function gets a space-padded string with the original string left-justified to a total of width columns?",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "Strings",
+                    "name": "isupper()",
                     "isAnswer": false
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "Arrays",
+                    "name": "join(seq)",
                     "isAnswer": false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": " Objects",
-                    "isAnswer": true
+                    "name": "  len(string)",
+                    "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "Resources",
-                    "isAnswer": false
+                    "name": "ljust(width[, fillchar])",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -116,32 +116,32 @@
         },
 		{
 			"id": 1013,
-            "name": " Which one of the following is the correct abstract method?",
+            "name": " Which of the following data types is not supported in python?",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "public function write()",
+                    "name": "Numbers",
                     "isAnswer": false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "abstract function write()",
+                    "name": " String",
                     "isAnswer": false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": " abstract public write()",
+                    "name": " List",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "abstract public function write() ",
+                    "name": "Slice ",
                     "isAnswer": true
                 }
             ],
@@ -153,33 +153,33 @@
 		},
 		{
 			"id": 1014,
-            "name": "PHP is _______ scripting language.",
+            "name": "What is the output of the following program? <br/> D = {1 : {'A' : {1 : A}, 2 : B}, 3 :C, 'B' : D, D: 'E'} <br/> print(D[D[D[1][2]]], end = ) <br/> print(D[D[1][A][2]])  ",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Server-side",
-                    "isAnswer": true
+                    "name": " D C",
+                    "isAnswer": false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Clint-side",
+                    "name": " E B",
                     "isAnswer": false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "Middle-side",
+                    "name": "D B",
                     "isAnswer": false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "Out-side ",
-                    "isAnswer": false
+                    "name": "E KeyError ",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -190,32 +190,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "   Which one of the following keyword is used in conjunction with an Exception object?",
+            "name": "  What is the output of the following? <br/> print('The sum of {0} and {1} is {2}'.format(2, 10, 12)) ",
 			"explanation": " no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " throws ",
-                    "isAnswer": false
+                    "name": " The sum of 2 and 10 is 12 ",
+                    "isAnswer": true
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "exception",
+                    "name": "Error",
                     "isAnswer": false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "throw",
-                    "isAnswer": true
+                    "name": "The sum of 0 and 1 is 2",
+                    "isAnswer": false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "final",
+                    "name": " None of the mentioned",
                     "isAnswer": false
                 }
             ],
@@ -227,32 +227,32 @@
 		},
 		{
 			"id": 1016,
-            "name": " Which of the following array represents an array with a numeric index?",
+            "name": "Which Of The Following Keywords Mark The Beginning Of The Class Definition?",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": " Numeric Array",
-                    "isAnswer": true
+                    "name": "def",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "Associative Array",
+                    "name": "return",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "Multidimentional Array",
-                    "isAnswer": false
+                    "name": "class",
+                    "isAnswer": true
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": "None of the above",
+                    "name": "All of the above ",
                     "isAnswer": false
                 }
             ],
@@ -264,33 +264,33 @@
 		},
 		{
 			"id": 1017,
-            "name": " PHP Stands for",
+            "name": " Which of the following function convert an object to a string in python?",
 			"explanation": "no explanation ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "Php Hypertext Processor",
+                    "name": "  int(x [,base])",
                     "isAnswer": false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": " Php Hypertext Preprocessor ",
-                    "isAnswer": true
+                    "name": "long(x [,base] ) ",
+                    "isAnswer": false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "Php Hypermarkup Preprocessor",
+                    "name": "float(x)",
                     "isAnswer": false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "Php Hypermarkup Processor",
-                    "isAnswer": false
+                    "name": "str(x)",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -301,33 +301,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "  In PHP Language variables are case sensitive",
+            "name": "  What is the output of the following? <br/> print('{:,}'.format('1112223334'))",
 			"explanation": " no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "True",
-                    "isAnswer": true
+                    "name": "1,112,223,334",
+                    "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": " False",
+                    "name": "111,222,333,4",
                     "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "Depends on website",
+                    "name": " 1112223334",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Depends on server ",
-                    "isAnswer": false
+                    "name": "Error ",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -338,32 +338,32 @@
 		},
 		{
 			"id": 1019,
-            "name": " What is the default execution time set in set_time_limit()? ",
+            "name": " What is the output of the following program? <br/> D = dict() <br/> for x in enumerate(range(2)): <br/> D[x[0]] = x[1] <br/> D[x[1]+7] = x[0] <br/> print(D)  ",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "20 secs ",
+                    "name": "KeyError ",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "30 secs  ",
-                    "isAnswer": true
+                    "name": "{0: 1, 7: 0, 1: 1, 8: 0}  ",
+                    "isAnswer": false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "40 secs",
-                    "isAnswer": false
+                    "name": "{0: 0, 7: 0, 1: 1, 8: 1}",
+                    "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "35 secs ",
+                    "name": "{1: 1, 7: 2, 0: 1, 8: 1} ",
                     "isAnswer": false
                 }
             ],

@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "PHP Quiz 1",
-    "description": "PHP Quiz 1",
+    "name": "Python Quiz 2",
+    "description": "Python Quiz 2",
     "questions": [
         {
             "id": 1010,
-            "name": " In PHP a variable needs to be declare before assign",
+            "name": "what does the following code do? <br/> def a(b, c, d): pass ",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "True ",
+                    "name": "defines a list and initializes it ",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "False",
+                    "name": "defines a function, which does nothing",
                     "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Depends on website",
+                    "name": " defines a function, which passes its parameters through - incorrect",
                     "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "  Depends on server ",
+                    "name": "  defines an empty class ",
                     "isAnswer": false
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "  Which one of the following keywords is used to define an abstract class?",
+            "name": " What is the output of the following? <br/> print('{:#}'.format(1112223334))",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " extends ",
+                    "name": " 1,112,223,334 ",
                     "isAnswer": false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": " implements  ",
+                    "name": " 111,222,333,4  ",
                     "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "  abstract ",
+                    "name": " 1112223334 ",
                     "isAnswer": true
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": " new",
+                    "name": " Error",
                     "isAnswer": false
                 }
             ],
@@ -79,32 +79,32 @@
         },
         {
             "id": 1012,
-            "name": "  Which of the following type of variables are instances of programmer-defined classes?",
-			"explanation": "are instances of programmer-defined classes, which can package up both other kinds of values and functions that are specific to the class",
+            "name": " What Relationship Correctly Fits For University And Professor?",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "Strings",
+                    "name": "association",
                     "isAnswer": false
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "Arrays",
-                    "isAnswer": false
+                    "name": " composition",
+                    "isAnswer": true
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": " Objects",
-                    "isAnswer": true
+                    "name": " inheritance",
+                    "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "Resources",
+                    "name": "All of the above",
                     "isAnswer": false
                 }
             ],
@@ -116,32 +116,32 @@
         },
 		{
 			"id": 1013,
-            "name": " Which one of the following is the correct abstract method?",
+            "name": " What is the output of the following?<br/>  print('{:$}'.format(1112223334))",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "public function write()",
+                    "name": "1,112,223,334",
                     "isAnswer": false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "abstract function write()",
+                    "name": "111,222,333,4",
                     "isAnswer": false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": " abstract public write()",
+                    "name": "1112223334",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "abstract public function write() ",
+                    "name": "Error ",
                     "isAnswer": true
                 }
             ],
@@ -153,32 +153,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "PHP is _______ scripting language.",
+            "name": "Which Of The Following Represents A Distinctly Identifiable Entity In The Real World?",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Server-side",
-                    "isAnswer": true
+                    "name": "A class",
+                    "isAnswer": false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Clint-side",
-                    "isAnswer": false
+                    "name": "An object",
+                    "isAnswer": true
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "Middle-side",
+                    "name": "A method",
                     "isAnswer": false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "Out-side ",
+                    "name": "A data field ",
                     "isAnswer": false
                 }
             ],
@@ -190,32 +190,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "   Which one of the following keyword is used in conjunction with an Exception object?",
+            "name": "  Which Of The Following Statements Is Most Accurate For The Declaration X = Circle()?",
 			"explanation": " no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " throws ",
+                    "name": " x contains an int value ",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "exception",
+                    "name": "x contains an object of the Circle type",
                     "isAnswer": false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "throw",
+                    "name": "x contains a reference to a Circle object",
                     "isAnswer": true
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "final",
+                    "name": "You can assign an int value to x",
                     "isAnswer": false
                 }
             ],
@@ -227,32 +227,32 @@
 		},
 		{
 			"id": 1016,
-            "name": " Which of the following array represents an array with a numeric index?",
+            "name": "Which Of The Following Statements Are Correct?",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": " Numeric Array",
-                    "isAnswer": true
+                    "name": "A reference variable is an object",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "Associative Array",
-                    "isAnswer": false
+                    "name": "A reference variable refers to an object",
+                    "isAnswer": true
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "Multidimentional Array",
+                    "name": "An object may contain other objects",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": "None of the above",
+                    "name": "An object can contain the references to other objects",
                     "isAnswer": false
                 }
             ],
@@ -264,32 +264,32 @@
 		},
 		{
 			"id": 1017,
-            "name": " PHP Stands for",
+            "name": "  What gets printed? <br/> def f(): pass <br/> print(type(f())) ",
 			"explanation": "no explanation ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "Php Hypertext Processor",
+                    "name": " A",
                     "isAnswer": false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": " Php Hypertext Preprocessor ",
-                    "isAnswer": true
+                    "name": "B",
+                    "isAnswer": false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "Php Hypermarkup Preprocessor",
-                    "isAnswer": false
+                    "name": "C",
+                    "isAnswer": true
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "Php Hypermarkup Processor",
+                    "name": "D",
                     "isAnswer": false
                 }
             ],
@@ -301,33 +301,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "  In PHP Language variables are case sensitive",
+            "name": "   Which Of The Following Statements Is True?",
 			"explanation": " no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "True",
-                    "isAnswer": true
+                    "name": "By default, the __new__() method invokes the __init__ method. B. The __new__() method is defined in the object class",
+                    "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": " False",
+                    "name": "The __init__() method is defined in the object class",
                     "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "Depends on website",
+                    "name": "The __init__() method is defined in the object class",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Depends on server ",
-                    "isAnswer": false
+                    "name": "All of these ",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -338,32 +338,32 @@
 		},
 		{
 			"id": 1019,
-            "name": " What is the default execution time set in set_time_limit()? ",
+            "name": " Which Of The Following Statements Can Be Used To Check, Whether An Object “Obj” Is An Instance Of Class A Or Not? ",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "20 secs ",
+                    "name": "obj.isinstance(A) ",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "30 secs  ",
-                    "isAnswer": true
+                    "name": "A.isinstance(obj)  ",
+                    "isAnswer": false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "40 secs",
-                    "isAnswer": false
+                    "name": "isinstance(obj, A)",
+                    "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "35 secs ",
+                    "name": "isinstance(A, obj) ",
                     "isAnswer": false
                 }
             ],

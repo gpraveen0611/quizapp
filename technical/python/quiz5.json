@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "PHP Quiz 1",
-    "description": "PHP Quiz 1",
+    "name": "Python Quiz 5",
+    "description": "Python Quiz 5",
     "questions": [
         {
             "id": 1010,
-            "name": " In PHP a variable needs to be declare before assign",
+            "name": "What is output of following code − <br/> a = (1, 2) <br/> a[0] +=1 ",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "True ",
+                    "name": "(1,1,2) ",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "False",
-                    "isAnswer": true
+                    "name": " 2",
+                    "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Depends on website",
-                    "isAnswer":false
+                    "name": " Type Error",
+                    "isAnswer":true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "  Depends on server ",
+                    "name": " Syntax Error ",
                     "isAnswer": false
                 }
             ],
@@ -42,33 +42,33 @@
         },
         {
             "id": 1011,
-            "name": "  Which one of the following keywords is used to define an abstract class?",
+            "name": "  Which of the following function checks in a string that all characters are digits?",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " extends ",
+                    "name": " shuffle(lst) ",
                     "isAnswer": false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": " implements  ",
+                    "name": " capitalize()  ",
                     "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "  abstract ",
-                    "isAnswer": true
+                    "name": " isalnum() ",
+                    "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": " new",
-                    "isAnswer": false
+                    "name": " isdigit()",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -79,32 +79,32 @@
         },
         {
             "id": 1012,
-            "name": "  Which of the following type of variables are instances of programmer-defined classes?",
-			"explanation": "are instances of programmer-defined classes, which can package up both other kinds of values and functions that are specific to the class",
+            "name": "  What is output for − <br/> a = ['he', 'she', 'we'] <br/> ' '.join(a)",
+			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "Strings",
+                    "name": " ['heshewe']",
                     "isAnswer": false
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "Arrays",
-                    "isAnswer": false
+                    "name": "'heshewe'",
+                    "isAnswer": true
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": " Objects",
-                    "isAnswer": true
+                    "name": " ['he she we']",
+                    "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "Resources",
+                    "name": "'he she we'",
                     "isAnswer": false
                 }
             ],
@@ -116,33 +116,33 @@
         },
 		{
 			"id": 1013,
-            "name": " Which one of the following is the correct abstract method?",
+            "name": "  What is the following function compares elements of both lists?",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "public function write()",
-                    "isAnswer": false
+                    "name": "cmp(list1, list2)",
+                    "isAnswer": true
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "abstract function write()",
+                    "name": " len(list1, list2)",
                     "isAnswer": false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": " abstract public write()",
+                    "name": "max(list1, list2)",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "abstract public function write() ",
-                    "isAnswer": true
+                    "name": "min(list1, list2)",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -153,32 +153,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "PHP is _______ scripting language.",
+            "name": "Which method is used to display a warning message in Python?",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Server-side",
-                    "isAnswer": true
+                    "name": "Tkinter.message.showmessage('message here')",
+                    "isAnswer": false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Clint-side",
+                    "name": "Tkinter.message.sshowwarning('message here')",
                     "isAnswer": false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "Middle-side",
-                    "isAnswer": false
+                    "name": " Tkinter.messagebox.showwarning('message here')",
+                    "isAnswer": true
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "Out-side ",
+                    "name": "Tkinter.messagebox.showmessage('message here') ",
                     "isAnswer": false
                 }
             ],
@@ -190,32 +190,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "   Which one of the following keyword is used in conjunction with an Exception object?",
+            "name": "  Which of the following function convert an integer to an unicode character in python?",
 			"explanation": " no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " throws ",
-                    "isAnswer": false
+                    "name": " unichr(x) ",
+                    "isAnswer": true
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "exception",
+                    "name": "ord(x)",
                     "isAnswer": false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "throw",
-                    "isAnswer": true
+                    "name": "hex(x)",
+                    "isAnswer": false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "final",
+                    "name": "oct(x)",
                     "isAnswer": false
                 }
             ],
@@ -227,33 +227,33 @@
 		},
 		{
 			"id": 1016,
-            "name": " Which of the following array represents an array with a numeric index?",
+            "name": "Which of the following function checks in a string that all characters are titlecased?",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": " Numeric Array",
-                    "isAnswer": true
+                    "name": "islower()",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "Associative Array",
+                    "name": "isnumeric()",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "Multidimentional Array",
+                    "name": " isspace()",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": "None of the above",
-                    "isAnswer": false
+                    "name": "istitle()",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -264,32 +264,32 @@
 		},
 		{
 			"id": 1017,
-            "name": " PHP Stands for",
+            "name": "Which of the following function gets the length of the string?",
 			"explanation": "no explanation ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "Php Hypertext Processor",
+                    "name": " isupper()",
                     "isAnswer": false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": " Php Hypertext Preprocessor ",
-                    "isAnswer": true
+                    "name": "join(seq)",
+                    "isAnswer": false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "Php Hypermarkup Preprocessor",
-                    "isAnswer": false
+                    "name": "len(string)",
+                    "isAnswer": true
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "Php Hypermarkup Processor",
+                    "name": " ljust(width[, fillchar])",
                     "isAnswer": false
                 }
             ],
@@ -301,33 +301,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "  In PHP Language variables are case sensitive",
+            "name": "   What will be the output of the following code? <br/> i = 1 <br/>  while True: <br/>  if(1%2==0): <br/>  break <br/> print(i) <br/>   i += 2",
 			"explanation": " no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "True",
-                    "isAnswer": true
+                    "name": "1",
+                    "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": " False",
+                    "name": "1 3 5",
                     "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "Depends on website",
+                    "name": "1 2",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Depends on server ",
-                    "isAnswer": false
+                    "name": "1 3 5 7 9  ",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -338,32 +338,32 @@
 		},
 		{
 			"id": 1019,
-            "name": " What is the default execution time set in set_time_limit()? ",
+            "name": " What is the output of the code? <br/>  def f(): <br/>  try: <br/> return(1) <br/> finally: <br/>  return(2) <br/> k=f() <br/> print(k)  ",
 			"explanation": "no explanation",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "20 secs ",
+                    "name": "1 2 ",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "30 secs  ",
-                    "isAnswer": true
+                    "name": "2 1  ",
+                    "isAnswer": false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "40 secs",
-                    "isAnswer": false
+                    "name": "2",
+                    "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "35 secs ",
+                    "name": "Error ",
                     "isAnswer": false
                 }
             ],
