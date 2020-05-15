@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Averages Test 4",
+    "description": "Practice Averages Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Average age of boys in a class is 16 years and average age of girls is 15 years, what is the average age of all",
+			"explanation": "As number of girls and boys is not given so result cant be computed",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "15.5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "15",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "16 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Cant be computed",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": " A library has an average of 510 visitors on Sundays and 240 on other day. The average number of visitors in a month of 30 days starting with sunday is",
+			"explanation": "As the month begin with sunday, so there will be five sundays in the month. So result will be <br> (510×5+240×25/30)= 8550/30=285:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "280 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "285 ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "290",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "295 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A batsman makes a score of 87 runs in the 17th match and thus increases his average by 3. Find his average after 17th match",
+			"explanation": "Let the average after 17th match is x<br> then the average before 17th match is x-3 <br> so 16(x-3) + 87 = 17x <br>  x = 87 - 48 = 39",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "36",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "37 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "39",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "38",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": " Average weight of 10 people increased by 1.5 kg when one person of 45 kg is replaced by a new man. Then weight of the new man is",
+			"explanation": "Total weight increased is 1.5 * 10 = 15.<br>So weight of new person is 45+15 = 60  ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "50",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "55",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " 60 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "65 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": " The average score of a cricketer for ten matches is 38.9 runs. If the average for first six matches is 42, then average for last four matches is",
+			"explanation": "(38.9×10)−(42×6)/4 <br> (1216−750)/4 = 34.25 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "33.25",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "32.25 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "34.25",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "34.50 ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Average of 10 matches is 32, How many runs one should should score to increase his average by 4 runs.",
+			"explanation": "Average after 11 innings should be 36 <br> So, Required score = (11 * 36) - (10 * 32) <br> = 396 - 320 = 76 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "70",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "76 ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "78 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "80",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "The average age of husband, wife and their child 3 years ago was 27 years and that of wife and the child 5 years ago was 20 years. The present age of the husband is ",
+			"explanation": "Sum of the present ages of husband, wife and child = (27 * 3 + 3 * 3) years = 90 years.<br> Sum of the present ages of wife and child = (20 * 2 + 5 * 2) years = 50 years.<br> Husband's present age = (90 - 50) years = 40 years ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "40",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "35",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "45 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "55",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "The average of six numbers is X and the average of three of these is Y.If the average of the remaining three is z, then",
+			"explanation": "X =((3y+3z)/6) <br> or 2X= y + z",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "x = y + z ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "2x = y + z ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "x = 2y + z",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "x = y + 2z ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A motorist travel to a place 150 km away at an avearge speed of 50 km/hr and returns ar 30 km/hr.His average speed for the whole jouney in km/hr is",
+			"explanation": "Average speed will be <br> 2xy/x+y km/hr= 2(50)(30)/50+30km/hr <br> = 37.5 km/hr",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "36.5 km/hr",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "37.5 km/hr",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "34.5 km/hr",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " 35.5 km/hr  ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "The average of five results is 46 and that of the first four is 45. The fifth result is?",
+			"explanation": "5 * 46 – 4 * 45 = 50",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "1",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "12.5",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "50",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

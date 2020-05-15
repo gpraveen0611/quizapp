@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Time and Work Test 4",
+    "description": "Practice Time and Work Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?",
+			"explanation": "C's 1 day's work =1/3 - (1/6 + 1/8) = 1/3 - 7/24 =1/24 <br> A's wages : B's wages : C's wages = 1/6 : 1/8 : 1/24 =4: 3 : 1 <br> C's share (for 3 days) = Rs ( 3 x 1/24 x 3200) = Rs. 400. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Rs. 375",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Rs. 400",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Rs. 600 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Rs. 800",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "A is thrice as good as workman as B and therefore is able to finish a job in 60 days less than B. Working together, they can do it in:",
+			"explanation": "Ratio of times taken by A and B = 1 : 3.<br> The time difference is (3 - 1) 2 days while B take 3 days and A takes 1 day. <br> If difference of time is 2 days, B takes 3 days.<br> If difference of time is 60 days, B takes(3/2x 60= 90 days. <br> So, A takes 30 days to do the work.<br> A's 1 day's work =1/30 <br> B's 1 day's work = 1/90 <br> (A + B)'s 1 day's work =(1/30 + 1/90) =4/90 = 2/45 <br> A and B together can do the work in 45/2 =22(1/2) days",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "20 days ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "22+(1/2)days ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "25 days",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "30 days ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+			"explanation": "A's 2 day's work =(1/20 x 2)= 1/10 <br> (A + B + C)'s 1 day's work =(1/20+ 1/30 +1/60) = 6/60 =1/10 <br> Work done in 3 days =(1/10+ 1/10)=1/5.<br> Now,1 /5 work is done in 3 days. <br> Whole work will be done in (3 x 5) = 15 days. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "12 days",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "15 days ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "16 days",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "18 days",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "A can lay railway track between two given stations in 16 days and B can do the same job in 12 days. With help of C, they did the job in 4 days only. Then, C alone can do the job in:",
+			"explanation": "(A + B + C)'s 1 day's work =1/4 <br> A's 1 day's work =1/16 <br> B's 1 day's work =1/12 <br> C's 1 day's work = 1/4 - (1/16 + 1/12 )= ( 1/4 - 7/48) = 5/48 <br> So, C alone can do the work in 48/5 = 9(3/5) days ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "9+(1/5)days",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "9+(2/5)days",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "9+(3/5)days",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "9+(4/5)days ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Worker A takes 8 hours to do a job. Worker B takes 10 hours to do a job. How long should it take both A and B, working together to do same job.",
+			"explanation": "In this type of questions, first we need to calculate 1 hours work, then their collective work as,<br> A's 1 hour work is 1/8 <br> B's 1 hour work is 1/10 <br> (A+B)'s 1 hour work = 1/8 + 1/10 =9/40 <br> So both will finish the work in 40/9 hours =4(4/9) ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "4/9",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "2/9 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "3/9",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "4(4/9) ",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "A and B can together complete a piece of work in 4 days. If A alone can complete the same work in 12 days, in how many days can B alone complete that work ?",
+			"explanation": "(A+B)'s 1 day work = 1/4 <br> A's 1 day work = 1/12 <br> B's 1 day work = 1/4−1/12)= 3−1/12=1/6 <br> So B alone can complete the work in 6 days ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "4 days",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "5 days ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "6 days ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "7 days",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A can finish a work in 18 days and B can do same work in half the time taken by A. then working together, what part of same work they can finish in a day ",
+			"explanation": "A's 1 day work = 1/18 <br> B's 1 day work = 1/9 [because B take half time than A <br> (1/18+1/9)=(1+2/18)=1/6 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "1/7",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "1/5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "1/6 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "1/8",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "A tyre has two punctures. The first puncture alone would have made the tyre flat in 9 minutes and the second alone would have done it in 6 minutes. If air leaks out at a constant rate, how long does it take both the punctures together to make it flat ?",
+			"explanation": "1 minute work done by both the punctures =(1/9+1/6)=(5/18) <br> So both punctures will make the type flat in (18/5)mins=3(3/5)mins",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " 3(1/5)min",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "3(2/5)min ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "3(3/5)min",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "3(4/5)min ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A is twice as good as workman as B and together they finish a piece of work in 18 days. In how many days will B alone finish the work.",
+			"explanation": "A do twice the work as done by B.<br> So A:B = 2:1 <br> Also (A+B) one day work = 1/18 <br> To get days in which B will finish the work, lets calculate work done by B in 1 day = (1/18∗1/3)=1/54 <br> [Please note we multiplied by 1/3 as per B share and total of ratio is 1/3] <br> So B will finish the work in 54 days",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "27 days",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "54 days",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "56 days",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " 68 days ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "A does half as much work as B in three-fourth of the time. If together they take 18 days to complete the work, how much time shall B take to do it ",
+			"explanation": "Suppose B takes x dáys to do the work. <br> As per question A will take 2∗3/4∗x=3x/2days <br> (A+B)s 1 days work= 1/18 <br> 1/x + 2/3x = 1/18 or x = 30 days ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "40 days",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "35 days",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "30 days",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "25 days",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

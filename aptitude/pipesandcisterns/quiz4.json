@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Pipes and Cisterns Test 4",
+    "description": "Practice Pipes and Cisterns Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A water tank is two-fifth full.Pipe A can fill a tank in 10 minutes and pipe B can empty it in 6 minutes.If both the pipes are open,how long will it take to empty or fill the tank completely?",
+			"explanation": "Clearly,pipe B is faster than pipe A and so,the tank will be emptied.<br> part to be emptied = 2/5 <br> part emptied by (A+B) in 1 minute=(1/6−1/10)=1/15 <br> 1/15:2/5::1:x <br>2/5*15=6mins ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": " 6 min.to empty",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "6 min.to fill",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "9 min.to empty ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": " 9 min.to fill",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Three pipes A, B and C can fill a tank in 6 hours. After working at it together for 2 hours, C is closed and A and B can fill the remaining part in 7 hours. The number of hours taken by C alone to fill the tank is:",
+			"explanation": "Part filled in 2 hours = 2/6=1/3 <br> Remaining part =(1−1/3)=2/3 <br> (A + B)'s 7 hour's work = 2/3 <br> (A + B)'s 1 hour's work = 2/21 <br> C's 1 hour's work = { (A + B + C)'s 1 hour's work } - { (A + B)'s 1 hour's work } <br> =1/6-2/21 = 1/14 <br> C alone can fill the tank in 14 hours. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": " 10 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "12 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "14",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "16 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A booster pump can be used for filling as well as for emptying a tank. The capacity of the tank is 2400 m^3. The emptying capacity of the tank is 10m^3 per minute higher than its filling capacity and the pump needs 8 minutes lesser to empty the tank than it needs to fill it. What is the filling capacity of the pump?",
+			"explanation": "Let the filling capacity of the pump be x m3/min. <br> Then, emptying capacity of the pump=(x+10)m^3/min.<br> so,2400/x−2400/x+10=8 <br> x^2+10x−3000=0 <br> (x−50)+(x+60)=0 ⇔x=50",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": " 75 m^3/min",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": " 70 m^3/min ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": " 60 m^3/min",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": " 50 m^3/min",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Water flows into a tank which is 200 m long and 150 m wide, through a pipe of cross-section (0.3m x 0.2m) at 20 km/h. In what time will the water level be 12m  ?",
+			"explanation": "Volume of water collected in the tank in 1 hour <br> (0.3 × 0.2 × 20km × 1000mts) = 1200 m cubic <br> If after t hours, the water is at height of 12m,<br> 1200t=200×150×12 <br> t = 300 Hours. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "200 hrs",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "240 hrs",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "  300 hrs ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": " 270 hrs ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Two pipes A and B can separately fill a cistern in 60 min and 75 min respectively. There is a third pipe in the bottom of the cistern to empty it. If all the three pipes are simultaneously opened, then the cistern is full in 50 min. In how much time, the third pipe alone can empty the cistern ? ",
+			"explanation": "Work done by the third pipe in 1 min = 1/50 - (1/60 + 1/75) = - 1/100.[-ve sign means emptying]<br> The third pipe alone can empty the cistern in 100 min.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": " 85 min",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "95 min ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "105 min",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "100 min ",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "There is an empty reservoir whose capacity is 30 litres. There is an inlet pipe which fills at 5 L/min and there is an outlet pipe which empties at 4 L/min. Both the pipes function alternately for 1 minute. Assuming that the inlet pipe is the first one to function, how much time will it take for the reservoir to be filled up to its capacity?",
+			"explanation": "The work to be done = Capacity of reservoir  = 30 litres.<br> 1st Minute ---> inlet pipe opened ---> 5 lit filled <br> 2nd minute ---> inlet pipe closed; outlet pipe opened ---- <br> In 2 minutes (5 litres - 4 litres = 1lit) is filled into the reservoir.<br> It takes 2 minutes to fill 1lit ---> it takes 50 minutes to fill 25 litres into the reservoir.<br> In the 51st minute inlet pipe is opened and the reservoir is filled.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "49.5 min",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": " 50 min ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": " 52 min ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": " 51 min",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Three taps I, J and K can fill a tank in 20,30and 40 minutes respectively. All the taps are opened simultaneously and after 5 minutes tap A was closed and then after 6 minutes tab B was closed .At the moment a leak developed which can empty the full tank in 70 minutes. What is the total time taken for the completely full ? ",
+			"explanation": "Upto first 5 minutes I, J and K will fill => 5[(1/20)+(1/30)+(1/40)] = 65/120 <br> For next 6 minutes, J and K will fill => 6[(1/30)+(1/40)] = 42/120 <br> So tank filled upto first 11 minutes = (65/120) + (42/120) = 107/120 <br> So remaining tank = 13/120 <br> Now at the moment filling with C and leakage @ 1/60 per minute= (1/40) - (1/70) = 3/280.<br> So time taken to fill remaining 13/120 tank =(13/120) /(3/280) = 91/6 minutes <br> Hence total time taken to completely fill the tank = 5 + 6 + 91/6 = 26.16 minutes.  ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": " 24.315 minutes",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "26.166 minutes",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "22.154 minutes ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "24 minutes",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "In what time would a cistern be filled by three pipes which diameters are 2 cm, 3 cm and 4 cm running together, when the largest alone can fill it is 58 minutes? The amount of water flowing in each pipe is proportional to the square of its diameter.",
+			"explanation": "Given that the diameters of the three pipes are 2 cm, 3 cm and 4 cm <br> From the given data,<br> Amount of water from three pipes is 4 units, 9 units and 16 units.<br> Let the capacity of cistern be 'p' units.<br>  p/58 = 16 <br> p = 928 units. <br> In 1 minute, quantity to be filled by 3 pipes = 29 units <br> Total time required = 928/29 = 32 minutes. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "26 min ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "32 min ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "36 min",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "42 min ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Pipe K fills a tank in 30 minutes. Pipe L can fill the same tank 5 times as fast as pipe K. If both the pipes were kept open when the tank is empty, how much time will it take for the tank to overflow ?",
+			"explanation": "Let the total capacity of tank be 90 liters.<br> Capacity of tank filled in 1 minute by K = 3 liters. <br> Capacity of tank filled in 1 minute by L = 15 liters.<br>Therefore, capacity of the tank filled by both K and L in 1 minute = 18 liters.<br> Hence, time taken by both the pipes to overflow the tank = 90/18 = 5 minutes. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "3 minutes",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "2 minutes",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "4 minutes",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " 5 minutes  ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "One fill pipe A is 3 times faster than second fill pipe B and takes 32 minutes less than the fill pipe B. When will the cistern be full if both pipes are opened together? ",
+			"explanation": "Let pipe A takes p min to fill <br> pipe B takes 3p min to fill <br> 3p - p = 32 <br>  p = 16 min => 3p = 48 min <br> Required, both pipes to fill = (48 x 16)/(48 + 16) min = 12 min.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "8 min",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "9 min",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "10 min",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "12 min",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

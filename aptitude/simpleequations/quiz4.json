@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Simple Equations Test 4",
+    "description": "Practice Simple Equations Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "The bus fare for two persons for travelling between Agra and Aligarh if four-thirds the train fare between the same places for one person. The total fare paid by 6 persons travelling by bus and 8 persons travelling by train between the two places is Rs.1512.<br> Find the train fare between the two places for one person?",
+			"explanation": "Let the train fare between the two places for one person be Rs.t<br>Bus fare between the two places for two persons Rs.4/3 t<br>=> 6/2 (4/3 t) + 8(t) = 1512<br>=> 12t = 1512 <br>=> t = 126.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Rs.126",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Rs.132",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Rs.140",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Rs.100",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "A man purchased 15 pens, 12 books, 10 pencils and 5 erasers. The cost of each pen is Rs.36, each book is Rs.45, each pencil is Rs.8, and the cost of each eraser is Rs.40 less than the combined costs of pen and pencil.<br> Find the total amount spent?",
+			"explanation": "Cost of each eraser = (36 + 8 -40) = Rs.4<br>Required amount = 15 * 36 + 12 * 45 + 10 * 8 + 5 * 4<br>540 + 540 + 80 + 20 = Rs.1180",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Rs.1100",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Rs.1120 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Rs.1140 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "None of These",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A man traveled a total distance of 1800 km. He traveled one-third of the whole trip by plane and the distance traveled by train is three-fifth of the distance traveled by bus. If he traveled by train, plane and bus,<br> then find the distance traveled by bus?",
+			"explanation": "Total Distance Traveled = 1800 km.<br>Distance Traveled by Plane = 600 km.<br>Distance Traveled by bus = x<br>Distance Traveled by train = 3x/5<br>=> x + 3x/5 + 600 = 1800<br>=> 8x/5 = 1200 <br>=> x = 750 km.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "450 KM",
+                    "isAnswer": false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "850 KM",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "1200 KM",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "750 KM",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "A bag contains equal number of Rs.5, Rs.2 and Rs.1 coins. If the total amount in the bag is Rs.1152, find the number of coins of each kind ?",
+			"explanation": "Let the number of coins of each kind be x.<br>=> 5x + 2x + 1x = 1152<br>=> 8x = 1152 <br>=> x = 144",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "144",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "120",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " 72",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "430",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Ajay and Vijay have some marbles with them. Ajay told Vijay 'if you give me ‘x’ marbles, both of us will have equal number of marbles'. Vijay then told Ajay 'if you give me twice as many marbles, I will have 30 more marbles than you would'. <br>Find ‘x’?",
+			"explanation": "If Vijay gives ‘x’ marbles to Ajay then Vijay and Ajay would have V – x and A + x marbles.<br>V – x = A + x — (1)<br>If Ajay gives 2x marbles to Vijay then Ajay and Vijay would have A – 2x and V + 2x marbles.<br>V + 2x – (A – 2x) = 30 => V – A + 4x = 30 — (2)<br>From (1) we have V – A = 2x<br>Substituting V – A = 2x in (2)<br>6x = 30 => x = 5.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "4",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "5",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "8",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Alok ordered 16 chapatis, 5 plates of rice, 7 plates of mixed vegetable and 6 ice-cream cups. The cost of each chapati is Rs.6, that of each plate of rice is Rs.45 and that of mixed vegetable is Rs.70. The amount that Alok paid the cashier was Rs.961.<br>Find the cost of each ice-cream cup?",
+			"explanation": "Let the cost of each ice-cream cup be Rs.x<br>16(6) + 5(45) + 7(70) + 6(x) = 961<br>96 + 225 + 490 + 6x = 961<br>6x = 150 <br> x = 25.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Rs.25",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Rs.22",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Rs.25.50",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Rs.17.50",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Three consecutive odd integers are in increasing order such that the sum of the last two integers is 13 more than the first integer.<br>Find the three integers?",
+			"explanation": "Let the three consecutive odd integers be x, x + 2 and x + 4 respectively.<br> x + 4 + x + 2 = x + 13 => x = 7<br>Hence three consecutive odd integers are 7, 9 and 11.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "9, 11, 13",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "11, 13, 15",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "13, 15, 17",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "7, 9, 11 ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "There are some rabbits and peacocks in a zoo. The total number of their heads is 60 and total number of their legs is 192.<br>Find the number of total rabbits?",
+			"explanation": "Let the number of rabbits and peacocks be ‘r’ and ‘p’ respectively. As each animal has only one head,<br>so r + p = 60 — (1)<br>Each rabbit has 4 legs and each peacock has 2 legs.<br> Total number of legs of rabbits and peacocks, 4r + 2p = 192 — (2)<br>Multiplying equation (1) by 2 and subtracting it from equation (2), we get<br>=> 2r = 72 => r = 36.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "30",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "46",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "36",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "44",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "On the independence day, bananas were be equally distributed among the children in a school so that each child would get two bananas. On the particular day 360 children were absent and as a result each child got two extra bananas.<br>Find the actual number of children in the school?",
+			"explanation": "Let the number of children in the school be x.<br>Since each child gets 2 bananas, total number of bananas = 2x.<br>2x/(x – 360) = 2 + 2(extra)<br>=> 2x – 720 = x => x = 720.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "600",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "720",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "620",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "520",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Eight years ago, Ajay’s age was 4/3 times that of Vijay. Eight years hence, Ajay’s age will be 6/5 times that of Vijay.<br>What is the present age of Ajay?",
+			"explanation": "Let the present ages of Ajay and Vijay be ‘A’ and ‘V’ years respectively.<br>A – 8 = 4/3 (V – 8) and A + 8 = 6/5 (V + 8) <br>3/4(A – 8) = V – 8 and 5/6(A + 8) = V + 8<br>V = 3/4 (A – 8) + 8 = 5/6 (A + 8) – 8<br>=> 3/4 A – 6 + 8 = 5/6 A + 20/3 – 8<br>=> 10 – 20/3 = 10/12 A – 9/12 A<br>=> 10/3 = A/12 => A = 40.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "30 years",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "32 years",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "40 years",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "48 years",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

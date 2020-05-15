@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Permutations Test 4",
+    "description": "Practice Permutations Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "There are 30 people in a party. If everyone is to shake hands with one another, how many hand shakes are possible?",
+			"explanation": "Total number of persons = n = 30 <br> Shakehands involve only 2 persons = r = 2 <br> Number of shakehands = nCr = 30C2<br> nCr = (n!)/ r!(n – r)! <br> = 30! / 2! 28! <br> = 435 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "180",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " 256",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "386 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": " 435",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?",
+			"explanation": "The word 'LEADING' has 7 different letters.<br> Then, we have to arrange the letters LNDG (EAI).<br> Now, 5 (4 + 1 = 5) letters can be arranged in 5! = 120 ways.<br> The vowels (EAI) can be arranged among themselves in 3! = 6 ways.<br> Required number of ways = (120 x 6) = 720. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "360 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "480 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "720",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "5040  ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one boy should be there? ",
+			"explanation": "Required number of ways = (6C1 x 4C3) + (6C2 x 4C2) + (6C3 x 4C1) + (6C4)<br> = (6C1 x 4C1)+(6C2x4C2)+(6C3 x 4C1)+(6C2) <br> = (6 x 4) +(6 x5/2x1)x(4 x 3/2x1)+(6x5x4/3x2x1x 4)+(6x5/2x1)<br>=(24 + 90 + 80 + 15)=209",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "159",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "194 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "205",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "209",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": " How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and none of the digits is repeated?",
+			"explanation": "Since each desired number is divisible by 5, so we must have 5 at the unit place. So, there is 1 way of doing it.<br> The tens place can now be filled by any of the remaining 5 digits (2, 3, 6, 7, 9). So, there are 5 ways of filling the tens place.<br> The hundreds place can now be filled by any of the remaining 4 digits. So, there are 4 ways of filling it.<br> Required number of numbers = (1 x 5 x 4) = 20. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "5",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "15 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "20",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": " In how many different ways can the letters of the word  'DETAIL' be arranged in such a way that the vowels occupy only the odd positions? ",
+			"explanation": "There are 6 letters in the given word, out of which there are 3 vowels and 3 consonants.<br> Let us mark these positions as under (1) (2) (3) (4) (5) (6) <br>Now, 3 vowels can be placed at any of the three places out 4, marked 1, 3, 5.<br> Number of ways of arranging the vowels = 3P3 = 3! = 6.<br> Also, the 3 consonants can be arranged at the remaining 3 positions.<br> Number of ways of these arrangements = 3P3 = 3! = 6.<br> Total number of ways = (6 x 6) = 36. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "32",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "48 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "36",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "60",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": ". Evaluate permutation 5P5",
+			"explanation": "nPn=n! <br>5P5=5x4x3x2x1 =120 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "120",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "110 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "98 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "24",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Evaluate combination 100 C 100 ",
+			"explanation": "nCn=1 <br> 100C100=1",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "10000",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "1000",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "10 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "1",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": " In how many words can be formed by using all letters of the word BHOPAL",
+			"explanation": "Required number = 6!=6x5x4x3x2x1=720",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "420 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "520 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "620",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "720 ",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "In how many way the letter of the word ;RUMOUR' can be arranged",
+			"explanation": "In above word, there are 2 'R' and 2 'U' <br> So Required number will be <br> =6!/2!x2! <br> 6x5x4x3x2x1/4 = 180 ,",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "2520",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "480",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "360",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " 180 ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": " How many words can be formed from the letters of the word 'SIGNATURE' so that vowels always come together.  ",
+			"explanation": "word SIGNATURE contains total 9 letters.<br> There are four vowels in this word, I, A, U and E <br> Make it as, SGNTR(IAUE), consider all vowels as 1 letter for now So total letter are 6. <br> 6 letters can be arranged in 6! ways = 720 ways <br> Vowels can be arranged in themselves in 4! ways = 24 ways <br> Required number of ways = 720*24 = 17280 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "80",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "720",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "4320",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "17280",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

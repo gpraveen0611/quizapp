@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Compound Interest Test 4",
+    "description": "Practice Compound Interest Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "The present worth of Rs.169 due in 2 years at 4% per annum compound interest is",
+			"explanation": "In this type of question we apply formula <br> Amount=P/(1+R/100)^n <br> Amount=169(1+4/100)^2 <br> Amount=156.25 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Rs 155.25",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Rs 156.25",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Rs 157.25",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Rs 158.25",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "At what rate of compound interest per annum will a sum of Rs. 1200 become Rs. 1348.32 in 2 years",
+			"explanation": "Let Rate will be R% <br> 1200(1+R/100)^2=134832/100 <br> (1+R/100)^2 =134832/120000 <br> (1+R/100)^2 =11236/10000 <br> (1+R/100)=106/100 <br> R=6% ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "3% ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "4% ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "5%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": " 6%",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "The least number of complete years in which a sum of money put out at 20% compound interest will be more than doubled is",
+			"explanation": "As per question we need something like following <br> (1+R/100)^2 >2P <br> (1+20/100)^n>2 <br> (6/5)^n>2 <br> 6/5×6/5×6/5×6/5>2 <br> So answer is 4 years ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "2 years",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "3 years ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "5 years",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "4 years",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Simple interest on a certain sum of money for 3 years at 8% per annum is half the compound interest on Rs. 4000 for 2 years at 10% per annum. The sum placed on simple interest is",
+			"explanation": "C.I.=(4000×(1+10/100)^2−4000) =840 <br> S.I. = 840/2=420 <br> So Sum = S.I.∗100/R∗T <br> 420∗100/3∗8 <br> Rs1750  ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Rs 1650",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Rs 1750",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "Rs 1850  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Rs 1950 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "In what time will Rs.1000 become Rs.1331 at 10% per annum compounded annually",
+			"explanation": "Let the time be n years then,<br> 1000(1+10/100)^n=1331 <br> (11/10)^n=1331/1000 <br> (11/10)^3=1331/1000 <br> So answer is 3 years",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "2 Years",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "3 Years ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "5 Years",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "7 Years ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "What will be the difference between simple and compound interest @ 10% per annum on the sum of Rs 1000 after 4 years",
+			"explanation": "S.I.=1000x10x4/100=400 <br> C.I.=[1000(1+10/100)^4−1000 =464.10 <br> so difference between simple interest and compound interest will be 464.10 - 400 = 64.10",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Rs 64.10",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Rs 65.10 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Rs 68.10 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Rs 69.10",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "On a sum of money, simple interest for 2 years is Rs 660 and compound interest is Rs 696.30, the rate of interest being the same in both cases. ",
+			"explanation": "Difference between C.I and S.I for 2 years = 36.30 <br> S.I. for one year = 330.<br>S.I. on Rs 330 for one year = 36.30 <br> So R% = \frac{100*36.30}{330*1} = 11%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "8%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "11%",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "12% ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "14%",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Effective annual rate of interest corresponding to nominal rate of 6% per annum compounded half yearly will be",
+			"explanation": "Let the amount Rs 100 for 1 year when compounded half yearly, n = 2, Rate = 6/2 = 3%<br> Amount=100(1+3/100)^2=106.09 <br> Effective rate = (106.09 - 100)% = 6.09%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "6.09% ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "6.10% ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "6.12%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "6.14% ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A sum of money invested at compound interest to Rs. 800 in 3 years and to Rs 840 in 4 years. The rate on interest per annum is.",
+			"explanation": "S.I. on Rs 800 for 1 year = 40 <br> Rate = (100*40)/(800*1) = 5%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "4%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "5%",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "6%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "7%",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "If the simple interest on a sum of money for 2 years at 5% per annum is Rs. 50, what is the compound interest on the same at the same rate and for the same time? ",
+			"explanation": "Sum = Rs.(50 x 100/2x5) = Rs. 500.<br> Amount= Rs.(500 x (1+ 5/100)^2 ) <br> = Rs (500x21/20x21/20 <br> = Rs. 551.25 <br> C.I. = Rs. (551.25 - 500) = Rs. 51.25 .",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Rs. 50",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Rs. 51.25",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Rs. 51.50",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Rs. 52",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

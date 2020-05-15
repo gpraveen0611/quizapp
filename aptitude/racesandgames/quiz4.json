@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Races and Games Test 4",
+    "description": "Practice Races and Games Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A can run 22.5 m while B runs 25 m. In a one kilometer race, B beats A by",
+			"explanation": "When B runs 25 m, A runs 45/2 m <br> When B runs 1000 m, A runs <br> (45/2 x1/25 x 1000) = 900m <br> ∴ B beats A by 100 m. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "100 m",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "111 1/9 m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "25 m ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "50 m",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "In a 500 m race, the ratio of the speeds of two contestants A and B is 3 : 4. A has a start of 140 m. Then, A wins by:",
+			"explanation": "To reach the winning post A will have to cover a distance of (500 - 140)m, i.e., 360 m.<br>While A covers 3 m, B covers 4 m.<br> While A covers 360 m, B covers (4/3)*360 = 480 m.<br> Thus, when A reaches the winning post, B covers 480 m and therefore remains 20 m behind.<br>  A wins by 20 m.    ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": " 60m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": " 40m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": " 20m",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "10m",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A and B take part in 100 m race. A runs at 5 kmph. A gives B a start of 8 m and still beats him by 8 seconds. The speed of B is:",
+			"explanation": "A's speed = (5*5/15)m/sec = (25/18)m/sec <br> Time taken by A to cover 100 m = (100*18/15)sec = 72sec <br> Time taken by B to cover 92 m = (72 + 8) = 80 sec.<br> B's speed =(92/80*18/5)kmph =4.14kmph ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "5.15 kmph",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "4.14 kmph ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "4.25 kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "4.4 kmph",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "At a game of billiards, A can give B 15 points in 60 and A can give C to 20 points in 60. How many points can B give C in a game of 90?",
+			"explanation": "A : B = 60 : 45.<br> A : C = 60 : 40.<br> B/C = (B/A*A/C) = (45/60*60/45) = 45/40 = 90/80 = 90:80 <br> B can give C 10 points in a game of 90.  ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "30 points",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "20 points",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "10 points ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "12 points ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "In a 200 metres race A beats B by 35 m or 7 seconds. A's time over the course is:",
+			"explanation": "B runs 35 m in 7 sec.<br>  B covers 200 m in (7/35*200) = 40 sec.<br> B's time over the course = 40 sec.<br> A's time over the course (40 - 7) sec = 33 sec.  ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": " 40 sec",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "47sec ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "33sec",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "none of these ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "In a 300 m race, A beats B by 22.5 m or 6 seconds. B's time over the course is:",
+			"explanation": "B runs 45/2mts in 6 sec <br> B covers 300m in (6*2/45*300)sec =80 sec",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "80 sec",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "85 sec ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "90 sec ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "95 sec",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A can give B 100 meters start and C 200 meters start in a kilometer race. How much start can B give C in a kilometer race? ",
+			"explanation": "A runs 1000 meters while B runs 900 meters and C runs 800 meters.<br> Therefore, B runs 900 meters while C runs 800 meters.<br> So, the number of meters that C runs when B runs 1000 meters = (1000 x 800)/900 = 8000/9 = 888.88 meters <br> Thus, B can give C (1000 - 888.88) = 111.12 meters start  ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "110.12 meters",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "111.12 meters",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "112.12 meters ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "113.12 meters",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "In a game of 100 points, A can give B 20 points and C 28 points. Then, B can give C:",
+			"explanation": "A : B = 100 : 80.<br> A : C = 100 : 72.<br> B:C = B/A*A/C = 80/10*100/72 = 10/9 = 100/90 = 100:90 <br> B can give C 10 points ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "8 points ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "10 points ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "14points",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "40points ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "In a 200 metres race A beats B by 35 m or 7 seconds. A's time over the course is:",
+			"explanation": "B runs 35 m in 7 sec.<br>  B covers 200 m in (7/35*200) = 40sec <br> B's time over the course = 40 sec.<br> A's time over the course (40 - 7) sec = 33 sec.  ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": " 40 sec",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "47 sec",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "33 sec",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "None of these ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "In a 100 m race, A can give B 10 m and C 28 m. In the same race B can give C: ",
+			"explanation": "A : B = 100 : 90.<br> A : C = 100 : 72.<br> B:C = B/A*A/C = 90/100*100/72 = 90/72 <br> When B runs 90 m, C runs 72 m.<br> When B runs 100 m, C runs (72/90*100)m = 80m <br> B can give C 20m    ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "18 m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "27m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "9m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "20 m",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

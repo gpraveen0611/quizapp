@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Profit and Loss Test 4",
+    "description": "Practice Profit and Loss Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": " A pair of articles was bought for Rs. 37.40 at a discount of 15%. What must be the marked price of each of the articles ?",
+			"explanation": "As question states that rate was of pair of articles <br> So rate of One article = 37.40/2 = Rs. 18.70 <br> Let Marked price = Rs X <br> then 85% of X = 18.70 <br> X = 1870/85 = 22  ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Rs 20",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Rs 22",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Rs 24 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Rs 26",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "A shopkeeper fixes the marked price of an item 35% above its cost price. The percentage of discount allowed to gain 8% is",
+			"explanation": "Let the cost price = Rs 100<br>then, Marked price = Rs 135 <br> Required gain = 8%, <br> So Selling price = Rs 108 <br> Discount = 135 - 108 = 27 <br> Discount% = (27/135)*100 = 20%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "18% ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "20% ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "22%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": " 24% ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A fruit seller sells mangoes at the rate of Rs.9 per kg and thereby loses 20%. At what price per kg, he should have sold them to make a profit of 5%",
+			"explanation": "85 : 9 = 105 : x <br> x= (9×105/85) <br> = Rs 11.81 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Rs 8.81",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Rs 9.81 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Rs 10.81",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Rs 11.81",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "If the manufacturer gains 10 %, the wholesale dealer 15 % and the retailer 25 %, then find the cost of production of a table if the retail price was Rs 1265",
+			"explanation": "Let the cost of Production = Rs. P <br> (125/100∗115/100∗110/100∗P)=1265 <br> P=800 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Rs. 750",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Rs. 800",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "Rs. 850  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Rs. 900 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "A producer of tea blends two varieties of tea from two tea gardens one costing Rs 18 per kg and another Rs 20 per kg in the ratio 5 : 3. If he sells the blended variety at Rs 21 per kg, then his gain percent is",
+			"explanation": "Suppose he bought 5 kg and 3 kg of tea.<br> Cost Price = Rs. (5 x 18 + 3 x 20) = Rs. 150.<br> Selling price = Rs. (8 x 21) = Rs. 168. <br> Profit = 168 - 150 = 18 <br> So, Profit % = (18/150) * 100 = 12%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "10%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "12% ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "14%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "16% ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "The cash difference between the selling prices of an article at a profit of 4% and 6% is Rs 3. The ratio of two selling prices is",
+			"explanation": "Let the Cost price of article is Rs. x <br> Required ratio = 104% of x / 106% of x <br>104/106=52/53 = 52:53 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "51:52",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "52:53 ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "53:54 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "54:55",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A man gains 20% by selling an article for a certain price. If he sells it at double the price, the percentage of profit will be. ",
+			"explanation": "Let the C.P. = x,<br> Then S.P. = (120/100)x = 6x/5 <br> New S.P. = 2(6x/5) = 12x/5 <br> Profit = 12x/5 - x = 7x/5 <br> Profit% = (Profit/C.P.) * 100 <br> (7x/5) * (1/x) * 100 = 140 %  ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "130%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "140%",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "150% ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "160%",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "If the cost price of 12 pens is equal to the selling price of 8 pens, the gain percent is ?",
+			"explanation": "Let the cost price of 1 pen is Re 1 <br> Cost of 8 pens = Rs 8 <br> Selling price of 8 pens = 12 <br> Gain = 12 - 8 = 4 <br> Gain%=(Gain/Cost∗100)% <br>(4/8∗100)%=50%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "12% ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": " 30%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "50%",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "60% ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit",
+			"explanation": "S.P. = Rs. 420.<br>New S.P. = Rs. 420.<br> Profit = Rs. (420 - 125) = Rs. 295 <br> Required percentage = (295/420) * 100 =70%(approx)",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "70%",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "80%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "90%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "None of above ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Sahil purchased a machine at Rs 10000, then got it repaired at Rs 5000, then gave its transportation charges Rs 1000. Then he sold it with 50% of profit. At what price he actually sold it. ",
+			"explanation": "Just calculate all Cost price, then get 150% of CP <br> C.P. = 10000 + 5000 + 1000 = 16000 <br> 150% of 16000 = 150/100 * 16000 = 24000 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Rs. 22000",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Rs. 24000",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Rs. 26000",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Rs. 28000",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

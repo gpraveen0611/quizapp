@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Simple Interest Test 4",
+    "description": "Practice Simple Interest Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Find the simple interest on the Rs. 2000 at 25/4% per annum for the period from 4th Feb 2005 to 18th April 2005",
+			"explanation": "Always remember that the day on which money is deposited is not counted while the day on which money is withdrawn is counted.<br>So lets calculate the number of days now,Time = (24+31+18) days = 73/365 years = 1/5 years ,P = 2000,R = 25/4% <br> S.I. = =2000×25/4×5×100=25",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Rs 25",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Rs 30",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Rs 35 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Rs 40",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Sachin borrows Rs. 5000 for 2 years at 4% p.a. simple interest. He immediately lends money to Rahul at 25/4% p.a. for 2 years. Find the gain of one year by Sachin.",
+			"explanation": "Two things need to give attention in this question, First we need to calculate gain for 1 year only.<br>Second, where we take money at some interest and lends at other, then we use to subtract each other to get result in this type of question. Lets solve this Simple Interest question now.<br> Gain in 2 year = [(5000×25/4×2/100)-(5000×4×2/100)] = (625−400)=225 <br> So gain for 1 year = 225/2=112.50   ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "110.50 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "111.50 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "112.50",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": " 113.50 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": " At 5% per annum simple interest, Rahul borrowed Rs. 500. What amount will he pay to clear the debt after 4 years",
+			"explanation": "We need to calculate the total amount to be paid by him after 4 years, So it will be Principal + simple interest.So, <br> =>500+500x5x4/100 = Rs.600",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "750",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "700 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "650",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "600",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "A sum of Rs 12,500 amounts to Rs. 15,500 in the 4 years at the rate of simple interest. Find the rate percent",
+			"explanation": "R=S.Ix100/PxT <br>So, S.I = 15500 - 12500 = 3000. <br> R=3000x100/12500x4=6% ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "9 %",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "8 %",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "7 % ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "6 % ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Reema took a loan of Rs 1200 with simple interest for as many years as the rate of interest. If she paid Rs. 432 as interest at the end of the loan period, what was the rate of interest.",
+			"explanation": "Let rate = R% then Time = R years.<br> 1200xRxR/100=432<br> R^2=36 <br>R=6% ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "5%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "6% ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "7%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "8%",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "The simple interest on a certain sum of money at the rate of 5% p.a. for 8 years is Rs. 840. At what rate of intrest the same amount of interest can be received on the same sum after 5 years.",
+			"explanation": "P=S.I.x100/RxT <br> Required Rate = 840x100/5x2100,R=8%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "8%",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "7% ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "6% ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "5%",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A lent Rs. 5000 to B for 2 years and Rs 3000 to C for 4 years on simple interest at the same rate of interest and received Rs 2200 in all from both of them as interest. The rate of interest per annum is ",
+			"explanation": "Let R% be the rate of simple interest then,<br> from question we can conclude that <br> (5000xRx2/100)+(3000xRx4/100)=2200<br> R=10%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "9%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "10%",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "11%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "12%",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "A sum of money at simple interest amounts to Rs. 2240 in 2 years and to Rs. 2600 in 5 years. What is the principal amount",
+			"explanation": "SI for 3 year = 2600-2240 = 360<br>SI for 2 year 360/3 * 2 = 240<br>principal = 2240 - 240 = 2000  ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "1000 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "1500 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "2000",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "2500 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "At what rate percent per annum will the simple interest on a sum of money be 2/5 of the amount in 10 years",
+			"explanation": "Let sum = x,Time = 10 years,S.I = 2x /5, [as per question]<br>Rate =( (100 * 2x) / (x*5*10))% <br> Rate = 4%  ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "1%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "2%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "3%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "4%",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Rs. 800 becomes Rs. 956 in 3 years at a certain rate of simple interest. If the rate of interest is increased by 4%, what amount will Rs. 800 become in 3 years.",
+			"explanation": "R=156x100/800x3,R=6(1/2)% <br> New Rate = 21/2% <br> New S.I. = 800×21/2×3100 <br>=252 <br> Now amount will be 800 + 252 = 1052  ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Rs 1052",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Rs 1152",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Rs 1252",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Rs 1352",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

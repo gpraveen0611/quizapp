@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Areas Test 4",
+    "description": "Practice Areas Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "One side of rectangular field is 15 meter and one of its diagonals is 17 meter. Then find the area of the field.",
+			"explanation": "We know h^2=b^2+h^2 <br> Other side =√(17)^2−(15)^2 =√64=8mtr <br> Area=Length×Breadth <br> =15×8m^=120m^2 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "120m^2",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "130m^2",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "140m^2 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "150m^2",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "The area of a rectangle is 460 square metres. If the length is 15% more than the breadth, what is the breadth of the rectangular field ?",
+			"explanation": "Let breadth =x metres.<br> Then length =(115x/100)metres.<br> =x∗115x/100=460 <br>x^2=(460x100/115) <br> x^2=400 <br> x=20 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "18 meter ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "20 meter ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "22 meter",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": " 25 meter ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "The perimeters of two squares are 40 cm and 32 cm. Find the perimeter of a third square whose area is equal to the difference of the areas of the two squares .",
+			"explanation": "We know perimeter of square = 4(side)<br>So Side of first square = 40/4 = 10 cm<br>Side of second square = 32/4 = 8 cm<br>Area of third Square = 10*10 - 8*8<br>= 36 cm <br> So side of third square = 6 [because area of square = side*side]<br> Perimeter = 4*Side = 4*6 = 24 cm",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "22 cm",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "24 cm ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "26 cm",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "28 cm",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "If the area of a square with the side a is equal to the area of a triangle with base a, then the altitude of the triangle is.",
+			"explanation": "We know area of square =a^2 <br> Area of triangle =1/2∗a∗h<br>1/2∗a∗h=a^2=>h=2a",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "a",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "a^2",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " 2a ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "None of above ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "What will be the ratio between the area of a rectangle and the area of a triangle with one of the sides of the rectangle as base and a vertex on the opposite side of the rectangle ?",
+			"explanation": "Area of rectangle =l∗b <br> Area of triangle =(1/2)l∗b <br> Ratio =l∗b:(1/2)l∗b <br> 1:1/2 =2:1",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "1:1",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "1:2 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "2:3",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "2:1 ",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "A triangle and a parallelogram are constructed on the same base such that their areas are equal. If the altitude of the parallelogram is 100 m , then the altitude of the triangle is.",
+			"explanation": "Let the triangle and parallelogram have common base b,let the Altitude of triangle is h1 and of parallelogram is h2(which is equal to 100 m), then <br> Area of triangle =1/2∗b∗h1 <br> Area of rectangle =b∗h2 <br> 1/2∗b∗h1=b∗h2 <br> 1/2∗b∗h1=b∗100 <br> h1=100∗2=200m ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "200 m",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "150 m ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "148 m ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "140 m",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "The area of rhombus is 150 cm square. The length of one of the its diagonals is 10 cm. The length of the other diagonal is: ",
+			"explanation": "the product of diagonals is 1/2*(product of diagonals) <br> Let one diagonal be d1 and d2,So as per question <br> 1/2*d1*d2=150<br> 1/2*10*d2=150<br>d2 =150/5=30",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "15 cm",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "20 cm",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "25 cm ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "30 cm",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": " Find the circumference of a circle, whose area is 24.64 meter sqaure",
+			"explanation": "Area of Square =π∗r^2 <br> r=2.8 <br> Circumference =2π∗r = 2∗22/7∗2.8 = 17.60m",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "17.90m ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "17.80m ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "17.60m",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "17.40m ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": " The cross-section of a cannel is a trapezium in shape. If the cannel is 10 m wide at the top and 6 m wide at the bottom and the area of cross-section is 640 sq m, the depth of cannel is?",
+			"explanation": "1/2 * d (10 + 6) = 640 <br> d= 80",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "20 m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "60 m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "40 m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " 80 m ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "If the radius of a circle is diminished by 10%, then the area is diminished by: ",
+			"explanation": "Let the original radius be R cm. New radius = 2R<br>Area=πR^2 <br> New Area =π2R^2 <br> Increase in area =(4πR^−πR^2) = 3πR2 <br> Increase percent =3πR^2/πR^2 x 100 =300% ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "200%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "210%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "300%",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "310%",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

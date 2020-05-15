@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Mixtures and Alligations Test 4",
+    "description": "Practice Mixtures and Alligations Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A zookeeper counted the heads of the animals in a zoo and found it to be 100. When he counted the legs of the animals he found it to be 340. If the zoo had either pigeons or elephants,<br>how many pigeons were there in the zoo?",
+			"explanation": "Total number of legs = 4x + 2(100-x) = 340<br>4x + 200 – 2x = 340<br>2x = 140<br>x = 70<br>Total number of legs = 4x + 2(100-x) = 340<br>4x + 200 – 2x = 340<br>2x = 140<br>x = 70<br>P = 100-70 =30P = 100-70 =30",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "45",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "30",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "70",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "50",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Dhal worth Rs. 110 per kg and Rs. 95 per kg are mixed with a third variety in the ratio 1:1:2. If the mixture is worth Rs. 115 per kg,<br>the price of the third variety per kg will be",
+			"explanation": "1st two type of Dhal = 110+95/2 = 102.5<br>102.5…………………………………..X<br>……………..115……………………….<br>x-115……………………………………12.5<br>x-115 = 12.5<br>x = 127.5",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Rs.127.5",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Rs.115.75",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Rs.125",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Rs.117.5",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Milk contains 15% water. What quantity of pure milk should be added to 50 litres of milk to reduce the quantity of water to 12% ?",
+			"explanation": "=> 50*15/100 = (50+x)*12/100<br> => 7.5 *100 = 600+12x <br> => 12x = 150 <br> X = 150/12 = 12.5 Litres",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "16 Litres",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "14 Litres",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "12.5 Litres",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "A man travelled a distance of 40 km. in 5 hours partly on foot at the rate of 7 km per hour and partly on bicycle at 12 km. per hour.<br> Find the distance travelled on foot ?",
+			"explanation": "7……………………………………….12<br>…………………..40/5=8………………..<br>4………………………………………..1<br>Time taken on foot /Time taken on bicycle = 4:1<br>Distance travelled on foot = 4*7 = 28km",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "36km",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "24km",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "32km",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "28km",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "The average weekly salary per head of the entire staff of a factory consisting ofsupervisors and the labourers is Rs. 55. The average salary per head of the supervisors is Rs. 300 and that of the labourers is Rs. 40. Given that the number of supervisors is 10,<br> find the number of labourers in the factory.",
+			"explanation": "40…………………………………..300<br>………………….55…………………….<br>245…………………………………15<br>=>(Number of labourers)/(Number of supervisors) = 245/15 = 16.33/1 = 16/1<br>16:1 = 160:10",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "160",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "120",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "155",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "143",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "90 litres of a mixture of milk and water contains 20% water.<br> How much water should be added so that the mixture has 28% water ?",
+			"explanation": "Quantity of water = 90*20/100 = 18<br>=> 18+x/90+x = 28/100<br>=>1800+100x = 2520+28x<br>=>72x = 720<br>X = 10 Litres",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "8 Litres",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "18 Litres",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "12 Litres",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "10 Litres",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Rani mixes 70kg of sugar worth Rs.28.50 per kg with 100kg of sugar worth Rs.30.50 per kg. <br>At what rate shall he sell the mixture to gain 10% ?",
+			"explanation": "=> 70/100 = 100x – 30.50(110)/28.50(110)-100x <br>=>0.7 = 100x-3355/3135-100x<br>=>2194.5 – 70x =  100x-3355<br>=>170x = 5549.5<br>X = 32.64",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Rs.32.64",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Rs.31.50",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Rs.30.46",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Rs.29.75",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "A can contains 30liter of juice, from this container 5litres of juice was taken out and replaced by water. This process was repeated further two times.<br>How much juice is now contained by the container?",
+			"explanation": "Quantity of milk in the final mixture = 30[1-(5/30)]^3 <br> = 30*(5/6)^3 <br> = 30*125/216 = 17.36 liter = 17",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "21",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "13",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "15",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "17",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A company is creating a new signature drink. They are using two alcoholic ingredients in the drink vodka and gin. They are using two non-alcoholic ingredients in the drink: orange juice and cranberry juice.<br>The alcoholic ingredients contain 50% alcohol.<br>The non-alcoholic ingredients contain no alcohol.<br> How many litres of non-alcoholic ingredients must be added to 5 litres of alcoholic ingredients to produce a mixture that is 20% alcohol?",
+			"explanation": "=> (5+x) (20%) = 5(50%) + x(0%) <br>=>(5+x) 0.2 = 5(0.5) + 0 <br> => 1+0.2x = 2.5<br> X = 2.5-1/0.2 = 1.5/0.2 <br>X = 7.5",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "8",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "6.5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "7.5",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "9",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "In a 70 litres mixture of milk and water, % of water is 30%. The milkman gave 20 litres of this mixture to a customer and then added 20 litres of water to the remaining mixture.<br>What is the % of milk in the final mixture ?",
+			"explanation": "20 litre given remaining = 70-20 = 50 litre<br>Quantity of milk = 50*70/100 = 35 litre<br>Quantity of water = 50-35 = 15 litre<br>20 litres of water added = 50+20 = 70<br> => % of milk = 35*100/70 =50%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "48%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "50%",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "40%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "53%",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

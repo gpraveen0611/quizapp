@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Partnership Test 4",
+    "description": "Practice Partnership Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": " Rs. 700 is divided among A, B, C so that A receives half as much as B and B half as much as C. Then C's share is",
+			"explanation": "Let C = x. Then B = x/2 , and A = x/4 <br> A:B:C = 1:2:4. <br> C's share Rs.[(4/7)*700) = 400",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Rs 200",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Rs 300",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Rs 400 ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Rs 500",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "A began a business with Rs. 85,000. He was joined afterwards by B with Rs. 42,500. For how much period does B join, if the profits at the end of the year are divided in the ratio of 3 : 1?",
+			"explanation": "Suppose B joined for x months. Then,<br> Then,(85000 x 12/42500 x X=3/1) <br> x=(85000 x 12/42500x3)=8 <br> So, B joined for 8 months. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "4 months ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "5 months ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "6 months",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "8 months ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A and B started a partnership business investing some amount in the ratio of 3 : 5. C joined them after six months with an amount equal to that of B. In what proportion should the profit at the end of one year be distributed amount A, B and C",
+			"explanation": "Let initial investment of A is 3x and B is 5x, then C investment is also 5x, but most important to note in this question is the time duration of investment <br> Like, A invested for 12 months, B invested for 12 months and C invested for 6 months.<br> A:B:C =(3x*12):(5x*12):(5x*6) <br>= 36:60:30 <br> = 6:10:5",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "3:7:5",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "6:10:5 ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "6:10:7",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "6:7:5",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": " A starts business with Rs. 3500 and after 5 months, B joins with A as his partner. After a year, the profit is divided in the ratio 2:3. What is B's contribution in the capital",
+			"explanation": "Let B contribution is x.<br> 3500∗12/7x=2/3 <br> 14x=126000=>x=Rs9000",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Rs 9000",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Rs 7000",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " Rs 5000 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Rs 4000",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Anand and Deepak started a business investing Rs.22,500 and Rs.35,000 respectively. Out of a total profit of Rs. 13,800. Deepak's share is",
+			"explanation": "Ratio of their shares = 22500 : 35000 <br> =9 : 14 <br> Deepak's share = Rs.(13800×14/23) <br> = Rs. 8400",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Rs 9600",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Rs 8500 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Rs 8450",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Rs 8400 ",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "A started a business with Rs.21,000 and is joined afterwards by B with Rs.36,000. After how many months did B join if the profits at the end of the year are divided equally?",
+			"explanation": "Suppose B joined after x months then, <br> 21000*12=36000*(12-x) <br> 36x = 180 <br>  x = 5 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "5",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": " 6",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "8 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "9",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": " A, B and C invested Rs. 8000, Rs. 4000 and Rs. 8000 respectively in a business. A left after six months. If after eight months, there was a gain of Rs. 4005, then what will be the share of B? ",
+			"explanation": "A:B:C = (8000*6):(4000*8):(8000*8)<br>= 48:32:64 <br> = 3:2:4 <br> So B share = (2/9)*4005 = Rs 890",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Rs 690",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Rs 790",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Rs 890 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Rs 990",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Nirmal and Kapil started a business investing Rs. 9000 and Rs. 12000 respectively. After 6 months, Kapil withdrew half of his investment. If after a year, the total profit was Rs. 4600, what was Kapil’s share initially ?",
+			"explanation": "Nirmal:Kapil = 9000*12:(12000*6+6000*6) = 1:1 <br> Kapils share = Rs. [4600 *(1/2)) = Rs. 2300",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Rs 2300 ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Rs 2400 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Rs 2500",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "None of above ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Yogesh started a business investing Rs. 45000. After 3 months, Pranab joined him with a capital of Rs. 60000. After another 6 months, Atul joined them with a capital of Rs. 90000. At the end of the year, they made a profit of Rs. 20000. What would be Atuls share in it?",
+			"explanation": "Just take care of the months of investment, rest all will be simple.<br> Yogesh:Pranab:Atul = 45000*12:60000*9:90000*3 <br> =2:2:1 <br> Atul's share = Rs. 20000 * (1/5) = Rs. 4000 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "Rs 7000",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "Rs 6000",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "Rs 5000",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "Rs 4000  ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "In business, A and C invested amounts in the ratio 2:1, whereas the ratio between amounts invested by A and B was 3:2, If Rs 157300 was their profit, how much amount did B receive. ",
+			"explanation": "A:B = 3:2 = 6:4 <br>  A:C = 2:1 = 6:3 <br>  A:B:C = 6:4:3 <br> B share = (4/13)*157300 =48400 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Rs 48000",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Rs 47000",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Rs 47400",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Rs 48400",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}
