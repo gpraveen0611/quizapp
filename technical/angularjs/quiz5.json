@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Angular JS Quiz 5",
+    "description": "Angular JS Quiz 5",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "The ng-bind directive binds ____________.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Data to model ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " View to controller",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": " Model to HTML element",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": " Model to $scope ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": " What is $scope? ",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": " It transfers data between a controller and view ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": " It transfers data between model and controller  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": " It is a global scope in AngularJS ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": " None of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": " The ng-change directive must be used with ng-model directives",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "True",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "False",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": " Sometimes",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "None of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": " Which of the following directive allows us to use form?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "ng-include",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "ng-form",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "ng-bind",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "ng-attach ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "What is service in AngularJS?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Service is reusable UI component",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Service is a reusable JavaScript function",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Service is data provider",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "None of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "  AngularJS filters ___________.",
+			"explanation": " no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": " Format the data without changing original data ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Filter the data to display on UI",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Fetch the data from remote server",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Cache the subset of data on the browser",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "AngularJS module can be created using ________.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "angular.module()",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "var myModule = new module()",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "module.create()",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "angular.create()",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": " Which of the following statements are true?",
+			"explanation": "no explanation ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " AngularJS controller maintains application data & behaviour using $scope",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "AngularJS controller can be created in separate JS file ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "AngularJS controller can be added into module",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "All of the above",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "  Which of the following service is used to retrieve or submit data to the remote server?",
+			"explanation": " no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "$http",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "$XMLHttpRequest",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "$window",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "$get ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": " Which of the following service is used to handle uncaught exceptions in AngularJS? ",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "$errorHandler ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "$exception  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "$log",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "$exceptionHandler ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

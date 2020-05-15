@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Angular JS Quiz 1",
+    "description": "Angular JS Quiz 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "AngularJS is based on the _____ pattern",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "VMC",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "MVC",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "  MCV",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": " CVM ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": " What is Angular Js?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": " Library ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": " Framework  ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": " Plugin ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": " Browser Extension ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": " AngularJS applications are a mix of _____",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": " HTML and PHP",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "HTML and CrossScript",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": " HTML and AngularScript",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "HTML and JavaScript",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": " Who is sometimes called as Father of AngularJS?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Brad Green",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": " Igor Minor",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "Misko Hevery",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Brian Ford ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "How to include HTML content into another HTML?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": " Server Side push",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Use of CommetD",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Use of Polling",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": " Use of include ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "  What is MVC (Mode View Controller)?",
+			"explanation": " no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": " It is a services for Java built function ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "It is marker for DOM elements",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "It is a software design pattern for developing web applications",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "None of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Which of the following is true about AngularJS service?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Services are JavaScript functions",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Services are responsible to do specific tasks only",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Inbuilt services are always prefixed with $ symbol",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "All of the above",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "  Which of the following is valid for AngualarJS module",
+			"explanation": "no explanation ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " var app = angular.module([myApp,param)",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "var app = angular.module(myApp, []); ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": " var app = angular.module();",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "var app = angular.module(myApp);",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "  What angular function is used to manually start up an angular application?",
+			"explanation": " no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "angular.bootstrap",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "angular.element",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "angular.copy",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "None of the above ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "  Which of the following is true about ",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "$routeProvider $routeProvider maps Urls with the corresponding html page or ng-template ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": " $routeProvider attaches a controller with the view  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "All of these",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": " $routeProvider is the key service which set the configuration of urls ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

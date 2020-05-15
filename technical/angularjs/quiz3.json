@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Angular JS Quiz 3",
+    "description": "Angular JS Quiz 3",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "What angular function is used to manually start up an angular application?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "angular.bootstrap ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "angular.element",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": " angular.copy",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "  None of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": " Which is the right format for calling a ng-bind function?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": " ng-bind ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": " ng:bind  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": " ng_bind ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "All the Above",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": " What is the purpose of angular.module in AngularJS?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "It creates an application module",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "It invokes an application module",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": " It destroys an application module",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "None",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "What are various possible ways in which angular application can be initialized?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "On an element, one could either put simply the attribute such as (ng-app, data-ng-app, ng:app, x-ng-app)",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Put the named attribute such as (ng-app='demoApp')",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " Both of the above",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "None ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": " What is jqLite?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "AngularJS built-in subset of jQuery",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": " AngularJS built-in superset of jQuery",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "KnockoutJS built-in subset of jQuery",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "KnockoutJS built-in superset of jQuery ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "  Which of the following is true about currency filter?",
+			"explanation": " Currency filter formats text in a currency format. It is simply added to AngularJS expression to filter out the result",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Currency filter formats text in a currency format ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Currency filter is a function which takes text as input",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Both of the above",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": " None of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Which of the following is true about $error?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "$error states that form has invalid data",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "$error states the exact error",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Both of the above",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "None of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": " Which of the following is true about ng-model directive?",
+			"explanation": "no explanation ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "ng-model directive binds the values of AngularJS application data to HTML input controls.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "ng-model directive creates a model variable which can be used with the html page and within the container control having ng-app directive. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Both of the above",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "None of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": " Which of the following is true about AngularJS expressions?",
+			"explanation": " no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": " Expressions are used to bind application data to html",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": " Expressions are written inside double braces like {{ expression}}",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": " Expressions behave in same way as ng-bind directives",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " All of the above ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": " What is View in MVC? ",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "View represents a database view ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "View is responsible for displaying all or a portion of the data to the user  ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "View is responsible to act and process the data",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": " None of the above ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

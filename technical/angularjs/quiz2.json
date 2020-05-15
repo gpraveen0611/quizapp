@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Angular JS Quiz 2",
+    "description": "Angular JS Quiz 2",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "AngularJS expressions are written using",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "double braces like {{ expression}} ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "single braces like {expression}",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": " small bracket like (expression)",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": " capital bracket like [expression] ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "  The _______ directive is used if you want to add or remove HTML elements from the DOM based on data in the model.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": " ng-switch ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "  ng-model  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "  ng-Disabled ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "  ng-Cloak",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": " What is the purpose of $http?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "It is an inbuilt service used to make ajax call to get the server data.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": " It is the Http protocol",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": " It generates hyper text mark up language",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": " None",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": " What MVC stands for?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Model View Control",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Model View Controller",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "Main View Controller",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Main View Control ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": " Which of the following directive is used to initialize an angular app?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "ng-model",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "ng-app",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": " ng-controller",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "None of the above ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": " Directives can be applied to which all element type?",
+			"explanation": " no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": " Element ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Attribute",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Comment",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "All of the above",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Can AngularJS be used to create a service?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "May be",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Can be",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Yes",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "No",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": " Which components can be injected as a dependency in AngularJS?",
+			"explanation": "no explanation ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Application Module",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "constant ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "value",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "factory",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "  Which of the following is true about orderby filter?",
+			"explanation": " no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": " orderby filter orders the array based on provided criteria",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "orderby filter is used to filter the array to a subset of it based on provided criteria",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": " Both of the above",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "None of the above ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": " Which of the following is true about ng-app directive? ",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": " ng-app directive defines and links an AngularJS application to HTML ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "ng-app directive indicates the start of the application  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": " Both of the above",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "None of the above ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}
