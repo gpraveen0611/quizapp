@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Symbols and Notations Test 3",
+    "description": "Symbols and Notations Online Test 3",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "If * means /, - means *, / means + and + means -,<br> then (3 - 15 / 19) * 8 + 6 = ?",
+			"explanation": "Using the correct symbols, we have: Given expression = (3 * 15 + 19) / 8 - 6 => (45 + 19) / 8 - 6 => 64 / 8 - 6 <br>=> 8 - 6 = 2",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "2",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "4",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "-1",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Which sequence of mathematical symbols can replace * in the given equation:<br> 8 * 5 * 9 * 31",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "-× =",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "- = ×",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "= × -",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "× - =",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "If a$b=a2b2-ab , then 3$8=",
+			"explanation": "Given a$b=a2b2-ab –ab ?3$8 = 3^2x8^2 – 3x8=9x64-24=576-24=552",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "600",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "552",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "576",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "625",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Which of the following inter change of signs or figures would make the given equation correct?<br> (5+2) × 2 - 10=16",
+			"explanation": "no explanation ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "+ and ×",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "5 and 10",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "+ and -",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "5 and 2",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "If '#' means 'less than' ,'*' means 'greater than ' and '@' means 'equal to ' and given that a # b , c@ d and c *b ,<br>then which of the following is true?",
+			"explanation": "a#b= a<b<br> c*b=c>b<br>c @ d =c=d<br>therefore a<b<c=d",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "d # a",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "b * d",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "a @ c",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "a#b#c",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Which of the following inter changes of signs would make the given equation correct?<br>24 + 6 × 3 ÷ 3 – 1=14",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "+ and ×",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "× and –",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "÷ and +",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "– and ÷",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "If ‘–‘ stands for division, ‘+’ for multiplication, ‘÷’ for subtraction and ‘x’ for addition,<br> which one of the following equations is correct?",
+			"explanation": "After conversion<br>18 ÷ 3 x 2 + 8 – 6 = 14<br>or, 6 x 2 + 8-6 = 14<br>or, 12 + 8- 6 = 14",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "18 ÷ 3 x 2 + 8-6= 10",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "18 -3 + 2 x 8 ÷ 6= 14",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "18 – 3 ÷ 2 x 8 + 6= 17",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "18 x 3 + 2 ÷ 8 – 6= 15",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "If '-'stands for division, ‘+’ for multiplication, ‘x’ for subtraction and ‘÷’ for addition,<br> which one of the following equations is correct?",
+			"explanation": "After conversion: <br>6 – 20 + 12 x 7 ÷ 1=70<br>or, 6 – 20 + 84 = 70<br>or, 90 – 20 = 70<br>or, 70 = 70",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "6 ÷ 20 x 12 + 7- 1 = 70",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "6 + 20 – 12 ÷ 7 x 1= 62",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "6 – 20 ÷ 12 x 7 + 1 = 57",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "6 + 20 – 12 ÷ 7 – 1 = 38",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "If ‘+’ means ‘-‘, ‘-‘ means ‘x’ and ‘x’ means ‘÷’ ‘÷’ means ‘+’ <br>then 2 ÷ 6 x 6 ÷ 2=?",
+			"explanation": "Given expression:<br>2 ÷ 6 x 6 ÷ 2 = ?<br>After changing the signs<br>? = 2 + 6 ÷ 6 + 2<br>or, ? = 2 + 1 + 2 = 5",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "1",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "0",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "5",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "If ‘x’ means ‘-’,’ –‘ means ‘÷’, ‘+’ means ‘x’ and ‘÷’ means ‘+’, then what will be the value of the following expression? <br> 16 x 8 ÷ 4-3 + 9 =?",
+			"explanation": "After conversion:<br>9 =16 – 8 + 4 ÷ 3 x 9<br>or, ? = 16 – 8 + 4/3  x 9<br>or, ? = 16 – 8 + 12 = 20",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "9",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "20",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "19",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

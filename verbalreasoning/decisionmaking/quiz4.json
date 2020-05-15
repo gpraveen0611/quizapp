@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Decision Making Test 4",
+    "description": "Practice Decision Making Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Mahi is BDS graduate with 74% marks in degree and 93% marks in MD. He joined as a doctor in Sanjeevani Hospital three years ago at the age of 27 years. He is willing to sign a bond with Hospital.",
+			"explanation": "The candidate although has joined hospital 3 years ago but it has not been given if he has worked for the given 3 years. So the case will be referred to the Junior Doctor.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "if candidate is to be selected.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to the Senior doctor.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to the Junior doctor.",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "if Applicant is not to be selected.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Manika is a B.Sc. Graduate with 70% marks and has completed PG in M.Sc. She completed 27 years of age in 2015 and has 3 year's experience as a Maths Faculty. She is ready to join probation period of one year.",
+			"explanation": "Clearly Manika will be selected as she meets all the requirements.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to Principal.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to Vice Principal.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "if candidate is to be selected.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "if information is inadequate to take a decision.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "rama is a graduate in B.A. and B.Ed. with 75% and 70% respectively. She has been working as a professor in Math for 5 years and has freelancing experience of 2 years. Mamta’s age is 30 years and she is ready to join 2 year probation.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to Principal.",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to Vice Principal.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "if candidate is to be selected.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "if information is inadequate to take a decision.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Shobha, a 29-year-old science graduate with 70% marks in her graduation has 53% marks in her B.Ed. and she also has an Arts with Maths graduation securing 80% marks.She also worked with Satyam for a span of 5 years and she is willing to join the probation period for 1 year.",
+			"explanation": "Since she has 53% marks in B.Ed but did Arts with Maths graduation securing 80% marks, so her case must be referred to the Principal.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": " if case is to be referred to Principal.",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to Vice Principal.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "if candidate is to be selected.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "if information is inadequate to take a decision.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Abhishek is a graduate in B.Sc. and postgraduate in M.Sc. with 78% marks and has been working for the past 7 years during which he worked as a teacher in coaching institute for two years. He was born on 07.11.1986 and is ready to join probation period of 1year.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to Principal.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to Vice Principal.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "if candidate is to be selected.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "if information is inadequate to take a decision.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Aman has been working as Assistant Professor for the past 5 years. She has completed MA and graduation with 73% marks each and is ready to join one year probation. She was born on 22 Aug 1987.",
+			"explanation": "Clearly the candidate will be selected.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to Executive Head.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to Vice President.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "if candidate is to be selected.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "if information is inadequate to take a decision.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Kavita is an MBBS doctor with 60% marks and Post graduation in MD with 82% marks. She has been working as doctor for last 5 years. She is not willing to sign the bond but can pay Rs 1 lakh if she leaves.She has just completed 27 years.",
+			"explanation": "As Kavita is not willing to sign the bond but can pay Rs 1 lakh if she leaves.So, she will not be selected.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": " if case is to be referred to the Senior doctor.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to the Junior doctor.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to the CMO.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "if Applicant is not to be selected.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Rajesh is 28 years old and has been working in a Hospital for the past 4 years. He has scored 72% and 82% marks in MBBS and MD respectively. He is ready to sign a bond with any hospital.",
+			"explanation": "Clearly the candidate will be selected.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "if candidate is to be selected.",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to the Senior doctor.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to the Junior doctor.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to the CMO.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Neetu is a MBBS graduate Doctor with 75% marks and 85% marks in MD. She completed her Graduation in 2014 at the age of 22 years & immediately started working in Hospital. She is interested in going to Finland and is not ready to sign a bond. However, she doesn’t mind to pay 2 lakh amount.",
+			"explanation": "The candidate won’t be selected as she doesn’t meet the age criteria.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "if candidate is to be selected.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to the Senior doctor.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to the CMO.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "if Applicant is not to be selected.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Rakesh is BDS graduate with 74% marks in degree and 93% marks in MD. He joined as a doctor in Sanjeevani Hospital three years ago at the age of 27 years. He is willing to sign a bond with Hospital.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "if candidate is to be selected.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to the Senior doctor.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to the Junior doctor.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to the CMO.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

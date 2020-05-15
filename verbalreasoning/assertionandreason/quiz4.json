@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Assertion and Reason Test 4",
+    "description": "Assertion and Reason Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Assertion (A) : Milk production in India is low a compared to other countries of the world.<br> Reason (R): The animal rearers in India are poor.",
+			"explanation": "Milk production in India is low as compared to other countries of the world because of lack of good breed and improper feed. But here rearers is the different thing. So, R is False.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Both A and R are true and R is the correct explanation of A",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Both A and R are true and R is NOT the correct explanation of A",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "A is true but R is false",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "A is false but R is true",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Assertion (A): Clothes are not washed properly in hard water.<br>Reason (R): Hard water have no power of removing dust on cloths.",
+			"explanation": "Clothes are not washed properly in hard water because it’s inability to form lather with soap.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Both Assertion and Reason are true and R is the correct explanation of A.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Both Assertion and Reason are true but R is NOT the correct explanation of A.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Assertion is true but Reason is false.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Assertion is false but Reason is true.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Assertion (A) : There is no vaccine for AIDS.<br>Resson (R): The AIDS virus changes its genetic code",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Both A and R are true and R is the correct explanation of A.",
+                    "isAnswer": true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Both A and R are true but R is NOT the correct explanation of A",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Both A and R are true but R is NOT the correct explanation of A",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "A is false but R is true",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Assertion(A): An iron ball floats on mercury but gets immersed in water.<br>Reason (R): The specific gravity of iron is more than that of mercury.",
+			"explanation": "no explanation ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Both A and R are true and R is the correct explanation of A",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Both A and R are true but R is NOT the correct explanation of A.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "A is true but R is false",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "A is false but R is true.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Assertion (A): a Leaves of plants are green.<br>Reason (R): Plants contain chromoplasts, the green pigment.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Both A and R are true and R is the correct explanation of A",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Both A and R are true but R is NOT the correct explanation of A",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Both A and R are true but R is NOT the correct explanation of A",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "A is false but R is true.",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Assertion (A): Cotton is grown in alluvial soils.<br>Reason (R): Alluvial soils are very fertile.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Both A and R are true and R is the correct explanation of A.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Both A and R are true but R is NOT the correct explanation of A.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "A is true but R is false.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "A is false but R is true.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Assertion: J.K. Rowlling's books are selling like hot cakes.<br>RI. People love the subject of the book written by Rowlling and the style of her writing.<br>RII. Rowlling uses very simple language so that every one understand that.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Only RI and not RII is the reason for the assertion.  ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "only RII and not RI is the reason for the assertion.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "either RI or RII, but not both, is the reason for the assertion.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "neither RI nor RII is the reason for the assertion.",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Assertion (A) : Glass tumbler breaks in winter when hot water is poured in it.<br>Reason (R) : When hot water is poured. the outer surface of glass expands.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Both A and R are true and R is the correct explanation of A.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Both A and R are true but R is NOT the correct explanation of A.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "A is true but R is false.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "A is false but R is true.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Assertion:<br>The problem solving ability, mental performance and memory of the employees of company C are deteriorating.<br>RI. Due to tight schedule at company C, the employees of the company are skipping their breakfast regularly.<br>RII. The job is physical in nature, but not mental.",
+			"explanation": "Here in the assertion, we are only talking about the weakness of the employees. RI is giving the reason for skipping breakfast, so it is not the reason. RII is also not a valid reason, as lack of mental exercise may not lead to deterioration.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "Only RI and not RII is the reason for the assertion.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "only RII and not RI is the reason for the assertion.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "either RI or RII, but not both, is the reason for the assertion.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "neither RI nor RII is the reason for the assertion.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Assertion:<br>Today's youth in India like western music more than Indian classical music.<br>RI. Western music has strong base than Indian classical music.<br>RII. Indian classical music is very boring and they like rocking music more.",
+			"explanation": " Hence the given assertion is about the preference of today's youth.<br>RI is talking about the strong base of western music. Having strong base does not imply that it is good to listen.<br>RII tells that youth like rocking music but there is no evidence that western music is rocking.<br>Neither RI nor RII is a reason.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Only RI and not RII is the reason for the assertion.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "only RII and not RI is the reason for the assertion.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "either RI or RII, but not both, is the reason for the assertion.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "neither RI nor RII is the reason for the assertion.",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Statement and Assumption Test 4",
+    "description": "Practice Statement and Assumption Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Statement: The economic condition continues to be critical even after a good harvest season.<br>Assumptions:<br>I.The economic condition was not critical before the harvest season.<br>II.The economic condition could not have improved without a good harvest season.<br>III.The economic condition was expected to improve after a good harvest season.",
+			"explanation": "It is mentioned that 'the economic condition continues to be critical'. This means that it was critical before the harvest season also. So, I is not implicit. Also, the statement does not imply that only a good harvest season could improve the economic condition. So, II is not implicit. However, since a surprise has been expressed over the condition being critical even after a good harvest season, it means that it was expected to improve after a good harvest season. So, III is implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Only I and II are implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Only II is implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Only III is implicit",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Statement: Give this packet to Mr. X at his residence and return immediately. In case you are likely to be late inform me - Mr. A tells his clerk.<br>Assumptions:<br>I.The clerk never informs about his late coming.<br>II.The clerk may not obey Mr. As instructions.<br>III.The clerk may not inform his late coming unless instructed.",
+			"explanation": "Clearly, the statement is merely a reminder. So, I is not implicit. Besides, the clerk is expected to execute his boss' order. So, II is not implicit. Also, a hunch that the clerk may not inform about his late coming has led Mr. A to instruct the clerk to do so. So, III is implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Only I and II are implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Only I and III are implicit",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Only III is implicit",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Statement: Considering the tickets sold during the last seven days, the circus authorities decided to continue the show for another fortnight which includes two weekends.<br>Assumptions:<br>I.People may not turn up on weekdays.<br>II.The average number of people who will be visiting circus will be more or less same as that of the last seven days.<br>III.There may not be enough response at other places.",
+			"explanation": "Clearly, the fortnight would include weekdays also. So, I is not implicit. Also, the authorities decided to continue the show with the hope that people would visit the circus in the same numbers as they had done in the last seven days. So, II is implicit. III is vague and so is not implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Only I and II are implicit",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Only I and III are implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Only III implicit",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Statement: An advertisement: Now you can own a new car in just Rs. 1,999 per month.<br>Assumptions:<br>I.People aspire for owning a car.<br>II.People do not want to buy used cars.<br>III.Most people can afford to pay Rs. 1,999 per month for a new car.",
+			"explanation": "The advertisement has been given seeing the demand for cars. So, I is implicit. The advertisement stresses on 'owning a new car'. This implies that people would prefer to buy a new car rather than a used one, provided it suits their budget. So, II is implicit. The words 'just Rs. 1,999 per month' in the statement make III implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Only I and II are implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "Only I and III are implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "All are implicit",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Statement: The company has recently announced a series of incentives to the employees who are punctual and sincere.<br>Assumptions:<br>I.Those who are not punctual at present may get motivated by the announcement.<br>II.The productivity of the company may increase.<br>III.The profit earned by the company may be more than the amount to be spent for the incentive programmes.",
+			"explanation": "Announcing incentives for punctual and sincere employees would surely motivate more and more employees to be punctual, and this will ensure productivity. So, both I and II are implicit. However, the statement does not give any information about the profit earned by the company. So, III is not implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Only I and II are implicit",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "All are implicit",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Statement: To improve the employment situation in India, there is a need to recast the present educational system towards implementation of scientific discoveries in daily life.<br>Assumptions:<br>I.The students after completing such education may be able to earn their livelihood.<br>II.This may bring meaning of education in the minds of the youth.<br>III.The state may earn more revenue as more and more people will engage themselves in self-employment.",
+			"explanation": "The statement mentions that such education can improve employment situation. So, both I and II are implicit. Nothing about the aspect of revenue collection is mentioned in the statement. So, III is not implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Only I and II are implicit",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Only III is implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "None is implicit",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Statement: The employees association has appealed to the Managers of Company Z to introduce written examinations for clerical cadre recruitment to prevent selection of incompetent persons.<br>Assumptions:<br>I.So far the Company Z used to select candidates without conducting a written examination.<br>II.A written examination can help to identify competent persons.<br>III.At higher level, written examination may not be of much use.",
+			"explanation": "An appeal has been made to 'introduce' written examination. This means that so far written examination was not conducted. So, I is implicit. II follows directly from the statement and so it is implicit. However, nothing can be deduced about the mode of selection at higher level. So, III is not implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Only I and II are implicit",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Only I and III are implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Only III implicit",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Statement: To improve the employment situation in India, there is a need to recast the present educational system towards implementation of scientific discoveries in daily life.<br>Assumptions:<br>I.The students after completing such education may be able to earn their livelihood.<br>II.This may bring meaning of education in the minds of the youth.<br>III.The state may earn more revenue as more and more people will engage themselves in self-employment.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Only I and II are implicit",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Only I and III are implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "Only III is implicit",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Statement: Unable to manage with the present salary, Arun has decided to join another company.<br>Assumptions:<br>I.The new company has better work environment.<br>II.The present company offers moderate pay packets.<br>III.The new company offers higher salary to all its employees.",
+			"explanation": "Nothing about the environment in the new company is mentioned in the statement. So, I is not implicit. Since Arun is not satisfied with the present Salary, it is evident that the present company offers moderate pay packets. So, II is implicit. The statement talks only of Arun and not all the employees of the new company. So, III is not implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "None is implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "Only II is implicit",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " All are implicit  ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Statement: 'Buy pure and natural honey of company X.'' - An advertisement in a newspaper.<br>Assumptions:<br>I.Artificial honey can be prepared.<br>II.People do not mind paying more for pure and natural honey.<br>III.No other company supplies pure honey.",
+			"explanation": "Artificial honey can be made. That is why the word 'natural' needs to be mentioned in the advertisement. So, I is implicit. No comparison is made of the prices of natural and artificial honey. So, II is not implicit. Nothing about the quality of honey of other companies can be deduced. So, III is also not implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Only I and II are implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Only I and III are implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Only I implicit",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

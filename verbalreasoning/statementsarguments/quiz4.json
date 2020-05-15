@@ -1,0 +1,380 @@
+{
+    "id": 1,
+    "name": "Statement and Arguments Test 4",
+    "description": "Practice Statement and Arguments Online Test 4",
+    "questions": 
+    [
+        {
+            "id": 1010,
+            "name": "Statement: Should the consumption of aerated drinks be banned in India?<br>Arguments:<br>I.Yes. This is the only way to reduce the risk of exposing people to some diseases.<br>II.No. Each individual should have right to choose what he wants.<br>III.No. There is no confirmed evidence that such products have adverse effects on human body.<br>IV.Yes. It is banned in many other countries also.",
+			"explanation": "The use of 'only' in I makes it invalid. Also, it is the duty of the government to save its citizens from intake of any harmful products, even if they like them. So, II does not hold strong. Besides, a product must not be banned unless its harmful effects have been proved. So, III holds strong. Lastly, we cannot blindly follow the decisions taken by other countries. So, IV also does not hold.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Only I is strong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Only I and II are strong",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Only III is strong",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Only I and IV are strong",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Statement: Should administrative officers be transferred after one or two years?<br>Arguments:<br>I.Yes. They get friendly with local people and are manipulated by them.<br>II.No. By the time their policies and schemes start taking shape, they have to leave.<br>III.No. This will create a lot of administrative hassles and cause a lot of inconvenience to the officers.",
+			"explanation": "Clearly, the acquaintance of administrative officers with the local people poses no harm. So, argument I is vague. However, both II and III hold strong, because making transfers too often would neither give them enough time to settle down comfortably in a new place, nor enable them to formulate and implement their policies in toto. This would also be administratively impossible.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Only II is strong",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Only I and II are strong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Only II and III are strong",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Only I and III are strong",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Statement: Should there be a total ban on tobacco products and smoking in India?<br>Arguments:<br>I.Yes. It is wrong to smoke away millions of money.<br>II.No. It will throw thousands of workers in the tobacco industry out of employment.<br>III.No. The government will lose huge amount of money as it will not earn by way of taxes on these products.",
+			"explanation": "Clearly, smoking needs to be abolished because it is injurious to health and not only to save money. So, argument I is vague. Banning a product would surely render jobless the large number of workers involved in manufacturing it. So, argument II holds strong. Also, tobacco products are a source of big revenue for the government. So, argument III also holds.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "None is strong",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Only I and II are strong ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Only II is strong",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Only II and III are strong",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Statement: Should there be complete ban on Indian professionals seeking jobs elsewhere after getting their education in India?<br>Arguments:<br>I.Yes. This is the only way to sustain present rate of technological development in India.<br>II.No. The Indians settled abroad send huge amount of foreign exchange and this constitutes a significant part of foreign exchange reserve.<br>III.No. The practical knowledge gained by Indians by working in other countries help India develop its economy.",
+			"explanation": "Clearly, none of the arguments provides a substantial reason either for or against the given statements. So, none of the arguments holds strong.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "None is strong",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "All are strong",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "Only I and II are strong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Only II and III are strong",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Statement: Should all the indirect taxes in India be combined into a single tax on all commodities?<br>Arguments:<br>I.Yes. This will considerably simplify the tax collection mechanism and the cost of collecting tax will also reduce.<br>II.Yes. The manufacturers and traders will be benefited by this which in turn will boost tax collection.<br>III.No. No other country has adopted such system.",
+			"explanation": "Only I and II are strong. Clearly, both I and II hold strong, as they provide very convincing reasons, for a single tax system would help get rid of multifarious taxes on a product. Besides, the idea of imitation of other countries in the implementation of a certain policy holds no relevance. So, argument III does not hold strong.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "None is strong",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Only I and III are strong",
+                    "isAnswer": false   
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Only II and III are strong",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Statement: Should India immediately stop digging coal from its mines?<br>Arguments:<br>I.Yes. The present stock of coal will not last long if we continue mining at the present rate.<br>II.No. We do not have alternate energy source of sufficient quantity.<br>III.No. This will put millions of people at a disadvantage and their lives will get adversely affected and also the industry.",
+			"explanation": "Though the reserves of coal are limited, yet stopping its use till alternate sources of energy have been discovered, is no solution to conserve it. So, I is not strong. It is true that we haven't till date found a renewable source of energy which is available in plenty and can substitute coal. So, II holds strong. Further, stopping coal mining would surely throw the engaged workers out of employment. So, III also holds strong.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Only I and II are strong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Only II and III are strong  ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Only I and III are strong",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "All are strong",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Statement: Should there be only one university throughout India?<br>Arguments:<br>I.Yes. This is the only way to bring about uniformity in the educational standards.<br>II.No. This is administratively impossible.<br>III.Yes. This will make the degrees procured by students, comparable for offering jobs.",
+			"explanation": "The use of the word 'only' in argument I makes it weak. To bring uniformity in educational standards, we can have many universities all following same curricular and policies under one Board. Also, having one university will make the management of education throughout the country almost impossible. So, argument II holds. Besides, it is the variation in the syllabi and assessment of different universities that makes their degrees incomparable, when the students from these universities come together to compete for a job on a common platform. This problem can be eradicated by implementing this scheme. So, argument III also holds strong.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "None is strong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Only I and II are strong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Only II and III are strong",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Only I and III are strong",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Statement: Should government established higher level Institutes of Technology (IIT's) be privatized?<br>Arguments:<br>I.Yes. Privatization will make these institutes financially healthy, competitive and quality conscious.<br>II.Yes. Privatization is the key of the new era - can we survive without it?<br>III.No. Standard of education of these institutes will fall.",
+			"explanation": "Clearly, privatization leads to betterment in a bid to win over the others in the field and earn both good reputation and money. So, argument I holds strong. Besides, privatization cannot be opted for just because it is the present trend. Also, privatization would, in no way, deteriorate the educational standards. So, neither II nor III holds.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "None is strong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "All are Strong",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Only I is strong",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "Only I and III are strong",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Statement: Should women be given equal opportunity in the matter of employment in every field?<br>Arguments:<br>I.Yes. They are equally capable.<br>II.No. They have to shoulder household responsibilities.<br>III.Yes. They should also go into the outside world.",
+			"explanation": "In present times, women are being imparted education at par with the men and are capable of competing with them in all professions and fields. So, argument I holds. Also, women cannot be confined to the household and kept away from the challenges of the outside world against their will. They too have the right to be self-dependent. Besides, present-day women are well looking to outside jobs together with the household jobs. So, argument III holds while II does not.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "Only I is strong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "Only I and II are strong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "Only II and III are strong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "Only I and III are strong",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Statement: Should workers/employees be allowed to participate in the management of factories in India?<br>Arguments:<br>I.Yes. It is the present management theory.<br>II.No. Many workers are illiterate and so their contributions will not be of any value.<br>III.Yes. Employees-owned companies generally have higher productivity.<br>IV.No. Employee-union ownership drives up salaries and wages.",
+			"explanation": "Argument I in support does not provide a valid reason for the pursuance of the policy. So, it is vague. Argument II provides a valid reason, as literacy is an essential criteria to take proper decisions on policy matters regarding management of factories. Besides, workers, if involved in management, would surely be motivated to work more devotedly, thus enhancing productivity. So, both II and III follow. IV provides a reason too feeble in the light of facts given in II and III. So, IV also does not hold strong.",
+            "questionTypeId": 1,
+            "options": 
+            [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "None is strong",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Only I and II are strong",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Only II and III are strong",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "All are strong",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

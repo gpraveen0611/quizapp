@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Evaluating Course of Action Test 3",
+    "description": "Practice  Evaluating Course of Action Online Test 3",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Statement: A large number of people in ward X of the city are diagnosed to be suffering from a fatal malaria type.<br>Courses of Action:<br>I. The city municipal authority should take immediate steps to carry out extensive fumigation in ward X.<br>II. The people in the area should be advised to take steps to avoid mosquito bites.",
+			"explanation": "Clearly, prevention from mosquitoes and elimination of mosquitoes are two ways to prevent malaria. The action will reduce the problem. So, both the courses follow.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Only I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Only II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Both I and II follow",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Statement:<br>The district administration has agreed to provide necessary infrastructural facilities to the proposed NRI funded trust's project of supply of clean water to city 'Z'.Courses of action:<br>I. The district administration should provide necessary land to the trust by completing due formalities.<br>II. The district administration should facilitate obtaining electricity and other permissions to the trust.",
+			"explanation": "If district administration has passed any project, it should provide all the required facilities.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "If only I follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "If only II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "If either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "If both I and II follow",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "The prices of vegetables and other food articles have decreased in the recent months raising hope among policy planners that the RBI’s tight grip on supply of liquid money in the market for controlling inflation may be eased.<br> Which of the following may be a possible action or decision of the above situation?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "The reserve bank of India may not reduce its key interest rates in near future",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "The government may step in and make certain concessions to the common people on various issues",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "The reserve bank of India may consider lowering certain rates to bring in more liquidity in the market",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "The RBI may wait for at least another year before taking any step",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Statement: Severe drought is reported to have set in several parts of the country.<br>Courses of Action:<br>I. Government should immediately make arrangement for providing financial assistance to those affected.<br>II. Food, water and fodder should immediately be sent to all these areas to save the people and cattle.",
+			"explanation": "no explanation ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Only I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Only II follows",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "Either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Neither I nor II follows",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Statement: The condition of NH-32 is terribly bad because of heavy transportation.<br>Courses of action:<br>I. Government should take immediate action to repair the road<br>II. Government should tell the people to use alternate road",
+			"explanation": "The condition of the road is very bad. So, the first thing a Government should do is to repair the road instead of bypassing the traffic to alternate road. So, I is follow",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": " if only I follows",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "if only II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": " if either I or II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "if neither I nor II follows",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Statement : It is reported that though Vitamin E present in fresh fruits and fresh vegetables is beneficial for human body, capsuled Vitamin E does not have same effect on human body.<br>Courses of action:<br>I : The sale of capsuled Vitamin E should be banned.<br>II : People should be encouraged to take fresh fruits and fresh vegetables to meet the body requirement of Vitamin E.",
+			"explanation": "Only course of action II is suitable for pursuing. Since capsuled Vitamin E has not any deleterious effect on human body, it is not proper to ban the sale of capsuled Vitamin E.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "if only course of action I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": " if only course of action II follows",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "if either course of action I or II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "if neither course of action I nor II follows",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Statement: The sale of a particular product has gone down considerably causing great concern to the company.<br>Courses of Action:<br>The company should make a proper study of rival products in the market.<br>The price of the product should be reduced and quality improved.",
+			"explanation": "Clearly, a study of rival products in the market will help assess the cause for the lowering down of sales and then a suitable action can be taken. Thus, only I follow.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Only I follows",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Only II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Neither I nor II follows",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Statement: A sudden cloud burst over the coastal region of city X resulted in unpredicted rainfall causing Tsunami like situation in the entire area. Large numbers of people were caught unawares and were guided to the road.<br>Courses of action:<br>I. The local administration should immediately put in place an action plan for avoiding such situations in the future.<br>II. The local disaster management body should immediately deploy personnel to help people to safer places.<br>III. The local administration should advise all the citizens not to hazard out on the road till situation improves.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Only I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Only II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Only III follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "All of I, II, III follow",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Statement: If the retired Professors of the same Institutes are also invited to deliberate on the restructuring of the organization, their contribution may be beneficial to the Institute.<br>Courses of Action:<br>1. Management may seek an opinion of the employees before calling retired professors<br>2. Management should involve experienced people for the systematic restructuring of the organization",
+			"explanation": "Clearly, the statement stresses that the contribution of retired Professors shall be beneficial. This means that these people's experience regarding working with the organization is helpful. So, only course II follows.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "Only I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": " Only II follows",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "Either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "Neither I nor II follows",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Statement: Exporters in the capital are alleging that commercial banks are violating a Reserve Bank of India directive to operate a post shipment export credit denominated in foreign currency at international rates from January this year.<br>Courses of Action:<br>The officers concerned in the commercial banks are to be suspended.<br>The RBI should be asked to stop giving such directives to commercial banks.",
+			"explanation": "The statement mentions that the commercial banks violate a directive issued by the RBI.<br>The remedy is only to make the banks implement the Act. So, none of the courses follows.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Only I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Only II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Neither I nor II follows",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

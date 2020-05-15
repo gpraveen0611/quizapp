@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Symbols and Notations Test 4",
+    "description": "Practice Symbols and Notations Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Thease questions are based on the following information.<br>( I ) 'A * B' means 'A is brother of B'<br>( II ) 'A / B' means 'B is mother of A'<br>( III ) 'A' <br>Which of the following means L is daughter of H?",
+			"explanation": "H – J * R + L <br>L -> Sister R ,<br>R -> Brother J,<br>J -> Fother H <br>Therefore, L is daughter of H.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": " L + K / J – H",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "H – J * R + L",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "L – J * H / K",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "L + W * R / H",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Statements:<br>M @ J, J $ T, T © N <br>Conclusions: <br>I. N # J <br>II. T % M <br>III. M @ N ",
+			"explanation": "M % J -> M > J <br>J $ T -> J = T <br>T © N -> T = N <br>Therefore, M > J = T = N <br>Conclusions: <br>I. N # J -> N = J ( true ) <br>II. T % M -> T < M ( true) <br>III. M @ N -> M > N ( true) ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Only I and II are true",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Only II and III are true",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Only I and III are true",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": " All are true",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Read the following  information carefully and answer the questions that follow :<br>A + B means A is the son of B; A – B means A is the wife of B; A*B means  A is the brother of B; A/B means A is the mother of B and A = B means A is the sister of B.<br>What does P + R –Q mean ?",
+			"explanation": "Clearly , P + R – Q means P is the son of R who is the wife of Q i.e. Q is the father of P.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Q is the father of P",
+                    "isAnswer": true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Q is the son of P",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Q is the uncle of P",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Q is the brother of P",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "What does P*R/Q mean ?",
+			"explanation": "P*R/Q means P is the brother of R who is the mother of Q<br> i.e. P is the uncle of Q.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "P is the brother of R ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "P is the father of Q",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "P is the uncle of Q",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "P is the nephew of Q",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "What does P = R+Q mean ?",
+			"explanation": "P=R+Q means P is the sister of R who is the son of Q i.e. P is the daughter of Q.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "DP is the sister of Q",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "P is the aunt of Q",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "P is the daughter of Q",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "P is the niece of Q",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "What does P = R/Q mean ?",
+			"explanation": "P = R/Q means P is the sister of R Who is the mother of Q i.e. P is the aunt of Q",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "P is the aunt of Q",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "P is the sister of Q",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Q is the niece of P ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Q is the daughter of P",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A $ B means A is the father of B; A # B means A is the sister of B; A * B means A is the daughter of B and A @ B means A is the brother of B. Which of the following indicates that M is the wife of Q?",
+			"explanation": "Q $ R → Q is the father of R<br>R @ T → R is the brother of T Hence, → Q is the father of T T * M → T is the daughter of M Hence, → M is the mother of T Hence, M is the wife of Q.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Q $ R # T @ M",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Q $ R @ T # M",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Q $ R * T # M",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Q $ R @ T * M",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Choose the correct alternative from the given choices.<br>If 5@6= 131, 8@9= 299, then 20@21=?",
+			"explanation": "The pattern is 5@6= 5+6=11, 11^2+10=131, …. 20@21= 20+21=41,<br> 41^2+10=1691",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " 1825 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": " 1691 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "1386",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "2025",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "If 81 # 145 = 19 and 345 #18 = 21, then what is the value of 98 # 71?",
+			"explanation": "81#145 = (8+1) + (1+4+5) = 9 +10 = 19 Similarly 345 # 18 = (3 + 4 + 5) + (1+8) = 21 :. 98 # 71 = (9+8) + (7+1) = 25",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "81",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "123",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "25",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "  36 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "If P stands for ‘addition’ Q stands for ‘subtraction’ R stands for ‘multiplication’ and S stands for ‘division, which of the following statements is correct?",
+			"explanation": "Using the proper notations in (d), we get the statement as 8*8+8/8-8 = 64+1-8 = 57",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "36 R 4 S 8 Q 7 P 4 = 10",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "16 R 12 P 49 S 7Q 9 = 200",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "32 S 8 R 9 = 160 Q 12 R 12",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "8 R 8 P 8 S 8 Q 8 = 57 ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

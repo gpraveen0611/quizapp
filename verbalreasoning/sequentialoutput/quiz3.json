@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Sequential Output Test 3",
+    "description": "Practice Sequential Output Online Test 3",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Input: unique ask van pin fan egg charger oil ink mobile<br>Step I: unique ask van pin fan egg oil ink mobile charger<br>Step II: fan unique ask van pin egg ink mobile charger oil<br>Step III: ink fan unique ask van pin egg charger oil mobile<br>Step IV: pin ink fan unique ask van charger oil mobile egg<br>Step V: ask pin ink fan unique charger oil mobile egg van And Step V is the last step of the rearrangement.<br>Which word would be at fifth position from the right end in step II?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "rat",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "pen",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "net",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "item",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Input: done with 41 17 one 13 front 24<br>Step I: with done 41 17 one 13 front 24<br>Step II: with 13 done 41 17 one front 24<br>Step III: with 13 one done 41 17 front 24<br>Step IV: with 13 one 41 done 17 front 24<br>Step V: with 13 one 41 front done 17 24<br>Step VI: with 13 one 41 front 24 done 17 <br>Which of the following elements is fifth from the left in step V?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Female",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "23",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Daughter",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "42",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Which of the following will be Step III for the input below?<br>Input: 09 25 16 30 32 18 17 06",
+			"explanation": "Input: 09 25 16 30 32 18 17 06<br>Step I:  32 09 25 16 30 18 17 06<br>Step II: 32 30 09 25 16 18 17 06<br>Step III: 32 30 25 09 16 18 17 06<br>Hence, the answer is A",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "32 30 25 09 16 18 17 06",
+                    "isAnswer": true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "32 30 09 25 16 18 17 06",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "32 09 25 16 30 18 17 06",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "32 30 09 25 16 19 17 06",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "What is the output of Step V for the input below?<br>Input: 25 08 35 11 88 67 23",
+			"explanation": "Input: 25 08 35 11 88 67 23<br>Step I:88 25 08 35 11 67 23<br>Step II:88 67 25 08 35 11 23<br>Step III:88 67 35 25 08 11 23<br>Step IV:88 67 35 25 23 08 11<br>Step V:88 67 35 25 23 11 08Hence, the answer is B",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "08 11 23 25 35 67 88",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "88 67 35 25 23 11 08",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "88 67 35 25 23 08 11",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "If the output of Step IV is as given below, what was the input?<br>Step IV: 92 86 71 69 15 19 06 63 58",
+			"explanation": "Since the numbers may be rearranged in several possible ways, so it is not possible to determine the exact input. Hence, the answer is B",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "15 19 06 63 58 86 92 69 71",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "15 86 19 92 06 69 63 58 71",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "86 92 69 71 15 19 06 63 58",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Cannot be determined",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Input: more fight cats cough sough acts idea<br>What will be the last step for this input ?",
+			"explanation": "Input: more fight cats cough sough acts idea<br>Step1: cough more fight cats sough acts idea<br>Step2: cough fight more cats sough acts idea<br>Step3: cough fight sough more cats acts idea<br>Step4: cough fight sough acts more cats idea<br>Step5: cough fight sough acts cats more idea<br>Step6: cough fight sough acts cats idea more<br>Hence, the answer is A",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "cough fight sough acts cats idea more",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "cough fight sough acts cats more idea",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "cough more fight sough acts idea cats",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "none of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Input: car on star quick demand fat<br>What will be the third step for this input ?",
+			"explanation": "Input:car on star quick demand fat<br>Step1: star car on quick demand fat<br>Step2: star car quick on demand fat<br>Step3: star car quick demand on fat<br>Hence, the answer is C",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "star car demand quick on fat",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "star quick car demand on fat",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "star car quick demand on fat",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "none of these",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "There are five girls - R, S, T, P and Q sitting in a row facing north. T is sitting exactly in the middle of the row. Q is sitting to the immediate right and immediate left of P and T respectively. S is not sitting at the extreme end. Who is sitting third to the left of R?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "P",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Q",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "S",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "T",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Input: 67 hot sun 19 best 83 ice 49 ace 77 cut 37<br>Which of the following would be final arrangement? ",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": " 67 77 83 ace best cut hot ice sun 19 37 49 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "19 37 49 ace best cut hot ice sun 67 77 83 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "19 37 49 67 77 83 ace best cut hot ice sun ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "19 37 49 ace ice best cut hot sun 67 77 83",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "In Step IV, which of the following word/number would be on 7thposition (from the right)?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Sun",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Best",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "67",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Cut",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Blood Relations Test 4",
+    "description": "Blood Relations Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "If M x N means M is the daughter of N; M + N means M is the father of N; M % N means M is the mother of N and M - N means M is the brother of N <br>then P % Q + R - T x K indicates which relation of P to K?",
+			"explanation": "P % Q → P is the mother of Q <br>Q + R → Q is the father of R<br>R - T → R is the brother of T<br>Hence, → Q is the father of T<br>T x K → T is the daughter of K<br>Hence, → Q is the husband of K.<br>Therefore, P is the mother-in-law of K.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Daughter-in-law",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Sister-in-law",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Aunt",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "None of These",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "If P + Q means P is the brother of Q; P x Q means P is the father of Q and P - Q means P is the sister of Q,<br>which of the following relations shows that I is the niece of K?",
+			"explanation": "K + Y → K is the brother of Y<br>Y x I → Y is the father of I<br>Hence, → K is the uncle of I<br>and I - Z → I is the sister of Z<br>Hence, → I is the niece of K.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "K + Y + Z - I",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "K + Y x I - Z",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Z - I x Y + K",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "K x Y + I - Z",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Pointing towards a girl, Abhisek says, 'This girl is the daughter of only a child of my father.'<br>What is the relation of Abhisek's wife to that girl?",
+			"explanation": "Only the child of my father means 'Abhisek' himself. This means the girl is the daughter od Abhisek. Hence, Abhisek's wife is the mother of the girl.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Daughter",
+                    "isAnswer": false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Mother",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Aunt",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Sister",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "If A $ B means B is the father of A; A # B means B is the mother of A; A * B means B is the sister of A and A @ B means B is the husband of A, <br>which of the following indicates that N is the grandmother of P?",
+			"explanation": "no explanation ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "P * Q # M $ N",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "P @ Q $ M # N",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "P # Q $ N * M",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Anupam said to a lady sitting in a car, 'The only daughter of the brother of my wife is the sister-in-law of the brother of your sister'. <br>How the husband of the lady is related to Anupam?",
+			"explanation": "Anupam's son-in-law is the brother of the lady who was sitting in the car. Hence, the husband is also the son-in-law of Anupam.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Maternal uncle",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Uncle",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Father",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Son-in-law",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "If P + Q means P is the brother of Q; P x Q means P is the wife of Q and P % Q means P is the daughter of Q then<br>which of the following means D is the uncle of A?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "A % B x C + D",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "A x B + C % D",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "A + C % B x D",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A is the son of C; C and Q are sisters; Z is the mother of Q and P is the son of Z.<br>Which of the following statements is true?",
+			"explanation": "C and Q are sisters and A is the son of C. Hence, C is the mother of A or Z is the mother Q.<br>Hence, Z is the maternal grandmother of A. P is the son of Z. Hence, P is the maternal uncle of A.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "P and A are cousins",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "P is the maternal uncle of A",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Q is the maternal grandfather of A",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "C and P are sisters",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "M is the father of N who is the son of V. In order to know the relation of M to P, which of the statement/statements is/are necessary?<br>1. P is the brother of V.<br>2. The daughter of N is the granddaughter of V.",
+			"explanation": "M is the father of N and N is the son of V.<br>Hence, V is the mother of N.<br>From (1), P is the brother of V<br>Therefore, M is the brother-in-law of P because V is the wife of M.<br>From (2), the daughter of N, is the granddaughter of V. From this we do not get any relation of M to P.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Only (1)",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Only (2)",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Either (1) or (2)",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "(1) and (2) both",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "If X + Y means X is the daughter of Y; X - Y means X is the brother of Y; X % Y means X is the father of Y and X x Y means X is the sister of Y.<br> Which of the following means I is the niece of J ?",
+			"explanation": "I x C → I is the sister of C<br>C + N → C is the daughter of N<br>and N - J → N is the brother of I.<br>Hence, I is niece of J.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "J - N % C x I",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "I x C - N % J",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "J + M x C % I",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "I x C + N - J",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "E is brother of A. M is brother of A. His father of M. T is wife of H. How is A related to T?",
+			"explanation": "As per question, H and T are Father and Mother<br>E is son, M is son and A is either son or daughter to T.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Son",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Daughter",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Son or Daughter",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Data inadequate",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

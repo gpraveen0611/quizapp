@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Evaluating Inference Test 3",
+    "description": "Practice Evaluating Inference Online Test 3",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Statement : Only good dancers are invited to the festival. No one without rhythm can be called a good dancer.<br>Inferences:<br>I. All dancers who are invited to the festival have rhythm in their feet.<br>II The dancers who do not have any rhythm in their feet are not invited to the festival.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Only inference I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Only inference II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Both the inferences follow",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "None of the inferences follow",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Statement:<br>Religions provide the means for attaining eternal peace.<br>Conclusions:<br>I. Religions ensure prosperous life.<br>II. Religions help people to eradicate poverty.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Only conclusions I follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Only conclusions II follows.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Both conclusions I and II follow.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Neither conclusion I nor II follow.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Statements:<br>Should seniority be the only criterion for the promotion?<br>Conclusions:<br>I. No, it would be an injustice to those juniors who are more deserving.<br>II. Yes, otherwise senior employees will feel humiliated.<br>III. Yes, senior employees are more experienced and must be rewarded. ",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "I and II are most appropriate",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "I and III are most appropriate",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "III is most appropriate",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "I is most appropriate",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "The lifeline of Mumbai is it train network. One of the most crowded places in the city. A Group of commuters of the Mumbai suburban railways called for a strike in response to the increase in the  number of accidents in that route in the past one year due to overcrowding. The commuters want to continue the strike unless the authorities agree to increase the frequency of the trains in that route.<br>Which of the following can be inferred from the above statement?",
+			"explanation": "For 1: Here the commuters called on the strike in a response to the accidents which take place due to overcrowding and are demanding increase in the frequency of trains, assuming that if the frequency increases, then lesser number of such accident would take place. Hence, 1 is an assumption.<br>For 2: From the statement “increase in the number of overcrowding “it can be concluded that, the trains in the Mumbai suburban run overcrowded. Hence, 2 is a conclusion.<br>For 3: In the statement, there is no reference to intension of the railway authority. Hence, 3 is out of context.<br>For 4: As the number of accidents is increasing in the past one year, it can be inferred that, the  frequency of trains did not increase in accordance to the increase in the number of commuters. Hence, 4 is an inference.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Increase in the frequency of the trains would lead to decrease in number of such accidents",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "The trains in the Mumbai suburban run overcrowded",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "The railway authorities are in different to the safety of commuters",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "The railway did not increase the frequency in proportion to the increase in the number of commuters in the past one year ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "The Election Commission’s decision to deploy the Voter Verifiable Paper Audit Trail system for all the constituencies in the Gujarat Assembly elections is questionable. This will be the first time VVPAT  will be used on a State-wide basis. A costly but useful complement to the Electronic Voting Machine, and the paper trail allows for an audit of the election results by the EC in a select and randomised number of constituencies.<br>What could be the possible reason for introduction of VVPAT?",
+			"explanation": "VVPAT means Voter Verifiable Paper Audit Trail. This system will help people to see that the vote is been casted as per their desire and this will increase transparency. The word ‘verifiable’ tell us that option 4 is the correct option.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "For improving technology",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "It is just an experiment",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "To encourage people to vote",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "To allow voters to verify their vote after registering it on the EVM",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Statement: Many cotton farmers are committing suicide due to lack of rains.<br>Inference:<br>I. Other farmers are not committing suicide.<br>II. Cotton is dependent on rain.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Only I follows.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Only II follows.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Both I and II follow.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Neither I nor II follows.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Statement: Anger is energy, in a more proactive way and how to channelize it is in itself a skill.<br>Inference:<br>I. Anger needs to be channelized.<br>II. Only skillful people can channelize anger to energy.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Only I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Only II follows.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Both I and II follow.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Neither I nor II follows.",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Statement: Researchers have found the increasing use of pesticides, responsible for stomach cancer.<br>Inferences:<br>I. The researchers are looking for factors responsible for stomach cancer.<br>II. Farmers are unaware of the ill-effects of pesticides.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Only inference I follows",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Only inference II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Both the inferences follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "None of the inferences follows",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Statement: “Electric supply in Anand Colony will be cut tomorrow after 12 o’clock for three hours because repairing work will be carried out.”<br>Inferences:<br>I. Residents of Anand colony may use their electrical appliances before 12 o’clock tomorrow.<br>II. Residents of Anand colony need training for using electricity economically.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "Only inference I follows",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "Only inference II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "Both the inferences follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "None of the inferences follows",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "What inference can you draw from the following two statements?<br>I. Hybrid plants are resistant to fungus.<br>II. Fungus infection reduces the life of plants.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Fungus attacks hybrid plants.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Yield is more in hybrid plants.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "All plants are hybrid plants.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "For a long life-span grow hybrid plants.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

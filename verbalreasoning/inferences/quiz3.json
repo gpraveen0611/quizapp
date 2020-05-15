@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Inferences Test 3",
+    "description": "Practice Inferences Online Test 3",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "____ is easy for humans, but difficult for computers",
+			"explanation": "A statement is given followed by two inferences I and II. You have to consider the statement to be true even if it seems to be at variance from commonly known facts. You have to decide which of the given inferences, if any, follow from the given statement.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Drawing inferences",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Induction",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Deduction",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "None of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Statement: Researchers have found the increasing use of pesticides, responsible for stomach cancer.<br>Inferences:<br>I. The researchers are looking for factors responsible for stomach cancer.<br>II. Farmers are unaware of the ill-effects of pesticides.",
+			"explanation": "The second inference is clearly not directly related to the statement. Thus it does not follow.<br>The first inference follows because it is the effect of the research carried out.<br>Thus it is a valid inference.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Only inference I follows",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Only inference II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Both the inferences follow",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "None of the inferences follows",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Statement: “Electric supply in Anand Colony will be cut tomorrow after 12 o’clock for three hours because repairing work will be carried out.”<br>Inferences:I. Residents of Anand colony may use their electrical appliances before 12 o’clock tomorrow.<br>II. Residents of Anand colony need training for using electricity economically.",
+			"explanation": "The given statement is a notice for the residents of Anand Colony to inform them about the electricity cut so that they use their electric appliances before 12 o’clock.<br>The statement has no reference to whether or not the residents are using electricity economically.<br>Hence, only inference I follows. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Only inference I follows",
+                    "isAnswer": true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Only inference II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Both the inferences follow",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "None of the inferences follows",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "As compared to service industry, the manufacturing industry will be less affected by the technological change.",
+			"explanation": "no explanation ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": " if you think that the answer is definitely true.",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": " if you think that the answer is probably true.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "if the data provided is inadequate to answer the question.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "if the answer is definitely false.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Statements: The Bank of England's move to auction 25 metric tons of gold drew plenty of bidders looking for a bargain, but was criticised by major gold producers worldwide.<br>Conclusions:<br>I. The Bank of England should not auction gold which it possesses to keep steady international prices of gold.<br>II. Bidders should quote higher gold prices to retain a present value of gold in the international markets.",
+			"explanation": "The statement does not talk against the auction but only speaks of the response it received from the bidders and gold producers. So, I does not follow. The phrase 'plenty of bidders looking for a bargain' is quite contrary to II. So, II also does not follow.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Only conclusion I follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Only conclusion II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Either I or II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Neither I nor II follows",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "The Union Government’s liberalization policy became applicable to granite industry only during the last two years.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": " if you think that the answer is definitely true.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": " if you think that the answer is probably true.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "if the data provided is inadequate to answer the question.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "if the answer is definitely false.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Statements: Adversity makes a man wise.<br>Conclusions:<br>I. The poor are wise.<br>II. Man learns from bitter experience.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "A. Only conclusion I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Only conclusion II follows",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Neither I nor II follows",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Statement:<br>A large number of language specialists write novels.<br>Inferences:<br>I. Some language specialists do not write novels.<br>II. A novelist need not be a language specialist.<br>III. Language speciality is highly helpful to write novels.<br>IV. All novelists are language specialists.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Only I is appropriate",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Only II is appropriate",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Only III is appropriate",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "Only IV is appropriate",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Statements:<br>a. In our college, all first year students are cricket fans.<br>b. Of the first year students some are also tennis fans.<br>c. Some tennis fans are also football fans.<br>Conclusions:<br>1. All others, except first year students, are not fans of any game.<br>2. Some first year students play cricket.<br>3. All first year students are football fans.<br>4. Some first year students are not football fans.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "Only conclusion I follows ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "Only conclusion II follows",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "Only conclusion III follows ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "Only conclusion IV follows",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Statements:<br>Nutritious food is delicious and good for health.<br>Honey is nutritious.<br>Conclusions:<br>I. Honey is good for health.<br>II. Delicious foods are nutritious.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Only conclusion I follows.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Only conclusion II follows.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Neither conclusion I nor conclusion II follows.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Both conclusion I and conclusion II follow.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

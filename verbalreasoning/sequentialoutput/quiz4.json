@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Sequential Output Test 4",
+    "description": "Practice Sequential Output Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A word arrangement machine, When given an input line of words, rearranges it in every step following a certain rule. Following is an illustration of an input line of words and various steps of rearrangement.<br>Input: gone are take enough brought station<br>Step 1: take gone are enough brought station<br>Step 2: take are gone enough brought station<br>Step 3: take are station gone enough brought<br>Step 4: take are station brought gone enough And Step 4 is the last step for this input.<br> Now, find out an appropriate step in the following question following the above rule.<br>Input: car on star quick demand fat<br>What will be the third step for this input ?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "star car demand quick on fat",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "star quick car demand on fat",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "star car quick demand on fat",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "none of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "The first term in a sequence is 1 and the second term is 5. From the third term on each term is the average (arithmetic mean) of all preceding terms.<br>What is the 25th term in the sequence?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "2.5",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "3",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "3.5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "2",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Study the following information carefully and answer the given questions:<br>A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement:<br>Input: 25 280 345 36 93 147 550<br>Step I: 550 280 345 36 93 147 25<br>Step II: 550 345 280 36 93 147 25<br>Step III: 550 345 280 147 93 36 25<br>This is the final arrangement and step III is the last step for this input.<br>If '842 485 68 358 236 123 93' is the second step of an input, which of the following steps will be '842 485 358 236 123 68 93'?",
+			"explanation": "Numbers are getting arranged in descending order.<br>The largest of the given number interchanges its place with the first number. IN case the largest number is already arranged, the second largest is interchanged with the number next to the largest number, and so on until the numbers are arranged in descending order.<br>Step II: 842 485 68 358 236 123 93<br>Step III: 842 485 358 68 236 123 93<br>Step IV: 842 485 358 236 68 123 93<br>Step V: 842 485 358 236 123 68 93",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Fourth",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Fifth",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Sixth",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Cannot be determined",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Study the following information carefully and answer the given questions: <br>A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement:<br>Input: 39 121 48 18 76 112 14 45 63 96<br>Step I: 14 39 121 48 18 76 112 45 63 96<br>Step II: 14 39 48 18 76 112 45 63 96 121<br>Step III: 14 18 39 48 76 112 45 63 96 121<br>Step IV: 14 18 39 48 76 45 63 96 112 121<br>Step V: 14 18 39 45 48 76 63 96 112 121<br>Step VI: 14 18 39 45 48 63 76 96 112 121<br>This is the final arrangement and step VI is the last step for this input.<br>What will be the last step for the following input?<br><br>Input: 138 63 49 93 89 122 32 71",
+			"explanation": "Step I: The smallest number becomes first and the remaining numbers shift one position rightward.<br>Step II: The largest number among given numbers becomes last and the remaining numbers shift one position leftward.<br>The steps are repeated alternately till all the numbers get arranged in ascending order and that will be that last step for that particular input.<br>As it is certain that the last step will be strictly in ascending order hence we do not require to go through procedure. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "32 49 71 63 89 93 122 138",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "32 49 63 71 93 89 122 138",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "32 49 63 71 89 93 122 138",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Cannot be determined",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Study the following information carefully and answer the given questions:<br>A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement:<br>Input: 25 280 345 36 93 147 550<br>Step I: 550 280 345 36 93 147 25<br>Step II: 550 345 280 36 93 147 25<br>Step III: 550 345 280 147 93 36 25<br>This is the final arrangement and step III is the last step for this input.<br>Which of the following is the last step for the following input?<br>Input: 145 227 900 49 116 243 356",
+			"explanation": "Numbers are getting arranged in descending order.<br>The largest of the given number interchanges its place with the first number. IN case the largest number is already arranged, the second largest is interchanged with the number next to the largest number, and so on until the numbers are arranged in descending order.The series which is in strictly descending order will be the answer.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "900 356 243 227 49 145 116",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "900 356 243 227 145 116 49",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "900 356 227 243 145 116 49",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "900 356 243 227 116 145 49",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Study the following information carefully and answer the given questions:<br>A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement:<br>Input: 25 280 345 36 93 147 550<br>Step I: 550 280 345 36 93 147 25<br>Step II: 550 345 280 36 93 147 25<br>Step III: 550 345 280 147 93 36 25<br>This is the final arrangement and step III is the last step for this input.<br>What will be the second step for the following input?<br>Input: 158 294 22 89 142 385 463",
+			"explanation": "Numbers are getting arranged in descending order.<br>The largest of the given number interchanges its place with the first number. IN case the largest number is already arranged, the second largest is interchanged with the number next to the largest number, and so on until the numbers are arranged in descending order.<br>Input: 158 294 22 89 142 385 463<br>Step I: 463 294 22 89 142 385 158<br>Step II: 463 385 22 89 142 294 158",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "463 385 294 22 89 142 148",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "463 385 89 22 294 142 158",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "463 385 22 89 142 158 294",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Study the following information carefully and answer the given questions:<br>A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement:<br>Input: 25 280 345 36 93 147 550<br>Step I: 550 280 345 36 93 147 25<br>Step II: 550 345 280 36 93 147 25<br>Step III: 550 345 280 147 93 36 25<br>This is the final arrangement and step III is the last step for this input.",
+			"explanation": "Numbers are getting arranged in descending order.<br>The largest of the given number interchanges its place with the first number. IN case the largest number is already arranged, the second largest is interchanged with the number next to the largest number, and so on until the numbers are arranged in descending order.<br>This step cannot be determined",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "595 28 438 142 38 65 289",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "595 438 142 28 38 65 289",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "595 28 142 438 38 65 289",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Cannot be determined",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Study the following information carefully and answer the given questions:<br>A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement:<br>Input: 25 280 345 36 93 147 550<br>Step I: 550 280 345 36 93 147 25<br>Step II: 550 345 280 36 93 147 25<br>Step III: 550 345 280 147 93 36 25<br>This is the final arrangement and step III is the last step for this input.<br>What will be the third step for the following input?<br>Input: 113 18 48 225 462 175 288",
+			"explanation": "Numbers are getting arranged in descending order.<br>The largest of the given number interchanges its place with the first number. IN case the largest number is already arranged, the second largest is interchanged with the number next to the largest number, and so on until the numbers are arranged in descending order.<br>Input: 113 18 48 225 462 175 288<br>Step I: 462 18 48 225 113 175 288<br>Step II: 462 288 48 225 113 175 18<br>Step III: 462 288 225 48 113 175 18",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "462 288 48 225 13 175 18",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "462 288 225 175 113 48 18",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "462 225 288 48 113 175 18",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "462 288 225 48 113 175 18",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Study the following information carefully and answer the given questions:<br>A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement:<br>Input: 25 280 345 36 93 147 550<br>Step I: 550 280 345 36 93 147 25<br>Step II: 550 345 280 36 93 147 25<br>Step III: 550 345 280 147 93 36 25<br>This is the final arrangement and step III is the last step for this input.<br>If following is the first step for an input, what will be the fourth step?<br>Step I: 498 175 292 96 79 387 158",
+			"explanation": "Numbers are getting arranged in descending order.<br>The largest of the given number interchanges its place with the first number. IN case the largest number is already arranged, the second largest is interchanged with the number next to the largest number, and so on until the numbers are arranged in descending order.<br>Step I: 498 175 292 96 79 387 158<br>Step II: 498 387 292 96 79 175 158<br>Step III: 498 387 292 175 79 96 158<br>Step IV: 498 387 292 175 158 96 79",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "498 387 292 175 158 79 96",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "498 387 292 175 96 158 79",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "498 387 292 175 158 96 79",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "498 387 292 175 79 158 96",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Study the following information carefully and answer the given questions:<br>A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement:<br>Input: 25 280 345 36 93 147 550<br>Step I: 550 280 345 36 93 147 25<br>Step II: 550 345 280 36 93 147 25<br>Step III: 550 345 280 147 93 36 25<br>This is the final arrangement and step III is the last step for this input.<br>How many steps will be required to get the final output from the following input?<br>Input: 78 293 585 740 64 132 26",
+			"explanation": "Numbers are getting arranged in descending order.The largest of the given number interchanges its place with the first number. IN case the largest number is already arranged, the second largest is interchanged with the number next to the largest number, and so on until the numbers are arranged in descending order.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "4",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "5",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "2",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

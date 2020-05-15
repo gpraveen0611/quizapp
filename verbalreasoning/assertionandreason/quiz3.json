@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Assertion and Reason Test 3",
+    "description": "Practice Assertion and Reason Online Test 3",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Assertion (A): The Steam engine was invented by James Watt.<br>Reason (R): There was a problem of taking out water from flooded mines.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Both A and R are true and R is the correct explanation of A.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Both A and R are true but R is NOT the correct explanation of A.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "A is true but R is false.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "A is false but R is true.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Assertion (A): Uranium undergoes nuclear fusion reaction.<br>Reason (R): It has a big unstable nucleus.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Both A and R are true and R is the correct explanation of A.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Both A and R are true but R is not the correct explanation of A.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "A is true but R is false",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "A is false but R is true",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Assertion (A): I came late today.<br>Reason (R): It was raining.",
+			"explanation": "Given statements are:<br>Assertion (A): I came late today.<br>Reason (R): It was raining.<br>If the reason is related to the assertion with ‘because’ i.e. I came late today because it was raining. So, it makes sense.<br>Here reason is correct explanation of assertion.<br>So, option(a) is the right one.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "If both A and R are true and R is the correct explanation of A.",
+                    "isAnswer":true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "If both A and R are true and R is not the correct explanation of A.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "If A is true but R is false.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "If A is false but R is true.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Assertion (A): We prefer to wear white clothes in winter.<br>Reason (R): White clothes are good reflectors of heat.",
+			"explanation": "We prefer to wear dark clothes in winter because they absorb the heat and keep the body warm. However, white clothes are good reflectors of heat and are worn in summer.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Both A and R are true and R is the correct explanation of A.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Both A and R are true but R is NOT the correct explanation of A.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "A is true but R is false.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "A is false but R is true.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Assertion (A) : Nuclear fusion is used to generate electricity.<br>Reason (R) : Nuclear power is not used because it cannot be controlled",
+			"explanation": "A controlled nuclear fission reaction is used to generate electricity. Nowadays, controlled nuclear power finds many important applications.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Both A and R are true and R is the correct explanation of A",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Both A and R are true but R is NOT the correct explanation of A",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "A is true but R is false",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Both A and R are false",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Assertion (A): Nowadays India is in trouble due to inflation.<br>Reason(R): India has not made sufficient effort to curb all black money.",
+			"explanation": "As India is not able to control the black money, inflation is rising.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Both A and R are true and R is the correct explanation of A.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Both A and R are true but R is not the correct explanation of A.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "A is true but R is false.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "A is false but R is true.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Assertion (A): If the weather is hot and humid, we feel more comfortable.<br>Reason (R): If the climate is humid, the evaporation of the sweat is",
+			"explanation": "Now consider the above example carefully. Here our first step will be to judge the truth of both the sentences. The assertion is not correct as we all know that when the weather is humid, we do not feel comfortable. Hence option A or B or C cannot be our answer. Now, let’s come to the reason part. This is also not correct as it takes longer time for the sweat to evaporate if the weather is humid. Hence we know from the above discussion that both assertion and reason are incorrect. Therefore option D will be our answer.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Both A and R are true and R is the correct explanation of A.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Both A and R are true but R is NOT the correct explanation of A.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "A is true but R is false.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Both A and R are false.",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Assertion (A) : Bangladesh imports jute from India.<br>Reason (R) : Bangladesh has most of the jute mills.",
+			"explanation": "When Bangladesh was created after partiton of India, the areas of jute production went to Bangladesh while the jute mills were left in India. So, India imports raw jute from Bangladesh.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Both A and R are true and R is the correct explanation of A.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Both A and R are true but R is NOT the correct explanation of A.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "A is false but R is true.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "Both A and R are false.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Assertion (A) : Milk production in India is low a compared to other countries of the world.<br>Reason (R): The animal rearers in India are poor.",
+			"explanation": "Milk production in India is low as compared to other countries of the world because of lack of good breed and improper feed. But here rearers is the different thing. So, R is False.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "Both A and R are true and R is the correct explanation of A",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "Both A and R are true and R is NOT the correct explanation of A",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "A is true but R is false",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "A is false but R is true",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Assertion (A): When lightning strikes, the sound is heard a little after the flash is seen.<br>Reason (R): The velocity of light is greater than that of the sound.",
+			"explanation": "R provides the correct reason for A.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Both A and R are true and R is the correct explanation of A.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Both A and R are true but R is not the correct explanation of A.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "A is true but R is false.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "A is false but R is true.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

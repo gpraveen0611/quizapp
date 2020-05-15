@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Statements and Assumptions Test 3",
+    "description": "Practice Statements and Assumptions Online Test 3",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Statement: Films have become indispensable for the entertainment of people.<br>Assumptions:<br>I. Films are the only media of entertainment.<br>II. People enjoy films.",
+			"explanation": "'Films are indispensable' does not mean that they are the only means of entertainment. So, I is not implicit. Clearly, II follows from the statement. So, it is implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Only assumption I is implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Only assumption II is implicit",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Either I or II is implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Neither I nor II is implicit",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Statement : “India won the toss and choose to the bat first against Pakistan”<br>Assumptions :<br>I. Moisture Might Be fallen at night<br>II. India is Playing with no spinners",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Only assumption I is implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Only assumption II is implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Either I or II is implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Both I and II are implicit",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Statement : If children are to manage our world in future, then they need to be equipped to do so.<br>Assumptions :<br>I. The world has always educated children.<br>II. It is possible to educate children. ",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "if only Assumption I is implicit",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "if only Assumption II is implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "if either Assumption I or II is implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "if neither Assumption I nor II is implicit",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "There is an alarming trend of skewed sex ratio against women in India during the past decade and the situation may go out of hand if adequate steps are not taken to stop female foeticide.<br>Which of the following can be an effective step to reverse the trend?<br>(1) The govt. should immediately completely ban the use of scanners/sonography on expecting mothers at all health centres.<br>(2) The govt. should announce a substantial incentive scheme for couples who have at least one girl child.<br>(3) The govt. should launches a nationwide campaign to create awareness against female foeticide",
+			"explanation": "All statements can be effective steps to reverse the trend",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Only (1)",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Only (1) and (2)",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "Only (2) and (3)",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "All (1), (2) and (3)",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "A regular visit to the health club followed by a strict diet programme helped 100 women reduce their respective weight. Thus all overweight women should join health clubs and follow a strict diet programme.<br>The conclusion in the above argument is based on which of the following assumptions?",
+			"explanation": "What is the objective of joining a health club and following a strict diet programme?<br>Weight loss! The assumption is the underlying premise, which is necessary for a valid conclusion. That all overweight women should ‘join health clubs and follow a strict diet programme’…would be valid only if the women are interested in weight loss.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "A. Joining a health club is the only way to reduce weight.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Joining a health club would surely result in weight loss.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Joining a health club and following a strict diet programme would result in weight loss for all.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "All overweight women want to lose weight.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Statement: To make the company commercially viable, there is an urgent need to prune the staff strength and borrow money from the financial institutions. Opinion of a consultant.<br>Assumptions:<br>I. The financial institutions lend money for such proposals.<br>II. The product of the company has a potential market.<br>III. The employees of the company are inefficient.",
+			"explanation": "Since the consultant talks of borrowing money from financial institutions, so I is implicit. That the owners wish to make the company 'commercially viable' makes II implicit. Also, it is mentioned that staff strength is to be reduced to make the company 'commercially viable'. So, III is not implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "None is implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "All are implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Only I and II are implicit",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Statement: If people are intelligent they should be creative.<br>Assumptions:<br>I. Creativity and intelligence are related.<br>II. Creative people are intelligent.",
+			"explanation": "If people are intelligent they should be creative but it is not necessary that all intelligent people are creative or creative people are intelligent. In this way, creativity and intelligence are not related always. So, both the assumptions are invalid.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Both assumptions I and II are invalid.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Only assumption I is valid.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Only assumption II is valid",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Both assumptions I and II are valid.",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "The condition of the roads in the city has deteriorated considerably during the first 2 months of monsoon and most of the roads have developed big potholes. Which of the following can be a possible effect of the above cause?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "The municipal corporation had repaired all the roads in the city before the onset of monsoon with good quality material.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "A large number of people have developed spine-related injuries after regularly commuting long distances by road within the city.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "The municipal corporation has been careful in choosing the contractors for repairing roads in the past.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "People always complain about potholed roads during the monsoon months.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Statement : The concession in rail fares for the journey to hill stations has been cancelled because it is not needed for people who can spend their holidays there.<br>Assumptions :<br>I. Railways should give concession only to needy persons.<br>II. Railways should not encourage people to spend their holidays at hill stations.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "Only assumption I is implicit",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": " Only assumption II is implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "Either I or II is implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "Neither I nor II is implicit",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Statement: Whenever you have any doubt on this subject, you may refer to the book by XYZ.<br>Assumptions :<br>I. The book by XYZ is available.<br>II. There is no other book on this subject.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Only assumption I is implicit",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Only assumption II is implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Either I or II is implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Neither I nor II is implicit",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

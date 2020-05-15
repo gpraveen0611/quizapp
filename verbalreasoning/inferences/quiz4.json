@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Inferences Test 4",
+    "description": "Practice Inferences Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Statement 1 : Alba has four children <br>Statement 2: Two of the children have blue eyes and two of them have brown eyes. <br>Statement 3: Half of the children are girls. <br>I. At least one girl has blues eyes. <br>II. Two of the children are boys <br>III. The boys have brown eyes.",
+			"explanation": "Since one-half of the four children are girls, two must be boys. It is not clear which children have blue or brown eyes",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "II only",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "I and II only",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "II and III only",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "None of these  ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Mr. X is one of the probable candidates short-listed for the post of Director of K L M Institute.<br>Conclusion I : Mr. X will be selected as Director of K. L M Institute.<br>Conclusion II : Mr. X will not be selected as Director of K L M Institute.",
+			"explanation": "According to the statement, the fact that Mr. X has been short listed for the post, does not confirm his selection<br>so either I or II follows.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "If only Conclusion I follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "If only Conclusion II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "If either I or II follows",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "If both I and II follow",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Statement: The college has finally received accreditation and has gained the status of a deemed university",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "The reputation of the college amongst the students population in general has improved",
+                    "isAnswer": true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "The principal of the college will now be recognized as government official",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "All the staff in the college will get government salary",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "college will cut down the fees immediately",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Statement: The temple at the religious site wears a deserted look will with the number of devotees trickling down. Which of the following can be a possible cause of the above effect?",
+			"explanation": "no explanation ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "A structural engineer had visited the temple a month back and had declared thestructure unsafe",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "The temple is facing a drastic depletion of its funds which had accumulated over the yearsdue to offerings made by devotees",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "The local corporation decided to donate a huge amount of money to the temple for its renovations",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "The village housing the religious site has qualified priests to perform religious ceremonies",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Statements: Prime age school-going children in urban India have now become avid as well as more regular viewers of television, even in households without a TV. As a result there has been an alarming decline in the extent of readership of newspapers.<br>Conclusion I : Method of increasing the readership of newspapers should be devised.<br>Conclusion II : A team of experts should be sent to other countries to study the impact of TV. on the readership of newspapers.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "If only Conclusion I follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "If only Conclusion II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "If either I or II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "If neither I nor II follows",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Statements: In a one day cricket match, the total runs made by a team were 200. Out of these 160 runs were made by spinners.<br>Conclusions I : 80% of the team consists of spinners.<br>Conclusion II : The opening batsmen were spinners.",
+			"explanation": "According to the statement, 80% of the total runs were made by spinners.<br>So, I does not follow. Nothing about the opening batsmen is mentioned in the statement.<br>So, II also does not follow.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "If only Conclusion I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "If only Conclusion II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "If either I or II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "If neither I nor II follows",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A neurotic is a non-stupid person Who behaves stupidly.<br>Conclusion I : Neuroticism and stupidity go hand in hand.<br>Conclusion II : Normal persons behave Intelligently",
+			"explanation": "It is mentioned in the statement that a neurotic is a person Who behaves stupidly.<br>So, I follows.<br>The behavior of normal persons cannot be deduced from the given statement.<br>So, II does not follow.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "If only Conclusion I follows",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": " If only Conclusion II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "If either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "If neither I nor II follows",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "A bird in hand is worth two in the bush.<br>Conclusion I : We should be content with what we have.<br>Conclusion II : We should not crave for what is not.",
+			"explanation": "Both the given conclusions clearly bring out the central theme of the proverb given in the statement.<br>So, both I and II follow.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "If only Conclusion I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "If only Conclusion II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "If either I or II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "If both I and II follow",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Vegetable prices are soaring in the market. <br>Conclusion I : Vegetables are becoming a rare commodity. <br>Conclusion II : People cannot eat vegetables.",
+			"explanation": "The availability of vegetables is not mentioned in the given statement. So, I does not follow. Also, II is not directly related to the statement and so it also does not follow.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "If only Conclusion I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "If only Conclusion II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "If either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "If neither I nor II follows",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Morning walks are good for health.<br>Conclusion I : All healthy people go for morning walks.<br>Conclusion II : Evening walks are harmful.",
+			"explanation": "According to statement, it is clear morning walks are good for health but it does not clarify that evening walks are harmful and also all healthy people are not morning walks<br>So neither I nor II follows",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "If only Conclusion I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "If only Conclusion II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "If either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "If neither I nor II follows",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Statements and Conclusions Test 3",
+    "description": "Statements and Conclusions Online Test 3",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Statement:<br>I know nothing except the fact of my ignorance.<br>Conclusions:<br>I. Writer's knowledge is very poor.<br>II. The world of knowledge is too-vast to be explored by a single person.",
+			"explanation": "The statement is a symbolic one and only II correctly explains it.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "conclusion I follows.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "conclusion II follows.",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "I or II follows.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "I nor II follows.",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Statement:<br>Any young who makes dowry as a condition for marriage discredits himself and dishonours womanhood.<br>Conclusion :<br>I. Those who take dowry in marriage should be condemned by the society.<br>II. Those who do not take dowry in marriage respect womanhood.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Only conclusion I follows.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Only conclusion II follows.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Neither I or II follows.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Both I and II follows.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Statement:<br>National Aluminium Company has moved India from a position of shortage to self-sufficiency in the metal.<br>Conclusions:<br>I.Previously, India had to import aluminium.<br>II.With this speed, it can soon become a foreign exchange earner.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Either I or II follows",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Only conclusion II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Both I and II follow",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Neither I nor II follows",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Statement:<br>Some fruits are trees. Some fruits are flowers. All the flowers are poets.<br>Conclusions:<br>I. Some flowers are trees<br>Some poets are fruits<br>II. All the fruits are poets<br>Some poets are trees",
+			"explanation": "no explanation ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Only I and II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Only II follows",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "Only I and III follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Only II and IV follows",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Statement:<br>The Government-run company had asked its employees to declare their income and assets but it has been strongly resisted by employees union and no employee is going to<br> declare his income<br>Conclusions:<br> I. The employees of this company do not seem to have any additional undisclosed income besides their salary <br>II. The employees union wants all senior officers to declare their income first",
+			"explanation": "Nothing about the details of the employees' income or the cause of their refusal to declare their income and assets, can be deduced from the given statement. So, neither I nor II follows.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Only conclusion I follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Only conclusion II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Either I or II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Neither I nor II follows",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Statement: Pakistan is planning to test five nuclear bombs in Baghdad.<br>Conclusions:<br>I. People of Pakistan are supporting the decision of the nation<br>II. Other nations will oppose the decision made by Pakistan",
+			"explanation": "From the given statement, it cannot be conferred clearly whether people of Pakistan and other nations will support the decision or not. Hence neither of the conclusions is valid.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Only conclusion I is valid",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Only conclusion II is valid",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Either conclusion I or II is valid",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Neither conclusion I nor II is valid",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Statement:<br>Quality has a price tag. India is allocating lots of funds to education.<br>Conclusions:<br>I. Quality of education in India would improve soon.<br>II. Funding alone can enhance quality of education.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Only conclusion I follows",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Only conclusion II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Neither I nor II follows",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Statement:<br>Fortune favours the brave.<br>Conclusions:<br>I. Risks are necessary for success.<br>II. Cowards die many times before their death.",
+			"explanation": "According to the statement, only those who tackle situation bravely achieve success. So, Conclusion I follows, however, Conclusion II is ambiguous with concern to the given statement and so does not follow.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "if Conclusion I follows",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "if Conclusion II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": " if either Conclusion I or II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "if neither Conclusion I nor II follows",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Statement: The best way to escape from a problem is to solve it<br>Conclusions :<br>I. Your life will be dull if you don't face a problem<br>II. To escape from problems, you should always have some solutions with you",
+			"explanation": "Clearly, both I and II do not follow from the given statement.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "if only conclusion I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "if only conclusion II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "if either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " if neither I nor II follows",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Statement:<br>In a one day cricket match, the total runs made by a team were 200. Out of these 160 runs were made by spinners.<br>Conclusions:<br>I.80% of the team consists of spinners.<br>II.The opening batsmen were spinners.",
+			"explanation": "According to the statement, 80% of the total runs were made by spinners. So, I does not follow. Nothing about the opening batsmen is mentioned in the statement. So, II also does not follow",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": " Only conclusion I follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Only conclusion II follows",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Either I or II follows",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Neither I nor II follows",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

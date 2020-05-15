@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Decision Making Test 3",
+    "description": "Practice  Decision Making Online Test 3",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Rohit is 26 years old and has been working in a software company for the past three years. He has scored 74% and 81% marks in HSC and graduation respectively. He is willing to sign a bond with the company.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "if the candidate is to be selected",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "if the case is to be referred to the President",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "if the case is to be referred to the Director",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "if the case is to be referred to the DGM",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Mamta is a graduate in B.A. and B.Ed. with 75% and 70% respectively. She has been working as a professor in Math for 5 years and has freelancing experience of 2 years. Mamta’s age is 30 years and she is ready to join 2 year probation.",
+			"explanation": "Mamta will be selected for the post as she meets all the requirements.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to Principal.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to Vice Principal.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "if candidate is to be selected.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "if information is inadequate to take a decision.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Abhishek is a graduate in B.Sc. and postgraduate in M.Sc. with 78% marks and has been working for the past 7 years during which he worked as a teacher in coaching institute for two years. He was born on 07.11.1986 and is ready to join probation period of 1year.",
+			"explanation": "Since we do not know his B.Sc marks, so information is inadequate to take the decision.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to Principal.",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to Vice Principal.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "if candidate is to be selected.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "if information is inadequate to take a decision.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Veer is BDS graduate with 74% marks in degree and 93% marks in MD. He joined as a doctor in Sanjeevani Hospital three years ago at the age of 27 years. He is willing to sign a bond with Hospital.",
+			"explanation": "The candidate although has joined hospital 3 years ago but it has not been given if he has worked for the given 3 years. So the case will be referred to the Junior Doctor.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "if candidate is to be selected.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to the Senior doctor.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to the Junior doctor.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to the CMO.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Navneet is a Mechanical Engineer with 65% marks in graduation and 87% marks in HSC. He completed his engineering degree in 2013 at the age of 22 years and immediately started working in an engineering firm. He is interested in going to France and is not ready to sign a bond. However, he does not mind to pay an amount of Rs.1 lakh.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "if the candidate is to be selected.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "if the case is to be referred to the President.",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "if the case is to be referred to the Director.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "if the case is to be referred to the DGM.",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Ravina is a Computer Engineer and has obtained 61% and 83% marks in graduation and HSC respectively. She is 27 years old and can sign a bond.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "if the candidate is to be selected.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "if the case is to be referred to the President.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "if the case is to be referred to the Director.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "if the case is to be referred to the DGM.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Mukul is a gold medalist CA and Class I graduate with 77% and 82% marks respectively. He has been working as a professor in Finance for the past four years and has also been a freelance Finance Consultant for the past two years.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "if the case is to be referred to Executive Head.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "if the case is to be referred to Vice President.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "if the candidate is to be selected.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "if the information is inadequate to take a decision.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Yuvraj has been working as an analyst for the past 2 years after completing his post-graduate degree in M.Sc Statistics with 66% marks. He secured 69% marks in graduation and secured 75% in class 12. He was born on Dec 19, 1989. He has secured 78% marks in the written examination and 33% marks in the personal interview.",
+			"explanation": "As Yuvraj scored 33% marks in PI but scored 78% marks in written examination,so his case will be referred to the Chairman.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "if candidate is to be selected.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to the Manager.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to the Chairman.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "if data provided are inadequate to take a decision.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Ankit was born on Jan 26, 1991. He has secured 80% marks in class 12 and 70% marks in B.Tech. He is ready to sign a bond for 2 years. He has secured 70% marks in selection examination and 30% marks in personal interview.",
+			"explanation": "Ankit secured 30% marks in personal interview, while minimum 40% is required and also minimum signing bond is 3 years. Clearly the candidate cannot be selected with these qualifications.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "if candidate is to be selected",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "if candidate is not to be selected",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to Manager.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to HR Head.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Savita was born on March 16, 1989. She has secured 87% marks in class 12. She has qualified Polytechnic (Computer Science). She has secured 64% marks in the selection examination and secured 49% in personal interview. She is ready to sign a bond for 3 years.",
+			"explanation": "As Savita has qualified polytechnic(CS),so her case will be referred to Manager.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "if candidate is to be selected",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "if candidate is not to be selected",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to Manager.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "if case is to be referred to HR Head.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}
