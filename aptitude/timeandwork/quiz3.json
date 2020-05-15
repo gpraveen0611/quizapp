@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Insurance Awareness Quiz Test 2",
-    "description": "Practice Insurance Awareness Quiz Online Test 2",
+    "name": "Time and Work Test 3",
+    "description": "Practice Time and Work Online Test 3",
     "questions": [
         {
             "id": 1010,
-            "name": "When did insurance begin in Babylon?",
-			"explanation": "The Babylonians developed a system which was recorded in the Code of Hammurabi.",
+            "name": " A and B can do a piece of work in 3 days, B and C in 4 days, C and A in 6 days.<br> How long will C take to do it?",
+			"explanation": "2c = ¼ + 1/6 – 1/3 = 1/12 <br>c = 1/24 => 24 days",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "1750 BC",
-                    "isAnswer":true
+                    "name": "18 days",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "1907 BC",
+                    "name": "20 days",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "1971 BC ",
-                    "isAnswer":false
+                    "name": "24 days",
+                    "isAnswer":true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "2000 BC",
+                    "name": "30 days",
                     "isAnswer": false
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": " Which one of the following does not belong to the major general insurance private sector companies in India?",
-			"explanation": "no explanation",
+            "name": " To finish a work, a sets aside half additional time than B. In the event that together they take 18 days to finish the work, <br>what amount of time might B take isn't that right?",
+			"explanation": "Suppose B takes x days. Then ,A takes 150x/100 days , i.e. 3x/2 days <br>=> 1/x+ 2/3x= 1/18 <br>=> 5/3x= 1/18 <br>=> 3x = 90 <br>=> x= 30 <br>Hence B takes 30 days.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " Reliance General Insurance",
-                    "isAnswer":false
+                    "name": "30 days",
+                    "isAnswer": true
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "The Oriental Insurance Company",
-                    "isAnswer":true
+                    "name": " 35 days",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Bajaj Allianz General Insurance",
-                    "isAnswer":false
+                    "name": "40 days",
+                    "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Royal Sundaram Alliance Insurance ",
+                    "name": "45 days",
                     "isAnswer": false
                 }
             ],
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "  When was Triton Insurance Company Ltd established?",
-			"explanation": "The first General Insurance Company in India was Triton Insurance Company Ltd. It was set up under the control of British.",
+            "name": "Susan can type 10 pages in 5 minutes. Mary can type 5 pages in 10 minutes. Working together, <br>how many pages can they type in 30 minutes?",
+			"explanation": "(30/5=6; 6*10=60; Susan will type 60 pages in 30 min. 30/10=3; 5*3=15; Mary will type 15 pages in 30 min. 60+15=75)",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "1850",
-                    "isAnswer":true
+                    "name": "15",
+                    "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "1854",
+                    "name": "20",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "1857",
-                    "isAnswer":false
+                    "name": "25",
+                    "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "1860",
-                    "isAnswer": false
+                    "name": "75",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "The Coinsurance is specified by",
-			"explanation": "Coinsurance refers to money that an individual is required to pay for services after a deductible has been paid. Coinsurance is often specified by a percentage. ",
+            "name": "Two men, A and B, run a 4 km race on a circular course of 1/4 km. If their speeds are in the ratio of 5:4,<br> how often doe's the winner pass the other?",
+			"explanation": "When A runs 5 rounds, B runs 4 rounds (ratio of speeds) <br>A passes B each time A has run 5 rounds or 5 x 1/4 = 5/4km. = 1 1/4km <br>1 1/4km is contained in 4 km 3 times. Hence A passes B thrice.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "All of the below ",
-                    "isAnswer":false
+                    "name": "Once",
+                    "isAnswer": false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "Equity",
+                    "name": "Four times",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "Ratio ",
+                    "name": "Twice",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "  Percentage ",
-                    "isAnswer":true
+                    "name": "Thrice",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "What is TPA",
-			"explanation": "Third Party Administrators or TPAs are a vital link between health insurance companies, policyholders and health care providers",
+            "name": " A can do piece of work in 30 days while B alone can do it in 40 days.<br> In how many days can A and B working together do it?",
+			"explanation": "Therefore A's one day’s work = 1/30 <br>B' s one day’s work = 1/40 <br>(A+B)'s one day’s work = 1/30+1/40 <br>4+3/120=7/120 <br>Number of days required for A and B to finish the work = 17/120=17 1/7days" ,
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Third Party Administrators",
-                    "isAnswer":true
+                    "name": "16/17",
+                    "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Third Power Administrators",
-                    "isAnswer":false
+                    "name": " 17/17",
+                    "isAnswer":true
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "The Party Accelerators",
+                    "name": "18/17",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "The Power Administrators",
+                    "name": "19/17",
                     "isAnswer":false
                 }
             ],
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "Insurance Repository services launched in India in September 2013. this service enables policyholders to keep their policies in electronic format.these services were launched by which of the following?",
-			"explanation": "no explanation",
+            "name": "Adam can do a job in 15 days, Eve can do the same job in 20 days. If they work together for 4 days on this job. <br>What fraction of job is incomplete?",
+			"explanation": "Adam can do 1/15 of the job per day <br>Eve can do 1/20 of the job per day <br>If they work together they can do 7/60 of the work together <br>Remaining job 1 - 7/60 = 32/60 = 8/15",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " Life Insurance Corporation of India",
+                    "name": "1/4",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " IRDA",
-                    "isAnswer":true
+                    "name": "1/10",
+                    "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": " SEBI(Securities Exchange Board of India)",
+                    "name": "7/15",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "RBI",
-                    "isAnswer":false
+                    "name": "8/15",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -228,32 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": " A number of Full-time members in IRDA ",
-			"explanation": "no explanation",
+            "name": " A takes twice as much time as B or thrice as much time as C to finish a piece of work. Working together, they<br> can finish the work in 2 days. B can do the work alone in",
+			"explanation": "Suppose A, B and C take x, x/2 and x/3 days respectively to finish the work. <br>Then, 1/x + 2/x + 3/x = 1/2 <br>6/x = 1/2 <br>x = 12. <br>So, B takes (12/2) = 6 days to finish the work.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "5",
-                    "isAnswer":false
+                    "name": "4 days",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "8 days",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer":true
+                    "name": "6 days",
+                    "isAnswer": true
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " None of the above",
+                    "name": "12 days",
                     "isAnswer":false
                 }
             ],
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": " Government nationalized Private Sector companies in which year",
-			"explanation": "no explanation",
+            "name": "Anand finishes a work in 7 days, Bittu finishes the same job in 8 days and Chandu in 6 days. They take turns to finish the work. Anand on the first day, Bittu on the second and Chandu on the third day and then Anand again and so on.<br> On which day will the work get over?",
+			"explanation": "In the 1st day Anand does 1/7th of total work similarly, Bithu does 1/8th work in the 2nd day <br>hence at d end of 3 days, work done = 1/7+1/8+1/6=73/168 <br>remaining work = (168-73)/168 = 95/168 <br>again after 6 days of work, remaining work is = (95-73)/168 = 22/168 and hence Anand completes the work on 7th day",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": " 1973 ",
+                    "name": "3",
                     "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "1971  ",
+                    "name": "7",
                     "isAnswer":true
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "1989",
+                    "name": "9",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "1993",
+                    "name": "6",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": " Which bank has started as a private shareholders bank, mostly by European shareholders?",
-			"explanation": "no explanation",
+            "name": "Painter A can paint a house in 16 days, and painter B can do the same work in 20 days. With the help of painter C, they paint the house in 8 days only. Then,<br> Painter C alone can do this task in",
+			"explanation": "A's 1 day's work = 1/16 <br> B's 1 day's work = 1/20 <br>(A + B + C)'s 1 day's work = 1/10 <br>=> C's 1 day's work = 1/10-1/16+1/20 = 1/80 <br>So, C can paint the house in 80 days.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": " Bank of India",
-                    "isAnswer": false
+                    "name": "80 days",
+                    "isAnswer": true
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Bank of Baroda",
-                    "isAnswer":false
+                    "name": "85 days",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": " Dena Bank",
+                    "name": "79 days",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Imperial Bank of India ",
-                    "isAnswer":true
+                    "name": "76 days",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "IBAI was incorporated as a Company under Section 25 of the Companies Act, 1956. What is the meaning of 'B' in IBAI",
-			"explanation": "no explanation",
+            "name": "A tank has two leakages. The first leakage alone can empty the tank in 9 minutes and the second alone would have done it in 6 minutes. If water leaks out at a constant rate,<br> how long does it take both the leakage together to empty the tank?",
+			"explanation": "1 minute's work of both the leakage = 1/9+1/6 = 5/18 So, both the leakage will empty the tank in 18/5 min",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "Basel ",
+                    "name": "3.1 min",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Broadcasting",
-                    "isAnswer":false
+                    "name": "3.6 min",
+                    "isAnswer":true
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Brokers",
-                    "isAnswer": true
+                    "name": "3.5 min",
+                    "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "Board",
-                    "isAnswer":true
+                    "name": "4 min",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

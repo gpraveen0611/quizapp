@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Insurance Awareness Quiz Test 2",
-    "description": "Practice Insurance Awareness Quiz Online Test 2",
+    "name": "Pipes and Cisterns Test 3",
+    "description": "Practice Pipes and Cisterns Online Test 3",
     "questions": [
         {
             "id": 1010,
-            "name": "When did insurance begin in Babylon?",
-			"explanation": "The Babylonians developed a system which was recorded in the Code of Hammurabi.",
+            "name": "Two pipes P and Q can fill a cistern in 12 and 15 minutes respectively. Both are opened together, but at the end of 3 minutes, the first is turned off.<br> How much longer will the cistern take to fill?",
+			"explanation": "3/12 + x/15 = 1<br>x= 11 1/4",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "1750 BC",
-                    "isAnswer":true
+                    "name": "9 1/4 min",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "1907 BC",
-                    "isAnswer":false
+                    "name": "11 1/4 min",
+                    "isAnswer":true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "1971 BC ",
+                    "name": "7 1/4 min",
                     "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "2000 BC",
+                    "name": "8 1/2 min",
                     "isAnswer": false
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": " Which one of the following does not belong to the major general insurance private sector companies in India?",
-			"explanation": "no explanation",
+            "name": "Taps A and B can fill a bucket in 12 minutes and 15 minutes respectively. If both are opened and A is closed after 3 minutes,<br> how much further time would it take for B to fill the bucket?",
+			"explanation": "Part filled in 3 minutes = 3*(1/12+1/15)=3*9/60=9/20<br>Remaining part =1-9/20=11/20=>11/5:11/20=1:X=>X=11/20*15/1=>X=8.15mins",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " Reliance General Insurance",
-                    "isAnswer":false
+                    "name": "8 min 15 sec",
+                    "isAnswer":true
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "The Oriental Insurance Company",
-                    "isAnswer":true
+                    "name": "7 min 15 sec",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Bajaj Allianz General Insurance",
-                    "isAnswer":false
+                    "name": "6 min 15 sec",
+                    "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Royal Sundaram Alliance Insurance ",
+                    "name": "5 min 15 sec",
                     "isAnswer": false
                 }
             ],
@@ -79,33 +79,33 @@
         },
         {
             "id": 1012,
-            "name": "  When was Triton Insurance Company Ltd established?",
-			"explanation": "The first General Insurance Company in India was Triton Insurance Company Ltd. It was set up under the control of British.",
+            "name": "12 buckets of water fill a tank when the capacity of each tank is 13.5 litres. How many buckets will be needed to fill the same tank, if the capacity of each bucket is 9 litres?",
+			"explanation": "Capacity of the tank = (12*13.5) litres = 162 litres<br>Capacity of each bucket = 9 litres.<br>So we can get an answer by dividing total capacity of a tank by total capacity of a bucket.<br>Number of buckets needed = (162/9) = 18 buckets",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "1850",
-                    "isAnswer":true
+                    "name": "15 buckets",
+                    "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "1854",
+                    "name": "17 buckets",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "1857",
-                    "isAnswer":false
+                    "name": "18 buckets",
+                    "isAnswer": true
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "1860",
+                    "name": "19 buckets",
                     "isAnswer": false
                 }
             ],
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "The Coinsurance is specified by",
-			"explanation": "Coinsurance refers to money that an individual is required to pay for services after a deductible has been paid. Coinsurance is often specified by a percentage. ",
+            "name": "Pipe A can fill a tank in 45 hrs and pipe B can fill it in 36 hrs. If both the pipes are opened in the empty tank. In how many hours will it be full?",
+			"explanation": "Part filled A in 1 hr= (1/45)<br>Part filled B in 1 hr= (1/36)<br>Part filled by (A+B) together in 1 hr=(1/45)+(1/36)=1/20<br>So, The tank will be full in 20 hr.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "All of the below ",
+                    "name": "10 hr",
                     "isAnswer":false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "Equity",
+                    "name": "15 hr",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "Ratio ",
-                    "isAnswer": false
+                    "name": "20 hr",
+                    "isAnswer": true
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "  Percentage ",
-                    "isAnswer":true
+                    "name": "28 hr",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,33 +154,33 @@
 		},
 		{
 			"id": 1014,
-            "name": "What is TPA",
-			"explanation": "Third Party Administrators or TPAs are a vital link between health insurance companies, policyholders and health care providers",
+            "name": "A pipe can empty a tank in 12 minutes and another pipe can empty it in 16 minutes. If both the pipes are opened simultaneously, find the time in which a full tank is emptied?",
+			"explanation": "Required answer = (12 x 16) /(12 + 16) = 48 / 7 = 66/7 minutes",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Third Party Administrators",
-                    "isAnswer":true
+                    "name": "6 minutes",
+                    "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Third Power Administrators",
+                    "name": "61/7 minutes",
                     "isAnswer":false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "The Party Accelerators",
+                    "name": "62/7 minutes",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "The Power Administrators",
-                    "isAnswer":false
+                    "name": "None of these",
+                    "isAnswer":true
                 }
             ],
             "questionType": {
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "Insurance Repository services launched in India in September 2013. this service enables policyholders to keep their policies in electronic format.these services were launched by which of the following?",
-			"explanation": "no explanation",
+            "name": "An outlet pipe can empty a cistern in 3 h. In what time will the pipe empty two-third part of the cistern?",
+			"explanation": "Time taken by the pipe to empty the cistern = 3 h<br>Then, time taken by the pipe to empty the 2/3 part = 3 x 2/3 = 2 h",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " Life Insurance Corporation of India",
+                    "name": "4 h",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " IRDA",
+                    "name": "2 h",
                     "isAnswer":true
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": " SEBI(Securities Exchange Board of India)",
+                    "name": "3 h",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "RBI",
-                    "isAnswer":false
+                    "name": "5 h",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -228,32 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": " A number of Full-time members in IRDA ",
-			"explanation": "no explanation",
+            "name": "An outlet pipe can empty a cistern in 30 min, then what part of the cistern will it empty in 1 min?",
+			"explanation": "We know that, when a pipe empties a cistern in n min, then the part emptied by the pipe in 1 min = 1/n.<br>Here, n=30. The required part of the tank emptied in 1 min = 1/30 part",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "5",
-                    "isAnswer":false
+                    "name": "1/20",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "1/15",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer":true
+                    "name": "1/30",
+                    "isAnswer": true
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " None of the above",
+                    "name": "1/18",
                     "isAnswer":false
                 }
             ],
@@ -265,33 +265,33 @@
 		},
 		{
 			"id": 1017,
-            "name": " Government nationalized Private Sector companies in which year",
-			"explanation": "no explanation",
+            "name": "Two taps can separately fill a cistern 10 minutes and 15 minutes respectively and when the waste pipe is open, they can together fill it in 18 minutes. The waste pipe can empty the full cistern in?",
+			"explanation": "1/10 + 1/15 - 1/x = 1/18<br>x = 9.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": " 1973 ",
+                    "name": "7 min",
                     "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "1971  ",
-                    "isAnswer":true
+                    "name": "13 min",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "1989",
+                    "name": "23 min",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "1993",
-                    "isAnswer": false
+                    "name": "9 min",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": " Which bank has started as a private shareholders bank, mostly by European shareholders?",
-			"explanation": "no explanation",
+            "name": "Two pipes A and B can fill a tank in 15 minutes and 20 minutes respectively. Both the pipes are opened together but after 4 minutes, pipe A is turned off. What is the total time required to fill the tank?",
+			"explanation": "Part filled in 4 minutes = 4(1/15+1/20)=7/15.<br>Remaining part =1/15 -7/15 =8.<br>Part filled by B in 1 minute =1/20<br>1/20:8/15:: 1 : x<br>x = 8/15 x 1 x 20= 10 2/3min = 10 min. 40 sec.<br>The tank will be full in (4 min. + 10 min. + 40 sec.) = 14 min. 40 sec.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": " Bank of India",
+                    "name": "10 min. 20 sec",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Bank of Baroda",
-                    "isAnswer":false
+                    "name": "11 min. 45 sec",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": " Dena Bank",
+                    "name": "12 min. 30 sec",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Imperial Bank of India ",
-                    "isAnswer":true
+                    "name": "14 min. 40 sec",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "IBAI was incorporated as a Company under Section 25 of the Companies Act, 1956. What is the meaning of 'B' in IBAI",
-			"explanation": "no explanation",
+            "name": " A tap can fill a tank in 4 hours. After half the tank is filled, three more similar taps are opened. What is the total time taken to fill the tank completely?",
+			"explanation": "A tap can fill a tank in 4 hours.<br>Therefore the tap can fill half the tank in 2 hours.<br>Remaining part =1/2<br>After half the tank is filled, three more similar taps are opened.<br>Hence, total number of taps becomes 4.<br>Part filled by one tap in 1 hour =1/4<br>Part filled by four taps in 1 hour =4×1/4=1i.e., 4 taps can fill remaining half in 30 minutes.<br>Total time taken= 2 hour + 30 minute = 2 hour 30 minutes",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "Basel ",
+                    "name": "3 hr",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Broadcasting",
+                    "name": "1 hr 30 min",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Brokers",
+                    "name": "2 hr 30 min",
                     "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "Board",
-                    "isAnswer":true
+                    "name": "2 hr",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

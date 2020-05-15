@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Insurance Awareness Quiz Test 2",
-    "description": "Practice Insurance Awareness Quiz Online Test 2",
+    "name": "Problems on Numbers Test 3",
+    "description": "Practice Problems on Numbers Online Test 3",
     "questions": [
         {
             "id": 1010,
-            "name": "When did insurance begin in Babylon?",
-			"explanation": "The Babylonians developed a system which was recorded in the Code of Hammurabi.",
+            "name": "What is the minimum number of square marbles required to tile a floor of length 5 metres 78 cm and width 3 metres 74 cm?",
+			"explanation": "The marbles used to tile the floor are square marbles.<br>Therefore, the length of the marble=width of the marble.<br>As we have to use whole number of marbles, the side of the square should a factor of both 5 m 78 cm and 3m 74. And it should be the highest factor of 5 m 78 cm and 3m 74.<br.5 m 78 cm = 578 cm and 3 m 74 cm = 374 cm.<br>The HCF of 578 and 374 = 34.<br>Hence, the side of the square is 34.<br>The number of such square marbles required,<br>=(578×374)/(34×34)<br>=17×11= 187 marbles",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "1750 BC",
-                    "isAnswer":true
+                    "name": "176",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "1907 BC",
-                    "isAnswer":false
+                    "name": "187",
+                    "isAnswer":true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "1971 BC ",
+                    "name": "540",
                     "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "2000 BC",
+                    "name": "748",
                     "isAnswer": false
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": " Which one of the following does not belong to the major general insurance private sector companies in India?",
-			"explanation": "no explanation",
+            "name": "(2400/192) x (2592/72) = ?",
+			"explanation": "Given expression is (2400/192) x (2592/72)<br>Simplifying the above expression, we have:<br>(2400/192) x (2592/72) = (800/64) x ( 1296/36) (50/4) x 36<br>50 x 9 = 450. Hence the answer is option a.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " Reliance General Insurance",
-                    "isAnswer":false
+                    "name": "450",
+                    "isAnswer":true
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "The Oriental Insurance Company",
-                    "isAnswer":true
+                    "name": "250",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Bajaj Allianz General Insurance",
-                    "isAnswer":false
+                    "name": "348",
+                    "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Royal Sundaram Alliance Insurance ",
+                    "name": "429",
                     "isAnswer": false
                 }
             ],
@@ -79,33 +79,33 @@
         },
         {
             "id": 1012,
-            "name": "  When was Triton Insurance Company Ltd established?",
-			"explanation": "The first General Insurance Company in India was Triton Insurance Company Ltd. It was set up under the control of British.",
+            "name": "Of the three numbers, second is twice the first and is also thrice the third, if the average of the three numbers is 44.<br> Find the largest number?",
+			"explanation": "Let the third number be x.<br>Then second number = 3x.<br>First number=3x/2.<br>Therefore x+3x + (3x/2) = (44*3) or x=24<br>So largest number = 2nd number = 3x = 72.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "1850",
-                    "isAnswer":true
+                    "name": "24",
+                    "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "1854",
-                    "isAnswer":false
+                    "name": "72",
+                    "isAnswer":true
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "1857",
-                    "isAnswer":false
+                    "name": "65",
+                    "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "1860",
+                    "name": "55",
                     "isAnswer": false
                 }
             ],
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "The Coinsurance is specified by",
-			"explanation": "Coinsurance refers to money that an individual is required to pay for services after a deductible has been paid. Coinsurance is often specified by a percentage. ",
+            "name": "Three-fourth of a number is 60 more than its one third.<br> The number is :",
+			"explanation": "Let the number be x.<br>Then, 3/4x-1/3x = 60 <=> 5x/12 = 60 <=> x=(60*12/5) = 144.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "All of the below ",
+                    "name": "84",
                     "isAnswer":false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "Equity",
+                    "name": "108",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "Ratio ",
-                    "isAnswer": false
+                    "name": "144",
+                    "isAnswer": true
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "  Percentage ",
-                    "isAnswer":true
+                    "name": "None of these",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,33 +154,33 @@
 		},
 		{
 			"id": 1014,
-            "name": "What is TPA",
-			"explanation": "Third Party Administrators or TPAs are a vital link between health insurance companies, policyholders and health care providers",
+            "name": "Find a positive number which when increased by 17 is equal to 60 times the reciprocal of the number?",
+			"explanation": "If the number is x,<br>Then, x + 17 = 60/x<br>x^2 + 17x - 60 = 0<br>(x + 20)(x - 3) = 0<br>x = 3, -20, so x = 3 (as 3 is positive)",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Third Party Administrators",
-                    "isAnswer":true
+                    "name": "17",
+                    "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Third Power Administrators",
+                    "name": "15",
                     "isAnswer":false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "The Party Accelerators",
+                    "name": "8",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "The Power Administrators",
-                    "isAnswer":false
+                    "name": "3",
+                    "isAnswer":true
                 }
             ],
             "questionType": {
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "Insurance Repository services launched in India in September 2013. this service enables policyholders to keep their policies in electronic format.these services were launched by which of the following?",
-			"explanation": "no explanation",
+            "name": "Ratio between two numbers is 3: 4 and their sum is 420.<br> Find the smaller number?",
+			"explanation": "3x + 4x = 420<br>x = 60 => 3x = 180<br>A number when divided by a divisor leaves a remainder of 24.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " Life Insurance Corporation of India",
+                    "name": "240",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " IRDA",
+                    "name": "180",
                     "isAnswer":true
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": " SEBI(Securities Exchange Board of India)",
+                    "name": "160",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "RBI",
-                    "isAnswer":false
+                    "name": "140",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": " A number of Full-time members in IRDA ",
-			"explanation": "no explanation",
+            "name": "When twice the original number is divided by the same divisor, the remainder is 11.<br> What is the value of the divisor?",
+			"explanation": "Let the original number be 'a'<br>Let the divisor be 'd'<br>Let the quotient of the division of a by d be 'x'<br>Therefore, we can write the relation as a/d=x and the remainder is 24. i.e., a=dx+24<br>When twice the original number is divided by d,2a is divided by d.<br>We know that a=dx+24. Therefore, 2a=2dx+48<br>The problem states that (2dx+48)/d leaves a remainder of 11.<br>2dx is perfectly divisible by d and will, therefore, not leave a remainder.<br>The remainder of 11 was obtained by dividing 48 by d.<br>When 48 is divided by 37, the remainder that one will obtain is 11.<br>Hence, the divisor is 37.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "5",
-                    "isAnswer":false
+                    "name": "13",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "59",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer":true
+                    "name": "35",
+                    "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " None of the above",
-                    "isAnswer":false
+                    "name": "37",
+                    "isAnswer":true
                 }
             ],
             "questionType": {
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": " Government nationalized Private Sector companies in which year",
-			"explanation": "no explanation",
+            "name": "The sum of all two digit numbers divisible by 5 is",
+			"explanation": "Required numbers are 10,15,20,25,...,95<br>This is an A.P. in which a=10,d=5 and l=95.<br>Let the number of terms in it be n.Then t=95<br>So a+(n-1)d=95<br>10+(n-1)*5=95,then n=18.<br>Required sum=n/2(a+l)=18/2(10+95)=945.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": " 1973 ",
-                    "isAnswer":false
+                    "name": "945",
+                    "isAnswer":true
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "1971  ",
-                    "isAnswer":true
+                    "name": "678",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "1989",
+                    "name": "439",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "1993",
+                    "name": "568",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": " Which bank has started as a private shareholders bank, mostly by European shareholders?",
-			"explanation": "no explanation",
+            "name": "There are 20 people in a party. If every person shakes hand with every other person,<br> what is the total number of handshakes?",
+			"explanation": "1st person will shake hand with 19 other persons. 2nd person will shake hand with remaining 18 persons, and so on.<br>Therefore, total number of handshakes.<br>= 19 + 18 + 17+ ……………………+ 3 + 2 + 1 = 19 =(19(19+1)/2) =190<br>So, the correct answer is option 4.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": " Bank of India",
+                    "name": "180",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Bank of Baroda",
-                    "isAnswer":false
+                    "name": "155",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": " Dena Bank",
+                    "name": "145",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Imperial Bank of India ",
-                    "isAnswer":true
+                    "name": "190",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "IBAI was incorporated as a Company under Section 25 of the Companies Act, 1956. What is the meaning of 'B' in IBAI",
-			"explanation": "no explanation",
+            "name": "The five digit number 7500A8 is divisible by 4.<br> How many values of A are possible?",
+			"explanation": "To find divisibility by 4, we need to consider last two digits of the number, these should be divisible by 4. Hence, A can take values equal to 0, 2, 4, 6 and 8. Therefore 5 values are possible.<br>So, the correct answer is an option C.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "Basel ",
+                    "name": "0",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Broadcasting",
+                    "name": "3",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Brokers",
+                    "name": "5",
                     "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "Board",
-                    "isAnswer":true
+                    "name": "4",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

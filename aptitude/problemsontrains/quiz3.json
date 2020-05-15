@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Insurance Awareness Quiz Test 2",
-    "description": "Practice Insurance Awareness Quiz Online Test 2",
+    "name": "Problems on Trains Test 3",
+    "description": "Practice Problems on Trains Online Test 3",
     "questions": [
         {
             "id": 1010,
-            "name": "When did insurance begin in Babylon?",
-			"explanation": "The Babylonians developed a system which was recorded in the Code of Hammurabi.",
+            "name": "A man's speed with the current is 15 km/hr and the speed of the current is 2.5 km/hr.<br> The man's speed against the current is :",
+			"explanation": "Man's rate in still water = (15 - 2.5) km/hr = 12.5 km/hr.<br>Therefore, Man's rate against the current = (12.5 - 2.5) = 10 km/hr.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "1750 BC",
-                    "isAnswer":true
+                    "name": "9.5 km/hr",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "1907 BC",
-                    "isAnswer":false
+                    "name": "10 km/hr",
+                    "isAnswer":true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "1971 BC ",
-                    "isAnswer":false
+                    "name": "10.5 km/hr",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "2000 BC",
+                    "name": "11 km/hr",
                     "isAnswer": false
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": " Which one of the following does not belong to the major general insurance private sector companies in India?",
-			"explanation": "no explanation",
+            "name": "A train of length 150 meters takes 40.5 seconds to cross a tunnel of length 300 meters.<br> What is the speed of the train in km/hr?",
+			"explanation": "Speed = 150 + 300/40.5 m/sec = 450/40.5x18/5 km/hr = 40 km/hr.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " Reliance General Insurance",
+                    "name": "13.33",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "The Oriental Insurance Company",
-                    "isAnswer":true
+                    "name": "40",
+                    "isAnswer": true
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Bajaj Allianz General Insurance",
-                    "isAnswer":false
+                    "name": "26.67",
+                    "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Royal Sundaram Alliance Insurance ",
+                    "name": "66.67",
                     "isAnswer": false
                 }
             ],
@@ -79,33 +79,33 @@
         },
         {
             "id": 1012,
-            "name": "  When was Triton Insurance Company Ltd established?",
-			"explanation": "The first General Insurance Company in India was Triton Insurance Company Ltd. It was set up under the control of British.",
+            "name": " Two trains are moving in opposite directions at 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively.<br> The time is taken by the slower train to cross thefaster train in seconds is ",
+			"explanation": "Relative sped = (60 + 90) km/hr<br>= [150 x 5/18] m/sec = [125 / 3] m/sec.<br>Distance covered = (1.10 + 0.9) km = 2 km = 2000 m.<br>Required time = [2000 x 3/125] sec = 48 sec.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "1850",
+                    "name": "48 sec",
                     "isAnswer":true
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "1854",
+                    "name": "52 sec",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "1857",
-                    "isAnswer":false
+                    "name": "58 sec",
+                    "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "1860",
+                    "name": "66 sec",
                     "isAnswer": false
                 }
             ],
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "The Coinsurance is specified by",
-			"explanation": "Coinsurance refers to money that an individual is required to pay for services after a deductible has been paid. Coinsurance is often specified by a percentage. ",
+            "name": " A train 200 m long is moving with the speed of 50km per hour. <br>Find the time taken to pass a tree standing near the railway track.",
+			"explanation": "Speed of the train = 50km/hr = 50 x 5/18 m/sec = 250/18 m/sec<br>Length of the train = 200 m<br>Time taken to cross the tree = 200 / (250/18) = 200 x 18/250 = 72/5 = 14.4 seconds<br>Hence the answer is 14 2/5 seconds.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "All of the below ",
-                    "isAnswer":false
+                    "name": "14 2/5 seconds",
+                    "isAnswer":true
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "Equity",
+                    "name": "15 seconds",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "Ratio ",
+                    "name": "16 1/2 seconds",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "  Percentage ",
-                    "isAnswer":true
+                    "name": "17 seconds",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "What is TPA",
-			"explanation": "Third Party Administrators or TPAs are a vital link between health insurance companies, policyholders and health care providers",
+            "name": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. <br>What is the length of the train?",
+			"explanation": "Time is taken to cross a pole = time taken to cover a distance equal to its own length.<br>Speed of the train in m/s = 60 x 5 / 18 = (50/3) m/s.<br>Length of the train = Speed of the train x Time taken to cross the pole = 50/3 x 9<br>Length of the train = 150m.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Third Party Administrators",
-                    "isAnswer":true
+                    "name": "120m",
+                    "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Third Power Administrators",
-                    "isAnswer":false
+                    "name": "150m",
+                    "isAnswer":true
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "The Party Accelerators",
+                    "name": "160m",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "The Power Administrators",
+                    "name": "185m",
                     "isAnswer":false
                 }
             ],
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "Insurance Repository services launched in India in September 2013. this service enables policyholders to keep their policies in electronic format.these services were launched by which of the following?",
-			"explanation": "no explanation",
+            "name": " A train running at the speed of 60 km/hr crosses a pole in 9 seconds. Find the length of the train",
+			"explanation": "Speed = 60*(5/18) m/sec = 50/3 m/sec<br>Length of Train(Distance) = Speed * Time<br>=50/3*9=150meters",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " Life Insurance Corporation of India",
-                    "isAnswer": false
+                    "name": "150 meter",
+                    "isAnswer": true
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " IRDA",
-                    "isAnswer":true
+                    "name": "145 meter",
+                    "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": " SEBI(Securities Exchange Board of India)",
+                    "name": "140 meter",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "RBI",
-                    "isAnswer":false
+                    "name": "135 meter",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -228,32 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": " A number of Full-time members in IRDA ",
-			"explanation": "no explanation",
+            "name": "Two trains are running in opposite directions in the same speed. The length of each train is 120 meter. If they cross each other in 12 seconds,<br>the speed of each train (inkm/hr) is ",
+			"explanation": "Distance covered = 120+120 = 240 m<br>Time = 12 s<br>Let the speed of each train = v. Then relative speed = v + v = 2v<br>2v = distance/time = 240/12 = 20 m/s<br>Speed of each train = v = 20/2 = 10 m/s<br>= 10 × 36/10 km/hr = 36 km/hr",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "5",
-                    "isAnswer":false
+                    "name": "42",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "3",
-                    "isAnswer": false
+                    "name": "36",
+                    "isAnswer": true
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer":true
+                    "name": "28",
+                    "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " None of the above",
+                    "name": "20",
                     "isAnswer":false
                 }
             ],
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": " Government nationalized Private Sector companies in which year",
-			"explanation": "no explanation",
+            "name": " A 400m long train is running at 72 Kmph. <br>how much time it will take to cross an electric pole?",
+			"explanation": "Formula: Distance = Speed × Time<br>If we convert Kmph into Mpsec multiply by 5/18,<br>400 = 72 KmpH × time<br>400 = 72×5/18 × time<br>Time = 20Sec",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": " 1973 ",
-                    "isAnswer":false
+                    "name": "15sec",
+                    "isAnswer": false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "1971  ",
-                    "isAnswer":true
+                    "name": "20sec",
+                    "isAnswer": true
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "1989",
+                    "name": "19sec",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "1993",
+                    "name": "21sec",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": " Which bank has started as a private shareholders bank, mostly by European shareholders?",
-			"explanation": "no explanation",
+            "name": "The distance between two places A and B is 570 km. A train starts from A at 50 kmph at 6 am and another starts from B at 80 kmph at 7 am towards each other.<br> At what time will they meet?",
+			"explanation": "Let the two trains meet at a distance x km from place A <br>The time required by the train starting from A to cover x is x/50 hr <br>Time taken by the other train starting from B to cover (570 - x) km = (570-x)/80 <br>But the first train has started 1 hr early. So, it has travelled 50 km in this 1 hr. <br>Therefore, x/50 - 1= (570-x)/80 <br>On Solving, x = 250 <br>So, they will meet at a distance of 250 km from place A <br>So the time at which they will meet will be (250/50) = 5 hrs (after 6 am) <br>Hence, they will meet at 11 am.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": " Bank of India",
-                    "isAnswer": false
+                    "name": "11 am",
+                    "isAnswer": true
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Bank of Baroda",
-                    "isAnswer":false
+                    "name": "3 pm",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": " Dena Bank",
+                    "name": "8 am",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Imperial Bank of India ",
-                    "isAnswer":true
+                    "name": "10 am",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "IBAI was incorporated as a Company under Section 25 of the Companies Act, 1956. What is the meaning of 'B' in IBAI",
-			"explanation": "no explanation",
+            "name": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds.<br> The speed of the train is:",
+			"explanation": "Speed of the train relative to man = (125/10) m/sec = (25/2) m/sec. [(25/2) * (18/5)] km/hr = 45 km/hr. <br>Let the speed of the train be x km/hr. <br>Then, relative speed = (x - 5) km/hr. x - 5 = 45 ==> x = 50 km/hr.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "Basel ",
+                    "name": "49 km/hr",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Broadcasting",
-                    "isAnswer":false
+                    "name": " 50 km/hr",
+                    "isAnswer":true
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Brokers",
-                    "isAnswer": true
+                    "name": "51 km/hr",
+                    "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "Board",
-                    "isAnswer":true
+                    "name": "52 km/hr",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

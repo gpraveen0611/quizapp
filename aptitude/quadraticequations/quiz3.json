@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Insurance Awareness Quiz Test 2",
-    "description": "Practice Insurance Awareness Quiz Online Test 2",
+    "name": "Quadratic Equations Test 3",
+    "description": "Practice Quadratic Equations Online Test 3",
     "questions": [
         {
             "id": 1010,
-            "name": "When did insurance begin in Babylon?",
-			"explanation": "The Babylonians developed a system which was recorded in the Code of Hammurabi.",
+            "name": "Find the lesser root of the equation x2−12x+35=0.",
+			"explanation": "x2−12x+35=x2−7x−5x+35=x(x−7)−5(x−7)=(x−5)(x−7). Its roots are 5 and 7 and the lesser one is 5.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "1750 BC",
-                    "isAnswer":true
+                    "name": "5,7",
+                    "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "1907 BC",
+                    "name": "8,8",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "1971 BC ",
-                    "isAnswer":false
+                    "name": "9,6",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "2000 BC",
+                    "name": "10,5",
                     "isAnswer": false
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": " Which one of the following does not belong to the major general insurance private sector companies in India?",
-			"explanation": "no explanation",
+            "name": "Solve for x: x2 + 4x = 5",
+			"explanation": "Solve by factoring. First get everything into the form Ax2 + Bx + C = 0:<br>x2 + 4x - 5 = 0<br>Then factor: (x + 5) (x - 1) = 0<br>Solve each multiple separately for 0:<br>X + 5 = 0; x = -5<br>x - 1 = 0; x = 1<br>Therefore, x is either -5 or 1",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " Reliance General Insurance",
-                    "isAnswer":false
+                    "name": "-5 or 1",
+                    "isAnswer": true
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "The Oriental Insurance Company",
-                    "isAnswer":true
+                    "name": "-1",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Bajaj Allianz General Insurance",
-                    "isAnswer":false
+                    "name": "-5",
+                    "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Royal Sundaram Alliance Insurance ",
+                    "name": "-1 or 5",
                     "isAnswer": false
                 }
             ],
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "  When was Triton Insurance Company Ltd established?",
-			"explanation": "The first General Insurance Company in India was Triton Insurance Company Ltd. It was set up under the control of British.",
+            "name": "x2 – 3x – 18 = 0<br>Quantity A: x<br>Quantity B: 6 ",
+			"explanation": "x2 – 3x – 18 = 0 can be factored to (x – 6)(x + 3) = 0<br>Therefore, x can be either 6 or –3.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "1850",
-                    "isAnswer":true
+                    "name": "Quantity A is greater",
+                    "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "1854",
+                    "name": "Quantity B is greater",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "1857",
-                    "isAnswer":false
+                    "name": "The two quantities are equal.",
+                    "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "1860",
-                    "isAnswer": false
+                    "name": "The relationship cannot be determined from the information given.",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "The Coinsurance is specified by",
-			"explanation": "Coinsurance refers to money that an individual is required to pay for services after a deductible has been paid. Coinsurance is often specified by a percentage. ",
+            "name": "Solve: x2+6x+9=0",
+			"explanation": "Given a quadratic equation equal to zero you can factor the equation and set each factor equal to zero. To factor you have to find two numbers that multiply to make 9 and add to make 6.<br>The number is 3. So the factored form of the problem is (x+3)(x+3)=0. This statement is true only when x+3=0. Solving for x gives x=-3. Since this problem is multiple choice, you could also plug the given answers into the equation to see which one works. ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "All of the below ",
-                    "isAnswer":false
+                    "name": "6",
+                    "isAnswer": false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "Equity",
-                    "isAnswer":false
+                    "name": "-3",
+                    "isAnswer": true
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "Ratio ",
+                    "name": "9",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "  Percentage ",
-                    "isAnswer":true
+                    "name": "3",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,33 +154,33 @@
 		},
 		{
 			"id": 1014,
-            "name": "What is TPA",
-			"explanation": "Third Party Administrators or TPAs are a vital link between health insurance companies, policyholders and health care providers",
+            "name": "The difference between a number and its square is 72.<br> What is the number?",
+			"explanation": "x2 – x = 72. Solve for x using the quadratic formula and x = 9 and –8. Only 9 satisfies the restrictions.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Third Party Administrators",
-                    "isAnswer":true
+                    "name": "19",
+                    "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Third Power Administrators",
-                    "isAnswer":false
+                    "name": "18",
+                    "isAnswer": false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "The Party Accelerators",
+                    "name": "30",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "The Power Administrators",
-                    "isAnswer":false
+                    "name": "9",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "Insurance Repository services launched in India in September 2013. this service enables policyholders to keep their policies in electronic format.these services were launched by which of the following?",
-			"explanation": "no explanation",
+            "name": "If the equation x3 – ax2 + bx – a = 0 has three real roots then the following is true",
+			"explanation": "The given equation x3 – ax2 + bx – a = 0 can be rewritten as:<br>x (x2 + b) – a(x2 + 1) = 0<br>In case b = 1, then the equation becomes (x – a)( x2 + 1) = 0<br>Now here x2 + 1 = 0 will give imaginary roots.<br>Hence, if the given equation has three real roots, then b ≠ 1.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " Life Insurance Corporation of India",
+                    "name": "a = 1",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " IRDA",
-                    "isAnswer":true
+                    "name": "a ≠ 1",
+                    "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": " SEBI(Securities Exchange Board of India)",
+                    "name": "b = 1",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "RBI",
-                    "isAnswer":false
+                    "name": "b ≠ l",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -228,15 +228,15 @@
 		},
 		{
 			"id": 1016,
-            "name": " A number of Full-time members in IRDA ",
-			"explanation": "no explanation",
+            "name": "Let p and q be the roots of the quadratic equation x2– (α – 2)x– α –1 = 0.<br> What is the minimum possible value of p2 + q2?",
+			"explanation": "We have the equation x2– (α – 2)x– α –1 = 0. its roots are p and q.<br>So, we have sum of roots = p+q = a–2 and the product of roots, pq = –a –1<br>Now p2+q2 = (p+q)2 – 2pq = (a–2)2 + 2(a+1)= a2 +4 – 4a + 2a + 2 = (a – 1)2 + 5<br>Since (α – 1)2 is a perfect square, so its minimum value will be 0, when α = 1.<br>In that case, the minimum value of p2 + q2will be 5.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "5",
-                    "isAnswer":false
+                    "name": "0",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
@@ -247,14 +247,14 @@
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer":true
+                    "name": "4",
+                    "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " None of the above",
-                    "isAnswer":false
+                    "name": "5",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -265,33 +265,33 @@
 		},
 		{
 			"id": 1017,
-            "name": " Government nationalized Private Sector companies in which year",
-			"explanation": "no explanation",
+            "name": "I. 4x2 – 9x – 9 = 0,<br>II. 15y2 – 29y + 12 = 0",
+			"explanation": "x = -3/4, 3<br>y = 3/5, 4/3<br>Put all values on number line and analyze the relationship<br>-3/4…….3/5…….4/3………3",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": " 1973 ",
-                    "isAnswer":false
+                    "name": "If x > y",
+                    "isAnswer": false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "1971  ",
-                    "isAnswer":true
+                    "name": "If x < y",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "1989",
+                    "name": "If x ≥ y",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "1993",
-                    "isAnswer": false
+                    "name": "If x = y or relation cannot be established",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": " Which bank has started as a private shareholders bank, mostly by European shareholders?",
-			"explanation": "no explanation",
+            "name": "I. 5x2 + 11x – 12 = 0<br>II. 3y2 – 19y + 28 = 0",
+			"explanation": "x = -3, 4/5<br>y = 7/3, 4<br>Put all values on number line and analyze the relationship<br>-3………4/5……..7/3……….4",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": " Bank of India",
+                    "name": "If x > y",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Bank of Baroda",
-                    "isAnswer":false
+                    "name": "If x < y",
+                    "isAnswer": true
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": " Dena Bank",
+                    "name": "If x ≥ y",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Imperial Bank of India ",
-                    "isAnswer":true
+                    "name": "If x ≤ y",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "IBAI was incorporated as a Company under Section 25 of the Companies Act, 1956. What is the meaning of 'B' in IBAI",
-			"explanation": "no explanation",
+            "name": "I.3x2 + 2x – 8 = 0,<br>II. 3y2 – 14y + 16 = 0",
+			"explanation": "x = -2, 4/3<br>y = 2, 8/3<br>Put all values on number line and analyze the relationship<br>-2…….4/3…….. 2………8/3",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "Basel ",
+                    "name": "If x > y",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Broadcasting",
-                    "isAnswer":false
+                    "name": " If x < y",
+                    "isAnswer": true
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Brokers",
-                    "isAnswer": true
+                    "name": "If x ≥ y",
+                    "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "Board",
-                    "isAnswer":true
+                    "name": "If x ≤ y",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

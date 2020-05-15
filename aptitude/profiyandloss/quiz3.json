@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Insurance Awareness Quiz Test 2",
-    "description": "Practice Insurance Awareness Quiz Online Test 2",
+    "name": "Profit and Loss Test 3",
+    "description": "Practice Profit and Loss Online Test 3",
     "questions": [
         {
             "id": 1010,
-            "name": "When did insurance begin in Babylon?",
-			"explanation": "The Babylonians developed a system which was recorded in the Code of Hammurabi.",
+            "name": "The price of commodity X increases by 40 paise every year, while the price of commodity Y increases by 15 paise every year. If in 2001, the price of commodity Xwas Rs. 4.20 and that of Y was Rs. 6.30,<br> in which year commodity X will cost 40 paise more than the commodity Y?",
+			"explanation": "Suppose commodity X will cost 40 paise more than Y after z years.<br>Then, (4.20 + 0.40z) - (6.30 + 0.15z) = 0.40<br>=> 0.25z = 0.40 + 2.10<br>=> z =2.50/0.25= 250/25 = 10.<br>=> X will cost 40 paise more than Y 10 years after 2001 i.e., 2011",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "1750 BC",
-                    "isAnswer":true
+                    "name": "2010",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "1907 BC",
-                    "isAnswer":false
+                    "name": "2011",
+                    "isAnswer":true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "1971 BC ",
+                    "name": "2012",
                     "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "2000 BC",
+                    "name": "2013",
                     "isAnswer": false
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": " Which one of the following does not belong to the major general insurance private sector companies in India?",
-			"explanation": "no explanation",
+            "name": "A man buys a toy for Rs. 25 and sells it for Rs. 30.<br> Find his gain/loss percentage",
+			"explanation": "Profit Percentage = 30-25/25 x 100 = 5/25 x 100 = 20%",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " Reliance General Insurance",
-                    "isAnswer":false
+                    "name": "20%",
+                    "isAnswer":true
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "The Oriental Insurance Company",
-                    "isAnswer":true
+                    "name": "70%",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Bajaj Allianz General Insurance",
-                    "isAnswer":false
+                    "name": "80%",
+                    "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Royal Sundaram Alliance Insurance ",
+                    "name": "40%",
                     "isAnswer": false
                 }
             ],
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "  When was Triton Insurance Company Ltd established?",
-			"explanation": "The first General Insurance Company in India was Triton Insurance Company Ltd. It was set up under the control of British.",
+            "name": " A merchant sold an article at 10% loss. If he had sold it Rs 450 more, 8% would have been gained on the cost price.<br> Find the cost price?",
+			"explanation": "Let the cost price be 100%. It is sold at 10% loss. So it is sold at 90% of the cost price. 90 % of the cost price + 450 = 108% of the Cost price 18% of the cost price = Rs 450 Cost price of the book = 450/18 x 100 = Rs 2500",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "1850",
-                    "isAnswer":true
+                    "name": "Rs 1200",
+                    "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "1854",
+                    "name": "Rs 1800",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "1857",
-                    "isAnswer":false
+                    "name": "Rs 1500",
+                    "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "1860",
-                    "isAnswer": false
+                    "name": "Rs 2500",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "The Coinsurance is specified by",
-			"explanation": "Coinsurance refers to money that an individual is required to pay for services after a deductible has been paid. Coinsurance is often specified by a percentage. ",
+            "name": "If selling price is doubled the profit triples.<br> Find the profit percent",
+			"explanation": "Let C.P be Rs. x and S.P be Rs. y.<br>Then, 3(y-x) = (2y-x) y = 2x.<br>Profit = Rs.(y-x) = Rs.(2x-x) = Rs. x.<br>Profit % = [(x/x)*100]% = 100%",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "All of the below ",
+                    "name": "66 2/3",
                     "isAnswer":false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "Equity",
-                    "isAnswer":false
+                    "name": "105",
+                    "isAnswer":true
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "Ratio ",
+                    "name": "105 1/3",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "  Percentage ",
-                    "isAnswer":true
+                    "name": "120",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,33 +154,33 @@
 		},
 		{
 			"id": 1014,
-            "name": "What is TPA",
-			"explanation": "Third Party Administrators or TPAs are a vital link between health insurance companies, policyholders and health care providers",
+            "name": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%,<br> find the value of x?",
+			"explanation": "25=(20-x)100/x<br>x=4(20-x)<br>5x=80<br>x=16",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Third Party Administrators",
-                    "isAnswer":true
+                    "name": "15",
+                    "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Third Power Administrators",
-                    "isAnswer":false
+                    "name": "25",
+                    "isAnswer": false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "The Party Accelerators",
+                    "name": "18",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "The Power Administrators",
-                    "isAnswer":false
+                    "name": "16",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "Insurance Repository services launched in India in September 2013. this service enables policyholders to keep their policies in electronic format.these services were launched by which of the following?",
-			"explanation": "no explanation",
+            "name": "Find profit or loss: C.P = Rs.870 and S.P = Rs.770",
+			"explanation": "C.P = RS.870 , S.P = Rs.770 As, C.P > S.P it means loss. <br>Loss = C.P - S.P = Rs.100",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " Life Insurance Corporation of India",
+                    "name": "RS.180",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " IRDA",
-                    "isAnswer":true
+                    "name": "Rs.150",
+                    "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": " SEBI(Securities Exchange Board of India)",
+                    "name": "Rs.120",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "RBI",
-                    "isAnswer":false
+                    "name": "Rs.100",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -228,32 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": " A number of Full-time members in IRDA ",
-			"explanation": "no explanation",
+            "name": " A shopkeeper buys a TV at Rs.42000 and sells it a Rs.45000.<br> What is his profit or loss?",
+			"explanation": "C.P = Rs.42000 S.P = Rs.45000 As S.P > C.P So he makes profit profit = S.P - C.P = Rs.3000",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "5",
-                    "isAnswer":false
+                    "name": "RS.2500",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "3",
-                    "isAnswer": false
+                    "name": "Rs.3000",
+                    "isAnswer": true
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer":true
+                    "name": "Rs.4500",
+                    "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " None of the above",
+                    "name": "RS.2000",
                     "isAnswer":false
                 }
             ],
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": " Government nationalized Private Sector companies in which year",
-			"explanation": "no explanation",
+            "name": "A shopkeeper fixes the marked price of an item 35% above its cost price.<br> The percentage of discount allowed to gain 8% is",
+			"explanation": "Let C.P=Rs.100<br>Then, marked price=Rs.135,<br>S.P=Rs.108.<br>Discount %=(27/135×100)% = 20%",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": " 1973 ",
-                    "isAnswer":false
+                    "name": "20%",
+                    "isAnswer":true
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "1971  ",
-                    "isAnswer":true
+                    "name": "27%",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "1989",
+                    "name": "31%",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "1993",
+                    "name": "43%",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": " Which bank has started as a private shareholders bank, mostly by European shareholders?",
-			"explanation": "no explanation",
+            "name": "By selling 33 m of carpet, a man loses an amount equal to the selling price of 3 m of carpet. <br>Find his gain or loss percent.",
+			"explanation": "Loss = (CP of 33 m) - (SP of 33 m)<br>(SP of 3 m) = (CP of 33 m) - (SP of 33 m)<br>(SP of 33 m) + (SP of 3 m) = (CP of 33 m)<br>(SP of 36 m) = (CP of 33 m).<br>Let the CP of 1 m be $ x.<br>Then, CP of 36 m = $ 36x<br>SP of 36m = (CP of 33m) = $ 33x.<br>Thus, CP = $ 36x and SP = $ 33x.<br>Since (CP) > (SP), there is a loss.<br>Loss = $ (36x - 33x) = $ 3x.<br>Loss% = [(loss/CP) × 100]%<br>= [(3x/36x) × 100] % = 25/3% = 8 1/3%",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": " Bank of India",
-                    "isAnswer": false
+                    "name": "8 1/3%",
+                    "isAnswer": true
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Bank of Baroda",
-                    "isAnswer":false
+                    "name": "2/3%",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": " Dena Bank",
+                    "name": "8 1/2%",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Imperial Bank of India ",
-                    "isAnswer":true
+                    "name": "7 3/4%",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "IBAI was incorporated as a Company under Section 25 of the Companies Act, 1956. What is the meaning of 'B' in IBAI",
-			"explanation": "no explanation",
+            "name": "A kind of tape is selling at a profit of 12% of selling price, equal to 18 cents per yard.<br>What is the selling price of the tape?",
+			"explanation": "Profit / % profit = selling price<br>$.18 / .12 = $1.50 selling price",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "Basel ",
-                    "isAnswer": false
+                    "name": "$ 1.50",
+                    "isAnswer": true
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Broadcasting",
+                    "name": "$ 1.00",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Brokers",
-                    "isAnswer": true
+                    "name": "$ 1.20",
+                    "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "Board",
-                    "isAnswer":true
+                    "name": "none of these",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

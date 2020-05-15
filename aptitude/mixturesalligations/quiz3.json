@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Mixtures and Alligations Test 3",
+    "description": "Practice Mixtures and Alligations Online Test 3",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Two varieties of wheat - A and B costing Rs. 9 per kg and Rs. 15 per kg were mixed in the ratio 3 : 7. If 5 kg of the mixture is sold at 25% profit, find the profit made?",
+			"explanation": "Let the quantities of A and B mixed be 3x kg and 7x kg.Cost of 3x kg of A = 9(3x) = Rs. 27x<br>Cost of 7x kg of B = 15(7x) = Rs. 105x<br>Cost of 10x kg of the mixture = 27x + 105x = Rs. 132x<br>Cost of 5 kg of the mixture = 132x/10x (5) = Rs. 66<br>Profit made in selling 5 kg of the mixture = 25/100 (cost of 5 kg of the mixture) = 25/100 * 66<br>= Rs. 16.50",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Rs. 13.50",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Rs. 14.50",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Rs. 15.50",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Rs. 16.50",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "How many litres of water should be added to a 30 litre mixture of milk and water containing milk and water in the ratio of 7 : 3 such that the resultant mixture has 40% water in it?",
+			"explanation": "30 liters of the mixture has milk and water in the ratio 7 : 3. i.e. the Solution has 21 liters of milk and 9 liters of water.<br>When you add more water, the amount of milk in the mixture remains constant at 21 liters.<br>In the first case, before addition of further water, 21 liters of milk accounts for 70% by volume.<br>After water is added, the new mixture contains 60% milk and 40% water.<br>Therefore, the 21 liters of milk accounts for 60% by volume.<br>Hence, 100% volume =21/0.6=35 litres.<br>We started with 30 liters and ended up with 35 liters.<br>Therefore, 5 liters of water was added.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "5 liters",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "7 liters",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "10 liters",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A container contains 40 litres of milk. From this container 4 litres of milk was taken out and replaced by water. This process was repeated further two times.<br> How much milk is now contained by the container?",
+			"explanation": "Suppose a container contains x units of a liquid from which y units are taken out and replaced by water. After n operations, a quantity of pure liquid =x(1-yx)n units.<br>milk contained by the container now<br>=40(1-4/40)^3=40(1-1/10)3=40×9/10×9/10×9/10=4×9×9×9/100=29.16",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "26 litres",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "29.16 liters",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "28 liters",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "28.2 liters",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "How many litres of a 90% of concentrated acid needs to be mixed with a 75% Solution of concentrated acid to get a 30 liter Solution of 78% concentrated acid?",
+			"explanation": "The concentration is given which is wrt 100, hence we can take x lt of 90% and (30-x)of 75% x*90 + (30-x)*75 = 30*78 hence the ans is 6 liters.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "8",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "9",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "7",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "A zookeeper counted the heads of the animals in a zoo and found it to be 80. When he counted the legs of the animals he found it to be 260. If the zoo had either pigeons or horses, how many horses were there in the zoo? In the zoo, each horse had four legs and each pigeon had two legs.",
+			"explanation": "Let the number of horses = x<br>Then the number of pigeons = 80 – x.<br>Each pigeon has 2 legs and each horse has 4 legs.<br>Therefore, total number of legs = 4x + 2(80-x) = 260<br>4x + 160 – 2x = 260<br>2x = 100<br>x = 50.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "40",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "30",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "50",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "60",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "One type of liquid contains 25 % of benzene, the other contains 30% of benzene. A can is filled with 6 parts of the first liquid and 4 parts of the second liquid. Find the percentage of benzene in the new mixture.",
+			"explanation": "Let the percentage of benzene =X<br>(30 - X)/(X- 25) = 6/4 = 3/2<br>=> 5X = 135 or<br>X = 27 so,<br>required percentage of benzene = 27 %",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "28 %",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "25 %",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "30 %",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "27%",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A container contains 50 litres of milk. From this container, 10 litres of milk was taken out and replaced by water. This process is repeated one more time. How much milk is now left in the container?",
+			"explanation": "Applying the Replacement Method: Amount of milk after 2 operations = [5(1 - 10/50)^2] = 50 x 4/5 x 4/5 = 32 Liters",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "24",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "32",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "30",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "36",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Spirit and water in two container X and Y are in the ratio 5 : 2 and 7 : 6 respectively. In what ratio these mixtures be mixed to get a new mixture in container Z having water and spirit in the proportion 5 : 8?",
+			"explanation": "Let the C.P. of spirit be Rs. 1 per litre.<br>Spirit in 1 litre mixture of X = 5/7 litre<br>Spirit in 1 litre mixture of Y = 7/13 litre<br>Spirit in 1 litre mixture of Z = 8/13 litre.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "5 : 6",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "7 : 9",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "3 : 4",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "4 : 3",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "30 boys with an average weight of 60 kgs and 20 girls with an average weight of 40.<br>Find the average weight of the whole class? <br>Find the average weight of the whole class?",
+			"explanation": "To find the answer to the above question, one can use the formula for the weighted average.<br>Suppose the question was framed a bit differently, the Average weight of boys is 60, the average weight of girls is 40 and average weight of the whole class is 52.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "30",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "52",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "46",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "38",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Two solution of 90% and 97% purity and mixed resulting in 21 liters of mixture of 94% purity.<br> How much is the quantity of the first solution in the resulting mixture?",
+			"explanation": "Let us assume the number of liters of the 90% purity solution = A<br>and the number of liters of the 97% purity solution = B.<br>According to question,<br>Since there are 21 liters of the solution,<br>A + B = 21 ...................... (1)<br>Since after mixing the two solutions the new mixture has 94% purity,<br>Concentrate of A + Concentrate of B = Concentrate of (A + B)<br>A x 90% + B x 94% = (A+ B) x 97%<br>A x 90/100 + B x 97/100 = (A + B) x 94/100<br>90A + 97B = (A + B) x 94<br>90A + 97B = 94A + 94B<br>94A + 94B - 90A- 97B = 0<br>4A - 3B = 0 ........................(2)<br>Multiply the 3 with Equation (1) and add with Equation (2),<br>3A + 3B + 4A - 3B = 63 + 0<br>7A = 63<br>A = 63/7 = 9<br>Put the value of A in Equation (1) , we will get<br>9 + B = 21<br>B = 21 - 9<br>B = 12<br>The first solution would be A = 9 liters.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "15 litres",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "12 litres",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "9 litres",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "6 litres",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

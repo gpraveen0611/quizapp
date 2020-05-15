@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Insurance Awareness Quiz Test 2",
-    "description": "Practice Insurance Awareness Quiz Online Test 2",
+    "name": "Races and Games Test 3",
+    "description": "Practice Races and Games Online Test 3",
     "questions": [
         {
             "id": 1010,
-            "name": "When did insurance begin in Babylon?",
-			"explanation": "The Babylonians developed a system which was recorded in the Code of Hammurabi.",
+            "name": "A and B run a km and A wins by 1 minute. A and C run a km and ‘A’ wins by 375 metres. B and C run a km and B wins by 30 seconds. <br>Find the time taken by each to run a km.",
+			"explanation": "Since A beats B by 60 seconds and B beats C by 30 seconds. So, A beats C by 90 seconds.<br>But, it being given that A beats C by 375 metres. So it means that Covers 375 metres in 90 seconds.<br>Time taken by C to cover 1 km =90/375×1000 seconds= 240 seconds<br>Time taken by A to cover 1 km = (240-90) seconds = 150 seconds<br>Time taken by B to cover 1 km = (240-30) seconds= 210 seconds.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "1750 BC",
-                    "isAnswer":true
+                    "name": "180 seconds",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "1907 BC",
-                    "isAnswer":false
+                    "name": "210 seconds",
+                    "isAnswer":true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "1971 BC ",
+                    "name": "352 seconds",
                     "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "2000 BC",
+                    "name": "628 seconds",
                     "isAnswer": false
                 }
             ],
@@ -42,33 +42,33 @@
         },
         {
             "id": 1011,
-            "name": " Which one of the following does not belong to the major general insurance private sector companies in India?",
-			"explanation": "no explanation",
+            "name": "A takes 3 min 45 seconds to complete a kilometer. B takes 4 minutes to complete the same 1 km track. If A and B were to participate in a race of 2 km,<br> how much start can A give B in terms of distance?",
+			"explanation": "A can give B a start of 15 seconds in a km race.<br>B takes 4 minutes to run a km. i.e 1000/4= 250 m/min = 250/60 m/sec<br>Therefore, B will cover a distance of = 62.5 meters in 15 seconds.<br>The start that A can give B in a km race therefore, is 62.5 meters, the distance that B run in 15 seconds.<br>Hence in a 2 km race, A can give B a start of 62.5 * 2 = 125 m or 30 seconds.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " Reliance General Insurance",
+                    "name": "105 m",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "The Oriental Insurance Company",
-                    "isAnswer":true
+                    "name": "122 m",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Bajaj Allianz General Insurance",
-                    "isAnswer":false
+                    "name": "100 m",
+                    "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Royal Sundaram Alliance Insurance ",
-                    "isAnswer": false
+                    "name": "125 m",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "  When was Triton Insurance Company Ltd established?",
-			"explanation": "The first General Insurance Company in India was Triton Insurance Company Ltd. It was set up under the control of British.",
+            "name": "In a 100m race, A can beat B by 25m and B can beat C by 4m. In the same race, A can beat C by",
+			"explanation": "A :B = 100:75 and B :C = 100:96<br>A :C = (A/B * B/C ) = (100/75*100/96 ) = 100/72 = 100:72<br>So, A beats C by (100-72) m = 28m",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "1850",
-                    "isAnswer":true
+                    "name": "29m",
+                    "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "1854",
+                    "name": "21m",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "1857",
-                    "isAnswer":false
+                    "name": "26m",
+                    "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "1860",
-                    "isAnswer": false
+                    "name": "28m",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "The Coinsurance is specified by",
-			"explanation": "Coinsurance refers to money that an individual is required to pay for services after a deductible has been paid. Coinsurance is often specified by a percentage. ",
+            "name": " In a 500 m race, A reaches the final point in 28 s and B reaches in 35 s.<br> By how much distance does A beat B?",
+			"explanation": "In this question, we have to find the distance covered by B, after A has finished the race i.e. distance covered by B in (35 – 28 = 7s).<br>Distance = 500/35 × 7 = 100m<br>A beats B by 100 m.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "All of the below ",
-                    "isAnswer":false
+                    "name": "100m",
+                    "isAnswer":true
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "Equity",
+                    "name": "200m",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "Ratio ",
+                    "name": "500m",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "  Percentage ",
-                    "isAnswer":true
+                    "name": "600m",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "What is TPA",
-			"explanation": "Third Party Administrators or TPAs are a vital link between health insurance companies, policyholders and health care providers",
+            "name": "In a 100 m race, A can give B 10 m and C 28 m. In the same race, B can give C",
+			"explanation": "A can give B 10 m<br>In a 100 m race, while A starts from the starting point, B starts 10 meters ahead from the same starting point at the same time.<br>A can give C 28 mIn a 100 m race, while A starts from the starting point, C starts 28 meters ahead from the same starting point at the same time.<br>i.e., in a 100-10=90 m race, B can give C 28-10=18 m<br>In a 100 m race, B can give C 18/90×100 = 20 m",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Third Party Administrators",
+                    "name": "20 m",
                     "isAnswer":true
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Third Power Administrators",
+                    "name": "15 m",
                     "isAnswer":false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "The Party Accelerators",
+                    "name": "10 m",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "The Power Administrators",
+                    "name": "25 m",
                     "isAnswer":false
                 }
             ],
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "Insurance Repository services launched in India in September 2013. this service enables policyholders to keep their policies in electronic format.these services were launched by which of the following?",
-			"explanation": "no explanation",
+            "name": " In a race of 1000 m, A can beat by 100 m, in a race of 800m, B can beat C by 100m.<br> By how many meters will A beat C in a race of 600 m?",
+			"explanation": "When A runs 1000 m, B runs 900 m and when B runs 800 m, C runs 700 m.<br>When B runs 900 m, distance that C runs = (900 * 700)/800 = 6300/8 = 787.5 m.<br>In a race of 1000 m, A beats C by (1000 - 787.5) = 212.5 m to C.In a race of 600 m, the number of meters by which A beats C = (600 * 212.5)/1000 = 127.5 m.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " Life Insurance Corporation of India",
+                    "name": "57.5 m",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " IRDA",
-                    "isAnswer":true
+                    "name": "127.5 m",
+                    "isAnswer": true
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": " SEBI(Securities Exchange Board of India)",
+                    "name": "150.7 m",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "RBI",
-                    "isAnswer":false
+                    "name": "98.6 m",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -228,32 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": " A number of Full-time members in IRDA ",
-			"explanation": "no explanation",
+            "name": "At a game of billiards, A can give B 15 points in 60 and A can give C to 20 points in 60.<br> How many points can B give C in a game of 90?",
+			"explanation": "A : B = 60 : 45.<br>A : C = 60 : 40.<br>B/C=B/AxA/C=45/60x60/40=45/40=90/80= 90 : 80.<br>B can give C 10 points in a game of 90.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "5",
-                    "isAnswer":false
+                    "name": "30 points",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "20 points",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer":true
+                    "name": "10 points",
+                    "isAnswer": true
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " None of the above",
+                    "name": "12 points",
                     "isAnswer":false
                 }
             ],
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": " Government nationalized Private Sector companies in which year",
-			"explanation": "no explanation",
+            "name": "A can run 22.5 m while B runs 25 m. In a kilometre race B beats A by :",
+			"explanation": "When B runs 25 m, A runs 45/2 m<br>When B runs 1000 m, A runs (45/2 *1/25 * 1000)m = 900 m<br>B beats A by 100 m.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": " 1973 ",
-                    "isAnswer":false
+                    "name": "100 m",
+                    "isAnswer":true
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "1971  ",
-                    "isAnswer":true
+                    "name": "111m",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "1989",
+                    "name": "25 m",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "1993",
+                    "name": "50 m",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": " Which bank has started as a private shareholders bank, mostly by European shareholders?",
-			"explanation": "no explanation",
+            "name": "In a 100 m race, P can give Q 20 m and R 32 m. In the same race Q can give R:",
+			"explanation": "P : Q = 100 : 80.<br>P : R = 100 : 68.<br>Q : R = Q/P * P/R<br>= (80/100) * (100/68)<br>= 80/68<br>When Q runs 80 m, R runs 68 m.<br>When Q runs 100 m, R runs ((68/80) * 100)m = 85m<br>Q can give R 15 m.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": " Bank of India",
+                    "name": "19 m",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Bank of Baroda",
-                    "isAnswer":false
+                    "name": "22 m",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": " Dena Bank",
-                    "isAnswer": false
+                    "name": "15 m",
+                    "isAnswer": true
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Imperial Bank of India ",
-                    "isAnswer":true
+                    "name": "10 m",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "IBAI was incorporated as a Company under Section 25 of the Companies Act, 1956. What is the meaning of 'B' in IBAI",
-			"explanation": "no explanation",
+            "name": "In a game of billiards, A can give B 20 points in 60 and he can give C 30 points in 60.<br> How many points can B give C in a game of 100?",
+			"explanation": "A scores 60 while B score 40 and C scores 30.<br>The number of points that C scores when B scores 100 = (100 * 30)/40 = 25 * 3 = 75.<br>In a game of 100 points, B gives (100 - 75) = 25 points to C.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "Basel ",
+                    "name": "50",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Broadcasting",
+                    "name": "40",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Brokers",
+                    "name": "25",
                     "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "Board",
-                    "isAnswer":true
+                    "name": "15",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

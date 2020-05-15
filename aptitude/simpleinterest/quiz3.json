@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Insurance Awareness Quiz Test 2",
-    "description": "Practice Insurance Awareness Quiz Online Test 2",
+    "name": "Simple Interest Test 3",
+    "description": "Practice Simple Interest Online Test 3",
     "questions": [
         {
             "id": 1010,
-            "name": "When did insurance begin in Babylon?",
-			"explanation": "The Babylonians developed a system which was recorded in the Code of Hammurabi.",
+            "name": "A person took some amount with some interest for 2 years, but increase the interest for 1%, he paid Rs.120/- extra,<br> then how much amount he took?",
+			"explanation": "2 years = Rs.120/- year = 120/2<br>Rate of Interest = 1%<br>100/1% × 120/2 = Rs.6000/-<br>P = Rs.6000/-",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "1750 BC",
-                    "isAnswer":true
+                    "name": "Rs.5500",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "1907 BC",
-                    "isAnswer":false
+                    "name": "Rs.6000",
+                    "isAnswer":true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "1971 BC ",
+                    "name": "Rs.4000",
                     "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "2000 BC",
+                    "name": "Rs.7000",
                     "isAnswer": false
                 }
             ],
@@ -42,33 +42,33 @@
         },
         {
             "id": 1011,
-            "name": " Which one of the following does not belong to the major general insurance private sector companies in India?",
-			"explanation": "no explanation",
+            "name": "The car is purchased on hire-purchase. The cash price is $21 000 and the terms are a deposit of 10% of the price, then the balance to be paid off over 60 equal monthly installments. Interest is charged at 12% p.a. <br>What is the total cost of the car?",
+			"explanation": "Total cost = deposit + installment amount × number of installments",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " Reliance General Insurance",
+                    "name": "30.240",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "The Oriental Insurance Company",
-                    "isAnswer":true
+                    "name": "31.240",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Bajaj Allianz General Insurance",
-                    "isAnswer":false
+                    "name": "33.240",
+                    "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Royal Sundaram Alliance Insurance ",
-                    "isAnswer": false
+                    "name": "32,240",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -79,33 +79,33 @@
         },
         {
             "id": 1012,
-            "name": "  When was Triton Insurance Company Ltd established?",
-			"explanation": "The first General Insurance Company in India was Triton Insurance Company Ltd. It was set up under the control of British.",
+            "name": "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years.<br> The sum is:",
+			"explanation": "S.I. for 1 year = Rs. (854 - 815) = Rs. 39.<br>S.I. for 3 years = Rs.(39 x 3) = Rs. 117.<br>Principal = Rs. (815 - 117) = Rs. 698.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "1850",
-                    "isAnswer":true
+                    "name": "Rs. 650",
+                    "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "1854",
+                    "name": "Rs. 690",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "1857",
-                    "isAnswer":false
+                    "name": "Rs. 698",
+                    "isAnswer": true
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "1860",
+                    "name": "Rs. 700",
                     "isAnswer": false
                 }
             ],
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "The Coinsurance is specified by",
-			"explanation": "Coinsurance refers to money that an individual is required to pay for services after a deductible has been paid. Coinsurance is often specified by a percentage. ",
+            "name": "What annual installment will discharge a debt of Rs 1092 due in 3 years at 12% simple interest?",
+			"explanation": "Let each instalment be Rs.x .<br>1st year = [x + (x * 12 * 2)/100]<br>2nd year = [ x + (x *12 * 1)/100]<br>3rd year = x<br>Then, [x + (x * 12 * 2)/100] + [ x + (x *12 * 1)/100] + x =1092<br>3x + ( 24x/100 ) + ( 12x/100 ) = 1092<br>336x =109200<br>Therefore, x = 325<br>Each instalment = Rs. 325",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "All of the below ",
-                    "isAnswer":false
+                    "name": "Rs.325",
+                    "isAnswer":true
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "Equity",
+                    "name": "Rs.545",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "Ratio ",
+                    "name": "Rs.560",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "  Percentage ",
-                    "isAnswer":true
+                    "name": "Rs.550",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "What is TPA",
-			"explanation": "Third Party Administrators or TPAs are a vital link between health insurance companies, policyholders and health care providers",
+            "name": "A sum fetched a total simple interest of 4016.25 at the rate of 9 %.p.a.<br> in 5 years. What is the sum?",
+			"explanation": "Principal = (100 x 4016.25)/(9 x 5) = 401625/45 = 8925.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Third Party Administrators",
-                    "isAnswer":true
+                    "name": "4462.50",
+                    "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Third Power Administrators",
+                    "name": "8032.50",
                     "isAnswer":false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "The Party Accelerators",
-                    "isAnswer":false
+                    "name": "8925",
+                    "isAnswer":true
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "The Power Administrators",
+                    "name": "None of these",
                     "isAnswer":false
                 }
             ],
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "Insurance Repository services launched in India in September 2013. this service enables policyholders to keep their policies in electronic format.these services were launched by which of the following?",
-			"explanation": "no explanation",
+            "name": "Find the rate at Simple interest, at which a sum becomes four times of itself in 15 years.",
+			"explanation": "Let sum be x and rate be r% then, (x*r*15)/100 = 3x [important to note here is that simple interest will be 3x not 4x, beause 3x+x = 4x]<br>=> r = 20%",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " Life Insurance Corporation of India",
+                    "name": "10%",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " IRDA",
+                    "name": "20%",
                     "isAnswer":true
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": " SEBI(Securities Exchange Board of India)",
+                    "name": "30%",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "RBI",
-                    "isAnswer":false
+                    "name": "40%",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -228,32 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": " A number of Full-time members in IRDA ",
-			"explanation": "no explanation",
+            "name": "In 10 years, A wants simple interest to be of the amount. So,<br> what should be the rate percent per annum?",
+			"explanation": "Let sum = x. Then, S.I. = 2x<br>5 , Time = 10 years.<br>Rate = (100 * 2x/x * 5 * 10)% = 4%",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "5",
-                    "isAnswer":false
+                    "name": "5.66%",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "5%",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer":true
+                    "name": "4%",
+                    "isAnswer": true
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " None of the above",
+                    "name": "6%",
                     "isAnswer":false
                 }
             ],
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": " Government nationalized Private Sector companies in which year",
-			"explanation": "no explanation",
+            "name": "A borrow taken by a man, for every 5 years it will be doubled, then<br> how much time it will be taken",
+			"explanation": "(R)1% ------> 5 years<br>3/1% × 5 = 15 years<br>= 15 years",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": " 1973 ",
+                    "name": "12years",
                     "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "1971  ",
+                    "name": "15years",
                     "isAnswer":true
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "1989",
+                    "name": "16years",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "1993",
+                    "name": "13years",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": " Which bank has started as a private shareholders bank, mostly by European shareholders?",
-			"explanation": "no explanation",
+            "name": "In what time will the simple interest on Rs 400 at 10% per annum be the same as the simple interest on Rs 1000 for 4 year at 4 % per annum?",
+			"explanation": "Here , P= Rs 1000<br>T= 4 yrs<br>R= 4 %<br>where, P= Principal<br>T= Time<br>R= Rate<br>Since , Simple Interest on Rs 1000=(1000 × 4 × 4)/100= Rs 160<br>now, simple interest=Rs 160<br>P = Rs 400<br>R = 10 %<br>then, T=(100 × SI)/P × R<br>= (100 × 160)/(400 × 10)<br>= 4 yr",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": " Bank of India",
+                    "name": "2 yrs",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Bank of Baroda",
-                    "isAnswer":false
+                    "name": "3 yrs",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": " Dena Bank",
-                    "isAnswer": false
+                    "name": "4 yrs",
+                    "isAnswer": true
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Imperial Bank of India ",
-                    "isAnswer":true
+                    "name": "6 yrs",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "IBAI was incorporated as a Company under Section 25 of the Companies Act, 1956. What is the meaning of 'B' in IBAI",
-			"explanation": "no explanation",
+            "name": "A borrow took by a man, for every 8 years it will be 3 times, then<br> what is the rate of the interest?",
+			"explanation": "P = 1 , I = 2 , T = 8years R = ?<br>I = PTR/100<br>2 = 1×8×R/100<br>R = 25%",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "Basel ",
+                    "name": "15%",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Broadcasting",
+                    "name": "20%",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Brokers",
+                    "name": "25%",
                     "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "Board",
-                    "isAnswer":true
+                    "name": "28%",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

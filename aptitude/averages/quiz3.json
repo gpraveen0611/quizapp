@@ -1,37 +1,37 @@
 {
     "id": 1,
-    "name": "Insurance Awareness Quiz Test 2",
-    "description": "Practice Insurance Awareness Quiz Online Test 2",
+    "name": "Averages Test 3",
+    "description": "Practice Averages Online Test 3",
     "questions": [
         {
             "id": 1010,
-            "name": "When did insurance begin in Babylon?",
-			"explanation": "The Babylonians developed a system which was recorded in the Code of Hammurabi.",
+            "name": "A batsman makes a score of 87 runs in the 17th match and thus increases his average by 3.<br>Find his average after 17th match?",
+			"explanation": "Let the average after 17th match is x<br>then the average before 17th match is x-3<br>so 16(x-3) + 87 = 17x<br>=> x = 87 - 48 = 39",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "1750 BC",
-                    "isAnswer":true
+                    "name": "36",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "1907 BC",
+                    "name": "37",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "1971 BC ",
+                    "name": "38",
                     "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "2000 BC",
-                    "isAnswer": false
+                    "name": "39",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": " Which one of the following does not belong to the major general insurance private sector companies in India?",
-			"explanation": "no explanation",
+            "name": "The average weight of 8 person's increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg.<br> What might be the weight of the new person?",
+			"explanation": "Total weight increased = (8 x 2.5) kg = 20 kg.<br>Weight of new person = (65 + 20) kg = 85 kg.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " Reliance General Insurance",
+                    "name": "76 kg",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "The Oriental Insurance Company",
-                    "isAnswer":true
+                    "name": "76.5 kg",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Bajaj Allianz General Insurance",
-                    "isAnswer":false
+                    "name": "85 kg",
+                    "isAnswer": true
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Royal Sundaram Alliance Insurance ",
+                    "name": "Data inadequate",
                     "isAnswer": false
                 }
             ],
@@ -79,33 +79,33 @@
         },
         {
             "id": 1012,
-            "name": "  When was Triton Insurance Company Ltd established?",
-			"explanation": "The first General Insurance Company in India was Triton Insurance Company Ltd. It was set up under the control of British.",
+            "name": "The average of 50 numbers is 30. If two numbers, 35 and 40 are discarded, then <br>the average of the remaining numbers is near?",
+			"explanation": "Total sum of 48 numbers =(50×30)-(35+40)<br>=1500-75<br>=1425<br>Average =(1425/48)<br>= 29.68",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "1850",
-                    "isAnswer":true
+                    "name": "28.32",
+                    "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "1854",
-                    "isAnswer":false
+                    "name": "29.68",
+                    "isAnswer":true
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "1857",
-                    "isAnswer":false
+                    "name": "28.78",
+                    "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "1860",
+                    "name": "29.27",
                     "isAnswer": false
                 }
             ],
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "The Coinsurance is specified by",
-			"explanation": "Coinsurance refers to money that an individual is required to pay for services after a deductible has been paid. Coinsurance is often specified by a percentage. ",
+            "name": "The average of 11 numbers is 10.9. If the average of first six is 10.5 and that of the last six is 11.4<br> the sixth number is?",
+			"explanation": "1 to 11 = 11 * 10.9 = 119.9<br>1 to 6 = 6 * 10.5 = 63<br>6 to 11 = 6 * 11.4 = 68.4<br>63 + 68.4 = 131.4 – 119.9 = 11.5<br>6th number = 11.5",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "All of the below ",
+                    "name": "11.0",
                     "isAnswer":false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "Equity",
+                    "name": "11.3",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "Ratio ",
+                    "name": "11.4",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "  Percentage ",
-                    "isAnswer":true
+                    "name": "11.5",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "What is TPA",
-			"explanation": "Third Party Administrators or TPAs are a vital link between health insurance companies, policyholders and health care providers",
+            "name": "A grocer has a sale of Rs 6435, Rs. 6927, Rs. 6855, Rs. 7230 and Rs. 6562 for 5 consecutive months. How much sale must he have in the sixth month so that he gets an average sale of Rs 6500?",
+			"explanation": "Total sale for 5 months = Rs. (6435 + 6927 + 6855 + 7230 + 6562) = Rs. 34009.<br>Required sale = Rs.[(6500 x 6) - 34009] => Rs. (39000 - 34009) = Rs. 4991.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Third Party Administrators",
+                    "name": "4991",
                     "isAnswer":true
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Third Power Administrators",
+                    "name": "5467",
                     "isAnswer":false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "The Party Accelerators",
+                    "name": "5987",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "The Power Administrators",
+                    "name": "6453",
                     "isAnswer":false
                 }
             ],
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "Insurance Repository services launched in India in September 2013. this service enables policyholders to keep their policies in electronic format.these services were launched by which of the following?",
-			"explanation": "no explanation",
+            "name": "The average age of husband, wife and their child 3 years ago was 27 years and that of wife and the child 5 years ago was 20 years.<br>The present age of the husband is:",
+			"explanation": "Sum of the present ages of husband, wife and child = (27 x 3 + 3 x 3) years = 90 years.<br>Sum of the present ages of wife and child = (20 x 2 + 5 x 2) years = 50 years.<br>Husband's present age = (90 - 50) years = 40 years.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " Life Insurance Corporation of India",
+                    "name": "35 years",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " IRDA",
+                    "name": "40 years",
                     "isAnswer":true
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": " SEBI(Securities Exchange Board of India)",
+                    "name": "50 years",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "RBI",
-                    "isAnswer":false
+                    "name": "None of these",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": " A number of Full-time members in IRDA ",
-			"explanation": "no explanation",
+            "name": "Average of all prime numbers between 30 to 50",
+			"explanation": "Prime numbers between 30 and 50 are:<br>31, 37, 41, 43, 47<br>Average of prime numbers between 30 to 50 will be<br>(31+37+41+43+47/5)= 199/5=39.8",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "5",
-                    "isAnswer":false
+                    "name": "37",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "37.8",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer":true
+                    "name": "39",
+                    "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " None of the above",
-                    "isAnswer":false
+                    "name": "39.8",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": " Government nationalized Private Sector companies in which year",
-			"explanation": "no explanation",
+            "name": "A cricketer has a mean score of 58 runs in nine innings. Find out how many runs are to be scored by him in the tenth innings to raise the mean score to 61.",
+			"explanation": "Mean score of 9 innings = 58 runs.<br>Total score of 9 innings = (58 x 9) runs = 522 runs<br>A required mean score of 10 innings = 61 runs.<br>Required total score of 10 innings = (61 x 10) runs = 610 runs.<br>Number of runs to be scored in the 10th innings<br>= (total score of 10 innings) - (total score of 9 innings)= (610 -522) = 88.<br>Hence, the number of runs to be scored in the 10th innings = 88.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": " 1973 ",
+                    "name": "77",
                     "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "1971  ",
-                    "isAnswer":true
+                    "name": "67",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "1989",
-                    "isAnswer":false
+                    "name": "88",
+                    "isAnswer":true
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "1993",
+                    "name": "97",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": " Which bank has started as a private shareholders bank, mostly by European shareholders?",
-			"explanation": "no explanation",
+            "name": "In a 20 over match, the required run rate to win is 7.2. If the run rate is 6 at the end of the 15th over,<br> the required run rate to win the match is:",
+			"explanation": "Total runs required to win the match = 20 * 7.2 = 144>br>Runs scored in 15 over = 15 * 6 = 90<br>Runs required in 5 overs = 144 - 90 = 54<br>Required run rate = 54 / 5 = 10.8",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": " Bank of India",
+                    "name": "1.2",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Bank of Baroda",
-                    "isAnswer":false
+                    "name": "13.2",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": " Dena Bank",
-                    "isAnswer": false
+                    "name": "10.8 ",
+                    "isAnswer": true
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Imperial Bank of India ",
-                    "isAnswer":true
+                    "name": "12",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "IBAI was incorporated as a Company under Section 25 of the Companies Act, 1956. What is the meaning of 'B' in IBAI",
-			"explanation": "no explanation",
+            "name": " The average score of a cricketer for ten matches is 38.9 runs. If the average for the first six matches is 42, then <br>find the average for the last four matches.",
+			"explanation": "A total sum of last 4 matches<br>=(10×38.9)–(6×42)<br>=389–252=137<br>Average =137/4 =34.25",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "Basel ",
+                    "name": "33.25",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Broadcasting",
+                    "name": "33.5",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Brokers",
+                    "name": "34.25",
                     "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "Board",
-                    "isAnswer":true
+                    "name": "35",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

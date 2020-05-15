@@ -1,37 +1,37 @@
 {
     "id": 1,
-    "name": "Insurance Awareness Quiz Test 2",
-    "description": "Practice Insurance Awareness Quiz Online Test 2",
+    "name": "Mensuration Test 3",
+    "description": "Practice Mensuration Online Test 3",
     "questions": [
         {
             "id": 1010,
-            "name": "When did insurance begin in Babylon?",
-			"explanation": "The Babylonians developed a system which was recorded in the Code of Hammurabi.",
+            "name": "The sides of a rectangle are in the ratio 4:3 and its area is 972sq.m <br>find the perimeter of the rectangle?",
+			"explanation": "let 4x and 3x be sides of the rectangle<br>We know that area of rectangle = l×b<br>4x × 3x = 972<br>12x2 = 972<br>X2 = 81<br>X = 9<br>Therefore, length = 4x = 4×9 = 36m<br>Breadth = 3x = 3×9 = 27m<br>Therefore, perimeter = 2 (l+b) = 2(36+27) = 126m",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "1750 BC",
-                    "isAnswer":true
+                    "name": "120m",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "1907 BC",
+                    "name": "122m",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "1971 BC ",
-                    "isAnswer":false
+                    "name": "124m",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "2000 BC",
-                    "isAnswer": false
+                    "name": "126m",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": " Which one of the following does not belong to the major general insurance private sector companies in India?",
-			"explanation": "no explanation",
+            "name": "A man walking at the rate of 6km per hour crosses a square field diagonally in 9 seconds <br>the area of the field is",
+			"explanation": "Distance covered in 9 seconds = (6×1000/3600)×9 = 15m<br>Diagonal of square field = 15m<br>Side of square =a then diagonal of that square= v2 a<br>Hence area of the square = a2= (152)/2 =112.5 sq.m",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " Reliance General Insurance",
+                    "name": "110sq.m",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "The Oriental Insurance Company",
-                    "isAnswer":true
+                    "name": "111.5aq.m",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Bajaj Allianz General Insurance",
-                    "isAnswer":false
+                    "name": "112.5sq.m",
+                    "isAnswer": true
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Royal Sundaram Alliance Insurance ",
+                    "name": "114sq.m",
                     "isAnswer": false
                 }
             ],
@@ -79,33 +79,33 @@
         },
         {
             "id": 1012,
-            "name": "  When was Triton Insurance Company Ltd established?",
-			"explanation": "The first General Insurance Company in India was Triton Insurance Company Ltd. It was set up under the control of British.",
+            "name": "The edge of a cuboid are in the ratio 1 : 2 : 3 and its surface area is 88 cm2.<br> The volume of the cuboid is:",
+			"explanation": "Let the dimensions of the cuboid be x, 2x and 3x.<br>Then, 2(x*2x + 2x*3x + x*3x) = 88<br>= 2x2 + 6x2 + 3x2 = 44 = 11x2 = 44 = x2 = 4 = x = 2.<br>Therefore volume of the cuboid = (2*4*6) cm3 = 48 cm3.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "1850",
-                    "isAnswer":true
+                    "name": "24 cm3",
+                    "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "1854",
-                    "isAnswer":false
+                    "name": "48 cm3",
+                    "isAnswer": true
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "1857",
-                    "isAnswer":false
+                    "name": "64 cm3",
+                    "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "1860",
+                    "name": "120 cm3",
                     "isAnswer": false
                 }
             ],
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "The Coinsurance is specified by",
-			"explanation": "Coinsurance refers to money that an individual is required to pay for services after a deductible has been paid. Coinsurance is often specified by a percentage. ",
+            "name": "A 5 cubic centimeter cube is painted on all its side. If it is sliced into 1 cubic centimeter cubes, how many 1 cubic centimeter cubes will have exactly one of their sides painted?",
+			"explanation": "When a 5 cc cube is sliced into 1 cc cubes, we will get 5*5*5 = 125 1 cc cubes.<br>In each side of the larger cube, the smaller cubes on the edges will have more than one of their sides painted.<br>Therefore, the cubes which are not on the edge of the larger cube and that lie on the facing sides of the larger cube will have exactly one side painted.<br>In each face of the larger cube, there will be 5*5 = 25 cubes. Of these, there will be 16 cubes on the edge and 3*3 = 9 cubes which are not on the edge.<br>Therefore, there will be 9 1-cc cubes per face that will have exactly one of their sides painted.<br>In total, there will be 9*6 = 54 such cubes.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "All of the below ",
-                    "isAnswer":false
+                    "name": "9",
+                    "isAnswer": false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "Equity",
+                    "name": "61",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "Ratio ",
+                    "name": "98",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "  Percentage ",
-                    "isAnswer":true
+                    "name": "54",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "What is TPA",
-			"explanation": "Third Party Administrators or TPAs are a vital link between health insurance companies, policyholders and health care providers",
+            "name": "Find the cost of carpeting a room 13 m long and 9 m broad with a carpet 75 cm wide at the rate of Rs.12 per square meter.",
+			"explanation": "Area of the carpet = Area of the room = (13 × 9) m2 = 117 m2.<br>Length of the carpet = (area/width) = 117 ×(4/3) m = 156 m.<br>Therefore Cost of carpeting = (156 × 12) = Rs.1872",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Third Party Administrators",
-                    "isAnswer":true
+                    "name": "1824",
+                    "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Third Power Administrators",
-                    "isAnswer":false
+                    "name": "1854",
+                    "isAnswer": false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "The Party Accelerators",
-                    "isAnswer":false
+                    "name": "1872",
+                    "isAnswer": true
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "The Power Administrators",
+                    "name": "1888",
                     "isAnswer":false
                 }
             ],
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "Insurance Repository services launched in India in September 2013. this service enables policyholders to keep their policies in electronic format.these services were launched by which of the following?",
-			"explanation": "no explanation",
+            "name": "The length of a rectangle is two – fifths of the radius of a circle. The radius of the circle is equal to the side of the square, whose area is 1225 sq.units. What is the area (in sq.units) of the rectangle if the rectangle if the breadth is 10 units?",
+			"explanation": "Given that the area of the square = 1225 sq.units<br>=> Side of square = v1225 = 35 units<br>The radius of the circle = side of the square = 35 units Length of the rectangle = 2/5 * 35 = 14 units<br>Given that breadth = 10 units<br>Area of the rectangle = lb = 14 * 10 = 140 sq.units",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " Life Insurance Corporation of India",
-                    "isAnswer": false
+                    "name": "140",
+                    "isAnswer": true
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " IRDA",
-                    "isAnswer":true
+                    "name": "156",
+                    "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": " SEBI(Securities Exchange Board of India)",
+                    "name": "175",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "RBI",
-                    "isAnswer":false
+                    "name": "214",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -228,32 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": " A number of Full-time members in IRDA ",
-			"explanation": "no explanation",
+            "name": "Find the circumference of a circle whose radius is 49 cm.",
+			"explanation": "The option should be divisible by ‘11’ because ‘p’ has been used in finding its circumference.<br>One of the parameters is a higher power of 7. Thus, we need to find the only option that is a multiple of 7. If, however, we find more than one option that is a multiple of 7, we need to go through fundamentals.<br>Among the options, 308 and 407 are both multiples of 11. However, only 308 is a multiple of 7. So circumference of the circle = 308 cm.<br>We can test this as follows:<br>Circumference of circle = 2pr cm<br>= 2 × (22/7) × 7 × 49 cm<br>= 2 × 22 × 7 cm",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "5",
-                    "isAnswer":false
+                    "name": "208 cm",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "288 cm",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer":true
+                    "name": "308 cm",
+                    "isAnswer": true
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " None of the above",
+                    "name": "407 cm",
                     "isAnswer":false
                 }
             ],
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": " Government nationalized Private Sector companies in which year",
-			"explanation": "no explanation",
+            "name": " A hollow iron pipe is 21 cm long and its external diameter is 8 cm. If the thickness of the pipe is 1 cm and iron weighs 8 g/cm3,<br> then the weight of the pipe is:",
+			"explanation": "External radius = 4 cm,<br>Internal radius = 3 cm.<br>Volume of iron<br>=22/7x [(4)2 - (3)2] x 21cm3<br>=22/7x 7 x 1 x 21cm3<br>= 462 cm3.<br>Weight of iron = (462 x 8) gm = 3696 gm = 3.696 kg.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": " 1973 ",
-                    "isAnswer":false
+                    "name": "3.6 kg",
+                    "isAnswer": false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "1971  ",
-                    "isAnswer":true
+                    "name": "3.696 kg",
+                    "isAnswer": true
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "1989",
-                    "isAnswer":false
+                    "name": "36 kg",
+                    "isAnswer": false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "1993",
+                    "name": "36.9 kg",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": " Which bank has started as a private shareholders bank, mostly by European shareholders?",
-			"explanation": "no explanation",
+            "name": "A boat having a length 3 m and breadth 2 m is floating on a lake. The boat sinks by 1 cm when a man gets on it.<br> The mass of the man is:",
+			"explanation": "Volume of water displaced = (3 x 2 x 0.01) m3= 0.06 m3.<br>Mass of man= Volume of water displaced x Density of water<br>= (0.06 x 1000) kg<br>= 60 kg.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": " Bank of India",
+                    "name": "12 kg",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Bank of Baroda",
-                    "isAnswer":false
+                    "name": "60 kg",
+                    "isAnswer": true
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": " Dena Bank",
+                    "name": "72 kg",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Imperial Bank of India ",
-                    "isAnswer":true
+                    "name": "96 kg",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "IBAI was incorporated as a Company under Section 25 of the Companies Act, 1956. What is the meaning of 'B' in IBAI",
-			"explanation": "no explanation",
+            "name": "A cube of side one meter length is cut into small cubes of side 10 cm each.<br> How many such small cubes can be obtained?",
+			"explanation": "Along one edge, the number of small cubes that can be cut = 100/10 = 10<br>Along each edge 10 cubes can be cut. (Along length, breadth and height).<br> Total number of small cubes that can be cut = 10 * 10 * 10 = 1000",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "Basel ",
+                    "name": "10",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Broadcasting",
-                    "isAnswer":false
+                    "name": "100",
+                    "isAnswer": false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Brokers",
+                    "name": "1000",
                     "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "Board",
-                    "isAnswer":true
+                    "name": "10000",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Insurance Awareness Quiz Test 2",
-    "description": "Practice Insurance Awareness Quiz Online Test 2",
+    "name": "Compound Interest Test 3",
+    "description": "Practice Compound Interest Online Test 3",
     "questions": [
         {
             "id": 1010,
-            "name": "When did insurance begin in Babylon?",
-			"explanation": "The Babylonians developed a system which was recorded in the Code of Hammurabi.",
+            "name": "If in the question above the interest was calculated half-yearly,<br> what would the final loan amount be with interest?",
+			"explanation": "Use the half-yearly formula above. Just because the interest on the loan is now compounded half-yearly you are ending up paying 106136-106090=46 more than when just annually compounded.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "1750 BC",
-                    "isAnswer":true
+                    "name": "Same as above 106090",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "1907 BC",
+                    "name": "106720",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "1971 BC ",
-                    "isAnswer":false
+                    "name": "106136",
+                    "isAnswer":true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "2000 BC",
+                    "name": "108010",
                     "isAnswer": false
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": " Which one of the following does not belong to the major general insurance private sector companies in India?",
-			"explanation": "no explanation",
+            "name": "A sum of money amounts to Rs.6690 after 3 years and to Rs.10,035 after 6 years on compound interest. <br> find the sum?",
+			"explanation": "Let the sum be Rs.P.then<br>P(1+R/100)^3=6690…(i) and P(1+R/100)^6=10035<br>(ii)On dividing,we get (1+R/100)^3=10025/6690=3/2.<br>Substituting this value in (i),we get:<br>P*(3/2)=6690 or P=(6690*2/3)=4460<br>Hence,the sum is rs.4460.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " Reliance General Insurance",
+                    "name": "4360",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "The Oriental Insurance Company",
-                    "isAnswer":true
+                    "name": "4460",
+                    "isAnswer": true
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Bajaj Allianz General Insurance",
-                    "isAnswer":false
+                    "name": "4560",
+                    "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Royal Sundaram Alliance Insurance ",
+                    "name": "4660",
                     "isAnswer": false
                 }
             ],
@@ -79,33 +79,33 @@
         },
         {
             "id": 1012,
-            "name": "  When was Triton Insurance Company Ltd established?",
-			"explanation": "The first General Insurance Company in India was Triton Insurance Company Ltd. It was set up under the control of British.",
+            "name": "Find out the C.I on Rs.5000 at 4% p.a. compound half-yearly for 1 1/2 years.",
+			"explanation": "A = 5000(51/50)^3 = 5306.04= 5000 =306.04",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "1850",
-                    "isAnswer":true
+                    "name": "Rs.420.20",
+                    "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "1854",
+                    "name": "Rs.319.06",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "1857",
-                    "isAnswer":false
+                    "name": "Rs.306.04",
+                    "isAnswer": true
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "1860",
+                    "name": "Rs.294.75",
                     "isAnswer": false
                 }
             ],
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "The Coinsurance is specified by",
-			"explanation": "Coinsurance refers to money that an individual is required to pay for services after a deductible has been paid. Coinsurance is often specified by a percentage. ",
+            "name": "The Simple interest on a certain sum for 2 years at 10% per annum is Rs. 90.<br>The corresponding compound interest is",
+			"explanation": "Sum = Rs. 100 x 90/20 = Rs. 450<br>C.I. = Rs.450 x (1+ 10/100)^2- 450 = Rs. 94.50",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "All of the below ",
+                    "name": "Rs. 99",
                     "isAnswer":false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "Equity",
-                    "isAnswer":false
+                    "name": "Rs. 94.50",
+                    "isAnswer":true
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "Ratio ",
+                    "name": "Rs. 95.60",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "  Percentage ",
-                    "isAnswer":true
+                    "name": "Rs. 108",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,33 +154,33 @@
 		},
 		{
 			"id": 1014,
-            "name": "What is TPA",
-			"explanation": "Third Party Administrators or TPAs are a vital link between health insurance companies, policyholders and health care providers",
+            "name": "The difference between simple interest and compound interest on Rs. 600 for 1 years at 10% per annum, reckoned half yearly is?",
+			"explanation": "S.I. = Rs. (600 x 5 x 2)/100 = Rs.60<br>C.I.= Rs. [600 x (1 + 5/100)2 - 600] = Rs. 61.50<br>Requred Difference = Rs. (61.50 - 60) = Rs.1.50",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Third Party Administrators",
-                    "isAnswer":true
+                    "name": "Nil",
+                    "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Third Power Administrators",
-                    "isAnswer":false
+                    "name": "Rs. 6.60",
+                    "isAnswer": false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "The Party Accelerators",
+                    "name": "Rs. 4.40",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "The Power Administrators",
-                    "isAnswer":false
+                    "name": "Rs. 1.50",
+                    "isAnswer":true
                 }
             ],
             "questionType": {
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "Insurance Repository services launched in India in September 2013. this service enables policyholders to keep their policies in electronic format.these services were launched by which of the following?",
-			"explanation": "no explanation",
+            "name": " A tree increases annually by 1/8 th of its height. By how much will it increase after 2 years, if it stands today 64 cm high?",
+			"explanation": "Increase% = (1/8) x 100% = 12.5%<br>Height after 2 years =64 x {1 +25/(2 x 100)}2<br>= 64 x 9/8 x 9/8<br>= 81 cm",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " Life Insurance Corporation of India",
+                    "name": "72 cm",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " IRDA",
-                    "isAnswer":true
+                    "name": "74 cm",
+                    "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": " SEBI(Securities Exchange Board of India)",
+                    "name": "75 cm ",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "RBI",
-                    "isAnswer":false
+                    "name": "81 cm",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -228,32 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": " A number of Full-time members in IRDA ",
-			"explanation": "no explanation",
+            "name": "The difference between the compound interest compounded annually and the simple interest on a certain sum for 2 years at 6% per annum is $ 18.<br> Find the sum.",
+			"explanation": "Let the sum be $ 100. Then,<br>SI = $ (100 × 6 × 2/100) = $ 12 and <br>compound interest = $ {100 × (1 + 6/100)² - 100}<br>= $ {(100 × 53/50 × 53/50) - 100} = $ (2809/25 - 100) = $ 309/25<br>Therefore, (CI) - (SI) = $ (309/25 – 100) = $ 9/25<br>If the difference between the CI and SI is $ 9/25, then the sum = $ 100<br>If the difference between the CI and SI is $ 18, then the sum = $ (100 × 25/9 × 18 ) = $ 5000<br>Hence, the required sum is $ 5000.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "5",
-                    "isAnswer":false
+                    "name": "5000",
+                    "isAnswer": true
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "6000",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer":true
+                    "name": "7000",
+                    "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " None of the above",
+                    "name": "8000",
                     "isAnswer":false
                 }
             ],
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": " Government nationalized Private Sector companies in which year",
-			"explanation": "no explanation",
+            "name": "In this question, the formula is when the interest is compounded annually to solve this problem of compound interest. 4. At what rate per cent per annum will Ron lends a sum of $2000 to Ben. Ben returned after 2 years $2205, compounded annually?",
+			"explanation": "Let the required rate be R% per annum<br>Here, A = $ 2205, P = $ 2000 and n = 2 years<br>Using the formula A = P(1 + R/100)n,<br>2205 = 2000 × ( 1 + R/100)²<br>(1 + R/100)² = 2205/2000 = 441/400 = (21/20)²<br>( 1 + R/100) = 21/20<br>R/100 = (21/20 – 1) = 1/20<br>R = (100 × 1/20) = 5<br>Hence, the required rate of interest is 5% per annum",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": " 1973 ",
+                    "name": "7%",
                     "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "1971  ",
+                    "name": "5%",
                     "isAnswer":true
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "1989",
+                    "name": "6%",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "1993",
+                    "name": "4%",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": " Which bank has started as a private shareholders bank, mostly by European shareholders?",
-			"explanation": "no explanation",
+            "name": " In what time will Rs.1000 become Rs.1331 at 10% per annum compounded annually",
+			"explanation": "Principal = Rs.1000;<br>Amount = Rs.1331;<br>Rate = Rs.10%p.a.<br>Let the time be n years then, 1000(1+10/100)^n=1331<br>(11/10)^n=1331/1000<br>(11/10)^3=1331/1000<br>So answer is 3 years",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": " Bank of India",
+                    "name": "2 Years",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Bank of Baroda",
-                    "isAnswer":false
+                    "name": "3 Years",
+                    "isAnswer": true
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": " Dena Bank",
+                    "name": "4 Years",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Imperial Bank of India ",
-                    "isAnswer":true
+                    "name": "5 Years",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "IBAI was incorporated as a Company under Section 25 of the Companies Act, 1956. What is the meaning of 'B' in IBAI",
-			"explanation": "no explanation",
+            "name": "Certain sum becomes 3 times it self at compound interest in 10 years.<br> In how many years it becomes 9 times?",
+			"explanation": "P(1 + R/100)10 = 3P<br>=> P(1 + R/100)10 = 3<br>Let P(1 + R/100)n = 9P<br>=> (1 + R/100)n = 9<br>=> 32 = [(1 + R/100)10]2<br>=> (1 + R/100)n => (1 + R/100)20<br>=> n = 20 Years.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "Basel ",
+                    "name": "25 years",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Broadcasting",
+                    "name": "27 years",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Brokers",
-                    "isAnswer": true
+                    "name": "30 years",
+                    "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "Board",
-                    "isAnswer":true
+                    "name": "20 years",
+                    "isAnswer": true
                 }
             ],
             "questionType": {

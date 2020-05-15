@@ -1,37 +1,37 @@
 {
     "id": 1,
-    "name": "Insurance Awareness Quiz Test 2",
-    "description": "Practice Insurance Awareness Quiz Online Test 2",
+    "name": "Areas Test 3",
+    "description": "Practice Areas Online Test 3",
     "questions": [
         {
             "id": 1010,
-            "name": "When did insurance begin in Babylon?",
-			"explanation": "The Babylonians developed a system which was recorded in the Code of Hammurabi.",
+            "name": "The ratio of the area of two square, one having and double its diagonal than the other is?",
+			"explanation": "Let the diagonal of one square be (2d) cm<br>Then, diagonal of another square = d cm<br>Area of first square = [ 1/2 x (2d)^2] cm^2<br>Area of second square = (1/2 x d^2) cm^2<br>Ratio of area = (2d)^2/ d^2= 4/1 = 4: 1",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "1750 BC",
-                    "isAnswer":true
+                    "name": "2:1",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "1907 BC",
+                    "name": "3:1",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "1971 BC ",
+                    "name": "3:2",
                     "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "2000 BC",
-                    "isAnswer": false
+                    "name": "4:1",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -42,33 +42,33 @@
         },
         {
             "id": 1011,
-            "name": " Which one of the following does not belong to the major general insurance private sector companies in India?",
-			"explanation": "no explanation",
+            "name": "A towel, when bleached, was found to have lost 20% of its length and 10% of its breadth.<br>The percentage of decrease in area is:",
+			"explanation": "Let original length = x and original breadth = y.<br>Decrease in area= xy -(80x/100 x 90/100 y)<br>=xy -18/25xy<br>=7/25xy.<br>Decrease % =7/25xy x 1/xy x 100%= 28%.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " Reliance General Insurance",
+                    "name": "10%",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "The Oriental Insurance Company",
-                    "isAnswer":true
+                    "name": "10.08%",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Bajaj Allianz General Insurance",
-                    "isAnswer":false
+                    "name": "20%",
+                    "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Royal Sundaram Alliance Insurance ",
-                    "isAnswer": false
+                    "name": "28%",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -79,33 +79,33 @@
         },
         {
             "id": 1012,
-            "name": "  When was Triton Insurance Company Ltd established?",
-			"explanation": "The first General Insurance Company in India was Triton Insurance Company Ltd. It was set up under the control of British.",
+            "name": "A hall is 15 m long and 12 m broad. If the sum of the areas of the floor and the ceiling is equal to the sum of the areas of four walls,<br>the volume of the hall is:",
+			"explanation": "2(15 + 12) x h = 2(15 x 12)<br>h =180/27m =20/3m.<br>Volume = 15 x 12 x20/3 m^3= 1200 m^3.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "1850",
-                    "isAnswer":true
+                    "name": "720",
+                    "isAnswer": false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "1854",
-                    "isAnswer":false
+                    "name": "900",
+                    "isAnswer": false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "1857",
-                    "isAnswer":false
+                    "name": "1200",
+                    "isAnswer": true
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "1860",
+                    "name": "1800",
                     "isAnswer": false
                 }
             ],
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "The Coinsurance is specified by",
-			"explanation": "Coinsurance refers to money that an individual is required to pay for services after a deductible has been paid. Coinsurance is often specified by a percentage. ",
+            "name": "What is the area of a square field whose side of length 15 m?",
+			"explanation": "15 * 15 = 225 sq m",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "All of the below ",
-                    "isAnswer":false
+                    "name": "225 sq m",
+                    "isAnswer": true
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "Equity",
-                    "isAnswer":false
+                    "name": "220 sq m",
+                    "isAnswer": false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "Ratio ",
+                    "name": "100 sq m",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "  Percentage ",
-                    "isAnswer":true
+                    "name": "30 sq m",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "What is TPA",
-			"explanation": "Third Party Administrators or TPAs are a vital link between health insurance companies, policyholders and health care providers",
+            "name": " A rectangular courtyard 3.78 m long and 5.25 m broad is to be paved exactly with square tiles, all of the same sizes.<br> The minimum number of such tiles is:",
+			"explanation": "l = 378 Cm and b = 525 Cm<br>Maximum length of a square tile<br>= HCF of (378,525) = 21 Cm<br>Number of tiles = (378×525)/(21×21) = (18×25) = 450",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Third Party Administrators",
-                    "isAnswer":true
+                    "name": "350",
+                    "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Third Power Administrators",
-                    "isAnswer":false
+                    "name": "450",
+                    "isAnswer":true
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "The Party Accelerators",
+                    "name": "460",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "The Power Administrators",
+                    "name": "470",
                     "isAnswer":false
                 }
             ],
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "Insurance Repository services launched in India in September 2013. this service enables policyholders to keep their policies in electronic format.these services were launched by which of the following?",
-			"explanation": "no explanation",
+            "name": "A man walking at the rate of 6km per hour crosses a square field diagonally in 9 seconds the area of the field is",
+			"explanation": "Distance covered in 9 seconds = (6×1000/3600)×9 = 15m<br>Diagonal of square field = 15m<br>Side of square =a then diagonal of that square= Root of 2 a<br>Hence area of the square = a^2= (15^2)/2 =112.5 sq.m",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " Life Insurance Corporation of India",
+                    "name": "110 sq.m",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " IRDA",
-                    "isAnswer":true
+                    "name": "111.5 sq.m",
+                    "isAnswer": false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": " SEBI(Securities Exchange Board of India)",
-                    "isAnswer":false
+                    "name": "112.5 sq.m",
+                    "isAnswer": true
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "RBI",
-                    "isAnswer":false
+                    "name": "114 sq.m",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": " A number of Full-time members in IRDA ",
-			"explanation": "no explanation",
+            "name": "If the length of a rectangle is halved and its breadth is tripled, <br>what is the percentage change in its area?",
+			"explanation": "Length is halved.<br>i.e., length is decreased by 50%<br>Breadth is tripled i.e., breadth is increased by 200%<br>Change in area=(-50+200-(50×200)/100)%=50%<br>i.e., area is increased by 50%",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "5",
-                    "isAnswer":false
+                    "name": "25% increase",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": " 25% decrease",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer":true
+                    "name": "50% decrease",
+                    "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " None of the above",
-                    "isAnswer":false
+                    "name": "50% increase",
+                    "isAnswer":true
                 }
             ],
             "questionType": {
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": " Government nationalized Private Sector companies in which year",
-			"explanation": "no explanation",
+            "name": "Find the surface area of a 10 cm × 4 cm × 3 cm brick.",
+			"explanation": "Surface area = [2 (10 × 4 + 4 × 3 + 10 × 3)]sq. cm<br>= (2 × 82) sq. cm<br>= 164 sq. cm.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": " 1973 ",
+                    "name": "128 sq. cm",
                     "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "1971  ",
+                    "name": "164 sq. cm",
                     "isAnswer":true
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "1989",
+                    "name": "194 sq. cm",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "1993",
+                    "name": "208 sq. cm",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": " Which bank has started as a private shareholders bank, mostly by European shareholders?",
-			"explanation": "no explanation",
+            "name": "A hollow iron pipe is 21 cm long and its external diameter is 8 cm. If the thickness of the pipe is 1 cm and iron weighs 8 g/cm3,<br> then the weight of the pipe is:",
+            "explanation": "External radius = 4 cm,<br>Internal radius = 3 cm.<br>Volume of iron =22/7 x [(4)^2 - (3)^2] x 21Cu.cm<br>=22/7x 7 x 1 x 21Cu.cm<br>= 462 Cu.cm<br>Weight of iron = (462 x 8) gm = 3696 gm = 3.696 kg",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": " Bank of India",
+                    "name": "3.6 kg",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Bank of Baroda",
-                    "isAnswer":false
+                    "name": "3.696 kg",
+                    "isAnswer": true
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": " Dena Bank",
+                    "name": "36 kg",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Imperial Bank of India ",
-                    "isAnswer":true
+                    "name": "36.9 kg",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "IBAI was incorporated as a Company under Section 25 of the Companies Act, 1956. What is the meaning of 'B' in IBAI",
-			"explanation": "no explanation",
+            "name": "If the length of a certain rectangle is decreased by 4 cm and the width is increased by 3 cm, a square with the same area as the original rectangle would result.<br>Find the perimeter of the original rectangle.",
+			"explanation": "Let x and y be the length and breadth of the rectangle respectively.<br>Then, x - 4 = y + 3 or x - y = 7 ----(i)<br>Area of the rectangle =xy; Area of the square = (x - 4) (y + 3)<br>(x - 4) (y + 3) =xy <=> 3x - 4y = 12 ----(ii)<br>Solving (i) and (ii), we get x = 16 and y = 9.<br>Perimeter of the rectangle = 2 (x + y) = [2 (16 + 9)] cm = 50 cm.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "Basel ",
+                    "name": "20",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Broadcasting",
+                    "name": "30",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Brokers",
-                    "isAnswer": true
+                    "name": "40",
+                    "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "Board",
-                    "isAnswer":true
+                    "name": "50",
+                    "isAnswer": true
                 }
             ],
             "questionType": {

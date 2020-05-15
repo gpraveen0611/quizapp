@@ -1,37 +1,37 @@
 {
     "id": 1,
-    "name": "Insurance Awareness Quiz Test 2",
-    "description": "Practice Insurance Awareness Quiz Online Test 2",
+    "name": "Boats and Streams Test 3",
+    "description": "Practice Boats and Streams Online Test 3",
     "questions": [
         {
             "id": 1010,
-            "name": "When did insurance begin in Babylon?",
-			"explanation": "The Babylonians developed a system which was recorded in the Code of Hammurabi.",
+            "name": "A man can row a boat 12 km/h with the stream and 8km/h against the stream.<br>Find his speed in still water.",
+			"explanation": "Speed of boat in still water = ½(u+v) km/hr = ½ (12+8)=10km/hr",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "1750 BC",
-                    "isAnswer":true
+                    "name": "2km/hr",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "1907 BC",
+                    "name": "4km/hr",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "1971 BC ",
+                    "name": "8km/hr",
                     "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "2000 BC",
-                    "isAnswer": false
+                    "name": "10km/hr",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": " Which one of the following does not belong to the major general insurance private sector companies in India?",
-			"explanation": "no explanation",
+            "name": "The speed of a boat in still water in 22 km/hr and the rate of current is 4 km/hr.<br>The distance travelled downstream in 24 minutes is:",
+			"explanation": "Speed downstream = (22 + 4) = 26 kmph<br>Time = 24 minutes =24/60 hour = 2/5 hour<br>Distance travelled = Time × speed=2/5×26 = 10.4 km",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " Reliance General Insurance",
+                    "name": "9.4 km",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "The Oriental Insurance Company",
-                    "isAnswer":true
+                    "name": "10.2 km",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Bajaj Allianz General Insurance",
-                    "isAnswer":false
+                    "name": "10.4 km",
+                    "isAnswer": true
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Royal Sundaram Alliance Insurance ",
+                    "name": "9.2 km",
                     "isAnswer": false
                 }
             ],
@@ -79,33 +79,33 @@
         },
         {
             "id": 1012,
-            "name": "  When was Triton Insurance Company Ltd established?",
-			"explanation": "The first General Insurance Company in India was Triton Insurance Company Ltd. It was set up under the control of British.",
+            "name": "A man can row upstream at 7 kmph and downstream at 10 kmph. Find man’s rate in still water and the rate of current.",
+			"explanation": "Rate in still water = 1/2 (10 + 7) km/hr = 8.5 km/hr.<br>Rate of current = 1/2(10 – 7) km/hr = 1.5 km/hr.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "1850",
+                    "name": "1.5 km/hr",
                     "isAnswer":true
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "1854",
+                    "name": "2.0 km/hr",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "1857",
-                    "isAnswer":false
+                    "name": "3.5 km/hr",
+                    "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "1860",
+                    "name": "6.2 km/hr",
                     "isAnswer": false
                 }
             ],
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "The Coinsurance is specified by",
-			"explanation": "Coinsurance refers to money that an individual is required to pay for services after a deductible has been paid. Coinsurance is often specified by a percentage. ",
+            "name": " A man can push upstream at 6km/hr and downstream at 10 km/hr. Discover man's rate in still water and the rate of the momentum.",
+			"explanation": "Speed upstream =6 km/hr<br>Speed downstream = 10 km/hr<br>Rate in still water = 1/2 (10-6) km/hr. = 6km/hr<br>Rate of the current = 1/2 (10+6) km/hr =8 km/hr",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "All of the below ",
+                    "name": "4,5 km/hr",
                     "isAnswer":false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "Equity",
+                    "name": "5,6 km/hr",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "Ratio ",
-                    "isAnswer": false
+                    "name": "6,8 km/hr",
+                    "isAnswer": true
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "  Percentage ",
-                    "isAnswer":true
+                    "name": "7,9 km/hr",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "What is TPA",
-			"explanation": "Third Party Administrators or TPAs are a vital link between health insurance companies, policyholders and health care providers",
+            "name": "The speed of a boat downstream is 15 km/hr and the speed of the stream is 1.5 km/hr.<br>The speed of the boat upstream is?",
+			"explanation": "Let the speed of boat in still water be x km/hr Then, x + 1.5 = 15<br>x = 13.5<br>Speed upstream = (13.5 - 1.5) km/hr = 12 km/hr",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Third Party Administrators",
-                    "isAnswer":true
+                    "name": "13.5 km/hr",
+                    "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Third Power Administrators",
+                    "name": "16.5 km/hr",
                     "isAnswer":false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "The Party Accelerators",
-                    "isAnswer":false
+                    "name": "12 km/hr",
+                    "isAnswer":true
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "The Power Administrators",
+                    "name": "8.25 km/hr",
                     "isAnswer":false
                 }
             ],
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "Insurance Repository services launched in India in September 2013. this service enables policyholders to keep their policies in electronic format.these services were launched by which of the following?",
-			"explanation": "no explanation",
+            "name": "A man can row upstream at 8 kmph and downstream at 13 kmph.<br>The speed of the stream is:",
+			"explanation": "Speed of stream = 1/2 (13 - 8) kmph = 2.5 kmph",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " Life Insurance Corporation of India",
-                    "isAnswer": false
+                    "name": "3",
+                    "isAnswer": true
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " IRDA",
-                    "isAnswer":true
+                    "name": "5",
+                    "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": " SEBI(Securities Exchange Board of India)",
+                    "name": "8",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "RBI",
-                    "isAnswer":false
+                    "name": "9",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -228,32 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": " A number of Full-time members in IRDA ",
-			"explanation": "no explanation",
+            "name": " In one hour, a boat goes 11 km/hr along the stream and 5 km/hr against the stream.<br>The speed of the boat in still water (in km/hr) is:",
+			"explanation": "Speed in still water = 1/2(11 + 5) kmph = 8 kmph.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "5",
-                    "isAnswer":false
+                    "name": "3 km/hr",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "5 km/hr",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer":true
+                    "name": "8 km/hr",
+                    "isAnswer": true
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " None of the above",
+                    "name": "9 km/hr",
                     "isAnswer":false
                 }
             ],
@@ -265,33 +265,33 @@
 		},
 		{
 			"id": 1017,
-            "name": " Government nationalized Private Sector companies in which year",
-			"explanation": "no explanation",
+            "name": "If Rahul rows 15 km upstream in 3 hours and 21 km downstream in 3 hours,<br>then the speed of the stream is",
+			"explanation": "Rate upstream = (15/3) kmph<br>Rate downstream (21/3) kmph = 7 kmph.<br>Speed of stream (1/2)(7 - 5)kmph = 1 kmph",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": " 1973 ",
+                    "name": "5 km/hr",
                     "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "1971  ",
-                    "isAnswer":true
+                    "name": "4 km/hr",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "1989",
+                    "name": "2 km/hr",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "1993",
-                    "isAnswer": false
+                    "name": "1 km/hr",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": " Which bank has started as a private shareholders bank, mostly by European shareholders?",
-			"explanation": "no explanation",
+            "name": "A man's speed with the current is 15 km/hr and the speed of the current is 2.5 km/hr.<br> The man's speed against the current is:",
+			"explanation": "Man's speed with the current = 15 km/hr<br>=> speed of the man + speed of the current = 15 km/hr speed of the current is 2.5 km/hr<br>Hence, speed of the man = 15 - 2.5 = 12.5 km/hr<br>man's speed against the current = speed of the man - speed of the current<br>= 12.5 - 2.5 = 10 km/hr",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": " Bank of India",
+                    "name": "8.5 km/hr",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Bank of Baroda",
-                    "isAnswer":false
+                    "name": "10 km/hr",
+                    "isAnswer": true
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": " Dena Bank",
+                    "name": "12.5 km/hr",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Imperial Bank of India ",
-                    "isAnswer":true
+                    "name": "9 km/hr",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "IBAI was incorporated as a Company under Section 25 of the Companies Act, 1956. What is the meaning of 'B' in IBAI",
-			"explanation": "no explanation",
+            "name": "A man can row upstream 10 kmph and downstream 20 kmph.<br>Find the man rate in still water and rate of the stream.",
+			"explanation": "Please remember, If a is rate downstream and b is rate upstream<br>Rate in still water = 1/2(a+b)<br>Rate of current = 1/2(a-b)<br>=> Rate in still water = 1/2(20+10) = 15 kmph<br>=> Rate of current = 1/2(20-10) = 5 kmph",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "Basel ",
+                    "name": "0,5",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Broadcasting",
+                    "name": " 5,5",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Brokers",
+                    "name": "15,5",
                     "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "Board",
-                    "isAnswer":true
+                    "name": "10,5",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

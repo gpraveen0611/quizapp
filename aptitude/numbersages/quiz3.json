@@ -1,37 +1,37 @@
 {
     "id": 1,
-    "name": "Insurance Awareness Quiz Test 2",
-    "description": "Practice Insurance Awareness Quiz Online Test 2",
+    "name": "Numbers and Ages Test 3",
+    "description": "Practice Numbers and Ages Online Test 3",
     "questions": [
         {
             "id": 1010,
-            "name": "When did insurance begin in Babylon?",
-			"explanation": "The Babylonians developed a system which was recorded in the Code of Hammurabi.",
+            "name": "Sachin is younger than rahul by 4 years. If their ages are in the respective ratio of 7:9,<br> how old is Sachin?",
+			"explanation": "Let Rahul's age be x years. Then, Sachin's age = (x-7) years<br>x-7 / x = 7 / 9 <=> 9x - 63 = 7x <=> 2x = 63 <=> x = 31.5.<br>Hence, Sachin's age = ( x - 7 ) = 24.5 years.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "1750 BC",
-                    "isAnswer":true
+                    "name": "16 years",
+                    "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "1907 BC",
+                    "name": "18 years",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "1971 BC ",
+                    "name": "28 years",
                     "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "2000 BC",
-                    "isAnswer": false
+                    "name": "None of these",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": " Which one of the following does not belong to the major general insurance private sector companies in India?",
-			"explanation": "no explanation",
+            "name": "A father said his son,I was as old as you are at present at the time of your birth.<br>If the father age is 38 now,<br> The son age 5 years back was :",
+			"explanation": "Let the son's present age be x years .Then, (38 - x) = x => x= 19.<br>Son's age 5 years back = (19 - 5) = 14 years",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": " Reliance General Insurance",
-                    "isAnswer":false
+                    "name": "14",
+                    "isAnswer":true
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "The Oriental Insurance Company",
-                    "isAnswer":true
+                    "name": "19",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "Bajaj Allianz General Insurance",
-                    "isAnswer":false
+                    "name": "33",
+                    "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "Royal Sundaram Alliance Insurance ",
+                    "name": "38",
                     "isAnswer": false
                 }
             ],
@@ -79,33 +79,33 @@
         },
         {
             "id": 1012,
-            "name": "  When was Triton Insurance Company Ltd established?",
-			"explanation": "The first General Insurance Company in India was Triton Insurance Company Ltd. It was set up under the control of British.",
+            "name": "Ten years ago A was half of B in age. If the ratio of their present ages is 3: 4,<br> what will be the total of their present ages?",
+			"explanation": "Let A's age 10 years ago = x years.<br>Then, B's age 10 years ago = 2x years.<br>(x + 10) / (2x+ lO) = 3/4<br>=> x = 5.<br>So, the total of their present ages =(x + 10 + 2x + 10)<br>= (3x + 20) = 35 years.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "1850",
-                    "isAnswer":true
+                    "name": "30",
+                    "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "1854",
-                    "isAnswer":false
+                    "name": "35",
+                    "isAnswer":true
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "1857",
-                    "isAnswer":false
+                    "name": "37",
+                    "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "1860",
+                    "name": "41",
                     "isAnswer": false
                 }
             ],
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "The Coinsurance is specified by",
-			"explanation": "Coinsurance refers to money that an individual is required to pay for services after a deductible has been paid. Coinsurance is often specified by a percentage. ",
+            "name": "My present age is 432 times the reciprocal of my age 6 years back.<br> What is my present age?",
+			"explanation": "Let the present age be x. Then x=432/x-6. At this stage, a better option is that you try putting the given answers into this expression one by one.<br>The other option is to simplify this expression into a quadratic equation x×(x-6) = 432. This can now be solved to give x = 24 years.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "All of the below ",
-                    "isAnswer":false
+                    "name": "24 years",
+                    "isAnswer":true
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "Equity",
+                    "name": "25 years",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "Ratio ",
+                    "name": "23 years",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "  Percentage ",
-                    "isAnswer":true
+                    "name": "26 years",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,33 +154,33 @@
 		},
 		{
 			"id": 1014,
-            "name": "What is TPA",
-			"explanation": "Third Party Administrators or TPAs are a vital link between health insurance companies, policyholders and health care providers",
+            "name": " Ten years ago, the age of mother was three times the age of her son. After ten years, mother’s age will be twice that of his son.<br> Find the ratio of their present ages.",
+			"explanation": "10 years ago, age of mother was three times the age of her son. Say, the age of son was x and mother's age was 3x.<br>At present: Mother's age is (3x + 10) and son’s age is (x + 10)<br>After ten years: Mother's age will be (3x + 10) +10 and son’s age will be (x + 10) + 10. Given that, mother’s age is twice that of son after ten years.<br>(3x + 10) +10 = 2 [(x + 10) + 10]<br>(3x + 20) = 2[x + 20]<br>Solving the equation, we get x = 20<br>(3x + 10): (x + 10) = 70: 30 = 7: 3.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "Third Party Administrators",
-                    "isAnswer":true
+                    "name": "11 : 7",
+                    "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": " Third Power Administrators",
-                    "isAnswer":false
+                    "name": "9 : 5",
+                    "isAnswer": false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "The Party Accelerators",
+                    "name": "7 : 4",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "The Power Administrators",
-                    "isAnswer":false
+                    "name": "7 : 3",
+                    "isAnswer":true
                 }
             ],
             "questionType": {
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "Insurance Repository services launched in India in September 2013. this service enables policyholders to keep their policies in electronic format.these services were launched by which of the following?",
-			"explanation": "no explanation",
+            "name": "A man said to his son, I was one-third of your present age when you were born. If the present age of the man is 48 years,<br> find the present age of the son.",
+			"explanation": "The present age of the son be P, he was born P years ago.<br>The age of the man was: (48 - P).<br>His age when the son was born should be equal to 1/3 of P.<br>(48 - P) =1/3 P<br>P = 36",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": " Life Insurance Corporation of India",
+                    "name": "25.7 years",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": " IRDA",
-                    "isAnswer":true
+                    "name": "28 years",
+                    "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": " SEBI(Securities Exchange Board of India)",
+                    "name": "29.3 years",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "RBI",
-                    "isAnswer":false
+                    "name": "36 years",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": " A number of Full-time members in IRDA ",
-			"explanation": "no explanation",
+            "name": "Sachin was twice as old as Ajay 10 years back.<br> How old is Ajay today if Sachin will be 40 years old 10 years hence",
+			"explanation": "Sachin's age today = 30 years. Sachin's age 10 years back = 20 years. Ajay's age 10 years back = 10 years. Ajay's age today =20 years",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "5",
-                    "isAnswer":false
+                    "name": "18",
+                    "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "15",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer":true
+                    "name": "25",
+                    "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " None of the above",
-                    "isAnswer":false
+                    "name": "20",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": " Government nationalized Private Sector companies in which year",
-			"explanation": "no explanation",
+            "name": "Ramesh is younger than Rahul by 7 years. If the ratio of their ages is 7:9,<br> find the age of Sachin",
+			"explanation": "If Rahul age is x, then Sachin age is x - 7,<br>so, (x-7)/x =7/9<br>9x - 63 = 7x<br>2x = 63<br>x = 31.5<br>So Sachin age is 31.5 - 7 = 24.5",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": " 1973 ",
-                    "isAnswer":false
+                    "name": "24.5",
+                    "isAnswer":true
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "1971  ",
-                    "isAnswer":true
+                    "name": "25.5",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "1989",
+                    "name": "26.5",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "1993",
+                    "name": "27.5",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": " Which bank has started as a private shareholders bank, mostly by European shareholders?",
-			"explanation": "no explanation",
+            "name": "The total age of A and B is 12 years more than the total age of B and C.<br> C is how many year younger than A",
+			"explanation": "Given that A+B = 12 + B + C<br>=> A – C = 12 + B – B = 12<br>=> C is younger than A by 12 years",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": " Bank of India",
+                    "name": "11",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "Bank of Baroda",
-                    "isAnswer":false
+                    "name": "12",
+                    "isAnswer": true
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": " Dena Bank",
+                    "name": "13",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": " Imperial Bank of India ",
-                    "isAnswer":true
+                    "name": "14",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "IBAI was incorporated as a Company under Section 25 of the Companies Act, 1956. What is the meaning of 'B' in IBAI",
-			"explanation": "no explanation",
+            "name": "P is 13 years older than Q, and Q's age is 6 times the age of R. If the sum of their ages today is 117,<br> Then what is the age of Q?",
+			"explanation": "Let the age of R be x. Then the age of Q is 6x, and that of P is 6x + 13.<br>Adding the three ages, (6x + 13) + 6x + x = 117.<br>Solving, we get x = 8. So the age of Q is 6x = 48 years.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "Basel ",
-                    "isAnswer": false
+                    "name": "48 years",
+                    "isAnswer": true
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "Broadcasting",
+                    "name": "49 years",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "Brokers",
-                    "isAnswer": true
+                    "name": "47 years",
+                    "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "Board",
-                    "isAnswer":true
+                    "name": "50 years",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
