@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Logical Problems Test 3",
+    "description": "Practice Logical Problems Online Test 3",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Statement: Anger is energy, in a more proactive way and how to channelize it is in itself a skill.<br>Assumptions: I. Anger need to be channelized.<br>II. Only skillful people can channelize anger to energy.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "If only assumption I is implicit.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "If only assumption II is implicit.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "if either I or II is implicit.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "if both I and II are implicit.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Statement: Medicine ‘P’ is a drug which is causing ripples in the medical field.<br>Assumptions: I. No other drug is causing ripples in the medical field.<br>II. Medicine ‘P’ is a great drug.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "If only assumption I is implicit.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": " If only assumption II is implicit.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "if either I or II is implicit.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "if neither I or II is implicit.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Melt : Liquid :: Freeze :",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Ice",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Solid",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Condense",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Push",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Parts : Strap :: Wolf :",
+			"explanation": "no explanation ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Flow",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Animal",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "Wood",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Fox",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "I.All the trees in the park are flowering trees.<br>II.Some of the trees in the park are dogwoods.<br>llI. dogwoods in the park are flowering trees.<br>If the first two statements are true, the third statement is",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "true",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "false",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "uncertain",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "None of the above",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Fact 1: Islands are surrounded by water.<br>Fact 2: Maui is an island.<br>Fact 3: Maui was formed by a volcano.<br>If the first three statements are facts, which of the following statements must also be a fact?<br>I. Maui is surrounded by water.<br>II. All islands are formed by volcanoes.<br>III. All volcanoes are on islands.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "I only",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "II onlI and II only",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "I and II only",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "None",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Fact 1: Some pens don’t write.<br>Fact 2: All blue pens write.<br>Fact 3: Some writing utensils are pens.<br>If the first three statements are facts, which of the following statements must also be a fact?<br>I. Some writing utensils don’t write.<br>II. Some writing utensils are blue.<br>III. Some blue writing utensils don’t write.",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "II only",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "I and II only",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "II and III only",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "None of the statements ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "I. Class A has a higher enrollment than Class B.<br>II. Class C has a lower enrollment than Class B.<br>III. Class A has a lower enrollment than Class C.<br>If the first two statements are true, the third statement is",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "true",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "false",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "uncertain",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "None",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "I.The temperature on Monday was lower than on Tuesday.<br>II.The temperature on Wednesday was lower than on Tuesday.<br>III.The temperature on Monday was higher than on Wednesday<br>If the first two statements are true, the third statement is",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "true",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "false",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "uncertain",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "none",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "I. All the tulips in Zoe's garden are white.<br>II. All the pansies in Zoe's garden are yellow.<br>III. All the flowers in Zoe's garden are either white or yellow<br>If the first two statements are true, the third statement is",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "true",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "false",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "uncertain",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "None",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

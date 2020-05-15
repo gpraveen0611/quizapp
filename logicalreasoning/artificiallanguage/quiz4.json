@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Artificial Language Test 4",
+    "description": "Artificial Language Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Here are some words translated from an artificial language.<br>'tamceno' means sky blue<br>'cenorax' means blue cheese<br>'aplmitl' means star bright<br>Which word could mean 'bright sky?",
+			"explanation": "Tam means sky; ceno means blue; rax means cheese; apl means star; and mitl means bright. So, mitltam means bright sky.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "cenotam",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "mitltam",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "raxmitl",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "aplceno",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Here are some words translated from an artificial language.<br>'dionot' means oak tree<br>'blyonot' means oak leaf<br>'blycrin' means maple leaf<br>Which word could mean 'maple syrup'?",
+			"explanation": "In this language, the adjective follows the noun. From dionot and blyonot, you can determine that 'onot' means oak. From blyonot and blycrin, you can determine that bly means leaf. Therefore, crin means maple. Because the adjective maple comes after the noun, patricrin is the only possible choice.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "blymuth",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "hupponot",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "patricrin",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "crinweel",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Here are some words translated from an artificial language.<br>'aptaose' means first base<br>'eptaose' means second base<br>'lartabuk' means ballpark<br>Which word could mean 'baseball'?",
+			"explanation": "Apta means first; ose means base; epta means second; larta means ball; and buk means park. Thus, oselarta means baseball.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "buklarta",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "oseepta",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "bukose",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "oselarta",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Here are some words translated from an artificial language.<br>'mallonpiml' means blue light<br>'mallontifl' means blueberry<br>'arpantifl' means raspberry<br>Which word could mean 'lighthouse'?",
+			"explanation": "Mallon means blue; pimlmeans light; tifl means berry; and arpan means 'rasp' in raspberry. The word piml, which means light, is required for the word lighthouse. That rules out choices a and c. Arpan in choice b means 'rasp', so that rules out choice b. That leaves choice d the only possible answer.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "tiflmallon",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "pimlarpan",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "mallonarpan",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "pimldoken",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Here are some words translated from an artificial language.<br>'slar' means jump<br>'slary' means jumping<br>'slarend' means jumped<br>Which word could mean 'playing'?",
+			"explanation": "According to this language, slar means jump. The suffix -ing is represented by -y. Since choice b is the only one that ends in the letter y, this is the only possible option.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "clargslarend",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "clargy",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "ellaclarg",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "slarmont",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "'VISHNU' is written as 'UHNSVI' just like GANESH is written as?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "HESNAG",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "HESNGA",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "HSENAG",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "HNESAG",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "If 'FON DYU' means 'HARD DISK', 'DISK PACK' means 'DYU PIK' & 'PEN DRIVE' means 'PITT EN', what does DISK DRIVE mean?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "DYU EN",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "PIK EN ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "FON EN ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "NONE OF THESE",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Here are some words translated from an artificial language.<br>'godabim' means kidney stones<br>'romzbim' means kidney beans<br>'romzbako' means wax beans<br>Which word could mean 'wax statue'?",
+			"explanation": "In this language, the adjective follows the noun. From godabim and romzbim, you can determine that bim means kidney. From romzbim and romzbako, you can determine that romz means beans. Therefore, bako means wax. Because the adjective wax must come after the noun in this language, wasibako is the only choice.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " godaromz ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": " lazbim ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "wasibako",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "romzpeo",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Here are some words translated from an artificial language.<br>'krekinblaf' means 'workforce'<br>'dritakrekin' means 'groundwork'<br>'krekinalti' means 'workplace'<br>Which word could mean 'someplace'?",
+			"explanation": "Krekin means work; blaf means force; drita means ground; and alti means place. Drita means ground, so that rules out choices b and d. Choice c isn't correct because blaf means force. That leaves choice a as the only possible answer.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "moropalti",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "krekindrita",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "altiblaf",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "dritaalti",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Here are some words translated from an artificial language.<br>'agnoscrenia' means poisonous spider<br>'delanocrenia' means poisonous snake<br>'agnosdeery' means brown spider<br>Which word could mean 'black widow spider'?",
+			"explanation": "In this language, the noun appears first and the adjectives follow. Since agnos means spider and should appear first, choices a and d can be ruled out. Choice b can be ruled out because delano means snake.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "deeryclostagnos",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "agnosdelano",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "agnosvitriblunin",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "trymuttiagnos",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Number Series Test 4",
+    "description": "Number Series Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "11 14 14 17 17 20 20 ",
+			"explanation": "This is a simple addition series with repetition. It adds 3 to each number to arrive at the next, which is repeated before 3 is added again.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "23 23",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "23 26",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "21 24",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "24 24 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "10 34 12 31 14 28 16",
+			"explanation": "Two patterns alternate here. The first pattern begins with 10 and adds 2 to each number to arrive at the next; the alternating pattern begins with 34 and subtracts 3 each time.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "25 18",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "30 13",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "19 26",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "18 20",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "17 14 14 11 11 8 8",
+			"explanation": "In this simple subtraction with repetition series, each number is repeated, then 3 is subtracted to give the next number,<br>which is then repeated, and so on.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "8 5",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "5 2",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "8 2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "5 5",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "17 32 19 29 21 26 23",
+			"explanation": "Here, there are two alternating patterns. The first begins with 17 and adds 2; the second begins with 32 and subtracts 3.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "25 25",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "20 22",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "23 25",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "25 22",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "2 44 4 41 6 38 8",
+			"explanation": "Here, there are two alternating patterns, one addition and one subtraction. The first starts with 2 and increases by 2; the second starts with 44 and decreases by 3.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "10 12",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "35 32",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "34 9",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "35 10",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "7 9 66 12 14 66 17",
+			"explanation": "This is an alternating addition series with repetition, in which a random number, 66, is interpolated as every third number. The regular series adds 2, then 3, then 2, and so on, with 66 repeated after each 'add 2' step.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "19 66",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "66 19",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "19 22",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "20 66",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "3 8 10 15 17 22 24",
+			"explanation": "This is an alternating addition series that adds 5, then 2, then 5, and so on.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "26 28",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "29 34",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "29 31",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "26 31",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "4 7 26 10 13 20 16",
+			"explanation": "Two patterns alternate here, with every third number following the alternate pattern. In the main series, beginning with 4, 3 is added to each number to arrive at the next. In the alternating series, beginning with 26, 6 is subtracted from each number to arrive at the next.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "14 4",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": " 14 17",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "18 14",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "19 14",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "32 29 26 23 20 17 14",
+			"explanation": "In this simple subtraction series, the numbers decrease by 3.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "11 8",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "12 8",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "32 29",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "10 9",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "16 26 56 36 46 68 56",
+			"explanation": "Here, every third number follows a different pattern from the main series. In the main series, beginning with 16, 10 is added to each number to arrive at the next. In the alternating series, beginning with 56, 12 is added to each number to arrive at the next.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "80 66",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "64 82",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "66 80",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "66 82",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

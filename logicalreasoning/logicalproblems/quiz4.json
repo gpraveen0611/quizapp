@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Logical Problems Test 4",
+    "description": "Logical Problems Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Nurse Kemp has worked more night shifts in a row than Nurse Rogers, who has worked five. Nurse Miller has worked fifteen night shifts in a row, more than Nurses Kemp and Rogers combined. Nurse Calvin has worked eight night shifts in a row, less than Nurse Kemp.<br>How many night shifts in a row has Nurse Kemp worked?",
+			"explanation": "Nurse Kemp has worked more shifts in a row than Nurse Calvin; therefore, Kemp has worked more than eight shifts. The number of Kemp's shifts plus the number of Rogers's shifts (five) cannot equal fifteen or more, the number of Miller's shifts. Therefore, Kemp has worked nine shifts in a row (5 + 9 = 14).",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "8",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "9",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "11",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Danielle has been visiting friends in Ridge-wood for the past two weeks. She is leaving tomorrow morning and her flight is very early. Most of her friends live fairly close to the airport. Madison lives ten miles away. Frances lives five miles away, Samantha, seven miles. Alexis is farther away than Frances, but closer than Samantha.<br> Approximately how far away from the airport is Alexis?",
+			"explanation": "Alexis is farther away than Frances, who is five miles away, and closer than Samantha, who is seven miles away.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "nine miles",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "eight miles",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "six miles",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "seven miles",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "The high school math department needs to appoint a new chairperson, which will be based on seniority. Ms. West has less seniority than Mr. Temple, but more than Ms. Brody. Mr. Rhodes has more seniority than Ms. West, but less than Mr. Temple. Mr. Temple doesn't want the job.<br> Who will be the new math department chairperson?",
+			"explanation": "Mr. Temple has the most seniority, but he does not want the job. Next in line is Mr. Rhodes, who has more seniority than Ms. West or Ms. Brody.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Mr. Rhodes",
+                    "isAnswer": true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Mr. Temple",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Ms.West",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Ms. Brody",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Four friends in the sixth grade were sharing a pizza. They decided that the oldest friend would get the extra piece. Randy is two months older than Greg, who is three months younger than Ned. Kent is one month older than Greg.<br>Who should get the extra piece of pizza?",
+			"explanation": "If Randy is two months older than Greg, then Ned is three months older than Greg and one month older than Randy. Kent is younger than both Randy and Ned. Ned is the oldest.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Randy",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Greg",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "Ned",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Kent",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "As they prepare for the state championships, one gymnast must be moved from the Level 2 team to the Level 1 team. The coaches will move the gymnast who has won the biggest prize and who has the most experience. In the last competition, Roberta won a bronze medal and has competed seven times before. Jamie has won a silver medal and has competed fewer times than Roberta. Beth has won a higher medal than Jamie and has competed more times than Roberta. Michele has won a bronze medal, and it is her third time competing.<br> Who will be moved to the Level 1 team?",
+			"explanation": "Beth won the biggest prize, described as a higher medal than Jamie's, which we've been told was a silver medal. Roberta and Michele both won bronze medals, which are lower ranking medals than silver. Beth is also described as having competed more times than Roberta who has competed seven times. Jamie is described as having competed fewer times than Roberta, and Michele has competed three times. Therefore, Beth has competed more times than the others and has won the biggest prize to date.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Roberta",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Beth",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Michele",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Jamie",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Four defensive football players are chasing the opposing wide receiver, who has the ball. Calvin is directly behind the ball carrier. Jenkins and Burton are side by side behind Calvin. Zeller is behind Jenkins and Burton. Calvin tries for the tackle but misses and falls. Burton trips.<br> Which defensive player tackles the receiver?",
+			"explanation": "After all the switching was done, Jenkins was directly behind the receiver. Calvin and Burton had fallen. Zeller remained in the rear.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Burton",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Zeller",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Jenkins",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Calvin",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A four-person crew from Classic Colors is painting Mr. Field's house. Michael is painting the front of the house. Ross is in the alley behind the house painting the back. Jed is painting the window frames on the north side, Shawn is on the south. If Michael switches places with Jed, and Jed then switches places with Shawn,<br> where is Shawn?",
+			"explanation": "After all the switches were made, Shawn is in front of the house. Ross is in the alley behind the house,Michael is on the north side, and Jed is on the south.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "in the alley behind the house",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "on the north side of the house",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "in front of the house",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "on the south side of the house",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "In a four-day period Monday through Thursday each of the following temporary office workers worked only one day, each a different day. Ms. Johnson was scheduled to work on Monday, but she traded with Mr. Carter, who was originally scheduled to work on Wednesday. Ms. Falk traded with Mr. Kirk, who was originally scheduled to work on Thursday. After all the switching was done,<br> who worked on Tuesday?",
+			"explanation": "After all the switches were made, Mr. Kirk worked on Tuesday. Mr. Carter worked on Monday,Ms. Johnson on Wednesday, and Ms. Falk on Thursday.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Mr. Carter",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Ms. Falk",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Ms. Johnson",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "Mr. Kirk",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Four people witnessed a mugging. Each gave a different description of the mugger.<br> Which description is probably right?",
+			"explanation": "Tall, thin, and middle-aged are the elements of the description repeated most often and are therefore the most likely to be accurate.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "He was average height, thin, and middle-aged.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "He was tall, thin, and middle-aged.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "He was tall, thin, and young.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "He was tall, of average weight, and middle-aged.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Ms. Forest likes to let her students choose who their partners will be; however, no pair of students may work together more than seven class periods in a row. Adam and Baxter have studied together seven class periods in a row. Carter and Dennis have worked together three class periods in a row. Carter does not want to work with Adam.<br> Who should be assigned to work with Baxter?",
+			"explanation": "Baxter should be assigned to study with Carter. Baxter cannot be assigned with Adam, because they have already been together for seven class periods. If Baxter is assigned to work with Dennis, that would leave Adam with Carter, but Carter does not want to work with Adam.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Carter ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Adam",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Dennis",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Forest",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

@@ -1,0 +1,380 @@
+{
+    "id": 1,
+    "name": "Analogies Test 4",
+    "description": "Analogies Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "MONK : DEVOTION",
+			"explanation": "Devotion is characteristic of a monk; wanderlust is characteristic of a rover.",
+            "questionTypeId": 1,
+            "options":
+            [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Maniac : Pacifism",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Explorer : Contentment",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Visionary : Complacency",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Rover : Wanderlust",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": 
+            {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "SLAPSTICK : LAUGHTER",
+			"explanation": "Slapstick results in laughter; horror results in fear.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Fallacy : Dismay",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Genre : Mystery",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Horror : Fear",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Mimicry : Tears",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "VERVE : ENTHUSIASM",
+			"explanation": "Verve and enthusiasm are synonyms; devotion and reverence are synonyms.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Loyalty : Duplicity",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Devotion : Reverence",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "intensity : color",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Generosity : Elation",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "SPY : CLANDESTINE",
+			"explanation": "A spy acts in a clandestine manner; an accountant acts in a meticulous manner.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Accountant : Meticulous",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Furrier : Rambunctious",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "Lawyer : Ironic",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Astronaut : Opulent",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "COBBLER : SHOE",
+			"explanation": "A cobbler makes and repairs shoes; a contractor builds and repairs buildings.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Jockey : Horse",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Mason : Stone",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Contractor : Building",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Potter : Paint",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "UMBRAGE : OFFENSE",
+			"explanation": "Umbrage and offense are synonyms; elation and jubilance are synonyms.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Confusion : Penance",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Elation : Jubilance",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Outrage : Consideration",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Decorum : Decoration",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "DIRGE : FUNERAL",
+			"explanation": "A dirge is a song used at a funeral; a jingle is a song used in a commercial.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Chain : Letter",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Bell : Church",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Jingle : Commercial",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Hymn : Concerto",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "DOMINANCE : HEGEMONY",
+			"explanation": "Hegemony means dominance; autonomy means independence.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Independence : Autonomy",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Romance : Sympathy",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Tolerance : Philanthropy",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "Recompense : Hilarity",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "PHOBIC : FEARFUL",
+			"explanation": "To be phobic is to be extremely fearful; to be asinine is to be extremely silly.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "Asinine : Silly",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "Envious : Desiring",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "Shy : Familiar",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "Asinine : Silly",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "FERAL : TAME",
+			"explanation": "Feral and tame are antonyms; ephemeral and immortal are antonyms.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Rancid : Rational",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Repetitive : Recurrent",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Ephemeral : Immortal",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Nettlesome : Annoying",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

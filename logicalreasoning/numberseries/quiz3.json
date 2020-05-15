@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Number Series Test 3",
+    "description": "Practice Number Series Online Test 3",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "What should come in place of the question mark '?' in the following number series?<br> 2916, 972, ?, 108, 36, 12",
+			"explanation": "2916 ÷ 3 = 972<br>972 ÷ 3 = 324 = ?<br>324 ÷ 3 = 108<br>108 ÷ 3 = 36<br>36 ÷ 3 = 12",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "324",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "234",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "248",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "391",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "17, 22, 27, 32, …... ? …....",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "33",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "35",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "38",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "37",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "25, 75, 35, 70, 45, …... ? …....",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "65",
+                    "isAnswer":true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "60",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "55",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "85",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "4, 6, 9, 13,",
+			"explanation": "The difference between two consecutive numbers is increasing in the order of 2,3, 4, 5, etc.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": " 15",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "12",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "18",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "17",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "42 40 38 35 33 31 28",
+			"explanation": "This is an alternating subtraction series in which 2 is subtracted twice, then 3 is subtracted once, then 2 is subtracted twice, and so on.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "25 22",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "26 23",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "26 24",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "25 23",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "5, 12, 23, 50, 141, ?",
+			"explanation": "5……….12………23………..50……….141…………488<br>….+7…….+11……….+27……….+91………+347<br>………+4……..+16……….+64………+256",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "415",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "430",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "439",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "488",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "210 209 213 186 202 (?)",
+			"explanation": "The pattern of the number series is :<br>210 – 1³= 209<br>209 + 2² = 213<br>213 – 3³ = 186<br>186 + 4² = 202<br>202 – 5³ = 202 – 125 = 77",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "138",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "77",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "177",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "327",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "2, 7, 14, 23, ?, 47",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "31",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "28",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "34",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "38",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "10,100,200,310,....",
+			"explanation": "The pattern is obtained by adding +90,+100,+110,+120 to consecutive terms.So the missing term is 310+120=430.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "420",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "400",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "410",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "430",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "22, 21, 23, 22, 24, 23, ___ ?",
+			"explanation": "This is alternating subtraction and addition series; 1 is subtracted, then 2 is added, and so on.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "23",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "25",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "22",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "26",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

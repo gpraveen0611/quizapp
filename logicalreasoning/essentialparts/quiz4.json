@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Essential Parts Test 4",
+    "description": " Online Essential Parts Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Wedding",
+			"explanation": "A wedding results in a joining, or a marriage, so choice d is the essential element. Love (choice a) usually precedes a wedding, but it is not essential. A wedding may take place anywhere, so a church (choice b) is not required. A ring (choice c) is often used in a wedding, but it is not necessary.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "love",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "church",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "ring",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Marriage",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Faculty",
+			"explanation": "A faculty consists of a group of teachers and cannot exist without them. The faculty may work in buildings (choice a), but the buildings aren't essential. They may use textbooks (choice b) and attend meetings (choice d), but these aren't essential either.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "buildings",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "textbooks",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Teachers",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Meetings",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Recipe",
+			"explanation": "A recipe is a list of directions to make something. Recipes may be used to prepare desserts (choice a), among other things. One does not need a cookbook (choice c) to have a recipe, and utensils (choice d) may or may not be used to make a recipe.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "desserts",
+                    "isAnswer": false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "directions",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "cookbook",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "utensils",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Autograph",
+			"explanation": "Without a signature, there is no autograph. Athletes and actors (choices a and b) may sign autographs, but they are not essential. An autograph can be signed with something other than a pen (choice d).",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "athlete",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "actor",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "signature",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "pen",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Cage",
+			"explanation": "A cage is meant to keep something surrounded, so enclosure is the essential element. A prisoner (choice b) or an animal (choice c) are two things that may be kept in cages, among many other things. A zoo (choice d) is only one place that has cages.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "enclosure",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "prisoner",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "animal",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Zoo",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Champion",
+			"explanation": "Without a first-place win, there is no champion, so winning is essential. There may be champions in running, swimming, or speaking, but there are also champions in many other areas.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "running",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "swimming",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "winning",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "speaking",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Saddle",
+			"explanation": "A saddle is something one uses to sit on an animal, so it must have a seat (choice b). A saddle is often used on a horse (choice a), but it may be used on other animals. Stirrups (choice c) are often found on a saddle but may not be used. A horn (choice d) is found on Western saddles, but not English saddles, so it is not the essential element here.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Horse",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Seat",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Stirrups",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Horn",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Dome",
+			"explanation": "A dome is a large rounded roof or ceiling, so being rounded is essential to a dome. A geodesic dome (choice b) is only one type of dome. Some, but not all domes, have copper roofs (choice d). Domes are often found on government buildings (choice c), but domes exist in many other places.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "rounded",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "geodesic",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "governmental",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "coppery",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Glacier",
+			"explanation": "A glacier is a large mass of ice and cannot exist without it. A glacier can move down a mountain, but it can also move across a valley or a plain, which rules out choice a. Glaciers exist in all seasons, which rules out choice b. There are many glaciers in the world today, which rules out choice c.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "mountain",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "winter",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "prehistory",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "ice",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Directory",
+			"explanation": "A directory is a listing of names or things, so (choice b) is the essential element. A telephone (choice a) often has a directory associated with it, but it is not essential. A computer (choice c) uses a directory format to list files, but it is not required.Names (choice d) are often listed in a directory, but many other things are listed in directories, so this is not the essential element.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "telephone",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "listing",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "computer",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "names",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

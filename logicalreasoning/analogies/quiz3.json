@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Analogies Test 3",
+    "description": "Practice Analogies Online Test 3",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "BEGK : ADFJ :: PSVY : ?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "ROUX ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "ORUX",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "  LQUT",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": " LOQT",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": " B : F : : E : …………",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "H",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": " T",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": " I",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "  J",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": " Bird: Wings ",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Whale : Water",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": " Dog : Lungs ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Car :Wheel",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": " Pen : Paper",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Square: Cube.",
+			"explanation": "no explanation ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": " Line: Cylinder ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Sphere: Earth",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "Triangle: Prism ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Circle: Sphere",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Yard is to inch as quart is to",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": " milk",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": " gallon",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "ounce",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "liquid ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Bacteria : Decomposition :",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "oxygen : treatment",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": " yeast : fermentation ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "  volcano : eruption",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": " antibiotic : injection",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": " As ‘House’ is related to ‘Mason’, similarly ‘Furniture’ is related to what among the following options? ",
+			"explanation": "As house is made by Mason, in the similar way furniture is made by carpenter",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Carpenter",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": " Goldsmith ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Magician",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "None of the above",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "MINISTER : SERMON",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "politician: promises ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "  heckler: interruptions",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "doctor: diagnosis",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "curator: museum ",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "QPRS : XSUZ ? JIKL: ? ",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "NMOP ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "QNLS",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "PMNO",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " QLNS  ",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "LOGICAL: LACIGOL?DIFFICULTY:?",
+			"explanation": "LOGICAL is written in reverse order as LACIGOL. Similarly, DIFFICULTY = YTLUCIFFID Therefore answer is YTLUCIFFID.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "YTUCOFFIID  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": " YTLCUIFFID ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "YTLUCIFFID",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "YTLUCPFFID",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

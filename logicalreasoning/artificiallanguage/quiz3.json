@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": " Artificial Language Test 3",
+    "description": "Practice Artificial Language Online Test 3",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "ZALK TUM means BULLDOG <br> TUMDILL means DOGBITE <br> HALTOH means REDDISH. <br><br> Which of the following would mean REDBULL?",
+			"explanation": "TUM means DOG <br> ZALK means BULL <br>DILL means BITE <br> HAL means RED <br> TOH means DISH <br> Therefore REDBULL = HALZULK ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "ZULKDILL ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "HALZULK",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": " HALTUM ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "DILLZULK",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Here are some words translated from an artificial language.<br> daftafoni means advisement <br> imodafta means misadvise <br> imolokti means misconduct <br> <br> Which word could mean statement?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "kratadafta",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": " kratafoni",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "loktifoni",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "daftaimo ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Here are some words translated from an artificial language. myncabel means saddle horse conowir means trail ride cabelalma means horse blanket Which word could mean horse ride? ",
+			"explanation": "Myn means saddle; cabel means horse; cono means trail; and wir means ride. Therefore, cabelwir is the correct answer.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": " conocabel",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "cabelwir ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "almamyn",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "conoalma",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Here are some words translated from an artificial language <br> <br> malgauper means peach cobbler <br> malgaport means peach juice <br> moggagrop means apple jelly <br><br> Which word could mean apple juice? ",
+			"explanation": "Malga means peach; uper means cobbler; port means juice; mogga means apple; and grop means jelly. Therefore, moggaport means apple juice. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "moggaport  ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "malgaauper",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "gropport ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": " moggagrop",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Here are some words translated from an artificial language <br> <br> dionot means oak tree <br> blyonot means oak leaf <br> blycrin means maple leaf <br> <br> Which word could mean maple syrup?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "blymuth",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "hupponot",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "patricrin",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": " crinweel",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Here are some of the words translated from an artificial language.<br> Crenchfos means wild thing <br> Crencfqulo means wild boar <br> Haakhfos means rude thing <br><br> Which word means wild? ",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": " Crenc",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "duke ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "haak ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "bang",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Here are some of the words translated from an artificial language. <br> clusplen means blood circle <br> Plenmush means circle round <br> Resinade means bone flesh <br> Nadeplen means flesh circle <br> <br>  Which word means flesh?  ",
+			"explanation": "By comparing third and fourth sentences, we can get the answer",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Nade",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": " plen",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "mush",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "resi",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "In a certain code language some sentences are written. <br> Na ptch kl = need for insurance index <br> Kl sazopt = insurance index in india <br> Chzopt me= india need insurance parameter <br> What is code for kl? ",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "  need ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": " for ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "india",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "index ",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Here are some of the words translated from an artificial language. <br> If clinkbow means status update <br> Kbowbrut means update profile <br> Bangclin means indian status <br> Brutbang means profile indian <br> Which word may represent the meaning of Indian soldiers?   ",
+			"explanation": "Option D is the probable answer because others are either assigned or unable to represent the meaning of the words mentioned in the question.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": " brutclin",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "clinbang",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "bruskbow",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "bangshut",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "If fenplac means filmy holiday <br> Placston means holiday beach <br> Stonrum means beach perform <br> Rumfen means perform filmy <br><br> Which word may represent the meaning of filmy approach?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": " bultplac ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "stonrum ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "rumfen",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "fengilas",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}
