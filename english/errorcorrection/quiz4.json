@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Error Correction Test 4",
+    "description": "Practice Error Correction Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "In _____ coding, we divide our message into blocks, each of k bits, called ___",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "block; blockwords",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "linear; datawords",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "block; datawords",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "none of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "We add r redundant bits to each block to make the length n = k + r. The resulting n-bit blocks are called _________",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "datawords",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "blockwords",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "codewords",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "none of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "The ________ between two words is the number of differences between corresponding bits",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Hamming code",
+                    "isAnswer": false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Hamming distance",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Hamming rule",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "none of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "To guarantee the detection of up to 5 errors in all cases, the minimum Hamming distance in a block code must be _______",
+			"explanation": "no explanation ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "11",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "none of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "To guarantee correction of up to 5 errors in all cases, the minimum Hamming distance in a block code must be ________",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "11",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "none of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "In a linear block code, the _______ of any two valid codewords creates another valid code word",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "XORing",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "ORing",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "ANDing",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "none of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A simple parity-check code can detect __________ errors",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "an even-number of",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "two",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "no errors",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "an odd-number of",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": " _______codes are special linear block codes with one extra property. If a codeword is rotated, the result is another codeword",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Non-linear",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Convolution",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Cyclic",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "none of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "The _____of errors is more difficult than the ______",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "correction; detection",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "detection; correction",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "creation; correction",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "creation; detection",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "In modulo-11 arithmetic, we use only the integers in the range ______, inclusive",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "1 to 10",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "1 to 11",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "0 to 10",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "none of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}
