@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Number Ranking Test 2",
+    "description": "Practice Number Ranking Online Test 2",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "In a class of 60, where girls are twice that of boys, Kamal ranked seventeenth from the top. If there are 9 girls ahead of Kamal,<br> how many boys are after him in rank ?",
+			"explanation": "Let the number of boys be x. Then, number of girls = 2x.<br>x + 2x = 60 or 3x = 60 or x = 20.<br>So, number of boys = 20 and number of girls = 40.<br>Number of students behind Kamal in rank = (60 - 17) = 43.<br>Number of girls ahead of Kamal in rank = 9.<br>Number of girls behind kamal in rank = 40 - 9 = 31.<br>Number of boys behind Kamal in rank = 43 - 31 = 12.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "7",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "12",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "23",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "In a row of ten boys, when Rohit was shifted by two places towards the left, he became seventh from the left end.<br>What was his earlier position from the right end of the row ?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "First",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Second",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Fourth",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Sixth",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "In a queue, Vijay is fourteenth from the front and Jack is seventeenth from the end, while Mary is in between Vijay and Jack. If Vijay be ahead of Jack and there be 48 persons in the queue, <br>how many persons are there between Vijay and Mary ?",
+			"explanation": "Number of persons between Vijay and Jack = 48 - (14 + 17) = 17.<br>Now, Mary lies in middle of these 17 persons i.e. at the eight position.<br>So, number of persons between Vijay and Mary = 7.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "7",
+                    "isAnswer":true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "8",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "5",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "In a row of girls, Rita and Monika occupy the ninth place from the right end and tenth place from the left end, respectively. If they interchange their places, Rita and Monika occupy seventeenth place from the right and eighteenth place from the left, respectively.<br> How many girls are there in the row ?",
+			"explanation": "no explanation ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "25",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "26",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "27",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "In a row of girls, Shilpa is eight from the left and Reena is seventeenth from the right. If they interchange their positions, Shilpa becomes fourteenth from the left. <br>How many girls are there in the row ?",
+			"explanation": "ince Shilpa and Reena interchange positions, so Shilpa's new position is the same as Reena's earlier position.<br>This position is 14th from the left (Shilpa's new position) and 17th from the right (Reena's earlier position).<br>Number of girls in the row = (13 + 1 + 16) = 30.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "25",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "30",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "29",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "In a queue of Children, Kashish is fifth from the left and Mona is Sixth from the right. When they interchange their places among themselves, Kashish becomes thirteenth from the left. Then,<br> What will be Mona's position from the right ?",
+			"explanation": "Since Kashish and Mona interchange places, so Kashish's new position (13th from left) is the same as Mona's earlier position (6th from right). So,number of children in the queue = (12 + 1 + 5) = 18. Now, Mona's new position is the same as Koshis's earlier position i.e. fifth from left.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "4th",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "8th",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "14th",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "15th",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "In a row of boys, Kapil is eigth from the right and Nikunj is twelfth from the left. When Kapil and Nikunj interchange positions, Nikunj becomes twenty first from the left.<br> Which of the following will be Kapil's position from the right ?",
+			"explanation": "Since Kapil and Nikunj intechange places, so Nikunj's new position (21st from left) is the same as Kapil's earlier position (8th from right).<br>So, number of boys in the row = (20 + 1 + 7) = 28.<br>Now, Kapil's new position is the same as Nikunj's earlier position i.e. 12th from left.<br>Kapil's position from the right = (28 - 11) = 17th.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "8th",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "17th",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "21st",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Kailash remembers that his brother Deepak's birthday falls after 20th May but before 28th May, while Geetha remembers that Deepak's birthday falls before 22nd May but after 12th May.<br> On what date Deepak's birthday falls?",
+			"explanation": "According to Kailash, Deepak's birthday falls on one of the days among 21st, 22nd, 23rd, 24th, 25th, 26th and 27th May.<br>According to Geeta, Deepak's birthday falls on one of the days among 13th, 14th, 15th, 16th, 17th, 18th, 19th, 20th and 21st May. <br>The day common to both the groups is 21st May. Deepak's birthday falls on 21st May.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "20th May",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "21th May",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "22nd May",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Sangeeta remembers that her father's birthday was certainly after eight but before thirteenth of December. Her sister Natasha remembers that their father's birthday was definitely after ninth but before fourteenth of December.<br> On which date of December was their father's birthday?",
+			"explanation": "According to Sangeeta, the father's birthday falls on one of the days among 9th, 10th, 11th and 12th December. According to Natasha, the father's birthday falls on one of the days among 10th, 11th, 12th and 13th December. <br>The days common to both the groups are 10th, 11th and 12th December. So, the father's birthday falls on any one of these days.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "10th",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "11th",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "12th",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "Data inadequate",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Standing on a platform, Amit told Sunita that Aligarh was more than ten kilometers but less than fifteen kilometers from there. Sunita knew that it was more than twelve but more than fourteen kilometers from there. If both of them were correct, <br>which of the following could be the distance of Aligarh from the platform?",
+			"explanation": "Clearly, according to Sunita, the distance was more than 12 kms but less than 14 kms, which is 13 kms.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "11 km",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "12 km",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "13 km",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "14 km",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}
