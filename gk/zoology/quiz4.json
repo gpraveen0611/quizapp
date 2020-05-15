@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Zoology Test 4",
+    "description": "Practice Zoology Online Test 4",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Insulin is secreted by which organ of the body?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Kidney",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Intestine",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Stomach",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Pancreas",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "The urine expelled by a normal adult man is",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "about 1.0 litre per day",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "about 1.2 litre per day",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "about 1.4 litre per day",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "about 1.6 litre per day",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Animal living at the bottom of sea as lake is called",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Pelagic",
+                    "isAnswer": false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Plankton",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Benthos",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Necton",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "The total number of human ear bones is",
+			"explanation": "no explanation ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "4",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "8",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "The deficiency of iodine causes",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Rickets",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Goitre",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Diabetes",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Scurvy",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Which nutrients are most likely to be affected by food processing and storage?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Fats",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Vitamins",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Proteins",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Carbohydrates",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "The largest number of calories is gained from a gram of",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Fat",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Starch",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Sugar",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Protein",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "The protein quality of food is ingested by a person is determined by the",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Amino acids",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Blood sugar level",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Red blood corpuscles",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "Fibre content",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "How many nephrons are present in each kidney of man?",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "1 million",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "1 lakh",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "1 hundred",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "1 thousand",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Number of bones in human body is",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "206",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "210",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "220",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "225",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}
