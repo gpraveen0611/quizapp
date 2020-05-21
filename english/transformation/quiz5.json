@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Tranformation Test 5",
+    "description": "Practice Tranformation Online Test 5",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "You don't need to wind this watch. ",
+			"explanation": "The comparative or superlative degree of wind is not wound. So, all the options that have it can be rejected straight out. Option (b) is an absurd sentence doesn’t give us any meaning’ so, it is also eliminated.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "You don't need wind this watch.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "You don't need to wind this watch.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "This watch need not be wounded ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "This watch need not be winded up",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "The cat is running after the rat.",
+			"explanation": "The sentence is in present continuous form. So being will be included in the conversion. This leaves us with two options to ponder on. As the action in the sentence is being continued, the sentence will have to use is rather than was. So, option (b) would be the correct option.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "The rat was being run after by the cat",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "The rat is being run after by the cat",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "The rat is run after by the cat.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "The cat is being run after by the rat.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "They threw away the Rubbish.",
+			"explanation": "An indefinite or vague pronoun (such as they, we) which is used in the active voice is avoided in passive. There is no need to put the agent with by till the time it doesn’t alter the sense of the sentence. Not being a past continuous sentence, being cannot be used. Also, from past tense the sentence cannot be changed to future as that will change the meaning. Keeping these conditions in mind, the most appropriate choice would be option (c)",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "The Rubbish will be thrown away",
+                    "isAnswer": false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "The Rubbish was being thrown away",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "The Rubbish was thrown away",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "The Rubbish thrown away",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "They say that you did that.",
+			"explanation": "Instead of the past participle forms of the verb ‘say’, option (a) and option (b) use different verbs altogether. Hence, they change the meaning of the sentence. So, we reject them. In option (c), the verb form is wrong and the sentence structure is also inaccurate",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "You are told to do that",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "You are advised to do that",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "You did that said by them ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "You are said to have done that",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Don't laugh at me.",
+			"explanation": "The meaning of the sentence needs to be same after the conversion. Only option (d) satisfies this.<br>Therefore, the right choice would be option (b).",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Let me be laughed at",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Let me be not laughed at",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "I am laughed at",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Let me be not laughed",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "This shirt cannot be worn by me any longer.",
+			"explanation": "The sentence provided is in passive form. We need to convert it in active voice. Option (d) and (c) are wrong as they include new information ‘worn out’ which is not present in the original sentence. Option (b) is also incorrect as it also introduces a new phrase ‘not possible’. Also, it is only option (a) that is in active form and no other.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "I cannot wear this shirt any longer",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Wearing of this shirt any longer is not possible",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "This shirt is too worn out to be worn any longer",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "This worn out shirt cannot be worn any longer",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A lion does not eat grass, however hungry he may be",
+			"explanation": "Simple present ‘does not eat’ needs to become ‘not eaten’ for the conversion into passive form. So, option (b) and option (d) are rejected as they use ‘being’ which is generally used with present or past continuous forms. Out of option (a) and option (c), the latter is rejected as it does not conform to proper sentence formation rules",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Grass is not eaten by a lion, however hungry he may be ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Grass is not being eaten by a lion, however hungry he may be",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Grass is eaten not by a lion, however hungry he may be ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Grass is being not eaten by a lion, however hungry he may be",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "We are reaching the end of this exercise.",
+			"explanation": "Option (a) and Option (c) are totally out of question as it drastically changes the meaning of the sentence. The sentence being in present continuous form, it needs its verb to be converted into the ‘being’ form for the right transformation (i.e. to passive voice). Hence, option (b) is correct",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "This exercise is ended by us",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "The end of this exercise is being reached by us",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "This is our end to the exercise",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "The exercise has reached its end by us",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "We added up the money and found that it was correct ",
+			"explanation": "All the sentences other than option (a) are meaningless and absurd in their structure.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "The money was added up and found to be correct ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "Correct it was found and the money was added up ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "The money added up by us and it was correctly found",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "The money added up by us found it was correct",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "The Principal has granted to him a scholarship.",
+			"explanation": "The present perfect form ‘has + verb’ in active voice gets converted into ‘has been + verb’ in passive voice. Only one option fulfils this criterion",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "A scholarship has granted to him by the Principal ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "He has been granted a scholarship by the Principal",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "He has granted a scholarship by the Principal ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "A scholarship was granted to him by the Principal",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}
