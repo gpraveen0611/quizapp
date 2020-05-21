@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Test 5",
+    "description": "Practice Online Test 5",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "28, 33, 31, 36, ?, 39 ",
+			"explanation": "The pattern is + 5, - 2, + 5, - 2,.....<br> So, missing term = 36 - 2 = 34. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "32",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "34",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "38 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "40",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "b e d f ? h j ? l ",
+			"explanation": "Clearly in the first group, the second and third letters are respectively three and two steps ahead of the first letter.<br> A similar pattern would follow in the second and third groups. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "j m ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "i n ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "m i",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "i m",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "AB, DEF, HIJK, ?, STUVWX",
+			"explanation": "The number of letters in the terms of the given series increases by one at each step.<br> The first letter of each term is two steps ahead of the last letter of the preceding term.<br> However, each term consists of consecutive letters in order. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "LMNO ",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "LMNOP ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "MNOPQ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "QRSTU",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Y, B, T, G, O, ? ",
+			"explanation": "I consists of 2nd, 7th and 12th letters from the end of the English alphabet, while <br> II consists of 2nd, 7th and 12th letters from the beginning of the English alphabet.<br> So, the missing letter in II is the 12th letter from the beginning of the English alphabet, which is L.  ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "N",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "M",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "L",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "K",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "A, B, B, D, C, F, D; H, E, ?, ?",
+			"explanation": "Clearly, I consists of consecutive letters while II consists of alternate letters. So, the missing letter in I is F, while that in II is J. So, the missing terms i.e. 10th and 11th terms are J and F respectively.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "J, F",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": " E, F",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "F, G",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "J, K ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Z, X, S, I, R, R, ?, ? ",
+			"explanation": "Note that the numbers representing the difference between the consecutive terms of the series again from a series - 2, 5, 10, 17, 26, 37, 50 - in which the pattern is +3, +5, +7, +9, +11, +13. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "G,I",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "J, I ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "J,K ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "K,M ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A, B, N, C, D, O, E, F, P, ?, ?, ? ",
+			"explanation": "The given series may be divided into 2 groups :<br> I. A, B, C, D, E, F, ?, ? and II. N, O, P, ? <br> Clearly, the given series consists of two terms of I followed by one term of II.<br> The missing terms in I are G and H while the missing term in II is Q.",
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "G, H, Q",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "G, H, I ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "G, H, J ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "J, K, L",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "ADVENTURE, DVENTURE, DVENTUR, ?, VENTU",
+			"explanation": "One letter from the beginning and one from the end of a term are removed, one by one, in alternate steps. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "DVENT ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "VENTURE ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "VENTUR ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "DVENTU ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "PERPENDICULAR, ERPENDICULA, RPENDICUL, ?",
+			"explanation": " Each term of the series is obtained by removing two letters from the preceding term one from the beginning and one from the end, So, the missing term is PENDICU. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": " PENDICUL",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "PENDIC",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "ENDIC",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "None of these  ",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "ejo tyd ins xch ?",
+			"explanation": "There is a gap of four letters between the first and second, the second and third letters of each term, and also between the last letter of a term and the first letter of the next term. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "nrw ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "mrw ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "msx ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "nsx ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

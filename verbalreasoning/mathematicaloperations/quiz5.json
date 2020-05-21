@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Mathematical Operations Test 5",
+    "description": "Practice Mathematical Operations Online Test 5",
+    "questions": [
+        {
+            "id": 1010,
+            "name": " If ‘+’ stands for ‘multiplication’, ‘<’ stands for ‘division’, ‘÷’ stands for ‘subtraction’, ‘–‘ stand for ‘addition’ and ‘×’ stands for ‘greater’ than. Identify which expression is correct?",
+			"explanation": "= 20 ÷ 2 × 10 – 4 + 6 > 100 <br> = 10 × 10 – 4 + 6 > 100 <br> = 106 – 4 > 100 <br> = 102 > 100. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "20 – 40 + 4 + 8 < 2 × 26",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "20 × 8 + 15 < 5 ÷ 9 - 8",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "20 < 2 + 10 ÷ 4 – 6 × 100 ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "20 < 5 + 25 ÷ 10 – 2 × 96",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": " If ‘+’ means ‘÷’, ‘–‘ means ‘×’, ‘×’ means ‘+‘, ‘÷’ means ‘– ‘,  given the value of 45 + 9 – 3 × 15 ÷ 2. ",
+			"explanation": " 45 ÷ 9 × 3 + 15 – 2.<br> = 5 × 3 + 15 – 2. <br> = 15 + 15 – 2 = 28.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "40 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "36 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "56",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "28",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "If ‘–‘ stands for ‘÷’, ‘+’ stands for ‘×’, ‘÷’ stand for ‘–‘ and ‘×’ stands for ‘+’, which one of the following question is correct?",
+			"explanation": "30 ÷ 6 × 5 + 4 – 2 = 27 <br> 5 × 5 + 4 – 2 = 27.<br> 29 – 2 = 27.<br> 27=27 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "30 – 6 + 5 × 4 ÷ 2 = 27. ",
+                    "isAnswer":true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "30 + 6 – 5 ÷ 4 × 2 = 30. ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": " 30 × 6 ÷ 5 – 4 + 2 = 32.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": " 30 ÷ 6 × 5 + 4 – 2 = 40.",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "What is x squared plus x squared?",
+			"explanation": "n an algebraic expression, like terms are terms that contain the same variables raised to the same powers. Calculating x-squared plus x-squared is a matter of combining like terms. <br> Now x^2 + x^2 = 2x^2 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": " 4x",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": " 2x^2",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "x^4",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": " 2x",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "The following equation is incorrect. Which two signs should be interchanged to correct the equation? <br> 1 ÷ 14 x 30 + 20 - 10 = 12",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "- and +",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "÷ and x ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "x and -",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "+ and ÷ ",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "In a group of buffaloes and ducks the number of legs are 24 more than twice the number of heads. What is the number of buffaloes in the group ? ",
+			"explanation": "Let the number of buffaloes be x <br> and number of ducks be y.Now, number of heads = x+y <br> Number of legs = 4x+2y  .......(1) <br> But given that legs = 2(x+y)+24 ......(2) <br> solving (1) & (2),we get 4x+2y=2x+2y+24 <br> x=12. <br> Therefore number of buffaloes =12 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": " 12",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "18 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "24 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "If × means ÷,  - means ×,  ÷ means + and  + means- than (3 - 15 ÷ 19) × 8 + 6 = ? ",
+			"explanation": "By the given data, we have  the expression :<br> (3 × 15 + 19) ÷ 8 - 6 = (45 + 19) ÷ 8 - 6 = 64 ÷ 8 - 6 = 8 - 6 = 2 ",
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "2",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": " 4",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "-1",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "-4",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "The value of -4-(-10) is how much greater then the value of -10-(-4) ?",
+			"explanation": "-4-(-10) = -4+10 = 6 <br> -10-(-4) = -10+4= -6 <br> Therefore, 6-(-6) = 6+6 = 12 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "12",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "10 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "5 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "0 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "What is 7 + 7 ÷ 7 + 7 × 7 − 7 =",
+			"explanation": "Given 7 + 7/7 + 7 x 7 - 7 <br> By using BODMAS rule,<br> 7 + 1 + 7 x 7 - 7 <br> = 8 + 49 - 7 <br> =50 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "0 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "42",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "50",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " 57 ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Given intercharges :Signs + and x and numbers 4 and 5. ",
+			"explanation": "On interchanging + and x and 4 and 5 in (c),<br> we get the equation as <br> 4 + 5 x 20 = 104 or 104 = 104, which is true. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": " 5 x 4 + 20 = 40 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "5 x 4 + 20 = 85 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": " 5 x 4 + 20 = 104 ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "5 x 4 + 20 = 95 ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

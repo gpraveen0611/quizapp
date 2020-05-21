@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": " Inferences Test 5",
+    "description": "Practice Inferences Online Test 5",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Statement:<br> The Indian cricket team reached the finals of the previous six major tournaments, but failed to win even a single tournament.<br> Course of Action:<br> I. The Indian cricket board should set up a committee to find out the reasons.<br> II. The team should change its game plan. ",
+			"explanation": "As the Indian cricket team lost continuous six finals, a proper investigation is necessary. So I follows.<br> The statement does not give scope to ascertain the reason. So II does not follow. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": " If only I follows.",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "If only II follows.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "If either I or II follows. ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "If neither I nor II follows.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Statement:<br> In the road accidents the pillion riders are receiving more head injuries than the driver.<br> Course of Action:<br> I. Pillion riders should also wear helmet.<br> II. The rule should be changed so that the helmet is made compulsory for the pillion riders but not the drivers.",
+			"explanation": "Here as the pillion riders are receiving more head injuries, helmet can save them from head injuries. I is a proper course of action.<br> II causes a new problem, i.e., injuries to the driver. So II is not a proper course of action. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "If only I follows. ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "If only II follows. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "If either I or II follows.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "If neither I nor II follows.",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Statement:<br> Now-a-days, the number of suicide cases is increasing.<br> Course of Action:<br> I. We should change our education system, where the people can learn the basic values of life.<br> II. Mostly the suicides are seen in youngsters due to stress. The lifestyle, which the youngsters experiencing, is the cause. There is no solution for it. ",
+			"explanation": "Course of action I assumes that the present education system does not teach the basic values of life. So, I is not a proper course of action.<br> Course of action II is not giving any solution.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "If only I follows. ",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "If only II follows. ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "If either I or II follows.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "If neither I nor II follows.",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Statement:<br> The Government is worried by the sudden collapse of a bridge, which is under construction, which lead to death of 16 people and injuries to many.<br> Course of Action:<br> I. The government should set up an inquiry committee to investigate the reasons for collapse.<br> II. The authorities should shift the injured people to the hospital and clear the debris to see if someone is trapped. ",
+			"explanation": "The government should set up an inquiry committee to find out the reason so that cases do not get repeated. So I is a proper course of action. Statement II is something which has to be done immediately after the collapse, but the fact that the number of death, etc are known, the time for that action is long over. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "If only I follows.",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "If only II follows.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "If either I or II follows.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "If neither I nor II follows.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Statement:<br> Two thirds or even more of the world's polar bears will disappear by 2050 due to shrinking summer sea ice, even under moderate projections caused by greenhouse gases in the atmosphere.<br> Course of Action:<br> I. We should control environmental pollution by reducing the emission of greenhouse gases and make people aware of effects of greenhouse gases through media.<br> II. Shift the polar bears to the other parts of the world, like Antarctica, where thick layer of ice is available. ",
+			"explanation": "As the cause for extinction of polar bears is green house gases, we should reduce that. So, I is a proper course of action.<br> Shifting of all the polar bears is not feasible and also the environment may not be suitable for them. So II is a not a proper course of action.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "If only I follows.",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "If only II follows.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "If either I or II follows.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "If neither I nor II follows. ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Statement:<br> Children catch infections when they eat roadside food.<br> Courses of Action:<br> I. Parents should not allow their children to eat roadside food but rather try to prepare that type of food at home.<br> II. The children should be taught about what is healthy food and that the type of food prepared on the road side is not healthy. ",
+			"explanation": "These statement does not indicate why the roadside food leads to infection. It may be because it is cooked in unhygienic conditions. In such a case, I is a proper course of action but not II. If the food itself is unhealthy, then II is a proper course of action but not I. Hence, either I or II follows. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "If only I follows.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "If only II follows.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "If either I or II follows. ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "If neither I nor II follows. ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Statement:<br> Black fume emitted by the vehicles and the factories is causing rapid increase in air pollution which in turn is causing rapid temperature rise in cities.<br> Courses of Action:<br> I. The authorities should set a limit for the emission levels of the harmful gases for vehicles and factories and should take measures to implement it.<br> II. The government should try to reduce the number of vehicles on roads by improving the public transport system and make the people aware of it and also should not allow the factories to be built in or near the cities.",
+			"explanation": "Course of action I assumes that there is no such kind of rule at present. So, I is not a proper course of action.<br> By improving the public transport system we can reduce the emission of black fumes as there will be less number of vehicles and also not allowing the factories to be built in and near the city would reduce pollution in the city.",
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "If only I follows.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "If only II follows. ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "If either I or II follows. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "If neither I nor II follows.",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Statement:<br> More than 50% of today's working youth, who have surplus money, are addicted to drugs. <br> Course of Action:<br> I. Work stress should be reduced in the office.<br> II. The salaries should be cut down.",
+			"explanation": "We do not know the reason for the addiction, so neither I nor II is a proper course of action. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "If only I follows. ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "If only II follows. ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "If either I or II follows. ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": " If neither I nor II follows.",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Statement:<br> Pedestrians find it very difficult to cross the road at the peak hours.<br> Courses of Action <br> I. The Traffic Control Authority should provide more number of traffic signals and zebra crossings, which enable the pedestrians to cross the road easily.<br> II. The authority should build more number of  skywalks across the busy roads, which will provide easy crossing for the pedestrians without disturbing the movement of traffic. ",
+			"explanation": "The course of action I can solve the problem but it would affect the free flow of traffic. So, I is not a proper course of action.<br> Course of action II provides easy crossing without disrupting  the traffic. So, II is a proper course of action.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "If only I follows. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "If only II follows.",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "If either I or II follows.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " If neither I nor II follows. ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Statement:<br> Many deaths are occurring in Village 'X', which has experienced heavy rains in the last three monsoons, due to outbreak of epidemics.<br> Course of Action:<br> I. The government should dig a side canal to pass the excess rainwater.<br> II. Health care system in the village should be strengthened.",
+			"explanation": "Course of action I is a time taking process. Hence, I is not a proper course of action.<br> Since the deaths are occurring due to epidemics, II is a proper course of action. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "If only I follows. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "If only II follows.",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "If either I or II follows. ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "If neither I nor II follows. ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

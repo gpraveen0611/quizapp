@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Coding and Decoding Test 5",
+    "description": "Practice Coding and Decoding Online Test 5",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "If in a certain code DEFENCE is written as 42 in a certain code, how would COMMON be written in that code?",
+			"explanation": " Notice position of letters in the alphabet <br> here D(4), E(5), F(6), E(5), N(14), C(3), E(5) = 4 + 5 + 6 + 5 + 14 + 3 + 5 = 42,<br> thus COMMON --> 73,",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": " 37",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "59",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "73 ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "85",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "If BOAT is written as CDPQBCUV, how will RUST can be written in that code?",
+			"explanation": " B --> CD, O --> PQ, A --> BC, T --> UV. Thus, RUST --> STVWTUUV ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "STVWTVUU ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "STUWTUUV ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "STVWTUUV",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "STWVTUUV  ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "In a certain code PONDS is written as KTIIN. How will FIRST be written in the same code?",
+			"explanation": " P - 5 = K, O + 5 = T, N - 5 = I, D + 5 = I, S - 5 = N. Thus, FIRST --> ANMXO.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "ANNXO",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "KDWNY ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "ANMXO",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": " ANMXP",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "In a certain code RELATION is written as TGNCVKQP. How will CERTAIN be written in the same code?",
+			"explanation": "Each letters move +2. Thus, CERTAIN --> EGTVCKP.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "EGTVCKP",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "EGTVCJP",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " EANITCR ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": " EGRVCKP ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": " If KNIFE is written as MRKJG, then how DOCTOR will be written?",
+			"explanation": "1st, 3rd and 5th letters move +2 steps. 2nd and 4th letters move +4 steps.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "FSGXQV",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "GSEXQU ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "FSEXQV",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "GSFXQV ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": " If CLOTHES is EXHAUST and THRICE is STABLE, then SHIRT is",
+			"explanation": "Using the above coding procedure as in the previous question, we find that the codes for letters $ and I will be B and L, and thus coding for SHIRT will be BLASH.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "BLUSH",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "STAUL ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "THULE ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "BLASH",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "In a certain code, BOXER is written as AQWGQ. How VISIT is written in that code? ",
+			"explanation": "Letters at the odd places have been written one letter back, and letters at the even places have been written two letters ahead in the coded word as their positions in the alphabet.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "UKRKU",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "UKRKS",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "WKRKU ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "WKRKS",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": " In a certain code, GIGANTIC is written as GIGTANCI. How is MIRACLES written in that code?",
+			"explanation": " First three letter of the word are kept as they are sixth letter comes at fourth place shifting fourth and fifth letters to fifth and sixth places, respectively and the last two letters are exchanged.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " MIRLCAES ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "MIRLACSE ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "RIMCALSE",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "RIMLCAES ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": " In a certain code, GOODNESS is coded as HNPCODTR. How is GREATNESS coded in that code?",
+			"explanation": "Letters at odd places in the coded word are one letter ahead of the letters in the basic word, and letters at even places are one letter behind of the letters in the basic word as their positions in the alphabet.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": " FSDBSODTR",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "HQFZSMFRT",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "HQFZUODTR",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " HQFZUMFRT  ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": " In a certain code, EXPLAINING is written as PXEALNIGNI. How is PRODUCED written in that code? ",
+			"explanation": " In the coded word, first three letters are reversed, then next two letters are reversed, then again two letters are reversed, and finally three letters are reversed. Hence, PRODUCED will be coded as ORPUDDEC.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "ORPBUDEC",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": " ROPUDECD",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": " ORPUDECD",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

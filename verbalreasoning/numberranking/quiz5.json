@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Number,Ranking & Time Sequence Test 5",
+    "description": "Practice Number,Ranking & Time Sequence Online Test 5",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Asish leaves his house at 20 minutes to seven in the morning, reaches Kunal's house in 25 minutes, they finish their breakfast anither 15 minutes and leave for their office which takes another 35 minutes. At what time do they leave Kunal's house to reach their office?",
+			"explanation": "Asish leaves his house at 6.40 a.m. <br> He reaches Kunal's house in 25 minutes i.e., at 7.05 a.m. Both leave for office 15 minutes after 7.05 a.m. i.e., at 7.20 a.m.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "7.40 a.m.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "7.20 a.m.",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "7.45 a.m. ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "8.15 a.m.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Ajay left home for the bus stop 15 minutes earlier than usual. It takes 10 minutes to reach the stop. He reached the stop at 8.40 a.m. What time does he usually leave home for the bus stop?",
+			"explanation": "Clearly, Ajay left home 10 minutes before 8.40 a.m. i.e., at 8.30 a.m. But it was 15 minutes earlier than usual. So, he usually left for the stop at 8.45 a.m.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": " 8.30 a.m. ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "8.45 p.m. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "8.55 a.m.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": " None of these ",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": " Reaching the place of meeting on Tuesday 15 minutes before 8.30 hours, Anuj found himself half an hour earlier than the man who was 40 minutes late. What was the scheduled time of the meeting?",
+			"explanation": "Anuj reached the place at 8.15 hours.<br> the man who was 40 minutes late would reach the place at 8.45 hours.So, the scheduled time of the meeting was 8.05 hours.  ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "8.00 hrs",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "8.05 hrs ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "8.15 hrs",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": " 8.45 hrs",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "The train for Lucknow leaves every two and half hours from New Delhi railway station. An announcement was made at the station that the train for Lucknow had left 40 minutes ago and the next train will leave at 18.00 hrs. At what time was the announcement made?",
+			"explanation": "Clearly, the last train left two and half hours before 18.00 hrs i.e., at 15.30 hrs. But this happened 40 minutes before the announcement made.<br> So, the announcement made at 16.10 hrs. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "15.30 hrs",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "17.10 hrs",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " 16.00 hrs ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "None of these ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": " In a class of 60, where girls are twice that of boys, Kamal ranked seventeenth from the top. If there are 9 girls ahead of Kamal, how many boys are after him in rank ?",
+			"explanation": "Let the number of boys be x. Then, number of girls = 2x.<br> x + 2x = 60 or 3x = 60 or x = 20.<br> so, number of boys = 20 and number of girls = 40.<br> Number of students behind Kamal in rank = (60 - 17) = 43.<br> Number of girls ahead of Kamal in rank = 9.<br> Number of girls behind kamal in rank = 40 - 9 = 31.<br> Number of boys behind Kamal in rank = 43 - 31 = 12.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "3",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": " 12",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "15",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "23 ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "In a row of ten boys, when Rohit was shifted by two places towards the left, he became seventh from the left end. What was his earlier position from the right end of the row ?",
+			"explanation": "Number of boys in the row = 10.<br> Rohit's new position is 7th from the left or 4th from the right.<br> His earlier position was two places to the right of his new position i.e. his earlier position was second from the right. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "First",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Second ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Fourth",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Sixth",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "  If the third day of the month is Monday, which of the following will be the fifth day from 21st of the month?",
+			"explanation": "The third day is Monday. So, the 10th and 17th days are also Mondays.<br> Thus, the 21st day is Friday. <br> The fifth day from the 21st will be Wednesday.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Monday",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Tuesday",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Wednesday ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Thursday",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": " 1.12.91 is the first Sunday. Which is the fourth Tuesday of December 91?",
+			"explanation": "1.12.91 is the first Sunday of December 91. <br> So, 3.12.91 is the first Tuesday of the month. <br> Clearly, 10.12.91, 17.12.91, 24.12.91 and 31.12.91 are also Tuesdays.<br> So, 24.12.91 is the fourth Tuesday.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "17.12.91 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "24.12.91 ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "26.12.91",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "31.12.91 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": " If 1st October is Sunday, then 1st November will be?",
+			"explanation": "Clearly, 1st, 8th, 15th, 22nd and 29th October are Sundays. <br> So, 31st October is Tuesday.<br> 1st November is Wednesday. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "Monday",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "Tuesday",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "Wednesday",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " Thursday ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": ". If the numbers from 5 to 85 which are exactly divisible by 5 are arranged in descending order, which would come at the eleventh place from the bottom? ",
+			"explanation": "The required numbers in descending order are:<br> 85, 80, 75, 70, 65, 60, 55, 50, 45, 40, 35, 30, 25, 20, 15, 10, 5.<br> The eleventh number from the bottom is 55. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "34",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "45",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "50",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "55",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

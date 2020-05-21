@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Statement and Assumption Test 5",
+    "description": "Practice Statement and Assumption Online Test 5",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Statement: Let us increase the taxes to cover the deficit.<br> Assumptions:1.The present taxes are very low.<br> 2.Deficit in a budget is not desirable.<br> 3.If the taxes are not increased, the deficit cannot be met.",
+			"explanation": "Clearly, the statement shows that the present taxes are not sufficient to meet the deficit but they may still be high. So, I is not implicit. Since the statement talks of covering the deficit, so II is implicit. Also, the taxes are increased to meet the deficit. So, III is also implicit. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Only I and II are implicit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Only I and III are implicit ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "All are implicit",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Statement: 'We must introduce objective type tests to improve our examinations for admission to MBA.' - The Chairman of the Admission Committee tells the Committee.<br> Assumptions:1.The admission at present is directly through the interview.<br> 2.The Admission Committee is desirous of improving the admission examinations.<br> 3.The Chairman himself is an MBA. ",
+			"explanation": "Nothing about the present method of admission or the qualification of the Chairman is mentioned in the statement. So, neither I nor III is implicit. Assumption II directly follows from the statement. So, II is implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Only I and II are implicit ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "None is implicit ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Only I is implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Only II is implicit",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Statement: Use 'X' brand shoes. These are durable and available in all sizes. - An advertisement in the newspaper A.<br> Assumptions:1.Normally people like durable shoes.<br> 2.Very few people read advertisement in a newspaper.<br> 3.Very few people read the newspaper A. ",
+			"explanation": "Any advertisement highlights only the desirable qualities of the product. So, I is implicit. The 'X' brand has advertised its product in newspaper A. This implies that a large section of people reads advertisements in newspapers and that newspaper A too has a wide circulation. So, neither II nor III is implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Only I and II are implicit ",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Only I, and either II or III are implicit ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "All are implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Statement: The State Government has unilaterally increased by five percent octroi on all commodities entering into the state without seeking approval of the Central Government.<br> Assumptions:1.The State Government may be able to implement its decision.<br> 2.The Central Government may agree to support the State Government's decision.<br> 3.The State Government may be able to earn considerable amount through the additional octroi. ",
+			"explanation": "Since the State Government has increased the octroi, so I is implicit. Since the decision has been taken without the approval of the Central Government, it implies that Central Government would not confront the new policy. So, II is implicit. Since octroi is collected by the state on all commodities entering the state, so III is also implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Only I and II are implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "None is implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "All are implicit",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Statement: In the recently held All India Commerce Conference the session on 'Management of Service Sector in India' surprisingly attracted large number of participants and also received a very good media coverage in the leading newspapers.<br> Assumptions:1.People were not expecting such an encouraging response for service sector.<br> 2.Service sector is not managed properly in India.<br> 3.Media is always very positive towards service sector.",
+			"explanation": "Since the response was 'surprising', so I is implicit. Nothing about the real management of service sector can be deduced from the statement. So, II is not implicit. Also, the statement talks of the media's response to only a particular session on service sector and not all in general. So, III is also not implicit.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Only I is implicit",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "All are implicit ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Only either I or III is implicit ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Statement: 'If you are intelligent, we are the right people for improving your performance.' - An advertisement of a coaching institute.<br> Assumptions:1.Brilliant students prefer to join coaching classes.<br> 2.Coaching classes help the students to improve their performance <br> 3.No other institute provides such coaching. ",
+			"explanation": "Since the advertisement invites 'Intelligent' students by promising them an improved performance through their exceptional coaching, so both I and II are implicit. However, nothing can be assumed about other institutes as the given advertisement talks of only a particular institute. So, III is not implicit. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Only I and II are implicit",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Only I and III are implicit ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "All are implicit ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Statement: The Reserve Bank of India has directed the banks to refuse fresh loans to major defaulters.<br> Assumptions:<br> 1.The banks may still give loans to the defaulters.<br> 2.The defaulters may repay the earlier loan to get fresh loan.<br> 3.The banks may recover the bad loans through such harsh measures. ",
+			"explanation": "Clearly, loans to only major defaulters is being refused. So, the banks may still give loans to some defaulters. Thus, I is implicit. Also, the RBI's decision is a measure to recover the previous loans, since one would have to clear the old debts so as to get a fresh loan. So, both II and III are also implicit.",
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "All are implicit",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Only I and II are implicit ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Statement: We must be prepared to face any eventuality and all the assignments must be completed as per their schedule - Director tells the Faculty members.<br> Assumptions:1.There is possibility of any serious eventuality.<br> 2.Dates are fixed for all the assignments.<br> 3.Faculty members are supposed to complete all the assignments. ",
+			"explanation": "Since the Director talks of being prepared to face any eventuality, so I is implicit. It is mentioned that a schedule for completing the assignments has been drawn up. So, II is implicit. The fact that the statement is directed to all the faculty members makes III implicit. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Duly II and III are implicit ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Only I is implicit ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "None is implicit ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "All are implicit ",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Statement: An advertisement of Bank X - 'Want to open a bank account! Just dial our 'home service' and we will come at your doorsteps.' <br> Assumptions:1.No other bank makes available service at the doorstep of the customer. <br> 2.People may choose Bank X for their financial transactions. <br> 3.Nowadays banking has become very competitive. ",
+			"explanation": "The advertisement seeks to attract people to open their account in Bank X by promising them service at their doorstep. Since home service' has been used as a tool for earning clientage, so I is implicit. Also, the advertisement seeks to impress upon the people's minds how simple it has become to open an account. This may attract more account holders to Bank X. So, II is implicit. Further, providing banking services at home means that banking has become so competitive that door-to-door service is being provided by the Bank to attract people. Hence, III is also implicit.  ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "Only I and II are implicit ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "Only I and III are implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "All are implicit  ",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Statement: 'Do not lean out of the moving train.' - A warning in the railway compartment.<br> Assumptions:1.Such warnings will have some effect.<br> 2.Leaning out of a moving train is dangerous.<br> 3. It is the duty of railway authorities to take care of passengers' safety.",
+			"explanation": "The warning against leaning out of moving train is made to heed against the dangers involved. So, both I and II are implicit. Since the warning has been put up in the railway compartment, so III is also implicit. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Only I and III are implicit ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "All are implicit ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": " Only II is implicit",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Only II and III are implicit ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

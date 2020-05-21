@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Decision Making Test 5",
+    "description": "Practice Decision Making Online Test 5",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "All right thinking people believe in fate",
+			"explanation": "Option (a) is the converted form of the premise and (b) is the obverted form of the premise and (c) is the distorted form.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Some who believe in fate are right thinking people",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "No right thinking people do not believe in fate",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Those who believe in fate are right thinking people ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "All of these",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "He does not go to the mosque so he is not a true Muslim",
+			"explanation": "Option (a) cannot be correct because there may be other reasons to go to the mosque but option (b) is correct",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Only true Muslims go to the mosque ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "All true Muslims must go to the mosque ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Some who go to mosque are true Muslims",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "None of these ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "All that glitters is not gold",
+			"explanation": "Option (c) is the converted form of the premise and option (a) is the obverted form. Option (b) means that glittering is not the quality of gold but it is some thing else that makes <br> gold glitter.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Many things that shine are other than gold",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": " Whatever shines is other than gold ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Gold is not the only glittering substance",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "All of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": " Ms. Rima Mohanty is daughter of a renowned freedom fighter from an another state. She is domiciled in the state and employed in the Town Council of Gurgaon for last 6 years. She can pay the entire amount in 5 years. She has completed 34 years on 10th Dec, 1994. She does not own a house in Gurgaon.",
+			"explanation": "Ms. Rima Mohanty fulfills all the conditions laid down. Hence, she qualifies for the allotment of flat. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Refer to the Chairman",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Allot flat",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " Do not allot flat ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Refer to the President ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Maganlal is a 38 years’ old senior clerk in a local builder’s office in Gurgaon. He has put in service of 13 years but still does not own a house. He has produced domicile certificate and is ready to pay the entire amount in 8 years. He is the nephew of freedom fighter Jaganlal who stays in a nearby village.",
+			"explanation": "Maganial does not satisfy Condition C of depositing the entire amount in 5 years’ period. He is a nephew of freedom fighter but is not in the first relation.<br> Therefore, flat will not be allotted to him. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": " Do not allot flat",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Data inadequate ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": " Refer to the Vice-Chairman",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Refer to the Chairman ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Indrajeet Lal is a young business man, the domicile of the State who was born and brought up in Gurgaon. He can pay the entire amount in less than 3 years if required. He has opened his shop on his 26th birthday i.e., on 23rd Feb, 1989. He stays with his father but is not having any ownership rights in the house owned by his father.",
+			"explanation": "Do not allot flat",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Data inadequate",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Refer to the Chairman ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": " Refer to the Vice-Chairman ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Do not allot flat",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Some students are disturbing ",
+			"explanation": "Option (a) is the converted form and option (b) is the obverted form of the premise.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Some disturbing are students",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Some students are not disturbing",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Both of the above ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Mrs. Gouri Dutta, aged 45 years, is wife of an ex-serviceman. She has been staying in rented house in Gurgaon for last 10 years. She is having certificate of domicile of the State. She is not employed anywhere. She is ready to pay the entire amount in 10 years. ",
+			"explanation": "Mrs. Gouri Dutta does not fulfill Condition C and, hence does not qualify for allotment of flat.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Refer to Chairman ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Allot flat ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": " Do not allot flat",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": " Refer to the Vice-Chairman ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "tatements : Non-Resident Indians invest their money in City ‘A’. About one lakh flats are vacant in the City ‘A’. Still people are struggling hard to get the accommodation. Which of the following decision may be pursued to solve the problem ?",
+			"explanation": "The Government should Immediately take steps to end the impasse through proper coordination and management",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "The Government should take over the vacant flats and allot these flats to the needy persons",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "The Government should re-strict the investment made by the Non-Resident Indians to check the soaring prices of dwelling units",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "The Government should immediately constitute a task force to review the housing policy",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "The Government should Immediately take steps to end the impasse through proper coordination and management   ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "While travelling in a Haryana registered commercial taxi from Haryana to an adjacent city (another State), your taxi driver informs you that he has no permit for running the taxi in that city, he will stop at its Transport Office and pay the prescribed fee of Rs. 50 for a day. While paying the fee at the counter you find that the transport clerk is taking an extra Rs. 50 for which no receipt is given, You are in a hurry for an office meeting. Under such circumstances, what would you do ? ",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Do not interfere at all as this is a matter between the taxi driver and tax authorities",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": " Take not of the incident and subsequently report the matter to the concerned authorities",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Go up to the counter and ask the clerk to give back the money which he has illegally taken.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Treat it as a normal affair and simply forget about it",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

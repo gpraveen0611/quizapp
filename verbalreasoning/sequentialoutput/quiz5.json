@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Sequential Output Test 5",
+    "description": "Practice Sequential Output Online Test 5",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "In a class of 60 students where girls are twice that of boys, Laxmi ranked 27th from the top. If there are 9 boys ahead of Laxmi, how many girls are after her rank ?",
+			"explanation": "Given number of girls are twice that of boys.<br>  G=2B and G+B = 60 <br> Therefore,  G=40 and B= 20 <br> Given Laxmi ranked 27th from the top and 9 boys are ahead of Laxmi.<br> Therefore, There are 17 girls ahead of Laxmi. <br> Therefore, Number of girls who ranked after Laxmi = 40 - (17+1) = 22. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "21",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "22",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "23 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "24",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "The admission ticket for an exhibition bears a password which is changed after every clock hour based on set of words chosen for each day. The following is an illustration of the code and steps of rearrangement for subsequent clock hours. The time is 9 a.m. to 3 p.m.<br> Day's first password : First Batch  -----  9 a.m. to 10 a.m.is not ready cloth simple harmony burning <br> Second Batch  -----  10 a.m. to 11 a.m. ready not is cloth burning harmony simple <br> Third Batch  -----  11 a.m. to 12 noon.cloth is not ready simple harmony burning  <br> Fourth Batch  -----  12 noon to 1 p.m.not is cloth ready burning harmony simple <br> Fifth Batch  -----  1 p.m. to 2 p.m.ready cloth is not simple harmony burning and so on. <br>  If the password for 11 a.m. to 12 noon was --- 'soap shy miss pen yet the she', what was the password for the first batch ? ",
+			"explanation": "Clearly, the given arrangement is as under : <br> In the first step, the first three and the last three letters are written in a reverse order.<br> Then, the first four and the last three letters are written in a reverse order.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "pen miss shy soap she the yet ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": " shy miss pen soap yet the she ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "soap pen miss shy she the yet",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "miss shy soap pen she the yet",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Who is the immediate right of D?",
+			"explanation": "From the above arrangements, M is to the immediate right of D.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "M ",
+                    "isAnswer":true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": " Q",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "B",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "C",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "An electronic device when fed with the numbers, rearranges them in a particular order following certain rules. The following is a step-by-step process of rearrangement for the given input of numbers.<br> Input :- 85   16   36   04   19   97   63   09 <br> Step I   :- 97   85   16   36   04   19   63   09 <br> Step II  :- 97   85   63   16   36   04   19   09 <br> Step III :- 97   85   63   36   16   04   19   09 <br> Step IV :- 97   85   63   36   19   16   04   09 <br> Step V  :- 97   85   63   36   19   16   09   04 <br> (for the given input step V is the last step).<br> Which of the following will be the last step for the given input ? <br>Input :- 03   31   43   22   11   09 ",
+			"explanation": "Clearly, in the given arrangement, the numbers have been arranged in descending order in a sequence, altering the position of only one number in each step <br> Input : 03   31   43   22   11   09 <br> Step I : 43   03   31   22   11   09 <br> Step II     : 43   31   03   22   11   09 <br> Step III   : 43   31   22   03   11   09 <br> Step IV   : 43   31   22   11   03   09 <br> Step V  : 43   31   22   11   09   03",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "IV",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "VI",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "V",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "A word arrangement machine, When given an input line of words, rearranges it in every step following a certain rule. Following is an illustration of an input line of words and various steps of rearrangement.<br> Input: gone are take enough brought station <br> Step 1: take gone are enough brought station <br> Step 2: take are gone enough brought station <br> Step 3: take are station gone enough brought <br> Step 4: take are station brought gone enough <br> And Step 4 is the last step for this input. Now, find out an appropriate step in the following question following the above rule. <br> Question: <br> Input: car on star quick demand fat <br> What will be the third step for this input ?",
+			"explanation": "Obsrving the given arrangement, we find the following pattern:<br> If we arrange the words in the given input in the alphabetical order and then label them as 1,2,3,4,5,6, then the last step contains the words in the order 6,1,5,2,4,3. However, the position of only one word is alteredat each step.<br> Input:car on star quick demand fat <br> Step1: star car on quick demand fat <br> Step2: star car quick on demand fat <br> Step3: star car quick demand on fat",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "star car demand quick on fat",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": " star quick car demand on fat",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "star car quick demand on fat",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "none of these ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Study the following information carefully and answer the given questions:<br> A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement:<br> Input: top the name good for is there <br> Step I: is top the name good for there <br> Step II: is for top the name good there <br> Step III: is for the top name good there <br> Step IV: is for the top good name there <br> If step I of an input is 'If there was no good man', what step would be 'if no man there was good'? ",
+			"explanation": "The words get arranged one by one on the basis of the number of letters, the word with least number of words gets arranged first. If the number of letters is the same, the word that comes first in the dictionary gets arranged first.<br> While one word gets arranged. The others shift rightwards.<br> step I: If there was no good man <br> Step II: if no there was good man <br> Step III: if no man there was good ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Second",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Third ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Fourth",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": " Cannot be determined",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "-20 , -16 , -12 , -8 .... <br> In the sequence above, each term after the first is 4 greater than the preceding term. Which of the following could not be a term in the sequence?  ",
+			"explanation": "All terms in the sequence will be multiples of 4.<br> 762 and 902 are not multiples of 4",
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "220",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "440 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "668 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "762",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "The first term in a sequence is 1 and the second term is 5. From the third term on each term is the average (arithmetic mean) of all preceding terms. What is the 25th term in the sequence?",
+			"explanation": "Start constructing the sequence until you see the pattern <br> 1...5...(average of 1 and 5 = 3)...(average of 1, 5, and 3 = 3)...(average of 1,5,3 and 3 = 3) ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " 3 ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "2.5 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": " 3.5",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "5 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A word arranging device rearranges words step-by-step in a particular order according to set of rules. The device stops when the final result is obtained.<br> Input: but going for crept te light sir<br> Step 1: crept but going for te light sir <br> Step 2: crept going light but for te sir <br> Step 3: crept going light but for sir te <br> And Step 3 is the last step for this input. Now, find out an appropriate step in the following question following the above rules.<br> Input: more fight cats cough sough acts idea <br> What will be the last step for this input ? ",
+			"explanation": "Carefully obsrving the given arrangement, we find the following pattern: <br> We observe that,first all the words with the highest number of letters are arranged in the alphabetical order, followed by the words with the second highest number of letters and so on.However, the position of only one word is altered at each step.<br> Input: more fight cats cough sough acts idea <br> Step1: cough more fight cats sough acts idea <br> Step2: cough fight more cats sough acts idea <br> Step3: cough fight sough more cats acts idea <br> Step4: cough fight sough acts more cats idea <br> Step5: cough fight sough acts cats more idea <br> Step6: cough fight sough acts cats idea more <br> Hence, the answer is A ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "cough fight sough acts cats idea more ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "cough fight sough acts cats more idea",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "cough more fight sough acts idea cats",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "none of these",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Study the following information carefully and answer the questions given below: <br> When an input line of words is given to a word arrangement machine, it rearranges them following a particular rule in each step.<br> Input: car some pour tie more in bee goat.<br> Step I: goat car some pour tie more tin bee. <br> Step II: goat more car some pour tie tin bee.<br> Step III: goat more pour car some tie tin bee.<br> Step IV: goat more pour some car tie tin bee.<br> Step V: goat more pour some bee car tie tin and Step V is the last output.<br> Input: door site may for you mean now goal : <br> Which of the following is the 3rd step of the above input? ",
+			"explanation": " ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "door goal mean site for may now you ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "door goal mean site may for you now ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "door site goal mean may for you now ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "None of these ",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}
