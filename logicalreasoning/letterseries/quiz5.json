@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Letter Series Test 5",
+    "description": "Practice Letter Series Online Test 5",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "ACEGI, BDFHJ, KMOQS, __, UWYAC, VXZBD",
+			"explanation": "the letters with odd position values are taken in alternate groups. i.e, ACEGI, KMOQS, UWYAC similarly the letters with even position values are taken in the other positions. i.e. DBFHJ, LNPRT, VXZBD. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "TUVWX",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "LPRTV",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "LNPRT ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "PQRTV",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "  2W3, 1S9, 1Q7, __, 1K1",
+			"explanation": "The letters are consecutive letters with the prime number as the position value and the digits on either of the letter together indicate the place value of the letter.<br> 2W3 => W = 23,1S9 => S = 19,1Q7 => Q = 17,1K1 => K = 11 <br> Missing term is 1M3 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "1P6",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "1M3 ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "1R8",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": " 1S9",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "MAD : FGJ : : RUN",
+			"explanation": "Each letter of the first group is moved three step backward to obtain the corresponding letter of the second group.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "ORK ",
+                    "isAnswer":true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "OSQ ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "PRJ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "UXQ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "ACE: BDF: FHJ?",
+			"explanation": "Each letter of the first group is moved one step forward to obtain the corresponding letter of the second group.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "GIK",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "GHK",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "DFH",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "FHL",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "BIGE: JQOM: RYWV:?",
+			"explanation": "Each letter of the first group is moved eight steps forward to obtain the corresponding letter of the second group.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "ZGEC",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "AGFD ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "ZFDB",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": " ZYVX",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "ASTN: ZTSO:: MSUB:? ",
+			"explanation": "The 1st and 3rd letter of the group are each moved to 1 step backward while the 2nd and 4th letters are each moved one step forward to the corresponding letters the second group. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "CRRC",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "LTTA ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "NTVC ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "LTTC ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "FJUL: BOQQ:: LHRX:?",
+			"explanation": "The 1st and 3rd letter of the group are each moved to 4 steps backward while the 2nd and 3rd letters are each moved five steps forward to the corresponding letters the second group.",
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": " BKPR",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "MNCC ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "HRYY",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "HMNC",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "EJOT: VQLG : BGLQ: ?",
+			"explanation": "Each letter of the 1st group occupies the same position from the beginning of the alphabet as the corresponding letter of the second group occupies from the end of the alphabet. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "AEIM ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "AFKP ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "YTOJ ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "ZUPK ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "EGIK: FILO:: FHJL:?",
+			"explanation": "The first and second third and fourth letters of the second group are moved one two three and four steps forwards respectively to obtained the corresponding letters of the second group. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "GJMP ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "GMJP",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "JGMP",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "JGPM ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": " PALE: LEAP:: POSH:?",
+			"explanation": "The 1st, 2nd, 3rd,4th letters of the second group are respectively the 3rd, 4th, 2nd and 1st letters of the 1st group. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "HSOP ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "POHS ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "SHOP ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "NONE ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": " Essential Part Test 5",
+    "description": "Practice Essential Part Online Test 5",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Bonus",
+			"explanation": "A bonus is something given or paid beyond what is usual or expected, so reward is the essential element. A bonus may not involve a raise in pay or cash (choices b and c), and it may be received from someone other than an employer (choice d). ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "reward",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "raise",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": " cash",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "employer",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Antique ",
+			"explanation": "An antique is something that belongs to, or was made in, an earlier period. It may or may not be a rarity (choice a), and it does not have to be an artifact, an object produced or shaped by human craft (choice b). An antique is old but does not have to be prehistoric (choice d).",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "rarity ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": " artifact",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "aged",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "prehistoric",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Domicile",
+			"explanation": "A domicile is a legal residence, so dwelling is the essential component for this item. You do not need a tenant (choice a) in the domicile, nor do you need a kitchen (choice c). A house (choice d) is just one form of a domicile (which could also be a tent, hogan, van, camper, motor home, apartment, dormitory, etc.).",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "tenant",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "dwelling ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "kitchen",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "house",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Vertebrate",
+			"explanation": "All vertebrates have a backbone. Reptiles (choice b) are vertebrates, but so are many other animals. Mammals (choice c) are vertebrates, but so are birds and reptiles. All vertebrates (choice d) are animals, but not all animals are vertebrates.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "backbone",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "reptile",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "mammal",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "animal",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Itinerary",
+			"explanation": "An itinerary is a proposed route of a journey. A map (choice a) is not necessary to have a planned route. Travel (choice c) is usually the outcome of an itinerary, but not always. A guidebook (choice d) may be used to plan the journey but is not essential.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "map",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": " route",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "travel",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "guidebook ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Orchestra ",
+			"explanation": "An orchestra is a large group of musicians, so musicians are essential. Although many orchestras have violin sections, violins aren't essential to an orchestra (choice a). Neither a stage (choice b) nor a soloist (choice d) is necessary. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "violin",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "stage ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "musician ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "soloist ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Provisions ",
+			"explanation": "",
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "groceries",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "supplies ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "gear ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "caterers",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Ovation",
+			"explanation": " An ovation is prolonged, enthusiastic applause, so applause is necessary to an ovation. An outburst (choice a) may take place during an ovation; 'bravo' (choice b) may or may not be uttered; and an encore (choice d) would take place after an ovation. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "outburst ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "bravo ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "applause ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "encore ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Faculty",
+			"explanation": "A faculty consists of a group of teachers and cannot exist without them. The faculty may work in buildings (choice a), but the buildings aren't essential. They may use textbooks (choice b) and attend meetings (choice d), but these aren't essential either. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "buildings ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "textbooks",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "teachers",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "meetings",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Recipe",
+			"explanation": "A recipe is a list of directions to make something. Recipes may be used to prepare desserts (choice a), among other things. One does not need a cookbook (choice c) to have a recipe, and utensils (choice d) may or may not be used to make a recipe. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "desserts",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "directions ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "cookbook ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "utensils ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

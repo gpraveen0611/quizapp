@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Artificial Language Test 5",
+    "description": "Practice Artificial Language Online Test 5",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Here are some words translated from an artificial language. briftamint means militant uftonel means occupied uftonalene means occupation Which word could mean 'occupant'?",
+			"explanation": "Brift means the root word miliâ€“; the suffix amint means the same as the English suffix â€“tant; the root word uftonâ€“ means occupy; el means the suffix â€“ied of occupied; and alene means the suffix â€“tion. (Because ufton means occupy, choices a, c, and d can be easily ruled out.) ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "elbrifta",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "uftonamint",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "elamint ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "briftalene",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Here are some words translated from an artificial language. relftaga means carefree otaga means careful fertaga means careless Which word could mean 'aftercare'? ",
+			"explanation": "In this language, the root word taga, which means care, follows the affix (relf, oâ€“, or ferâ€“). Therefore, in the word aftercare, the root word and the affix would be reversed in the artificial language. The only choice, then, is tagazen, because tagafer would mean less care.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "zentaga ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "tagafer ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "tagazen",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "relffer",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Here are some words translated from an artificial language. gemolinea means fair warning gerimitu means report card gilageri means weather report Which word could mean 'fair weather'?",
+			"explanation": "Gemo means fair; linea means warning; geri means report;mitumeans card; and gilameans weather. Thus, gemogila is the correct choice.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "gerigeme ",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "gemomitu ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "gemogila",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "gerimita",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Here are some words translated from an artificial language. slar means jump slary means jumping slarend means jumped Which word could mean 'playing'?",
+			"explanation": "According to this language, slar means jump. The suffix -ing is represented by -y. Since choice b is the only one that ends in the letter y, this is the only possible option.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "clargslarend",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "clargy",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "ellaclarg",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "slarmont",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Here are some words translated from an artificial language. jalkamofti means happy birthday moftihoze means birthday party mentogunn means goodness Which word could mean 'happiness'?",
+			"explanation": "Jalka means happy;moftimeans birthday; hoze means party; mento means good; and gunn means the suffix â€“ness. We know the answer must include the suffix â€“ness. The only choice that uses that suffix is choice a.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "jalkagunn",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "mentohoze ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "moftihoze",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "hozemento ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Here are some words translated from an artificial language. malgauper means peach cobbler malgaport means peach juice moggagrop means apple jelly Which word could mean 'apple juice'? ",
+			"explanation": "Malga means peach; uper means cobbler; port means juice; mogga means apple; and grop means jelly. Therefore, moggaport means apple juice. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "moggaport",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "malgaauper ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "gropport ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "moggagrop ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Here are some words translated from an artificial language. hapllesh means cloudburst srenchoch means pinball resbosrench means ninepin Which word could mean 'cloud nine' ",
+			"explanation": "Hapl means cloud; lesh means burst; srench means pin; och means ball; and resbo means nine. Leshsrench (choice a) doesn't contain any of the words needed for cloud nine. We know that och means ball, so that rules out choices b and c. When you combine hapl (cloud) with resbo (nine), you get the correct answer",
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "haplresbo",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "leshsrench ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "ochhapl ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "haploch",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Here are some words translated from an artificial language. moolokarn means blue sky wilkospadi means bicycle race moolowilko means blue bicycle Which word could mean 'racecar'?",
+			"explanation": "From wilkospadi, you can determine that wilko means bicicyle and spadi means race. Therefore, the first part of the word that means racecar should begin with spadi. That limits your choices to b and d. Choice b, spadiwilko, is incorrect because we have already determined that wilkomeans bicycle. Therefore, the answer must be choice d, spadivolo. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "wilkozwet ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "spadiwilko ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "moolobreil ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "spadivolo ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Here are some words translated from an artificial language. gorblflur means fan belt pixngorbl means ceiling fan arthtusl means tile roof Which word could mean 'ceiling tile'?",
+			"explanation": "Gorbl means fan; flur means belt; pixn means ceiling; arth means tile; and tusl means roof. Therefore, pixnarth is the correct choice. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "gorbltusl ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "flurgorbl",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "arthflur",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " pixnarth ",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Here are some words translated from an artificial language. agnoscrenia means poisonous spider delanocrenia means poisonous snake agnosdeery means brown spider Which word could mean 'black widow spider'?",
+			"explanation": "In this language, the noun appears first and the adjectives follow. Since agnos means spider and should appear first, choices a and d can be ruled out. Choice b can be ruled out because delano means snake. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "deeryclostagnos ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "agnosdelano ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": " agnosvitriblunin ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "trymuttiagnos ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

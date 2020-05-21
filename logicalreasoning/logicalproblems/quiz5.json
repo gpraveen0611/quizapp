@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Logical Problems Test 5",
+    "description": "Practice Logical Problems Online Test 5",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "All Lamels are Signots with buttons.<br> No yellow Signots have buttons.<br> No Lamels are yellow.<br> If the first two statements are true, the third statement is",
+			"explanation": "We know that there are Signots with buttons, or Lamels, and that there are yellow Signots, which have no buttons. Therefore, Lamels do not have buttons and cannot be yellow. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "true",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "false",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": " none of these ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "none of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "The hotel is two blocks east of the drugstore.<br>The market is one block west of the hotel.<br>The drugstore is west of the market.<br> If the first two statements are true, the third statement is ",
+			"explanation": "The market is one block west of the hotel. The drugstore is two blocks west of the hotel, so the drugstore is west of the market.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "true ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "false ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "uncertain",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "none of these",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A toothpick is useful.<br>Useful things are valuable. <br> A toothpick is valuable.<br> If the first two statements are true, the third statement is",
+			"explanation": "To the extent that a toothpick is useful, it has value.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "true ",
+                    "isAnswer":true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "false ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "uncertain",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "none of these",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Tom puts on his socks before he puts on his shoes.<br>He puts on his shirt before he puts on his jacket. <br> Tom puts on his shoes before he puts on his shirt.<br> If the first two statements are true, the third statement is",
+			"explanation": "There is not enough information to verify the third statement.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "true",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "false",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "uncertain",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "none of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Three pencils cost the same as two erasers.<br> Four erasers cost the same as one ruler.<br> Pencils are more expensive than rulers.<br> If the first two statements are true, the third statement is",
+			"explanation": "Rulers are the most expensive item.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "true",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "false ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "uncertain",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "none of these ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Taking the train across town is quicker than taking the bus.<br>Taking the bus across town is slower than driving a car.<br>Taking the train across town is quicker than driving a car.<br> If the first two statements are true, the third statement is",
+			"explanation": "Both the car and the train are quicker than the bus, but there is no way to make a comparison between the train and the car. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "true",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "false ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "uncertain ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "none of these ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Cloudy days tend to be more windy than sunny days.<br>Foggy days tend to be less windy than cloudy days.<br>Sunny days tend to be less windy than foggy days.<br> If the first two statements are true, the third statement is",
+			"explanation": "Cloudy days are the most windy, but there is not enough information to compare the wind on the foggy days with the wind on the sunny days.",
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "true",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "false ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "uncertain ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "none of these",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "At a parking lot, a sedan is parked to the right of a pickup and to the left of a sport utility vehicle.<br> A minivan is parked to the left of the pickup.<br>The minivan is parked between the pickup and the sedan.<br> If the first two statements are true, the third statement is",
+			"explanation": "This is the order of the cars from left to right: minivan, pickup, sedan, sport utility vehicle. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "true ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "false ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "uncertain ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "none of these ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "The bookstore has a better selection of postcards than the newsstand does.<br>The selection of postcards at the drugstore is better than at the bookstore.<br> The drugstore has a better selection of postcards than the bookstore or the newsstand.<br> If the first two statements are true, the third statement is",
+			"explanation": "Of the three, the drugstore has the best selection of postcards. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "true ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "false",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "uncertain",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": " none of these ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "A jar of jelly beans contains more red beans than green.<br>There are more yellow beans than red.<br>The jar contains fewer yellow jelly beans than green ones.<br>If the first two statements are true, the third statement is",
+			"explanation": "The first two statements indicate there are more yellow jelly beans than red and green. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "true ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "false ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "uncertain ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "none of these ",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}
