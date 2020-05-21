@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Problems on Numbers Test 4",
-    "description": "Practice Problems on Numbers Online Test 4",
+    "name": "Compound Interest Test 5",
+    "description": "Practice Compound Interest Online Test 5",
     "questions": [
         {
             "id": 1010,
-            "name": "In a two-digit number, the digit in the unit's place is more than twice the digit in ten's place by 1. If the digits in the unit's place and the ten's place are interchanged,difference between the newly formed number and the oiginal number is less than the original number by 1. What is the original number ?",
-			"explanation": "Let the ten's digit be x. Then, unit's digit = 2x + 1.<br> [10x + (2x + 1)] - [{10 (2x + 1) + x} - {10x + (2x + 1)}] = 1 <br> (12x + 1) - (9x + 9) = 1 <=> 3x = 9, x =  3. <br> So, ten's digit = 3 and unit's digit = 7. Hence, original number = 37. ",
+            "name": "The compound and the simple interests on a certain sum at the same rate of interest for two years are Rs.11730 and Rs.10200 respectively. Find the sum.",
+			"explanation": "The simple interest for the first year is 10200/2 is Rs.5100 and compound interest for first year also is Rs.5100. The compound interest for second year on Rs.5100 for one year <br>So rate of the interest = (100 * 1530)/ (5100 * 1) = 30% p.a. <br>So P = (100 * 10200)/ (30 * 2) = Rs.17000",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "35",
+                    "name": "Rs.18000",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "36",
-                    "isAnswer":false
+                    "name": "Rs.17000",
+                    "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "37",
-                    "isAnswer":true
+                    "name": "Rs.17500",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "39",
+                    "name": "None of these",
                     "isAnswer": false
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "What is the place value of 6 in 64?",
-			"explanation": "Each digit has a fixed position called its place <br> Each digit has a value depending on its place called the place value of the digit.<br> The face value of a digit for any place in the given number is the value of the digit itself <br> Place value of a digit = (face value of the digit) × (value of the place).<br> Hence, the place value of 6 in 64 = 6 x 10 = 60.",
+            "name": "What is the difference between the compound interest on Rs.12000 at 20% p.a. for one year when compounded yearly and half yearly?",
+			"explanation": "When compounded annually, interest<br>= 12000[1 + 20/100]1 - 12000 = Rs.2400 <br>When compounded semi-annually, interest<br>= 12000[1 + 10/100]2 - 12000 = Rs.2520 <br>Required difference = 2520 - 2400 = Rs.120",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "6",
+                    "name": "Rs.120",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "60 ",
-                    "isAnswer": true
+                    "name": "Rs.140",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "64",
-                    "isAnswer": false
+                    "name": "Rs.120",
+                    "isAnswer": true
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "10",
+                    "name": "Rs.110",
                     "isAnswer": false
                 }
             ],
@@ -79,33 +79,33 @@
         },
         {
             "id": 1012,
-            "name": "The product of two numbers is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is :",
-			"explanation": "Let the numbers be x and y.<br> Then, xy = 9375 and  x/y = 15.<br> (xy/x/y)=9375/15 <br> y2 =625 <br> y = 25 <br>  x = 15y = 15 x 25 = 375.<br> Sum of the numbers = 375 + 25 = 400.",
+            "name": "The simple interest on Rs.12000 at a certain rate of interest in five years is Rs.7200. Find the compound interest on the same amount for five years at the same rate of interest.",
+			"explanation": "R = 100 I / PT<br>=> R = (100 * 7200)/ (12000 * 5) = 12% <br>CI = P{ [1 + R /100]n - 1}<br>= 12000 { [ 1 + 12 / 100]2 - 1} = Rs.3052.80",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "100",
+                    "name": "Rs.3502.80",
                     "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "200 ",
+                    "name": "Rs.3052.40",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "300",
+                    "name": "Rs.3054.8",
                     "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "400",
+                    "name": "Rs.3052.80",
                     "isAnswer": true
                 }
             ],
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is :",
-			"explanation": "Let the three integers be x, x + 2 and x + 4. Then, 3x = 2 (x + 4) + 3  <=> x = 11.<br>Third integer = x + 4 = 15. ",
+            "name": "Ravi invested certain amount for two rates of simple interests at 6% p.a. and 7% p.a. What is the ratio of Ravi's investments if the interests from those investments are equal?",
+			"explanation": "Let x be the investment of Ravi in 6% and y be in 7%<br>x(6)(n)/100 = y(7)(n)/100 <br> => x/y = 7/6<br>x : y = 7 : 6",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer":false
+                    "name": "4 : 3",
+                    "isAnswer": false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "14",
+                    "name": "2 : 3",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "137",
-                    "isAnswer": false
+                    "name": "7 : 6",
+                    "isAnswer": true
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": true
+                    "name": "None of these",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,33 +154,33 @@
 		},
 		{
 			"id": 1014,
-            "name": "54 is to be divided into two parts such that the sum of 10 times the first and 22 times the second is 780. The bigger part is :",
-			"explanation": "Let the two parts be (54 - x) and x.<br> Then, 10 (54 - x) + 22x = 780 <br> 12x = 240 <br>  x = 20. <br> Bigger part = (54 - x)  = 34.  ",
+            "name": "Siddharth wants to borrow Rs.6000 at rate of interest 6% p.a. at S.I and lend the same amount at C.I at same rate of interest for two years.<br> What would be his income in the above transaction?",
+			"explanation": "Amount of money Siddharth borrowed at S.I at 6% p.a. for two years = Rs.6,000 <br>He lend the same amount for C.I at 6% p.a. for two years.<br> => Siddharth's income = C.I - S.I <br>= p[1 + r/ 100]n - p - pnr/100 <br>= p{ [1 + r/ 100]2 - 1 - nr/100 <br>= 6,000{ [1 + 6/100]2 - 1 - 12/100} <br>= 6,000 {(1.06)2- 1 - 0.12} = 6,000(1.1236 - 1 - 0.12) <br>= 6,000 (0.0036) = 6 * 3.6 = Rs.21.60",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "24",
-                    "isAnswer":false
+                    "name": "Rs.21.60",
+                    "isAnswer": true
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "34 ",
-                    "isAnswer":true
+                    "name": "Rs.24.00",
+                    "isAnswer": false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": " 44",
-                    "isAnswer":false
+                    "name": "Rs.27.80",
+                    "isAnswer": false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": " 54 ",
-                    "isAnswer":false
+                    "name": "Rs.25.20",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -191,32 +191,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "There are two numbers such that the sum of twice the first and thrice the second is 39, while the sum of thrice the first, and twice the second is 36. The larger of the two is :",
-			"explanation": "Let the numbers be x and y. Then, 2x + 3y = 39...(i)and 3x + 2y = 30 ...(ii) <br> On solving (i) and (ii), we get :  x = 6 and y = 9. <br> larger number = 9",
+            "name": "Albert invested Rs. 8000 in a scheme for 2 years at compound interest rate 5% p.a.<br> How much amount will Albert get on maturity of the fixed deposit?",
+			"explanation": "Amount = [8000 * (1 + 5/100)2]<br>= 8000 * 21/20 * 21/20<br>= Rs. 8820",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "Rs. 8600",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "6 ",
-                    "isAnswer":false
+                    "name": "Rs. 8820",
+                    "isAnswer":true
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "9 ",
-                    "isAnswer":true
+                    "name": "Rs. 8200",
+                    "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "None of these",
                     "isAnswer": false
                 }
             ],
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": "The difference between a two-digit number and the number obtained by interchanging the two digits is 63. Which is the smaller of the two numbers ? ",
-			"explanation": "Let the ten's digit be x and unit's digit be y.<br> Then, (10x + y) - (10y + x) = 63  <br> 9 (x - y) = 63 <br>  x - y = 7.<br> Thus, none of the numbers can be deermined.. ",
+            "name": "What will be the compound interest on a sum of Rs. 25,000 after 3 years at the rate of 12% p.a.?",
+			"explanation": "Amount = [25000 * (1 + 12/100)3]<br>= 25000 * 28/25 * 28/25 * 28/25 = Rs. 35123.20<br>C.I. = (35123.20 - 25000) = Rs. 10123.20",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "Rs. 9000.30",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "Rs. 9720",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": " 17 ",
-                    "isAnswer": false
+                    "name": "Rs. 10123.20",
+                    "isAnswer": true
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " none of these answers can be determined",
-                    "isAnswer":true
+                    "name": "Rs. 10483.20",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Find the number which when multiplied by 15 is increased by 196.",
-			"explanation": "Let the number be x. Then, 15x - x = 196 <br>=> 14x = 196 => x = 14.",
+            "name": "A man saves Rs. 200 at the end of each year and lends the money at 5% compound interest.<br>How much will it become at the end of 3 years?",
+			"explanation": "Amount = [200(1 + 5/100)3 + 200(1 + 5/100)2 + 200(1 + 5/100)]<br>= [200 * 21/20(21/20 * 21/20 + 21/20 + 1)] = Rs. 662.02",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "10 ",
-                    "isAnswer":false
+                    "name": "Rs. 565.25",
+                    "isAnswer": false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "14 ",
-                    "isAnswer":true
+                    "name": "Rs. 635",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "18",
-                    "isAnswer":false
+                    "name": "Rs. 662.02",
+                    "isAnswer": true
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "20 ",
+                    "name": "Rs. 666.50",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "There are four prime numbers written in ascending order of magnitude. The product of the first three is 385 and of the last three is 1001. Find the fourth number ?",
-			"explanation": "(385/1001) = 5/13<br>First Number is 5 <br> Fourth number is 13  ",
+            "name": "Sam invested Rs. 15000 @ 10% per annum for one year. If the interest is compounded half-yearly, <br>then the amount received by Sam at the end of the year will be?",
+			"explanation": "P = Rs. 15000; R = 10% p.a. = 5% per half-year; T = 1 year = 2 half-year<br>Amount = [15000 * (1 + 5/100)2]<br>= (15000 * 21/20 * 21/20) = Rs. 16537.50",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "17",
+                    "name": "Rs. 16,500",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "16",
-                    "isAnswer":false
+                    "name": "Rs. 16,525.50",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": false
+                    "name": "Rs. 16,537.50",
+                    "isAnswer": true
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "13",
-                    "isAnswer": true
+                    "name": "Rs. 18,150",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "A number is doubled and 9 is added. If the resultant is trebled, it becomes 75. What is that number ?  ",
-			"explanation": "Let the number be v. Then, 3 (2x + 9) = 75.<br>2x + 9 = 25<br>  2x = 16 <br> x = 8",
+            "name": "A bank offers 5% C.I. calculated on half-yearly basis . A customer deposits Rs. 1600 each on 1st January and 1st July of a year. At the end of the year, the amount he would have gained by way of interest is?",
+			"explanation": "Amount = [1600 * (1 + 5/(2 * 100)2 + 1600 * (1 + 5/(2 * 100)]<br>= [1600 * 41/40(41/40 + 1)<br>= [(1600 * 41 * 81)/(40 * 40)] = Rs. 3321.<br>C.I. = 3321 - 3200 = Rs. 121.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "2",
+                    "name": "Rs. 120 ",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "5",
+                    "name": "Rs. 122",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "7",
-                    "isAnswer":false
+                    "name": "Rs. 121",
+                    "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "8",
-                    "isAnswer": true
+                    "name": "Rs. 123",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

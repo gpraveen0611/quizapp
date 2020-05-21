@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Problems on Numbers Test 4",
-    "description": "Practice Problems on Numbers Online Test 4",
+    "name": "Problems on Trains Test 5",
+    "description": "Practice Problems on Trains Online Test 5",
     "questions": [
         {
             "id": 1010,
-            "name": "In a two-digit number, the digit in the unit's place is more than twice the digit in ten's place by 1. If the digits in the unit's place and the ten's place are interchanged,difference between the newly formed number and the oiginal number is less than the original number by 1. What is the original number ?",
-			"explanation": "Let the ten's digit be x. Then, unit's digit = 2x + 1.<br> [10x + (2x + 1)] - [{10 (2x + 1) + x} - {10x + (2x + 1)}] = 1 <br> (12x + 1) - (9x + 9) = 1 <=> 3x = 9, x =  3. <br> So, ten's digit = 3 and unit's digit = 7. Hence, original number = 37. ",
+            "name": "Two trains are running at 40 km/hr and 20 km/hr respectively in the same direction. Fast train completely passes a man sitting in the slower train in 5 seconds.<br> What is the length of the fast train?",
+			"explanation": "Relative speed = (40 - 20) km/hr = ( 20 x 5/18 ) m/sec = (50/9) m/sec<br>Therefore, Length of faster train = ( 50/9 x 5) m = 250/9 m = 27 (7/9 ) m.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "35",
+                    "name": "23 (2/9 ) m",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "36",
+                    "name": "23 m",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "37",
+                    "name": "27 (7/9 ) m",
                     "isAnswer":true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "39",
+                    "name": "29 m",
                     "isAnswer": false
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "What is the place value of 6 in 64?",
-			"explanation": "Each digit has a fixed position called its place <br> Each digit has a value depending on its place called the place value of the digit.<br> The face value of a digit for any place in the given number is the value of the digit itself <br> Place value of a digit = (face value of the digit) × (value of the place).<br> Hence, the place value of 6 in 64 = 6 x 10 = 60.",
+            "name": "A 400m long train is running at 72 Kmph.<br> how much time it will take to cross an electric pole? ",
+			"explanation": "Formula: Distance = Speed × Time<br>If we convert Kmph in to Mpsec multiply by 5/18,<br>400 = 72 KmpH × time<br>400 = 72×5/18 × time<br>Time = 20Sec",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "6",
+                    "name": "15sec",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "60 ",
-                    "isAnswer": true
+                    "name": "25sec",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "64",
-                    "isAnswer": false
+                    "name": "20sec",
+                    "isAnswer": true
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "10",
+                    "name": "21sec",
                     "isAnswer": false
                 }
             ],
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "The product of two numbers is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is :",
-			"explanation": "Let the numbers be x and y.<br> Then, xy = 9375 and  x/y = 15.<br> (xy/x/y)=9375/15 <br> y2 =625 <br> y = 25 <br>  x = 15y = 15 x 25 = 375.<br> Sum of the numbers = 375 + 25 = 400.",
+            "name": "Speed of a goods train is 72 km/hr. This train crosses a 250 meter platform in 26 seconds.<br>Then find the length of goods train.",
+			"explanation": "Speed = 72 kmph = 72 x (5/18) = 20 m/sec<br>Time = 26 seconds.<br>Total distance =Length of train + platform = x + 250<br>Distance = Speed x time => x+ 250 = 20 x 26 = 520 = > x= 270 m",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "100",
-                    "isAnswer":false
+                    "name": "270 m",
+                    "isAnswer": true
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "200 ",
+                    "name": "280 m",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "300",
+                    "name": "290 m",
                     "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "400",
-                    "isAnswer": true
+                    "name": "260 m",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is :",
-			"explanation": "Let the three integers be x, x + 2 and x + 4. Then, 3x = 2 (x + 4) + 3  <=> x = 11.<br>Third integer = x + 4 = 15. ",
+            "name": "A train travelling at a speed of 75 mph enters a tunnel 3 (1/2) miles long. The train is 1/4 mile long. How long does it take for the train to pass through the tunnel from the moment the front enters to the moment the rear emerges?",
+			"explanation": "Total distance covered = ( 7/2 + 1/4 ) miles<br>= 15/4 miles.<br>Therefore, Time taken<br>= ( 15 / 4 x 75 ) hrs<br>= 1 / 20 hrs<br>= ( 1/20 x 60 ) min.<br>= 3 min.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer":false
+                    "name": "3.2 min",
+                    "isAnswer": false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "14",
-                    "isAnswer":false
+                    "name": "3 min",
+                    "isAnswer": true
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "137",
+                    "name": "2.5 min",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": true
+                    "name": "3.5 min",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "54 is to be divided into two parts such that the sum of 10 times the first and 22 times the second is 780. The bigger part is :",
-			"explanation": "Let the two parts be (54 - x) and x.<br> Then, 10 (54 - x) + 22x = 780 <br> 12x = 240 <br>  x = 20. <br> Bigger part = (54 - x)  = 34.  ",
+            "name": "A train 800 m long is running at a speed of 78 km/hr. If it crosses a tunnel in 1 minute,,br> then the length of the tunnel is:",
+			"explanation": "Given, Length of the train = 800 m<br>Speed of the train = 78 km/hr (convert km/hr to m/sec)<br>= 78 × (5/18) m /sec<br>= 21.667 m /sec<br>=> Speed of the train = 21.667 m /sec<br>Time taken by the train to cross the tunnel = 1 min = 60 sec<br>To find the length of the tunnel:<br>Time taken by train to cross tunnel = (Length of tunnel + Length of train) / speed of the train<br>=> 60 = (Length of tunnel + 800) / 21.667<br>=> 60 × 21.667 = Length of tunnel + 800<br>=> 1300 = Length of tunnel + 800<br>=> 1300 – 800 = Length of tunnel<br>=> 500 = Length of tunnel<br><br>Thus, the Length of tunnel = 500 m",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "24",
+                    "name": "130 m",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "34 ",
-                    "isAnswer":true
+                    "name": "540 m",
+                    "isAnswer": false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": " 44",
-                    "isAnswer":false
+                    "name": "500 m",
+                    "isAnswer": true
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": " 54 ",
+                    "name": "260 m",
                     "isAnswer":false
                 }
             ],
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "There are two numbers such that the sum of twice the first and thrice the second is 39, while the sum of thrice the first, and twice the second is 36. The larger of the two is :",
-			"explanation": "Let the numbers be x and y. Then, 2x + 3y = 39...(i)and 3x + 2y = 30 ...(ii) <br> On solving (i) and (ii), we get :  x = 6 and y = 9. <br> larger number = 9",
+            "name": "A train moves past a telegraph post and a bridge 264 m long in 8 seconds and 20 seconds respectively.<br> What is the speed of the train?  ",
+			"explanation": "Let the length of the train be x metres and its speed by y m/sec.<br>Time = Length / Speed of the train<br>Given,A train moves past a telegraph post in 8 seconds.<br>Then, x/y = 8<br>=> x = 8y<br>Now, the same train moves past a bridge of 264 m long in 20 seconds.<br>=> (x + 264) / y = 20<br>Subs x = 8y in the above eqn, we get=> (8y + 264) = 20y=> 20y - 8y = 264<br>=> 12y = 264<br>=> y = 22.<br>Therefore Speed = 22 m/sec = ( 22 x 18 /5) km/hr = 79.2 km/hr.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "69.2 km/hr",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "6 ",
+                    "name": "70 km/hr",
                     "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "9 ",
-                    "isAnswer":true
+                    "name": "79 km/hr",
+                    "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer": false
+                    "name": "79.2 km/hr",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": "The difference between a two-digit number and the number obtained by interchanging the two digits is 63. Which is the smaller of the two numbers ? ",
-			"explanation": "Let the ten's digit be x and unit's digit be y.<br> Then, (10x + y) - (10y + x) = 63  <br> 9 (x - y) = 63 <br>  x - y = 7.<br> Thus, none of the numbers can be deermined.. ",
+            "name": "The two trains of lengths 400m, 600m respectively, running at same directions. The faster train can Cross the slower train in 180sec, the speed of the slower train is 48km.<br>then find the speed of the Faster train? ",
+			"explanation": "Length of the two trains = 600m + 400m<br>Speed of the first train = X<br>Speed of the second train= 48 Kmph <br>1000/X - 48 = 180 <br>1000/x - 48 * 5/18 = 180 <br>50 = 9X - 120 <br>X = 68 Kmph ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer": false
+                    "name": "68 Kmph ",
+                    "isAnswer": true
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "58 Kmph ",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": " 17 ",
+                    "name": "48 Kmph ",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " none of these answers can be determined",
-                    "isAnswer":true
+                    "name": "78 Kmph ",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Find the number which when multiplied by 15 is increased by 196.",
-			"explanation": "Let the number be x. Then, 15x - x = 196 <br>=> 14x = 196 => x = 14.",
+            "name": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, <br>what is the length of the platform?",
+			"explanation": "Given,speed of the train = 54 km/hr<br>---> converting this speed into meter/ sec<br>=> Speed of the train = (54 x 5 / 18 ) m/sec = 15 m/sec<br>Given that, thetrain passesa man in 20 seconds.<br>=> Length of the train = speed of the train × Time to pass theman <br>= 15 × 20<br>= 300 meter<br>Given that, thetrain passesa platform in 36 seconds.<br>=> Length of the train + Length of the platform = speed of the train × Time to pass the platform<br>=> 300 +Length of the platform = 15 × 36<br>=>Length of the platform = 540 - 300<br>=>Length of the platform = 240 meter.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "10 ",
-                    "isAnswer":false
+                    "name": "250 m",
+                    "isAnswer": false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "14 ",
-                    "isAnswer":true
+                    "name": "240 m",
+                    "isAnswer": true
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "18",
+                    "name": "300 m",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "20 ",
+                    "name": "120 m",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "There are four prime numbers written in ascending order of magnitude. The product of the first three is 385 and of the last three is 1001. Find the fourth number ?",
-			"explanation": "(385/1001) = 5/13<br>First Number is 5 <br> Fourth number is 13  ",
+            "name": "A train 240 m long passes a pole in 24 seconds.<br>How long will it take to pass a platform 650 m long? ",
+			"explanation": "Given, length of the train = 240 m<br>Time taken by the train to pass the pole = 24 sec<br>Length of the Platform = 650 m<br>To find theTime taken by the train to pass the platform:-<br>Speed of the train = length of the train /Time taken by the train to pass the pole<br>= (240/ 24 )<br>= 10 m/sec.<br>Therefore, Time taken by the train to pass the platform = (length of the train + Length of the Platform) / Speed of the train<br>= [(240 + 650) / 10] sec<br><br>= 89 sec",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "17",
-                    "isAnswer": false
+                    "name": "89 sec",
+                    "isAnswer": true
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "16",
-                    "isAnswer":false
+                    "name": "65 sec",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "100 sec",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "13",
-                    "isAnswer": true
+                    "name": "150 sec",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "A number is doubled and 9 is added. If the resultant is trebled, it becomes 75. What is that number ?  ",
-			"explanation": "Let the number be v. Then, 3 (2x + 9) = 75.<br>2x + 9 = 25<br>  2x = 16 <br> x = 8",
+            "name": "A train 110 m long is running with speed of 60 km/hr .In what time will it pass a man who is running at 6 km/hr in the direction opposite to that in which the train is going?",
+			"explanation": "Relative speed = Train speed + Man Speed = 60 + 6 = 66 kmph = 18 1/3 m /sec<br>Distance to be covered = 110 meter<br>Time taken = Speed / Distance = 110 / (18 1/3) = (110 / 55) x 3 = 2 x 3 = 6 sec",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "2",
+                    "name": "7 sec",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "5",
+                    "name": "10 sec",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "7",
-                    "isAnswer":false
+                    "name": "6 sec",
+                    "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "8",
-                    "isAnswer": true
+                    "name": "5 sec",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

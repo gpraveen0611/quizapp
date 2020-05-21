@@ -1,37 +1,38 @@
 {
     "id": 1,
-    "name": "Problems on Numbers Test 4",
-    "description": "Practice Problems on Numbers Online Test 4",
-    "questions": [
+    "name": "Pipes and Cisterns Test 5",
+    "description": "Practice Pipes and Cisterns Online Test 5",
+    "questions": 
+    [
         {
             "id": 1010,
-            "name": "In a two-digit number, the digit in the unit's place is more than twice the digit in ten's place by 1. If the digits in the unit's place and the ten's place are interchanged,difference between the newly formed number and the oiginal number is less than the original number by 1. What is the original number ?",
-			"explanation": "Let the ten's digit be x. Then, unit's digit = 2x + 1.<br> [10x + (2x + 1)] - [{10 (2x + 1) + x} - {10x + (2x + 1)}] = 1 <br> (12x + 1) - (9x + 9) = 1 <=> 3x = 9, x =  3. <br> So, ten's digit = 3 and unit's digit = 7. Hence, original number = 37. ",
+            "name": "A cistern has one inlet, L and one inlet, M. L takes 5 hours to fill the empty tank, when M is not open and M takes 8 hours to empty the full tank, if the tank is two fifth full,<br> how much time will it take to fill the tank completely when both L and M are opened simultaneously? (in hours)",
+			"explanation": "If the tank is 2/5th full, then remaining empty tank will be = 1-2/5=3/5th<br>L and M can fill the empty tank in = (5*8)/(8-5)=40/3 hours<br>Then 3/5 th tank fill in =40/3 * 3/5= 8 hours",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "35",
+                    "name": "5 hours",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "36",
+                    "name": " hours",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "37",
-                    "isAnswer":true
+                    "name": "7 hours",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "39",
-                    "isAnswer": false
+                    "name": "8 hours",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -42,32 +43,32 @@
         },
         {
             "id": 1011,
-            "name": "What is the place value of 6 in 64?",
-			"explanation": "Each digit has a fixed position called its place <br> Each digit has a value depending on its place called the place value of the digit.<br> The face value of a digit for any place in the given number is the value of the digit itself <br> Place value of a digit = (face value of the digit) × (value of the place).<br> Hence, the place value of 6 in 64 = 6 x 10 = 60.",
+            "name": "18 buckets of water fill a tank when the capacity of each bucket is 8 litres. How many buckets will be needed to fill the same tank, if the capacity of the bucket is 12 litres?",
+			"explanation": "Capacity of tank = (8 X 18) = 144 litres<br>If the capacity of each bucket = 12 litres<br>Then, Nunber of buckets needed = 144 / 12 = 12 buckets",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "6",
-                    "isAnswer":false
+                    "name": "12",
+                    "isAnswer": true
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "60 ",
-                    "isAnswer": true
+                    "name": "13.5",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "64",
+                    "name": "24",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "10",
+                    "name": "Data insufficient",
                     "isAnswer": false
                 }
             ],
@@ -79,33 +80,32 @@
         },
         {
             "id": 1012,
-            "name": "The product of two numbers is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is :",
-			"explanation": "Let the numbers be x and y.<br> Then, xy = 9375 and  x/y = 15.<br> (xy/x/y)=9375/15 <br> y2 =625 <br> y = 25 <br>  x = 15y = 15 x 25 = 375.<br> Sum of the numbers = 375 + 25 = 400.",
+            "name": "One pipe can fill a tank three times as fast as another pipe. If together the two pipes can fill tank in 36 min, then the slower pipe alone will be able to fill the tank in ?",
+			"explanation": "Let the slower pipe alone fill the tank in x min.<br>Then, faster pipe will fill it in x/3 min.<br>1/x + 3/x = 1/36 <br>4/x = 1/36 => x = 144 min.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "100",
+                    "name": "85 min",
                     "isAnswer":false
 		
                 },
-                {
-                    "id": 1064,
+                {   "id": 1064,
                     "questionId": 1010,
-                    "name": "200 ",
+                    "name": "92 min",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "300",
+                    "name": "187 min",
                     "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "400",
+                    "name": "144 min",
                     "isAnswer": true
                 }
             ],
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is :",
-			"explanation": "Let the three integers be x, x + 2 and x + 4. Then, 3x = 2 (x + 4) + 3  <=> x = 11.<br>Third integer = x + 4 = 15. ",
+            "name": "Two filling taps P and Q together can fill a tank with rate of 40 lit/min and 60 lit/min respectively in 8 min. If a waste tap can empty the filled tank in 32 min, then<br> what is the rate of waste tap ?",
+			"explanation": "Given that the waste tap can empty the filled tank in 32 min.<br>Now, the rate at which the waste tap can empty the tank = (40 + 60)8/32 = 100/4 = 25 lit/min.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer":false
+                    "name": "34 lit/min",
+                    "isAnswer": false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "14",
-                    "isAnswer":false
+                    "name": "25 lit/min",
+                    "isAnswer": true
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "137",
+                    "name": "22 lit/min",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": true
+                    "name": "18 lit/min",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "54 is to be divided into two parts such that the sum of 10 times the first and 22 times the second is 780. The bigger part is :",
-			"explanation": "Let the two parts be (54 - x) and x.<br> Then, 10 (54 - x) + 22x = 780 <br> 12x = 240 <br>  x = 20. <br> Bigger part = (54 - x)  = 34.  ",
+            "name": "3 pipes when opened for 3 hours can fill 3 buckets.<br> How many buckets can 2 pipes open for 2 hours approximately fill?",
+			"explanation": "2 pipes open for 2 hours will fill = (2/3) x (2/3) x 3 = 4/3 buckets",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "24",
+                    "name": "2/3 buckets",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "34 ",
+                    "name": "4/3 bucket",
                     "isAnswer":true
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": " 44",
+                    "name": "4 bucket",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": " 54 ",
+                    "name": "3 bucket",
                     "isAnswer":false
                 }
             ],
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "There are two numbers such that the sum of twice the first and thrice the second is 39, while the sum of thrice the first, and twice the second is 36. The larger of the two is :",
-			"explanation": "Let the numbers be x and y. Then, 2x + 3y = 39...(i)and 3x + 2y = 30 ...(ii) <br> On solving (i) and (ii), we get :  x = 6 and y = 9. <br> larger number = 9",
+            "name": "A cistern has one inlet, L and one inlet, M. L takes 5 hours to fill the empty tank, when M is not open and M takes 8 hours to empty the full tank, if the tank is two fifth full, how much time will it take to fill the tank completely when both L and M are opened simultaneously? (in hours)",
+			"explanation": "If the tank is 2/5th full, then remaining empty tank will be = 1-2/5=3/5th<br>L and M can fill the empty tank in = (5*8)/(8-5)=40/3 hours<br>Then 3/5 th tank fill in =40/3 * 3/5= 8 hours",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "5 hours",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "6 ",
+                    "name": "6 hours",
                     "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "9 ",
-                    "isAnswer":true
+                    "name": "3 hours",
+                    "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer": false
+                    "name": "8 hours",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": "The difference between a two-digit number and the number obtained by interchanging the two digits is 63. Which is the smaller of the two numbers ? ",
-			"explanation": "Let the ten's digit be x and unit's digit be y.<br> Then, (10x + y) - (10y + x) = 63  <br> 9 (x - y) = 63 <br>  x - y = 7.<br> Thus, none of the numbers can be deermined.. ",
+            "name": "18 buckets of water fill a tank when the capacity of each bucket is 8 litres. How many buckets will be needed to fill the same tank, if the capacity of the bucket is 12 litres?",
+			"explanation": "Capacity of tank = (8 X 18) = 144 litres<br>If the capacity of each bucket = 12 litres<br>Then, Nunber of buckets needed = 144 / 12 = 12 buckets",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
                     "name": "12",
-                    "isAnswer": false
+                    "isAnswer": true
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "13.5",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": " 17 ",
+                    "name": "24",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " none of these answers can be determined",
-                    "isAnswer":true
+                    "name": "Data insufficient",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Find the number which when multiplied by 15 is increased by 196.",
-			"explanation": "Let the number be x. Then, 15x - x = 196 <br>=> 14x = 196 => x = 14.",
+            "name": "Pipes A and B can fill a cistern in 15 hours together. But ifthese pipes operate separately A takes 40 hours less than Bto fill the tank. <br>In how many hours the pipe A will fill thecistern working alone?",
+			"explanation": "Let A takes x hours, then B = (x+40) hours<br>1/x + 1/x+40 = 1/15<br>x = 20",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "10 ",
+                    "name": "60",
                     "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "14 ",
+                    "name": "20",
                     "isAnswer":true
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "18",
+                    "name": "40",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "20 ",
+                    "name": "15",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "There are four prime numbers written in ascending order of magnitude. The product of the first three is 385 and of the last three is 1001. Find the fourth number ?",
-			"explanation": "(385/1001) = 5/13<br>First Number is 5 <br> Fourth number is 13  ",
+            "name": "Two pipes A and B can fill a tank in 12 and 24 minutes respectively. If both the pipes are used together, <br>how long will it take to fill the tank?",
+			"explanation": "Tank can be filled by pipe A in 12 minutes and pipe B in 24minutes.<br>=> Part filled by A in 1 minute= 1/12<br>=> Part filled by B in 1 minute= 1/24<br>=> Part filled by both in 1 minute= 1/12 + 1/24<br>= 3/24=1/8<br>Time taken to fill the entire tank = 8 minutes",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "17",
+                    "name": "9 min",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "16",
-                    "isAnswer":false
+                    "name": "8 min",
+                    "isAnswer": true
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "7 min",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "13",
-                    "isAnswer": true
+                    "name": "4 min",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,32 +339,32 @@
 		},
 		{
 			"id": 1019,
-            "name": "A number is doubled and 9 is added. If the resultant is trebled, it becomes 75. What is that number ?  ",
-			"explanation": "Let the number be v. Then, 3 (2x + 9) = 75.<br>2x + 9 = 25<br>  2x = 16 <br> x = 8",
+            "name": "Two pipes A and B can fill a cistern in 37.5 minutes and 45 minutes respectively. This cistern will be filled in half an hour if both the pipes are opened together initially and pipe B is then turned off after X minutes.<br> What is X?",
+			"explanation": "Let B be turned off after X minutes.<br>Part of water will be filled by A + B in x minutes + After tap B is closed rest filled by A in (30-x) minutes = 1<br>=> x/(time taken to fill the container by each separately) + 30 - x/(time taken to fill the container by A alone) = 1<br>=> x(2/75 + 1/45) + (30-x)2/75 = 1<br>=> 11x + 180 – 6x = 225<br>Therefore, x = 9 minutes",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "2",
+                    "name": "10 minutes",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "5",
+                    "name": "15 minutes",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "7",
-                    "isAnswer":false
+                    "name": "12 minutes",
+                    "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "8",
+                    "name": "9 minutes",
                     "isAnswer": true
                 }
             ],

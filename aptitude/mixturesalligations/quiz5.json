@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Problems on Numbers Test 4",
-    "description": "Practice Problems on Numbers Online Test 4",
+    "name": "Mixtures and Alligations Test 5",
+    "description": "Practice Mixtures and Alligations Online Test 5",
     "questions": [
         {
             "id": 1010,
-            "name": "In a two-digit number, the digit in the unit's place is more than twice the digit in ten's place by 1. If the digits in the unit's place and the ten's place are interchanged,difference between the newly formed number and the oiginal number is less than the original number by 1. What is the original number ?",
-			"explanation": "Let the ten's digit be x. Then, unit's digit = 2x + 1.<br> [10x + (2x + 1)] - [{10 (2x + 1) + x} - {10x + (2x + 1)}] = 1 <br> (12x + 1) - (9x + 9) = 1 <=> 3x = 9, x =  3. <br> So, ten's digit = 3 and unit's digit = 7. Hence, original number = 37. ",
+            "name": "A 50 litres mixture of milk and water contains 10% water. 10 litres of this mixture is replaced by 10 litres of milk.<br> What is the percentage of water in the final mixture?",
+			"explanation": "When 10 litres taken out, quantity of mixture left =50-10=40, so<br>milk left = 90/100 *40 = 36<br>And water left = (10/100)*40 = 4<br>now 10 litres of milk poured in, so there is no change in quantity of water, and total mixture again becomes 50l<br>so water now is 4/50 * 100 = 8%",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "35",
+                    "name": "9%",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "36",
-                    "isAnswer":false
+                    "name": "8%",
+                    "isAnswer":true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "37",
-                    "isAnswer":true
+                    "name": "7%",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "39",
+                    "name": "8.5%",
                     "isAnswer": false
                 }
             ],
@@ -42,33 +42,33 @@
         },
         {
             "id": 1011,
-            "name": "What is the place value of 6 in 64?",
-			"explanation": "Each digit has a fixed position called its place <br> Each digit has a value depending on its place called the place value of the digit.<br> The face value of a digit for any place in the given number is the value of the digit itself <br> Place value of a digit = (face value of the digit) × (value of the place).<br> Hence, the place value of 6 in 64 = 6 x 10 = 60.",
+            "name": "A man travelled a distance of 75 km in 5 hours partly on foot at the rate of 6 km/hour and partly by scooter at 18 km/hour.<br> Find the distance travelled by scooter?",
+			"explanation": "Average speed = 75/5 = 15 km/hr<br>By method of allegation:<br>6------------------18<br>.........15..........<br>3................9<br> 1 : 3 <br> 1 : 3 is the ratio of times.<br> So time by scooter = 3/(1+3) * 5 = 3.75 hrs <br> So distance by scooter = 3.75 * 18 =  67.5 km",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "6",
+                    "name": "56 km",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "60 ",
-                    "isAnswer": true
+                    "name": "52.25 km",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "64",
+                    "name": "48.5 km",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "10",
-                    "isAnswer": false
+                    "name": "67.5 km",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "The product of two numbers is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is :",
-			"explanation": "Let the numbers be x and y.<br> Then, xy = 9375 and  x/y = 15.<br> (xy/x/y)=9375/15 <br> y2 =625 <br> y = 25 <br>  x = 15y = 15 x 25 = 375.<br> Sum of the numbers = 375 + 25 = 400.",
+            "name": "An article is bought for Rs 560. Some of the part is sold at 20% profit and remaining at 15% loss giving a total of 10% profit.<br> Find the cost price of part sold at 20% profit.",
+			"explanation": "20                         -15<br> .............10........... <br>10-(-15)              20-10<br> 25 : 10 <br> 5 : 2 <br>So at 20% profit = 5/(5+2) * 560 <br> Rs. 400",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "100",
+                    "name": "Rs 350",
                     "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "200 ",
-                    "isAnswer":false
+                    "name": "Rs 400",
+                    "isAnswer": true
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "300",
+                    "name": "Rs 500",
                     "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "400",
-                    "isAnswer": true
+                    "name": "Rs 430",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is :",
-			"explanation": "Let the three integers be x, x + 2 and x + 4. Then, 3x = 2 (x + 4) + 3  <=> x = 11.<br>Third integer = x + 4 = 15. ",
+            "name": "Milk contains 20% water. What quantity of pure milk should be added to 75 litres of this milk to reduce the quantity of water to 15%?",
+			"explanation": "To have final mixture with water 15% means, milk = (100-15) = 85%<br> Pure milk is 100% milk, and in 75 litres of milk there is 80% milk so<br>Milk (75 litres).............................Pure milk (x litres)<br>80............................100<br>................85..................<br> 15..........................5<br> 3 : 1 <br> So 75/x = 3/1 <br> Solve, x = 25",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer":false
+                    "name": "25 litres",
+                    "isAnswer":true
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "14",
+                    "name": "30 litres",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "137",
+                    "name": "18 litres",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": true
+                    "name": "10 litres",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "54 is to be divided into two parts such that the sum of 10 times the first and 22 times the second is 780. The bigger part is :",
-			"explanation": "Let the two parts be (54 - x) and x.<br> Then, 10 (54 - x) + 22x = 780 <br> 12x = 240 <br>  x = 20. <br> Bigger part = (54 - x)  = 34.  ",
+            "name": "A mixture contains A and B in the ratio 5 : 7. 24 litres of this mixture is taken out and 15 litres of A is poured in. Now the ratio of A to B becomes 10 : 7. <br>Find the amount of B originally present in the mixture.",
+			"explanation": "Total = 5x+7x+24 = 12x+24<br>So 5x+15/7x = 10/7<br>Solve, x = 3<br>So total = 12*3 + 24 = 60 litres<br>So B = 7/(5+7) * 60 = 35",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "24",
+                    "name": "25 litres",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "34 ",
+                    "name": "35 litres",
                     "isAnswer":true
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": " 44",
+                    "name": "45 litres",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": " 54 ",
+                    "name": "55 litres",
                     "isAnswer":false
                 }
             ],
@@ -191,32 +191,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "There are two numbers such that the sum of twice the first and thrice the second is 39, while the sum of thrice the first, and twice the second is 36. The larger of the two is :",
-			"explanation": "Let the numbers be x and y. Then, 2x + 3y = 39...(i)and 3x + 2y = 30 ...(ii) <br> On solving (i) and (ii), we get :  x = 6 and y = 9. <br> larger number = 9",
+            "name": "A mixture contains A and B in the ratio 5 : 9. 14 litres of this mixture is taken out and 14 litres of B is poured in. Now the ratio of A to B becomes 2 : 5.<br> Find the amount of B originally present in the mixture.",
+			"explanation": "Total = 5x+9x+14 = 14x+14<br>So 5x/9x+14 = 2/5<br>Solve, x = 4<br>So total = 14*4 + 14 = 70 litres<br>So B = 9/(5+9) * 70 = 45",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "25 litres",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "6 ",
-                    "isAnswer":false
+                    "name": "45 litres",
+                    "isAnswer": true
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "9 ",
-                    "isAnswer":true
+                    "name": "35 litres",
+                    "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "40 litres",
                     "isAnswer": false
                 }
             ],
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": "The difference between a two-digit number and the number obtained by interchanging the two digits is 63. Which is the smaller of the two numbers ? ",
-			"explanation": "Let the ten's digit be x and unit's digit be y.<br> Then, (10x + y) - (10y + x) = 63  <br> 9 (x - y) = 63 <br>  x - y = 7.<br> Thus, none of the numbers can be deermined.. ",
+            "name": "Wheat worth Rs 30 per kg and Rs 42 per kg are mixed with a third variety of wheat in the ratio 1 : 1 : 2 respectively. The mixture is worth Rs 42 per kg.<br> Find the price (per kg) of the third variety of wheat.",
+			"explanation": "Since 1st and 2nd wheat mixed in equal ratio, their average price = (30+42)/2 = 72/2 = Rs 36<br>Let 3rd variety of wheat be Rs x per kg<br>So they are mixed as : (1+1) : 2 = 1 : 1<br>So<br>36.........................x<br>.............42............<br>x-42                     42-36=6<br>so x-42/6 = 1/1<br>solve, x = 48",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "Rs 58",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": false
+                    "name": "Rs 48",
+                    "isAnswer": true
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": " 17 ",
+                    "name": "Rs 50",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " none of these answers can be determined",
-                    "isAnswer":true
+                    "name": "None of these",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -265,33 +265,33 @@
 		},
 		{
 			"id": 1017,
-            "name": "Find the number which when multiplied by 15 is increased by 196.",
-			"explanation": "Let the number be x. Then, 15x - x = 196 <br>=> 14x = 196 => x = 14.",
+            "name": "15 litres of the milk is drawn out of a jar and filled with water. This operation is performed 1 more times. If the ratio of the quantity of milk left in jar to that of water in jar is 16 : 9, <br>what was the initial quantity of milk present in the jar?",
+			"explanation": "Let initial quantity of milk = x litres<br>After two times, quantity of milk left in jar = x [1 – 15/x]2<br>So x [1 – 15/x]2 / x = 16/16+9<br>[1 – 15/x]2 = 16/25<br>Square root both sides, so [1 – 15/x] = 4/5<br>Solve, x = 75",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "10 ",
+                    "name": "60 litres",
                     "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "14 ",
-                    "isAnswer":true
+                    "name": "65 litres",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "18",
+                    "name": "70 litres",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "20 ",
-                    "isAnswer": false
+                    "name": "75 litres",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "There are four prime numbers written in ascending order of magnitude. The product of the first three is 385 and of the last three is 1001. Find the fourth number ?",
-			"explanation": "(385/1001) = 5/13<br>First Number is 5 <br> Fourth number is 13  ",
+            "name": "How many kg of wheat costing Rs 8 per kg must be mixed with 8 Kg of wheat costing Rs 12 per Kg, so that there may be gain of 20% by selling the mixture of Rs 11.52 per Kg?",
+			"explanation": "With 20% gain and SP = 11.52, CP = (100/120)*11.52 = 9.6<br>By method of allegation:<br>1st wheat (x kg).................2nd wheat (8 kg)<br>8...........................12<br>..............9.6.................<br>12-9.6........................9.6-8<br>2.4 1.6<br>3 : 2<br>So x/8 = 3/2, <br>X =12kg ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "17",
+                    "name": "8 kg",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "16",
-                    "isAnswer":false
+                    "name": "12 kg",
+                    "isAnswer": true
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "10 kg",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "13",
-                    "isAnswer": true
+                    "name": "17 kg",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "A number is doubled and 9 is added. If the resultant is trebled, it becomes 75. What is that number ?  ",
-			"explanation": "Let the number be v. Then, 3 (2x + 9) = 75.<br>2x + 9 = 25<br>  2x = 16 <br> x = 8",
+            "name": "A mixture contains milk and water in the ratio 2 : 3 and the other contains them in the ratio 3 : 1 respectively.<br> What weight of 2nd mixture must be taken so as to make a third mixture 7 litres in weight with 70% milk?",
+			"explanation": "70/100 = 7/10<br> Milk in first = 2/(2+3) = 2/5, milk in second = 3/(3+1) = 3/4<br>By method of allegation:<br>2/5.......................3/4<br>................7/10................<br>3/4 – 7/10......................7/10 – 2/5<br>1/20 : 3/10<br>1 : 6<br>So in 3rd mixture, 2nd mixture is [6/(1+6)] * 7 = 6 litres",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "2",
+                    "name": "1 litres",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "5",
+                    "name": "4 litres",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "7",
-                    "isAnswer":false
+                    "name": "6 litres",
+                    "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "8",
-                    "isAnswer": true
+                    "name": "9 litres",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

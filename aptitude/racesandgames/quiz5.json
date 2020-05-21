@@ -1,37 +1,37 @@
 {
     "id": 1,
-    "name": "Problems on Numbers Test 4",
-    "description": "Practice Problems on Numbers Online Test 4",
+    "name": "Races and Games Test 5",
+    "description": "Practice Races and Games Online Test 5",
     "questions": [
         {
             "id": 1010,
-            "name": "In a two-digit number, the digit in the unit's place is more than twice the digit in ten's place by 1. If the digits in the unit's place and the ten's place are interchanged,difference between the newly formed number and the oiginal number is less than the original number by 1. What is the original number ?",
-			"explanation": "Let the ten's digit be x. Then, unit's digit = 2x + 1.<br> [10x + (2x + 1)] - [{10 (2x + 1) + x} - {10x + (2x + 1)}] = 1 <br> (12x + 1) - (9x + 9) = 1 <=> 3x = 9, x =  3. <br> So, ten's digit = 3 and unit's digit = 7. Hence, original number = 37. ",
+            "name": "A and B start from the same point and travel in the same direction around a circular track 3 km in circumference, If their speed is 200 and 150 metres a minute,<br> when will they first together again at the starting point?",
+			"explanation": "Time taken by A in one round = 3000/200 = 15 min <br> Time taken by B in one round = 3000/150 = 20 min <br> L.C.m of 15 min and 20 min = 60 min = 1 hr.<br>Hence, they will meet first together at the starting point after 1 hour. ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "35",
+                    "name": "40 min",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "36",
+                    "name": "0 min",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "37",
-                    "isAnswer":true
+                    "name": "55 min ",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "39",
-                    "isAnswer": false
+                    "name": "1 hour",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "What is the place value of 6 in 64?",
-			"explanation": "Each digit has a fixed position called its place <br> Each digit has a value depending on its place called the place value of the digit.<br> The face value of a digit for any place in the given number is the value of the digit itself <br> Place value of a digit = (face value of the digit) × (value of the place).<br> Hence, the place value of 6 in 64 = 6 x 10 = 60.",
+            "name": "Two men, A and B run a 500 m race, A having 140 m start their speeds are 3 :4. Then, A wins By:",
+			"explanation": "Here, greatest have to cover a distance of ( 500-140) = 360 m to reach the winning point while B 500 m Now, <br>A covers 3m while B covers 4 m<br>A covers 360 m while B covers 4/3 x 360 = 480 m<br>Hence, B will be ( 500- 480) = 20 m behind the winning post.<br>A wins by 20 min.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "6",
+                    "name": "10 m",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "60 ",
+                    "name": "20 m",
                     "isAnswer": true
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "64",
+                    "name": "40 m",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "10",
+                    "name": "60 m",
                     "isAnswer": false
                 }
             ],
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "The product of two numbers is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is :",
-			"explanation": "Let the numbers be x and y.<br> Then, xy = 9375 and  x/y = 15.<br> (xy/x/y)=9375/15 <br> y2 =625 <br> y = 25 <br>  x = 15y = 15 x 25 = 375.<br> Sum of the numbers = 375 + 25 = 400.",
+            "name": "in a race of 200 metres, A can give a start of 10 metres to A C give a start of 20 metres to B.<br> The start that C can give to A, in the same race is",
+			"explanation": "B covers 200 m while A 190 m<br>B covers 180 m while A 190/200x180 = 171 m<br>Hence, C covers 200 m while A = 171 m<br>So, C can give to A ( 200 - 171) = 29 m Start.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "100",
+                    "name": "30m",
                     "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "200 ",
-                    "isAnswer":false
+                    "name": "29m",
+                    "isAnswer": true
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "300",
-                    "isAnswer": false
+                    "name": "27m",
+                    "isAnswer":false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "400",
-                    "isAnswer": true
+                    "name": "35m",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is :",
-			"explanation": "Let the three integers be x, x + 2 and x + 4. Then, 3x = 2 (x + 4) + 3  <=> x = 11.<br>Third integer = x + 4 = 15. ",
+            "name": "In a race of 300 metres A rates B by 15 metres or 5 seconds, Hoe much time A take to complete the race?",
+			"explanation": "From the question it is clear that speed of B = 15/5 = 3 m/s<br>the time taken by B to cover 300 m = 300 / 3 = 100 sec.<br>Hence, Time taken by A to complete the race = 100-5 = 95 sec.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer":false
+                    "name": " 105 sec.",
+                    "isAnswer": false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "14",
+                    "name": "100 sec.",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "137",
-                    "isAnswer": false
+                    "name": "95 sec. ",
+                    "isAnswer": true
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": true
+                    "name": "90 sec.",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "54 is to be divided into two parts such that the sum of 10 times the first and 22 times the second is 780. The bigger part is :",
-			"explanation": "Let the two parts be (54 - x) and x.<br> Then, 10 (54 - x) + 22x = 780 <br> 12x = 240 <br>  x = 20. <br> Bigger part = (54 - x)  = 34.  ",
+            "name": "Three girls Seema, Kiran and Nitu walk around a circle 3 km in circumference at the rates of 200, 150 and 125 metres per minute respectively. if they all start together and walk in the same direction,<br>when will they first be together again?",
+			"explanation": "Seema is quickest girl one complete round on Neetu, the slowest girl, in 3000/200-125 or 40 minutes.<br>Seema gains one complete round on Kiran, the next slowest girl in 3000/200-150 or 40 minutes.<br>Thus, Seema and Nitu are together after every 40 minutes, and Seema and Kiran are together after 60 minutes.<br>'Hence, Seema, Kiran and Nitu will be together in the time which is LCM of 40 and 60. The LCM of 40 and 60 is 120 minutes or 2 hours.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "24",
+                    "name": "30 Min",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "34 ",
+                    "name": "120 Min",
                     "isAnswer":true
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": " 44",
+                    "name": "60 Min",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": " 54 ",
+                    "name": "180 Min",
                     "isAnswer":false
                 }
             ],
@@ -191,32 +191,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "There are two numbers such that the sum of twice the first and thrice the second is 39, while the sum of thrice the first, and twice the second is 36. The larger of the two is :",
-			"explanation": "Let the numbers be x and y. Then, 2x + 3y = 39...(i)and 3x + 2y = 30 ...(ii) <br> On solving (i) and (ii), we get :  x = 6 and y = 9. <br> larger number = 9",
+            "name": "At a game of billiard, A can give B 12 points in a game of 40 and A can give C 10 Points in game of 50.<br> How many points can C and B in a game of 80?",
+			"explanation": "A : B = 60 : 45 <br> A : C = 60: 40 <br> => B : C = 45: 40 = 90 : 80 That is, B can give C 10 points.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "3",
-                    "isAnswer": false
+                    "name": "10",
+                    "isAnswer": true
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "6 ",
+                    "name": "20",
                     "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "9 ",
-                    "isAnswer":true
+                    "name": "12",
+                    "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "18",
                     "isAnswer": false
                 }
             ],
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": "The difference between a two-digit number and the number obtained by interchanging the two digits is 63. Which is the smaller of the two numbers ? ",
-			"explanation": "Let the ten's digit be x and unit's digit be y.<br> Then, (10x + y) - (10y + x) = 63  <br> 9 (x - y) = 63 <br>  x - y = 7.<br> Thus, none of the numbers can be deermined.. ",
+            "name": "A can run 15 metres while B runs 20 metres. In a kilometre race B beats A by",
+			"explanation": "A: B = 15 : 20 = 750 :1000 <br> Therefore B can beat A by (1000−750)=250 metres.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "220 metres",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": false
+                    "name": "250 metres",
+                    "isAnswer": true
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": " 17 ",
+                    "name": "200 metres",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " none of these answers can be determined",
-                    "isAnswer":true
+                    "name": "100 metres",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Find the number which when multiplied by 15 is increased by 196.",
-			"explanation": "Let the number be x. Then, 15x - x = 196 <br>=> 14x = 196 => x = 14.",
+            "name": "A runs 1 2/3 times as fast as B. If A gives B a start of 80 m, how far must the winning post be so that A and B might reach it at the same time?",
+			"explanation": "Ratio of the speeds of A and B =5 : 1 = 5 :3<br>Thus, in race of 5 m, A gains 2 m over B.<br>2 m are gained by A in a race of 5 m.<br>80 m will be gained by A in race of (52*80) m =200m<br>=> Winning post is 200 m away from the starting point.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "10 ",
-                    "isAnswer":false
+                    "name": "150 m",
+                    "isAnswer":true
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "14 ",
-                    "isAnswer":true
+                    "name": "120 m",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "18",
+                    "name": "130 m",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "20 ",
+                    "name": "140 m",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "There are four prime numbers written in ascending order of magnitude. The product of the first three is 385 and of the last three is 1001. Find the fourth number ?",
-			"explanation": "(385/1001) = 5/13<br>First Number is 5 <br> Fourth number is 13  ",
+            "name": "In a game of 100 points, A can give B 20 points and C 28 points. Then, B can give C:",
+			"explanation": "A : B = 100 : 80.<br> A : C = 100 : 72.<br>B:C = B/A*A/C = 80/10*100/72 = 10/9 = 100/90 = 100:90<br>B can give C 10 points",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "17",
+                    "name": "8 points",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "16",
-                    "isAnswer":false
+                    "name": "10 points",
+                    "isAnswer": true
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "14 points",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "13",
-                    "isAnswer": true
+                    "name": "40  points",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "A number is doubled and 9 is added. If the resultant is trebled, it becomes 75. What is that number ?  ",
-			"explanation": "Let the number be v. Then, 3 (2x + 9) = 75.<br>2x + 9 = 25<br>  2x = 16 <br> x = 8",
+            "name": "In a 200 metres race A beats B by 35 m or 7 seconds. A's time over the course is:",
+			"explanation": "B runs 35 m in 7 sec.<br>B covers 200 m in (7/35*200) = 40sec<br>B's time over the course = 40 sec.<br>A's time over the course (40 - 7) sec = 33 sec.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "2",
+                    "name": "40 sec",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "5",
+                    "name": "45 sec",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "7",
-                    "isAnswer":false
+                    "name": "33 sec",
+                    "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "8",
-                    "isAnswer": true
+                    "name": "None of these",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

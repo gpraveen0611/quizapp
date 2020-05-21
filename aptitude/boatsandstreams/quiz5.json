@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Problems on Numbers Test 4",
-    "description": "Practice Problems on Numbers Online Test 4",
+    "name": "Boats and Streams Test 5",
+    "description": "Practice Boats and Streams Online Test 5",
     "questions": [
         {
             "id": 1010,
-            "name": "In a two-digit number, the digit in the unit's place is more than twice the digit in ten's place by 1. If the digits in the unit's place and the ten's place are interchanged,difference between the newly formed number and the oiginal number is less than the original number by 1. What is the original number ?",
-			"explanation": "Let the ten's digit be x. Then, unit's digit = 2x + 1.<br> [10x + (2x + 1)] - [{10 (2x + 1) + x} - {10x + (2x + 1)}] = 1 <br> (12x + 1) - (9x + 9) = 1 <=> 3x = 9, x =  3. <br> So, ten's digit = 3 and unit's digit = 7. Hence, original number = 37. ",
+            "name": "A boat covers a certain distance downstream in 1 hour, while it comes back in 1 1/2 hours. If the speed of the stream be 3 kmph,<br> what is the speed of the boat in still water? ",
+			"explanation": "Let the speed of the boat in still water be x kmph.<br>Given,speed of the stream = 3 kmph<br>Then, Speed downstream = speed of the boat +speed of the stream<br>= (x + 3) kmph<br>Speed upstream = speed of the boat - speed of the stream<br>= (x - 3) kmph.<br>Therefore, Downstream distance =upstream distance<br>=> SpeedDownstream * Downstream Time =Speedupstream *upstream Time<br>=> (x + 3) x 1 = (x - 3) x 3/2<br>=> 2x + 6 = 3x - 9<br>=> x = 15 kmph.<br>Thus,speed of the boat in still water = 15 kmph",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "35",
-                    "isAnswer": false
+                    "name": "15 kmph",
+                    "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "36",
+                    "name": "25 kmph",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "37",
-                    "isAnswer":true
+                    "name": "11 kmph",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "39",
+                    "name": "16 kmph",
                     "isAnswer": false
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "What is the place value of 6 in 64?",
-			"explanation": "Each digit has a fixed position called its place <br> Each digit has a value depending on its place called the place value of the digit.<br> The face value of a digit for any place in the given number is the value of the digit itself <br> Place value of a digit = (face value of the digit) × (value of the place).<br> Hence, the place value of 6 in 64 = 6 x 10 = 60.",
+            "name": "The speed at which a man can row a boat in still water is 15 kmph. If he rows downstream, where the speed of current is 3 kmph,<br> what time will he take to cover 60 metres?",
+			"explanation": "Speed of the boat downstream = 15 + 3 = 18 kmph<br>= 18 * 5/18 = 5 m/s<br> Hence time taken to cover 60 m = 60/5 = 12 seconds.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "6",
-                    "isAnswer":false
+                    "name": "12 seconds.",
+                    "isAnswer": true
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "60 ",
-                    "isAnswer": true
+                    "name": "10 seconds.",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "64",
+                    "name": "15 seconds.",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "10",
+                    "name": "16 seconds.",
                     "isAnswer": false
                 }
             ],
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "The product of two numbers is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is :",
-			"explanation": "Let the numbers be x and y.<br> Then, xy = 9375 and  x/y = 15.<br> (xy/x/y)=9375/15 <br> y2 =625 <br> y = 25 <br>  x = 15y = 15 x 25 = 375.<br> Sum of the numbers = 375 + 25 = 400.",
+            "name": "A person can row with the stream at 8 km per hour and against the stream at 6 km an hour. <br>The speed of the current is",
+			"explanation": "Let the speed of the current be y kmhr and speed of the person in still water be x kmph X + y = 8 and x – y = 6 => x= 7 and y = 1 .<br> Speed of the stream = 1 kmph",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "100",
-                    "isAnswer":false
+                    "name": "1 km/hr",
+                    "isAnswer": true
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "200 ",
+                    "name": "2 km/hr",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "300",
+                    "name": "3 km/hr",
                     "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "400",
-                    "isAnswer": true
+                    "name": "4 km/hr",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is :",
-			"explanation": "Let the three integers be x, x + 2 and x + 4. Then, 3x = 2 (x + 4) + 3  <=> x = 11.<br>Third integer = x + 4 = 15. ",
+            "name": "A boat running downstream covers a distance of 16 km in 2 hours while for covering the same distance upstream, it takes 4 hours.<br> What is the speed of the boat in still water?",
+			"explanation": "Rate downstream = (16 / 2 ) kmph = 8 kmph<br>Rate upstream = (16/4) kmph = 4 kmph<br>Speed in still water = 1/2 (8 + 4 ) kmph = 6 kmph.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer":false
+                    "name": "4 km/hr",
+                    "isAnswer": false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "14",
-                    "isAnswer":false
+                    "name": "6 km/hr",
+                    "isAnswer": true
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "137",
+                    "name": "6 km/hr",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": true
+                    "name": "Data inadequate",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "54 is to be divided into two parts such that the sum of 10 times the first and 22 times the second is 780. The bigger part is :",
-			"explanation": "Let the two parts be (54 - x) and x.<br> Then, 10 (54 - x) + 22x = 780 <br> 12x = 240 <br>  x = 20. <br> Bigger part = (54 - x)  = 34.  ",
+            "name": "A boat goes 24 km upstream and 28 km downstream in 6 hrs. If it goes 30 km upstream and 21 km downstream in 6 hrs and 30 mins,<br> find the speed of the stream. ",
+			"explanation": "Let the speed of the boat be x kmph and stream be y kmph<br>Downstream = x + y kmph and Upstream = x - y kmph <br>= 24 / (x-y) + 28 / (x+y) = 6 and<br>= 30 / (x-y) + 21 / (x+y) = 13 / 2 ,<br>Upon solving we get x= 10 and y = 4.<br>Speed of the stream = 4km / h.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "24",
+                    "name": "5 km/hr",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "34 ",
+                    "name": "4 km/hr",
                     "isAnswer":true
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": " 44",
+                    "name": "6 km/hr",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": " 54 ",
+                    "name": "10 km/hr",
                     "isAnswer":false
                 }
             ],
@@ -191,32 +191,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "There are two numbers such that the sum of twice the first and thrice the second is 39, while the sum of thrice the first, and twice the second is 36. The larger of the two is :",
-			"explanation": "Let the numbers be x and y. Then, 2x + 3y = 39...(i)and 3x + 2y = 30 ...(ii) <br> On solving (i) and (ii), we get :  x = 6 and y = 9. <br> larger number = 9",
+            "name": "A man can row 8 Kmph in still water. If the velocity of the current is 2 Kmph and it takes him 2 hours to row to a place and come back.<br>How far is the place? ",
+			"explanation": "Man's rate down stream = 8 + 2 = 10 kmph <br>Man's rate upstream = 8 - 2 = 6 kmph <br>Let the required distance be X km <br>Then X/10 + X/6 = 2 <br>3X + 5X = 60 <br>8X = 60 <br>X = 7.5 km",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "7.4 km",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "6 ",
-                    "isAnswer":false
+                    "name": "7.5 km",
+                    "isAnswer": true
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "9 ",
-                    "isAnswer":true
+                    "name": "6.4 km",
+                    "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "6.5 km",
                     "isAnswer": false
                 }
             ],
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": "The difference between a two-digit number and the number obtained by interchanging the two digits is 63. Which is the smaller of the two numbers ? ",
-			"explanation": "Let the ten's digit be x and unit's digit be y.<br> Then, (10x + y) - (10y + x) = 63  <br> 9 (x - y) = 63 <br>  x - y = 7.<br> Thus, none of the numbers can be deermined.. ",
+            "name": "Sravan drove from home to a neighboring town at the speed of 50 km/h and on his returning journey, he drove at the speed of 45 km/h and also took an hour longer to reach home.<br> What distance did he cover?",
+			"explanation": "Let the distance he covered each way = d kms<br>According to the question,<br>d/45 - d/50 = 1<br>=> d = 450 kms.<br>Hence, the total distance he covered in his way = d + d = 2 d = 2 x 450 = 900 kms.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "350 kms",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "450 kms",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": " 17 ",
-                    "isAnswer": false
+                    "name": "900 kms",
+                    "isAnswer": true
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " none of these answers can be determined",
-                    "isAnswer":true
+                    "name": "750 kms",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Find the number which when multiplied by 15 is increased by 196.",
-			"explanation": "Let the number be x. Then, 15x - x = 196 <br>=> 14x = 196 => x = 14.",
+            "name": "A man can row at 5 km/hr in still water. If the river is running at 1 km/hr, it takes him 75 min to row to a place and back.<br> How far is the place?",
+			"explanation": "Given, speed of boat = 5 km/hr<br>Speed of the stream = 1 km/hr<br>Formula:<br>If the speed of a boat in still water isxkm/hr and the speed of the stream isykm/hr, then:<br>Speed downstream = (x+y) km/hr.<br>Speed upstream = (x-y) km/hr.<br>=>Speed downstream = 5 + 1 = 6 km/hr<br>=> Speed upstream = 5 - 1 = 4 km/hr<br>Let the required distance be 'x' km<br>Given , Time = 75 min = 75 / 60 hr<br>By formula: Time = Distance / Speed<br>=> (x/6) + (x/4) = 75 / 60<br>=> 10x / 24 = 75 / 60<br>=> x = (75 × 24) / (60 × 10)<br>=> x = 1800 / 600<br>=> x = 3 km",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "10 ",
-                    "isAnswer":false
+                    "name": "2.5 km",
+                    "isAnswer": false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "14 ",
-                    "isAnswer":true
+                    "name": "3 km",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "18",
-                    "isAnswer":false
+                    "name": "3 km",
+                    "isAnswer": true
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "20 ",
+                    "name": "5 km",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "There are four prime numbers written in ascending order of magnitude. The product of the first three is 385 and of the last three is 1001. Find the fourth number ?",
-			"explanation": "(385/1001) = 5/13<br>First Number is 5 <br> Fourth number is 13  ",
+            "name": "A man can row downstream at the rate of 24 Kmph and upstream at 7 Kmph. <br>Find the man’s rate in still water and rate of current?",
+			"explanation": "Rate of still water = 1/2 (down stream + upstream)<br>= 1/2 (24 + 7) = 15.5 Kmph <br>rate of current = 1/2 (down stream - upstream) <br>= 1/2 (24 - 7) = 1/2 (17) = 8.5 kmph",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "17",
-                    "isAnswer": false
+                    "name": "15.5 Kmph, 8.5 Kmph",
+                    "isAnswer": true
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "16",
-                    "isAnswer":false
+                    "name": "17 Kmph, 8.5 Kmph",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "814 Kmph, 7 Kmph",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "13",
-                    "isAnswer": true
+                    "name": "None of these",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "A number is doubled and 9 is added. If the resultant is trebled, it becomes 75. What is that number ?  ",
-			"explanation": "Let the number be v. Then, 3 (2x + 9) = 75.<br>2x + 9 = 25<br>  2x = 16 <br> x = 8",
+            "name": "A boatman goes 2 km against the current of the stream in 1 hour and goes 1 km along the current in 10 minutes.<br> How long will it take to go 5 km in stationary water?",
+			"explanation": "Rate downstream = ( 1 / 10 x 60 ) km/hr = 6 km/hr<br>Rate upstream = 2 km/hr.<br>Speed in still water = 1/2 (6 + 2) km/hr = 4 km/hr.<br>Therefore, Required time = ( 5/4 ) hrs = 1 ( 1/4 ) hrs = 1 hr 15 min.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "2",
+                    "name": "40 minutes",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "5",
-                    "isAnswer":false
+                    "name": "1 hr 15 min",
+                    "isAnswer":true
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "7",
-                    "isAnswer":false
+                    "name": "1 hr 30 min",
+                    "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "8",
-                    "isAnswer": true
+                    "name": "1 hr",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

@@ -1,37 +1,37 @@
 {
     "id": 1,
-    "name": "Problems on Numbers Test 4",
-    "description": "Practice Problems on Numbers Online Test 4",
+    "name": "Surds and Indices Test 5",
+    "description": "Practice Surds and Indices Online Test 5",
     "questions": [
         {
             "id": 1010,
-            "name": "In a two-digit number, the digit in the unit's place is more than twice the digit in ten's place by 1. If the digits in the unit's place and the ten's place are interchanged,difference between the newly formed number and the oiginal number is less than the original number by 1. What is the original number ?",
-			"explanation": "Let the ten's digit be x. Then, unit's digit = 2x + 1.<br> [10x + (2x + 1)] - [{10 (2x + 1) + x} - {10x + (2x + 1)}] = 1 <br> (12x + 1) - (9x + 9) = 1 <=> 3x = 9, x =  3. <br> So, ten's digit = 3 and unit's digit = 7. Hence, original number = 37. ",
+            "name": "The simplified form of (x^7/2 / x^5/2).√y3 /√y )is :",
+			"explanation": "(x^7/2 /x^5/2 ). (√y3 /√y) = x^(7/2 -5/2). y(3/2 - 1/2) = xy",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "35",
+                    "name": "x^2 / y",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "36",
+                    "name": "x^3 / y^2",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "37",
-                    "isAnswer":true
+                    "name": "x^6 / y^3",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "39",
-                    "isAnswer": false
+                    "name": "xy",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "What is the place value of 6 in 64?",
-			"explanation": "Each digit has a fixed position called its place <br> Each digit has a value depending on its place called the place value of the digit.<br> The face value of a digit for any place in the given number is the value of the digit itself <br> Place value of a digit = (face value of the digit) × (value of the place).<br> Hence, the place value of 6 in 64 = 6 x 10 = 60.",
+            "name": "If 5√5 * 5^3 ÷ 5^-3/2 = 5^a+2 , the value of a is:",
+			"explanation": "5^3/2 * 5^3 ÷ 5^(-3/2) = 5^a+2 <br> 5^3/2 +3 + 3/2 = 5^a+2<br>3/2 + 3 + 3/2 = a+2<br>a+2=6; a=4",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "6",
-                    "isAnswer":false
+                    "name": "4",
+                    "isAnswer": true
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "60 ",
-                    "isAnswer": true
+                    "name": "5",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "64",
+                    "name": "6",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "10",
+                    "name": "8",
                     "isAnswer": false
                 }
             ],
@@ -79,34 +79,35 @@
         },
         {
             "id": 1012,
-            "name": "The product of two numbers is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is :",
-			"explanation": "Let the numbers be x and y.<br> Then, xy = 9375 and  x/y = 15.<br> (xy/x/y)=9375/15 <br> y2 =625 <br> y = 25 <br>  x = 15y = 15 x 25 = 375.<br> Sum of the numbers = 375 + 25 = 400.",
+            "name": "The value of (12x^2y^4z^3) ÷ (2xy^2 × 3yz^2) will be :",
+			"explanation": "= 12x^2y^4z^3 / 2xy^2 × 3yz^2 = 2xyz",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "100",
+                    "name": "2xyz",
                     "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "200 ",
-                    "isAnswer":false
+                    "name": "2xyz",
+                    "isAnswer": true
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "300",
+                    "name": "1/xyz",
                     "isAnswer": false
+
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "400",
-                    "isAnswer": true
+                    "name": "2/xyz",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -117,32 +118,32 @@
         },
 		{
 			"id": 1013,
-            "name": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is :",
-			"explanation": "Let the three integers be x, x + 2 and x + 4. Then, 3x = 2 (x + 4) + 3  <=> x = 11.<br>Third integer = x + 4 = 15. ",
+            "name": "If a and b are whole numbers such that ab = 121,<br> then find the value of (a – 1)b + 1",
+			"explanation": "121 = 11^2 , hence value of a = 11 and b = 2 can be considered.<br>Therefore, the value of (a – 1)^b + 1 = (11 – 1)^2 + 1= 10^3",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer":false
+                    "name": "0",
+                    "isAnswer": false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "14",
+                    "name": "10",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "137",
+                    "name": "10 ^2",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "10^3",
                     "isAnswer": true
                 }
             ],
@@ -154,33 +155,33 @@
 		},
 		{
 			"id": 1014,
-            "name": "54 is to be divided into two parts such that the sum of 10 times the first and 22 times the second is 780. The bigger part is :",
-			"explanation": "Let the two parts be (54 - x) and x.<br> Then, 10 (54 - x) + 22x = 780 <br> 12x = 240 <br>  x = 20. <br> Bigger part = (54 - x)  = 34.  ",
+            "name": "If 4 (x – y) = 64 and 4 (x + y) = 1024, then find the value of x.",
+			"explanation": "4 (x – y) = 64<br>4^(x – y) = 64 = 4^3<br>Equation 1) x – y = 3<br>4^(x + y) = 1024 = 4^5<br>Equation 2) x + y = 5<br>Solving equation (1) and (2), we get<br>x = 4 and y = 1",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "24",
+                    "name": "3",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "34 ",
-                    "isAnswer":true
+                    "name": "1",
+                    "isAnswer": false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": " 44",
+                    "name": "6",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": " 54 ",
-                    "isAnswer":false
+                    "name": "4",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -191,33 +192,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "There are two numbers such that the sum of twice the first and thrice the second is 39, while the sum of thrice the first, and twice the second is 36. The larger of the two is :",
-			"explanation": "Let the numbers be x and y. Then, 2x + 3y = 39...(i)and 3x + 2y = 30 ...(ii) <br> On solving (i) and (ii), we get :  x = 6 and y = 9. <br> larger number = 9",
+            "name": "If 9^x – 9^x – 1 = 648, then<br> find the value of x^x",
+			"explanation": "Select the given options and substitute the value of x = 5, 6, 1.5 and 3 in the given expression.<br>Substituting value of x = 3,9^x – 9^x – 1 = ?<br>9^3 – 9^3 – 1 = 648<br>Value of x = 3<br>x^x = 3^3 = 27",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "4",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "6 ",
+                    "name": "9 ",
                     "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "9 ",
-                    "isAnswer":true
+                    "name": " 27",
+                    "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer": false
+                    "name": "64",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -228,33 +229,33 @@
 		},
 		{
 			"id": 1016,
-            "name": "The difference between a two-digit number and the number obtained by interchanging the two digits is 63. Which is the smaller of the two numbers ? ",
-			"explanation": "Let the ten's digit be x and unit's digit be y.<br> Then, (10x + y) - (10y + x) = 63  <br> 9 (x - y) = 63 <br>  x - y = 7.<br> Thus, none of the numbers can be deermined.. ",
+            "name": "Simplify ( 6a^-2bc^-3/4ab^-3c^2 ) ÷ ( 5a^-3 b^2^-1/3ab^-2c^3 )",
+			"explanation": "Apply the algebra law a ÷ b = a x 1/b<br>= ( 6a^-2bc^-3/4ab^-3c^2 ) x ( 3ab^-2c^3/5a^-3 b^2c^-1 )<br>= ( 6a^-2 bc^-3 x 3ab^-2c^3) / ( 4ab^-3c^2 x 5a^-3b^2c^-1 )<br>Apply the law of Fractional Exponents and Laws of Exponents<br>(a^m)(a^n) = a^m+n<br> a^m/a^n=a^m-n<br>= 18a^-2 + 1 b^1 - 2 c^-3 + 3 / 20a^1 - 3 b^-3 + 2 c^2 - 1<br>= 9a^-1b^-1c^0/ 10a^ - 2 b^-1c^1<br>= ( 9/10 ) a^-1 + 2 b^-1 + 1 c^0 - 1<br>= ( 9/10 ) a^1.b^0.c^-1<br>= ( 9/10 ) ac^-1 [∵ b0 = 1]",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer": false
+                    "name": "9/10ac",
+                    "isAnswer": true
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "9/10ac^-1",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": " 17 ",
+                    "name": "9/10ac^2",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " none of these answers can be determined",
-                    "isAnswer":true
+                    "name": "None of the above",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -265,32 +266,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Find the number which when multiplied by 15 is increased by 196.",
-			"explanation": "Let the number be x. Then, 15x - x = 196 <br>=> 14x = 196 => x = 14.",
+            "name": "If m and n are whole numbers such that m^n = 121,<br> the value of (m - 1)^n + 1 is:",
+			"explanation": "We know that 11^2 = 121.<br>Putting m = 11 and n = 2, we get:<br>(m - 1)^n + 1 = (11 - 1)^(2 + 1) = 10^3 = 1000.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "10 ",
-                    "isAnswer":false
+                    "name": "1000",
+                    "isAnswer":true
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "14 ",
-                    "isAnswer":true
+                    "name": "100",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "18",
+                    "name": "10",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "20 ",
+                    "name": "1",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +303,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "There are four prime numbers written in ascending order of magnitude. The product of the first three is 385 and of the last three is 1001. Find the fourth number ?",
-			"explanation": "(385/1001) = 5/13<br>First Number is 5 <br> Fourth number is 13  ",
+            "name": "L√M is surd of order ........, where M is a rational number; L is a positive integer and L√M is irrational.",
+			"explanation": "L√3 = M1/L = Surd of Lth order.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "17",
-                    "isAnswer": false
+                    "name": "L",
+                    "isAnswer": true
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "16",
-                    "isAnswer":false
+                    "name": "M",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "2",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "13",
-                    "isAnswer": true
+                    "name": " 4  ",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +340,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "A number is doubled and 9 is added. If the resultant is trebled, it becomes 75. What is that number ?  ",
-			"explanation": "Let the number be v. Then, 3 (2x + 9) = 75.<br>2x + 9 = 25<br>  2x = 16 <br> x = 8",
+            "name": "( 42 x 229 ) ÷ ( 9261)^1/3 = ?",
+			"explanation": "Given that, (42 x 229) ÷ (9261)^1/3 = ?<br> As we know that (9621)^1/3 = (21 x 21 x 21)^1/3 = 21^3x1/3<br>∴ 42 x 229 ÷ (21^3 x )^1/3 = ?<br>∴ 42 x 229 ÷ 21 = ?<br>∴ 42 x 229 x 1/ 21 = ?<br>∴ 2 x 229 = ?<br>∴ ? = 2 x 229<br>∴ ? = 458",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "2",
+                    "name": "456",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "5",
+                    "name": "457",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "7",
-                    "isAnswer":false
+                    "name": "458",
+                    "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "8",
-                    "isAnswer": true
+                    "name": "None of these",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

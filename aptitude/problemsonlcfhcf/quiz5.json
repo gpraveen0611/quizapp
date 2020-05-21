@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Problems on Numbers Test 4",
-    "description": "Practice Problems on Numbers Online Test 4",
+    "name": "Problems on L.C.M and H.C.F Test 5",
+    "description": "Practice Problems on L.C.M and H.C.F Online Test 5",
     "questions": [
         {
             "id": 1010,
-            "name": "In a two-digit number, the digit in the unit's place is more than twice the digit in ten's place by 1. If the digits in the unit's place and the ten's place are interchanged,difference between the newly formed number and the oiginal number is less than the original number by 1. What is the original number ?",
-			"explanation": "Let the ten's digit be x. Then, unit's digit = 2x + 1.<br> [10x + (2x + 1)] - [{10 (2x + 1) + x} - {10x + (2x + 1)}] = 1 <br> (12x + 1) - (9x + 9) = 1 <=> 3x = 9, x =  3. <br> So, ten's digit = 3 and unit's digit = 7. Hence, original number = 37. ",
+            "name": "A, B and C start at the same time in the same direction to run around a circular stadium. A completes a round in 252 seconds, B in 308 seconds and c in 198 seconds, all starting at the same point.<br> After what time will they again at the starting point?",
+			"explanation": "L.C.M. of 252, 308 and 198 = 2772.<br>So, A, B and C will again meet at the starting point in 2772 sec. i.e., 46 min. 12 sec.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "35",
-                    "isAnswer": false
+                    "name": "46 minutes and 12 seconds",
+                    "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "36",
+                    "name": "42 minutes and 36 seconds",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "37",
-                    "isAnswer":true
+                    "name": "26 minutes and 18 seconds",
+                    "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "39",
+                    "name": "45 minutes",
                     "isAnswer": false
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "What is the place value of 6 in 64?",
-			"explanation": "Each digit has a fixed position called its place <br> Each digit has a value depending on its place called the place value of the digit.<br> The face value of a digit for any place in the given number is the value of the digit itself <br> Place value of a digit = (face value of the digit) × (value of the place).<br> Hence, the place value of 6 in 64 = 6 x 10 = 60.",
+            "name": "Three numbers which are co-prime to each other are such that the product of the first two is 551 and that of the last two is 1073.<br> The sum of the three numbers is:",
+			"explanation": "ince the numbers are co-prime, they contain only 1 as the common factor.<br>Also, the given two products have the middle number in common.<br>So, middle number = H.C.F. of 551 and 1073 = 29; First number = (551/29 ) = 19 ;<br>Third number = (1073 / 29) = 37<br>Therefore, Required sum = (19 + 29 + 37) = 85.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "6",
+                    "name": "75",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "60 ",
-                    "isAnswer": true
+                    "name": "81",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "64",
-                    "isAnswer": false
+                    "name": "85",
+                    "isAnswer": true
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "10",
+                    "name": "89",
                     "isAnswer": false
                 }
             ],
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "The product of two numbers is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is :",
-			"explanation": "Let the numbers be x and y.<br> Then, xy = 9375 and  x/y = 15.<br> (xy/x/y)=9375/15 <br> y2 =625 <br> y = 25 <br>  x = 15y = 15 x 25 = 375.<br> Sum of the numbers = 375 + 25 = 400.",
+            "name": "Find the highest common factor of 36 and 84.",
+			"explanation": "36 = 22 x 32<br>84 = 22 x 3 x 7 <br>H.C.F. = 22 x 3 = 12.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "100",
+                    "name": "4",
                     "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "200 ",
+                    "name": "6",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "300",
-                    "isAnswer": false
+                    "name": "12",
+                    "isAnswer": true
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "400",
-                    "isAnswer": true
+                    "name": "18",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -117,32 +117,32 @@
         },
 		{
 			"id": 1013,
-            "name": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is :",
-			"explanation": "Let the three integers be x, x + 2 and x + 4. Then, 3x = 2 (x + 4) + 3  <=> x = 11.<br>Third integer = x + 4 = 15. ",
+            "name": "Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case.<br>Then sum of the digits in N is:",
+			"explanation": "N = H.C.F. of (4665 - 1305), (6905 - 4665) and (6905 - 1305) = H.C.F. of 3360, 2240 and 5600 = 1120.<br>Sum of digits in N = ( 1 + 1 + 2 + 0 ) = 4",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer":false
+                    "name": "5",
+                    "isAnswer": false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "14",
-                    "isAnswer":false
+                    "name": "6",
+                    "isAnswer": false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "137",
+                    "name": "7",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "4",
                     "isAnswer": true
                 }
             ],
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "54 is to be divided into two parts such that the sum of 10 times the first and 22 times the second is 780. The bigger part is :",
-			"explanation": "Let the two parts be (54 - x) and x.<br> Then, 10 (54 - x) + 22x = 780 <br> 12x = 240 <br>  x = 20. <br> Bigger part = (54 - x)  = 34.  ",
+            "name": "Three numbers which are co-prime to each other are such that the product of the first two is 551 and that of the last two is 1073.<br>The sum of the three numbers is: ",
+			"explanation": "Since the numbers are co-prime, they contain only 1 as the common factor.<br>Also, the given two products have the middle number in common.<br>So, middle number = H.C.F. of 551 and 1073 = 29;<br>First number = 551/29 = 19; Third number = 1073/29 = 37.<br>Required sum = (19 + 29 + 37) = 85.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "24",
-                    "isAnswer":false
+                    "name": "85",
+                    "isAnswer":true
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "34 ",
-                    "isAnswer":true
+                    "name": "75",
+                    "isAnswer":false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": " 44",
+                    "name": "65",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": " 54 ",
+                    "name": "60",
                     "isAnswer":false
                 }
             ],
@@ -191,32 +191,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "There are two numbers such that the sum of twice the first and thrice the second is 39, while the sum of thrice the first, and twice the second is 36. The larger of the two is :",
-			"explanation": "Let the numbers be x and y. Then, 2x + 3y = 39...(i)and 3x + 2y = 30 ...(ii) <br> On solving (i) and (ii), we get :  x = 6 and y = 9. <br> larger number = 9",
+            "name": "A, B and C start at the same time in the same direction to run around a circular stadium. A completes a round in 252 seconds, B in 308 seconds and c in 198 seconds, all starting at the same point.<br> After what time will they again at the starting point?",
+			"explanation": "L.C.M. of 252, 308 and 198 = 2772.<br>So, A, B and C will again meet at the starting point in 2772 sec. i.e., 46 min. 12 sec.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "26 minutes and 18 seconds",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "6 ",
-                    "isAnswer":false
+                    "name": "46 minutes and 12 seconds",
+                    "isAnswer": true
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "9 ",
-                    "isAnswer":true
+                    "name": "42 minutes and 36 seconds",
+                    "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "45 minutes",
                     "isAnswer": false
                 }
             ],
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": "The difference between a two-digit number and the number obtained by interchanging the two digits is 63. Which is the smaller of the two numbers ? ",
-			"explanation": "Let the ten's digit be x and unit's digit be y.<br> Then, (10x + y) - (10y + x) = 63  <br> 9 (x - y) = 63 <br>  x - y = 7.<br> Thus, none of the numbers can be deermined.. ",
+            "name": "A rectangular courtyard 3.78 meters long 5.25 meters wide is to be paved exactly with square  tiles, all of the same size.<br> what is the largest size of the tile which could be used for the purpose?",
+			"explanation": "3.78 meters =378 cm = 2 × 3 × 3 × 3 × 7<br>5.25 meters=525 cm = 5 × 5 × 3 × 7<br>Hence common factors are 3 and 7<br>Hence LCM = 3 × 7 = 21<br>Hence largest size of square tiles that can be paved exactly with square tiles is 21 cm.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "14 cms",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": false
+                    "name": "21 cms",
+                    "isAnswer": true
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": " 17 ",
+                    "name": "42 cms",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " none of these answers can be determined",
-                    "isAnswer":true
+                    "name": "None of these",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Find the number which when multiplied by 15 is increased by 196.",
-			"explanation": "Let the number be x. Then, 15x - x = 196 <br>=> 14x = 196 => x = 14.",
+            "name": "The product of two numbers is 4107. If the H.C.F. of these numbers is 37,<br> then the greater number is:",
+			"explanation": "Let the numbers be 37a and 37b.<br>Then, 37a x 37b = 4107 => ab = 3.<br>Now, co-primes with product 3 are (1, 3).<br>So, the required numbers are (37 x 1, 37 x 3) i.e., (37, 111).<br>Therefore, Greater number = 111.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "10 ",
-                    "isAnswer":false
+                    "name": "111",
+                    "isAnswer":true
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "14 ",
-                    "isAnswer":true
+                    "name": "101",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "18",
+                    "name": "107",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "20 ",
+                    "name": "185",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "There are four prime numbers written in ascending order of magnitude. The product of the first three is 385 and of the last three is 1001. Find the fourth number ?",
-			"explanation": "(385/1001) = 5/13<br>First Number is 5 <br> Fourth number is 13  ",
+            "name": "Three numbers which are co-prime to each other are such that the product of the first two is 551 and that of the last two is 1073.<br> The sum of the three numbers is:",
+			"explanation": "Since the numbers are co-prime, they contain only 1 as the common factor.<br>Also, the given two products have the middle number in common.<br>So, middle number = H.C.F. of 551 and 1073 = 29; First number = (551/29 ) = 19 ;<br>Third number = (1073 / 29) = 37<br>Therefore, Required sum = (19 + 29 + 37) = 85.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "17",
+                    "name": "75",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "16",
-                    "isAnswer":false
+                    "name": "81",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": false
+                    "name": "85",
+                    "isAnswer": true
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "13",
-                    "isAnswer": true
+                    "name": "89",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "A number is doubled and 9 is added. If the resultant is trebled, it becomes 75. What is that number ?  ",
-			"explanation": "Let the number be v. Then, 3 (2x + 9) = 75.<br>2x + 9 = 25<br>  2x = 16 <br> x = 8",
+            "name": "The L.C.M of two numbers is 495 and their H.C.F is 5. If the sum of the numbers is 100,<br> then their difference is ",
+			"explanation": "Let the numbers be x and (100-x).<br>Then,x(100−x)=5*495<br>=>  x2−100x+2475=0<br>=>  (x-55) (x-45) = 0<br>=>  x = 55 or x = 45<br>The numbers are 45 and 55<br>Required difference = (55-45) = 10",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer": false
+                    "name": "10",
+                    "isAnswer": true
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "5",
+                    "name": "46",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "7",
-                    "isAnswer":false
+                    "name": "70",
+                    "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "8",
-                    "isAnswer": true
+                    "name": "90",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

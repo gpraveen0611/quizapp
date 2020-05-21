@@ -1,37 +1,37 @@
 {
     "id": 1,
-    "name": "Mensuration Test 4",
-    "description": "Practice Mensuration Online Test 4",
+    "name": "Partnership Test 5",
+    "description": "Practice Partnership Online Test 5",
     "questions": [
         {
             "id": 1010,
-            "name": " The parameter of a square is equal to the perimeter of a rectangle of length 16 cm and breadth 14 cm. Find the circumference of a semicircle whose diameter is equal to the side of the square. (Round off your answer to two decimal places)",
-            "explanation": "Let the side of the square be a cm.<br> Parameter of the rectangle = 2(16 + 14) = 60 cm Parameter of the square = 60 cm <br> i.e. 4a = 60  <br> A = 15 <br> Diameter of the semicircle = 15 cm <br> Circimference of the semicircle <br> 1/2(∏)(15) <br> = 1/2(22/7)(15) = 330/14 = 23.57 cm to two decimal places ",
+            "name": "In a business, A,B and C inversed Rs.10,000/-,Rs.20,000/- and Rs.30,000/- respectively. After 1 year A adds Rs.5000/- to the initial investment. B and C withdrew Rs.5000/- and Rs.10,000/- respectively. After 2 years the total profit is Rs.7700/-.<br> What is A’s share?",
+			"explanation": "A's Share = Rs.10000/- per first 1 year, Next year 5000/- added <br>= Rs.10000/- × 1 + Rs.15000/- × 1 = Rs.25000/- <br>B's Share = Rs.20000/- per first 1 year, Next year 5000/- reduced <br>= Rs.20000/- × 1 + Rs.15000/- × 1 = Rs.35000/- <br>C's Share = Rs.30000/- per first 1 year, Next year 10000/- reduced <br>= Rs.30000/- × 1 + Rs.20000/- × 1 = Rs.50000 <br>Then,A's part = 25 : B's part = 35 : C's part = 50 <br>===> 5 : 7 : 10<br>Total 22 parts -----> Rs.7700/- <br> 2 parts ------> Rs.700/- <br>Then, A's share is <br><br>5 parts = Rs.350/- × 5 parts = Rs.1750/- ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "77.14 cm",
+                    "name": "Rs.3500/-",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "47.14 cm",
+                    "name": "Rs.350/-",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "84.92 cm ",
-                    "isAnswer":false
+                    "name": "Rs.1750/-",
+                    "isAnswer":true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "23.57 cm",
-                    "isAnswer":true
+                    "name": "Rs.700/-",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": " There are two circles of different radii. The are of a square is 784 sq cm and its side is twice the radius of the larger circle. The radius of the larger circle is seven - third that of the smaller circle. Find the circumference of the smaller circle.",
-			"explanation": "Let the radii of the larger and the smaller circles be l cm and s cm respectively. Let the side of the square be a cm. <br> a^2 = 784 = (4)(196) = (2^2).(14^2) <br> a = (2)(14) = 28 <br> a = 2l, l = a/2 = 14 <br> l = (7/3)s <br> Therefore s = (3/7)(l) = 6 Circumference of the smaller circle = 2∏s = 12∏ cm.",
+            "name": "P and Q invested in a business. The profit earned was divided in the ratio 2 : 3. If P invested Rs 40000, <br>the amount invested by Q is ",
+			"explanation": "Let the amount invested by Q = q <br>40000 : q = 2 : 3 <br>=> 40000/q = 2/3 <br>=> q = 40000 × (3/2) = 60000",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "6π cm ",
+                    "name": "40000",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "8π cm ",
+                    "name": "50000",
                     "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "12π cm",
+                    "name": "60000",
                     "isAnswer": true
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "16π cm  ",
+                    "name": "60000",
                     "isAnswer": false
                 }
             ],
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "A cube of side one meter length is cut into small cubes of side 10 cm each. How many such small cubes can be obtained?",
-			"explanation": "Along one edge, the number of small cubes that can be cut = 100/10 = 10 <br> Along each edge 10 cubes can be cut. (Along length, breadth and height). Total number of small cubes that can be cut = 10 * 10 * 10 = 1000 ",
+            "name": "Ganesh starts a business investing Rs. 30000. After a year, Ramesh joins him with a capital of Rs. 40000 and Suresh joins them after another year with Rs. 50000. The profit at the end of three years is Rs. 44000.<br> Find Ramesh's share.",
+			"explanation": "Ratio of their investments after 3 years = (3000 × 3) : (40000 × 2) : (50000) = 9 : 8 : 5<br>Ramesh's share = (8/22) × 44000 = Rs. 16000",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "10",
+                    "name": "Rs. 11,000/-",
                     "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "100 ",
+                    "name": "Rs. 18,000/-",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "1000",
-                    "isAnswer":true
+                    "name": "Rs. 16,000/-",
+                    "isAnswer": true
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": " 10000",
-                    "isAnswer":false
+                    "name": "Rs. 20,000/-",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -117,32 +117,32 @@
         },
 		{
 			"id": 1013,
-            "name": "The area of a square is equal to five times the area of a rectangle of dimensions 125 cm * 64 cm. What is the perimeter of the square?",
-			"explanation": "Area of the square = s * s = 5(125 * 64) <br>  s = 25 * 8 = 200 cm <br> Perimeter of the square = 4 * 200 = 800 cm. ",
+            "name": "A,B invested Rs.20,000/- and Rs.25,000/- respectively in a business. The 20% of profits goes to charities. The rest being divided in proportion to their capitals out of a total profit of Rs.9000/-.<br> The A’s share is:",
+			"explanation": "A = Rs.20,000/- & B = Rs.25,000/- <br>==> A : B = 20 : 25 <br>==> 4 : 5 <br>Total profit = Rs.9000/-<br>20 % of prifit goes to charities ===> Rs.9000/- - Rs.1800/- = Rs.7200/- <br>remaining amount = Rs.7200/- <br>Total parts = 9 <br>9 parts -----> Rs.7200/-<br>1 part ------> Rs.800/- <br>A's share ===> Rs.800/- × 4 parts = Rs.3200/-",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "600 cm",
+                    "name": "Rs.4000/-",
                     "isAnswer":false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "800 cm",
+                    "name": "Rs.3200/-",
                     "isAnswer":true
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "400 cm ",
+                    "name": "Rs.5000/-",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "1000 cm ",
+                    "name": "Rs.3000/-",
                     "isAnswer": false
                 }
             ],
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "A wire in the form of a circle of radius 3.5 m is bent in the form of a rectangule, whose length and breadth are in the ratio of 6 : 5. What is the area of the rectangle?",
-			"explanation": "The circumference of the circle is equal to the permeter of the rectangle <br> Let l = 6x and b = 5x 2(6x + 5x) = 2 * 22/7 * 3.5 <br>  x = 1 <br> Therefore l = 6 cm and b = 5 cm Area of the rectangle = 6 * 5 = 30 cm2 ",
+            "name": "P , Q, R enter into a partnership & their share are in the ratio 1/2 : 1/3 : 1/4 , after two months , P withdraws half of the capitals & after 10 months , a profit of Rs 378 is divided among them .<br> What is Q's share?",
+			"explanation": "The ratio of their initial investment = 1/2 : 1/3 : 1/4<br>= 6 : 4: 3<br>Let's take the initial investment of P, Q and R as 6x, 4x and 3x respectively<br>A:B:C = (6x × 2 + 3x × 10) : 4x × 12 : 3x × 12 <br>= (12 + 30) : 4 × 12 : 3 × 12<br>=(4 + 10) : 4 × 4 : 12<br>= 14 : 16 : 12<br>= 7 : 8 : 6<br>B's share = 378 × (8/21) = 18 × 8 = 144",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "60 cm^2",
+                    "name": "154",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "30 cm^2 ",
+                    "name": "144",
                     "isAnswer":true
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": "40 cm^2",
+                    "name": "164",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": "15 cm^2 ",
+                    "name": "None of these",
                     "isAnswer":false
                 }
             ],
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": " The area of a square is 4096 sq cm. Find the ratio of the breadth and the length of a rectangle whose length is twice the side of the square and breadth is 24 cm less than the side of the square.",
-			"explanation": "Let the length and the breadth of the rectangle be l cm and b cm respectively. Let the side of the square be a cm. <br> a^2 = 4096 = 2^12 <br> a = (2^12)^1/2 = 2^6 = 64 <br> L = 2a and b = a - 24 <br> b : l = a - 24 : 2a = 40 : 128 = 5 : 16 ",
+            "name": "X and Y invest Rs.21000 and Rs.17500 respectively in a business. At the end of the year, they make a profit of Rs.26400.<br> What is the share of X in the profit?",
+			"explanation": "Ratio of the investment = 21000 : 17500 = 210 : 175 = 42 : 35 = 6 : 5<br>Share of X in the profit = 26400 × (6/11) = 2400 × 6 = 14400",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "18 : 5",
+                    "name": "Rs.22400/-",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "7 : 16 ",
+                    "name": "Rs.19400/-",
                     "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "5 : 14 ",
+                    "name": "Rs.16400/-",
                     "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": " None of these.",
-                    "isAnswer":true
+                    "name": "Rs.14400/-",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": "The dimensions of a room are 25 feet * 15 feet * 12 feet. What is the cost of white washing the four walls of the room at Rs. 5 per square feet if there is one door of dimensions 6 feet * 3 feet and three windows of dimensions 4 feet * 3 feet each? ",
-			"explanation": "Area of the four walls = 2h(l + b) <br> Since there are doors and windows, area of the walls = 2 * 12 (15 + 25) - (6 * 3) - 3(4 * 3) = 906 sq.ft.<br> Total cost = 906 * 5 = Rs. 4530 ",
+            "name": "A,B and C started a business by investing Rs.2000/- , Rs.3000/- and Rs.4000/- respectively. Total profit is Rs.4500/-.<br> Find the A’s share?",
+			"explanation": "A = Rs.2000/- , that is 2 parts <br>B = Rs.3000/- , that is 3 parts <br>C = Rs.4000/- , that is 4 parts <br>Total 9 parts -------> profit (4500/-)<br>----->1 part -------->Rs.500/- <br>then A's share 2 parts ----- > Rs.1000/-",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "Rs. 4800",
+                    "name": "Rs.2000/-",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "Rs. 3600",
-                    "isAnswer":false
+                    "name": "Rs.1000/-",
+                    "isAnswer": true
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "Rs. 3560 ",
+                    "name": "Rs.2500/-",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " Rs. 4530",
-                    "isAnswer":true
+                    "name": "Rs.4500/-",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "The radius of a wheel is 22.4 cm. What is the distance covered by the wheel in making 500 resolutions.",
-			"explanation": "In one resolution, the distance covered by the wheel is its own circumference. Distance covered in 500 resolutions. <br> 500 * 2 * 22/7 * 22.4 = 70400 cm = 704 m",
+            "name": "A,B invested Rs.20,000/- and Rs.25,000/- respectively in a business. The 20% of profits goes to charities. The rest being divided in proportion to their capitals out of a total profit of Rs.9000/-. <br>The A’s share is:",
+			"explanation": "A = Rs.20,000/- & B = Rs.25,000/- <br>==> A : B = 20 : 25 <br>==> 4 : 5 <br>Total profit = Rs.9000/-<br>20 % of prifit goes to charities ===> Rs.9000/- - Rs.1800/- = Rs.7200/- <br>remaining amount = Rs.7200/- <br>Total parts = 9 <br>9 parts -----> Rs.7200/-<br>1 part ------> Rs.800/- <br>A's share ===> Rs.800/- × 4 parts = Rs.3200/-",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "252 m ",
+                    "name": "Rs.3600/-",
                     "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "704 m ",
-                    "isAnswer":true
+                    "name": "Rs.3200/-",
+                    "isAnswer": true
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "352 m",
+                    "name": "Rs.4600/-",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "808 m ",
+                    "name": "Rs.5600/-",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "The volumes of two cones are in the ratio 1 : 10 and the radii of the cones are in the ratio of 1 : 2. What is the length of the wire?",
-			"explanation": "The volume of the cone = (1/3)πr^2h <br> Only radius (r) and height (h) are varying.<br> Hence, (1/3)π may be ignored.<br>V1/V2 = r1^2h1/r2^2h2  => 1/10 = (1)^2h1/(2)^2h2 <br> h1/h2 = 2/5  <br>  h1 : h2 = 2 : 5 ",
+            "name": "A and B started a partnership business investing capital in the ratio of 3 : 5. C joined in the partnership after six months with an amount equal to that of B. At the end of one year,<br> the profit should be distributed among A, B and C in --- proportion. ",
+			"explanation": "Initial investment capital ratio of A and B = 3 : 5<br>Hence we can assume that initial capital of A and B are 3x and 5x respectively.<br>Amount that C invest after 6 months = 5x (Since it is equal to B's investment)<br>Ratio in which profit should be distributed after 1 year = 3x × 12 : 5x × 12 : 5x × 6<br>=> 3 × 12 : 5 × 12 : 5 × 6 <br>= 6 : 10 : 5",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "2 : 5",
-                    "isAnswer":true
+                    "name": "9 : 5 : 4",
+                    "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "1 : 5",
-                    "isAnswer":false
+                    "name": "3 : 4: 5",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "3 : 5",
-                    "isAnswer": false
+                    "name": "6 : 10 : 5",
+                    "isAnswer": true
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "4 : 5 ",
-                    "isAnswer":false
+                    "name": "10 : 5 : 4",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "The sector of a circle has radius of 21 cm and central angle 135o. Find its perimeter? ",
-			"explanation": "Perimeter of the sector = length of the arc + 2(radius) <br> = (135/360 * 2 * 22/7 * 21) + 2(21) <br> = 49.5 + 42 = 91.5 cm ",
+            "name": "In a business, A,B invested Rs.8,000/-,Rs.4,000/- respectively. After 6 months A increases his share by 50% and B decreases his share by 50%. At the end of the year the total profit profit is Rs.52,000/-. <br>Then what is A’s share?",
+			"explanation": "A's Share = Rs.8000/- per first 6 maonth + Next 6 months Rs.4000/- added <br> = 80 × 6 + 120 × 6 = 480 + 720 = 1200 <br> B's Share = Rs.4000/- per first 6 months + Next 6 months Rs.2000/- reduced <br>= 40 × 6 + 20 × 6 = 240 + 120 = 360 <br>Then,A's part= Rs.1200 : B's part= 360 <br>A : B = 10 : 3 <br>Total = 13 parts -----> Rs.5200/- <br>          = 1 part ------> Rs.400/- <br>Then, A's share is <br>= 10 parts = 400/- × 10 parts = Rs.4000/- ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "92.5 cm",
+                    "name": " Rs.1200/-",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "94.5 cm",
+                    "name": "Rs.5000/-",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "93.5 cm",
-                    "isAnswer":false
+                    "name": "Rs.4000/-",
+                    "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "91.5 cm",
-                    "isAnswer": true
+                    "name": "Rs.2500/-",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

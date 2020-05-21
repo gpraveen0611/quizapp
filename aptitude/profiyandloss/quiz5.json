@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Problems on Numbers Test 4",
-    "description": "Practice Problems on Numbers Online Test 4",
+    "name": "Profit and Loss Test 5",
+    "description": "Practice Profit and Loss Online Test 5",
     "questions": [
         {
             "id": 1010,
-            "name": "In a two-digit number, the digit in the unit's place is more than twice the digit in ten's place by 1. If the digits in the unit's place and the ten's place are interchanged,difference between the newly formed number and the oiginal number is less than the original number by 1. What is the original number ?",
-			"explanation": "Let the ten's digit be x. Then, unit's digit = 2x + 1.<br> [10x + (2x + 1)] - [{10 (2x + 1) + x} - {10x + (2x + 1)}] = 1 <br> (12x + 1) - (9x + 9) = 1 <=> 3x = 9, x =  3. <br> So, ten's digit = 3 and unit's digit = 7. Hence, original number = 37. ",
+            "name": "Ramu bought an old car for Rs. 42000. He spent Rs. 13000 on repairs and sold it for Rs. 64900.<br> What is his profit percent?",
+			"explanation": "Total CP = Rs. 42000 + Rs. 13000 = Rs. 55000 and SP = Rs. 64900 <br>Profit(%) = (64900 - 55000)/55000 * 100 = 18%",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "35",
+                    "name": "14%",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "36",
+                    "name": "16%",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "37",
+                    "name": "18%",
                     "isAnswer":true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "39",
+                    "name": "20%",
                     "isAnswer": false
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "What is the place value of 6 in 64?",
-			"explanation": "Each digit has a fixed position called its place <br> Each digit has a value depending on its place called the place value of the digit.<br> The face value of a digit for any place in the given number is the value of the digit itself <br> Place value of a digit = (face value of the digit) × (value of the place).<br> Hence, the place value of 6 in 64 = 6 x 10 = 60.",
+            "name": "A person purchased a TV set for Rs. 16000 and a DVD player for Rs. 6250. He sold both the items together for Rs. 31150.<br> What percentage of profit did he make?",
+			"explanation": "The total CP = Rs. 16000 + Rs. 6250 = Rs. 22250 and SP = Rs. 31150 <br>Profit(%) = (31150 - 22250)/22250 * 100 = 40%",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "6",
+                    "name": "35%",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "60 ",
-                    "isAnswer": true
+                    "name": "45%",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "64",
-                    "isAnswer": false
+                    "name": "40%",
+                    "isAnswer": true
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "10",
+                    "name": "50%",
                     "isAnswer": false
                 }
             ],
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "The product of two numbers is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is :",
-			"explanation": "Let the numbers be x and y.<br> Then, xy = 9375 and  x/y = 15.<br> (xy/x/y)=9375/15 <br> y2 =625 <br> y = 25 <br>  x = 15y = 15 x 25 = 375.<br> Sum of the numbers = 375 + 25 = 400.",
+            "name": "A trader sells 85 meters of cloth for Rs. 8925 at the profit of Rs. 15 per metre of cloth.<br> What is the cost price of one metre of cloth?",
+			"explanation": "SP of 1m of cloth = 8925/85 = Rs. 105<br>CP of 1m of cloth = SP of 1m of cloth - profit on 1m of cloth <br>= Rs. 105 - Rs. 15 = Rs. 90.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "100",
+                    "name": "Rs. 80",
                     "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "200 ",
+                    "name": "Rs. 85",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "300",
-                    "isAnswer": false
+                    "name": "Rs. 90",
+                    "isAnswer": true
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "400",
-                    "isAnswer": true
+                    "name": "Rs. 89",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -117,32 +117,32 @@
         },
 		{
 			"id": 1013,
-            "name": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is :",
-			"explanation": "Let the three integers be x, x + 2 and x + 4. Then, 3x = 2 (x + 4) + 3  <=> x = 11.<br>Third integer = x + 4 = 15. ",
+            "name": "A shopkeeper loses 15%,if an article is sold for Rs. 102.<br> What should be the selling price of the article to gain 20%?",
+			"explanation": "Given that SP = Rs. 102 and loss = 15% <br>CP = [100(SP)]/(100 - l%) = (100 * 102)/85 = 20 * 6 = Rs. 120.<br>To get 20% profit, New SP = [(100 + p%)CP]/100 = (120 * 120)/100 = Rs. 144",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer":false
+                    "name": " Rs. 150",
+                    "isAnswer": false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "14",
+                    "name": "Rs. 120",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "137",
+                    "name": "Rs. 130",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "Rs. 144",
                     "isAnswer": true
                 }
             ],
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "54 is to be divided into two parts such that the sum of 10 times the first and 22 times the second is 780. The bigger part is :",
-			"explanation": "Let the two parts be (54 - x) and x.<br> Then, 10 (54 - x) + 22x = 780 <br> 12x = 240 <br>  x = 20. <br> Bigger part = (54 - x)  = 34.  ",
+            "name": "If an article is sold at 19% profit instead of 12% profit, then the profit would be Rs. 105 more.<br> What is the cost price?",
+			"explanation": "Let the cost price of an article be Rs. x.<br>(19% of x) - (12% of x) = 105<br>19x/100 - 12x/100 = 105 => 7x = 105 * 100<br>=> x = 1500<br>Cost price = Rs. 1500",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "24",
+                    "name": "Rs. 1505",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "34 ",
+                    "name": "Rs. 1500",
                     "isAnswer":true
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": " 44",
+                    "name": "Rs. 1650",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": " 54 ",
+                    "name": "Rs. 1540",
                     "isAnswer":false
                 }
             ],
@@ -191,32 +191,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "There are two numbers such that the sum of twice the first and thrice the second is 39, while the sum of thrice the first, and twice the second is 36. The larger of the two is :",
-			"explanation": "Let the numbers be x and y. Then, 2x + 3y = 39...(i)and 3x + 2y = 30 ...(ii) <br> On solving (i) and (ii), we get :  x = 6 and y = 9. <br> larger number = 9",
+            "name": "Raman mixed 24 kg of butter at Rs. 150 per kg with 36 kg butter at the rate of Rs. 125 per kg.<br> At what price per kg should he sell the mixture to make a profit of 40% in the transaction?",
+			"explanation": "CP per kg of mixture = [24(150) + 36(125)]/(24 + 36) = Rs. 135<br>SP = CP[(100 + profit%)/100]<br>= 135 * [(100 + 40)/100] = Rs. 189.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "Rs. 135",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "6 ",
+                    "name": "Rs. 145",
                     "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "9 ",
-                    "isAnswer":true
+                    "name": "Rs. 189",
+                    "isAnswer": true
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "Rs. 190",
                     "isAnswer": false
                 }
             ],
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": "The difference between a two-digit number and the number obtained by interchanging the two digits is 63. Which is the smaller of the two numbers ? ",
-			"explanation": "Let the ten's digit be x and unit's digit be y.<br> Then, (10x + y) - (10y + x) = 63  <br> 9 (x - y) = 63 <br>  x - y = 7.<br> Thus, none of the numbers can be deermined.. ",
+            "name": "Vijay bought 160 shirts at the rate of Rs. 225 per shirt. The transport expenditure was Rs. 1400. He paid an octroi at the rate of Rs. 1.75 per shirt and labour charges were Rs. 320. What should be the selling price of one shirt,<br> if he wants a profit of 20%?",
+			"explanation": "Total CP per shirt = 225 + 1400/160 + 1.75 + 320/160 = Rs. 237.5<br>SP = CP[(100 + profit%)/100]<br>= 237.5 * [(100 + 20)/100] = Rs. 285.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer": false
+                    "name": "Rs. 285",
+                    "isAnswer": true
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "Rs. 289",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": " 17 ",
+                    "name": "Rs. 260",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " none of these answers can be determined",
-                    "isAnswer":true
+                    "name": "Rs. 275",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Find the number which when multiplied by 15 is increased by 196.",
-			"explanation": "Let the number be x. Then, 15x - x = 196 <br>=> 14x = 196 => x = 14.",
+            "name": "Sreenivas sells a table to Shiva at 10% profit and Shiva sells it to Mahesh at 10% loss.<br> At what price did Sreenivas purchase the table if Mahesh paid Rs. 2178?",
+			"explanation": "Let the cost price of table for Sreenivas be Rs. x and given that, cost price of table for Mahesh = Rs. 2178.<br>=> (90%) of (110%) of x = Rs. 2178. <br>=> (90/100)(110/100)x = 2178 <br>=> x = (2178 * 100)/(9 * 11) <br>=> x = Rs. 2200",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "10 ",
-                    "isAnswer":false
+                    "name": "Rs. 2100",
+                    "isAnswer":true
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "14 ",
-                    "isAnswer":true
+                    "name": "Rs. 2150",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "18",
+                    "name": "Rs. 2250",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "20 ",
+                    "name": "Rs. 3500",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "There are four prime numbers written in ascending order of magnitude. The product of the first three is 385 and of the last three is 1001. Find the fourth number ?",
-			"explanation": "(385/1001) = 5/13<br>First Number is 5 <br> Fourth number is 13  ",
+            "name": "If a trader sold two cars each at Rs. 325475 and gains 12% on the first and loses 12% on the second,<br> then his profit or loss percent on the whole is?",
+			"explanation": "SP of each car is Rs. 325475, he gains 12% on first car and losses 12% on second car.<br>In this case, there will be loss and percentage of loss is given by = [(profit%)(loss%)]/100 = (12)(12)/100 % = 1.44%",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "17",
-                    "isAnswer": false
+                    "name": "1.44% loss",
+                    "isAnswer": true
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "16",
-                    "isAnswer":false
+                    "name": "14.4% loss",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "1.54% loss",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "13",
-                    "isAnswer": true
+                    "name": "1.94% loss",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,32 +339,32 @@
 		},
 		{
 			"id": 1019,
-            "name": "A number is doubled and 9 is added. If the resultant is trebled, it becomes 75. What is that number ?  ",
-			"explanation": "Let the number be v. Then, 3 (2x + 9) = 75.<br>2x + 9 = 25<br>  2x = 16 <br> x = 8",
+            "name": "If the cost price of 50 articles is equal to the selling price of 40 articles, <br>then the gain or loss percent is?",
+			"explanation": "Given that, cost price of 50 article is equal to selling price of 40 articles.<br>Let cost price of one article = Rs. 1 <br> Selling price of 40 articles = Rs. 50<br> But Cost price of 40 articles = Rs. 40<br> Therefore, the trader made profit/Percentage of profit = 10/40 * 100 = 25%",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "2",
+                    "name": "20% loss",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "5",
+                    "name": "20% profit",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "7",
-                    "isAnswer":false
+                    "name": "10% loss",
+                    "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "8",
+                    "name": "None of these",
                     "isAnswer": true
                 }
             ],

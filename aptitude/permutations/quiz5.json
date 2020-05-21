@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Problems on Numbers Test 4",
-    "description": "Practice Problems on Numbers Online Test 4",
+    "name": "Probability Test 5",
+    "description": "Practice Probability Online Test 5",
     "questions": [
         {
             "id": 1010,
-            "name": "In a two-digit number, the digit in the unit's place is more than twice the digit in ten's place by 1. If the digits in the unit's place and the ten's place are interchanged,difference between the newly formed number and the oiginal number is less than the original number by 1. What is the original number ?",
-			"explanation": "Let the ten's digit be x. Then, unit's digit = 2x + 1.<br> [10x + (2x + 1)] - [{10 (2x + 1) + x} - {10x + (2x + 1)}] = 1 <br> (12x + 1) - (9x + 9) = 1 <=> 3x = 9, x =  3. <br> So, ten's digit = 3 and unit's digit = 7. Hence, original number = 37. ",
+            "name": "A box of 600 bulbs contains 12 defective bulbs. One bulb is taken out at random from this box. Then the probability that it is non-defective bulb is:",
+			"explanation": "P (non-defective bulb) = 1 – P (Defective bulb) <br> = 1 – (12/600) <br> = (600 – 12)/600 <br> 147/150 ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "35",
+                    "name": "143/150",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "36",
-                    "isAnswer":false
+                    "name": "147/150",
+                    "isAnswer":true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "37",
-                    "isAnswer":true
+                    "name": "1/25 ",
+                    "isAnswer":false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "39",
+                    "name": "1/50",
                     "isAnswer": false
                 }
             ],
@@ -42,33 +42,33 @@
         },
         {
             "id": 1011,
-            "name": "What is the place value of 6 in 64?",
-			"explanation": "Each digit has a fixed position called its place <br> Each digit has a value depending on its place called the place value of the digit.<br> The face value of a digit for any place in the given number is the value of the digit itself <br> Place value of a digit = (face value of the digit) × (value of the place).<br> Hence, the place value of 6 in 64 = 6 x 10 = 60.",
+            "name": "Cards marked with numbers 2 to 101 are placed in a box and mixed thoroughly. One card is drawn from this box randomly, then the probability that the number on card is a perfect square. ",
+			"explanation": "The perfect square numbers between 2 to 101 are:<br> 1, 4, 9, 16, 25, 36, 49, 64, 81, 100 <br Total numbers from 2 to 101 =100 <br> So probability of getting a card with perfect square number is: <br> P (perfect square) = 10/100 =1/10",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "6",
+                    "name": "9/100 ",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "60 ",
+                    "name": " 1/10 ",
                     "isAnswer": true
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "64",
-                    "isAnswer": false
+                    "name": "3/10",
+                    "isAnswer":false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "10",
-                    "isAnswer": false
+                    "name": "19/100",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "The product of two numbers is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is :",
-			"explanation": "Let the numbers be x and y.<br> Then, xy = 9375 and  x/y = 15.<br> (xy/x/y)=9375/15 <br> y2 =625 <br> y = 25 <br>  x = 15y = 15 x 25 = 375.<br> Sum of the numbers = 375 + 25 = 400.",
+            "name": " What is the probability of getting 53 Mondays in a leap year?",
+			"explanation": "With 366 days, the number of weeks in a year is 366/7 = 52 (2/7) <br> i.e., 52 complete weeks which contains 52 Mondays,<br> Now 2 days of the year are remaining. <br> These two days can be (Sunday, Monday), (Monday, Tuesday), (Tuesday, Wednesday), (Wednesday,Thursday), (Thursday, Friday), (Friday, Saturday), (Saturday, Sunday) <br> i.e., there are 7 pairs, in which Monday occurs in 2 pairs,<br> So probability is:P (53 Monday) = 2/7 ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "100",
+                    "name": "1/7 ",
                     "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "200 ",
+                    "name": "53/366 ",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "300",
-                    "isAnswer": false
+                    "name": "2/7",
+                    "isAnswer":true
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "400",
-                    "isAnswer": true
+                    "name": "7/366",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is :",
-			"explanation": "Let the three integers be x, x + 2 and x + 4. Then, 3x = 2 (x + 4) + 3  <=> x = 11.<br>Third integer = x + 4 = 15. ",
+            "name": "A card is drawn from a well shuffled deck of 52 cards. Find the probability of getting a king of red suit.",
+			"explanation": "There are total 4 kings in 52 cards, 2 of red colour and 2 of black colour <br> Therefore, Probability of getting a king of red suit is: <br> P (King of red suit) = 2/52 <br> P (King of red suit) = 1/26 ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer":false
+                    "name": "1/26",
+                    "isAnswer":true
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "14",
+                    "name": "3/26",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "137",
-                    "isAnswer": false
+                    "name": "7/52",
+                    "isAnswer":false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": true
+                    "name": "1/13",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "54 is to be divided into two parts such that the sum of 10 times the first and 22 times the second is 780. The bigger part is :",
-			"explanation": "Let the two parts be (54 - x) and x.<br> Then, 10 (54 - x) + 22x = 780 <br> 12x = 240 <br>  x = 20. <br> Bigger part = (54 - x)  = 34.  ",
+            "name": "A game of chance consists of spinning an arrow which is equally likely to come to rest pointing to one of the number 1,2,3……12 ,then the probability that it will point to an odd number is:",
+			"explanation": "The odd numbers in 1,2,3……..12 are:<br> 1,3,5,7,9,11 <br> Therefore probability that an odd number will come is:P (odd number) = 6/12 = 1/2",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "24",
-                    "isAnswer":false
+                    "name": " 1/2",
+                    "isAnswer":true
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "34 ",
-                    "isAnswer":true
+                    "name": "1/12 ",
+                    "isAnswer":false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": " 44",
+                    "name": "7/12",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": " 54 ",
+                    "name": "5/12 ",
                     "isAnswer":false
                 }
             ],
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "There are two numbers such that the sum of twice the first and thrice the second is 39, while the sum of thrice the first, and twice the second is 36. The larger of the two is :",
-			"explanation": "Let the numbers be x and y. Then, 2x + 3y = 39...(i)and 3x + 2y = 30 ...(ii) <br> On solving (i) and (ii), we get :  x = 6 and y = 9. <br> larger number = 9",
+            "name": "A game consists of tossing a one rupee coin 3 times and noting its outcome each time. Aryan wins if all the tosses give the same result i.e. three heads or three tails and loses otherwise. Then the probability that Aryan will lose the game.",
+			"explanation": "Total outcomes are:HHH, HHT, HTH, THH, HTT, THT, TTH, TTT<br> Favourable outcomes for losing game are HHT, HTH, THH, HTT, THT, TTH.<br> Therefore probability of losing the game is:P (Losing the game) = 6/8 = 3/4 ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "3",
-                    "isAnswer": false
+                    "name": "1/4",
+                    "isAnswer":false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "6 ",
+                    "name": "1 ",
                     "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "9 ",
-                    "isAnswer":true
+                    "name": "1/2 ",
+                    "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer": false
+                    "name": "3/4 ",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -228,33 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": "The difference between a two-digit number and the number obtained by interchanging the two digits is 63. Which is the smaller of the two numbers ? ",
-			"explanation": "Let the ten's digit be x and unit's digit be y.<br> Then, (10x + y) - (10y + x) = 63  <br> 9 (x - y) = 63 <br>  x - y = 7.<br> Thus, none of the numbers can be deermined.. ",
-            "questionTypeId": 1,
+            "name": "Riya and Kajal are friends. Probability that both will have the same birthday isthe same birthday is: ",
+			"explanation": "Total number of ways in which Riya and Kajal may have their birthday are:365 × 365 <br> Then Riya and Kajal may have same birthday on any one of 365 days.<br> Therefore number of ways in which Riya and Kajal may have same birthday are:= 365/365 X 365 = 1/365 ",
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "364/365",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": false
+                    "name": "31/365 ",
+                    "isAnswer":false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": " 17 ",
-                    "isAnswer": false
+                    "name": " 1/365 ",
+                    "isAnswer": true
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " none of these answers can be determined",
-                    "isAnswer":true
+                    "name": "1/133225",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -265,32 +264,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Find the number which when multiplied by 15 is increased by 196.",
-			"explanation": "Let the number be x. Then, 15x - x = 196 <br>=> 14x = 196 => x = 14.",
+            "name": "A number x is chosen at random from the numbers -2, -1, 0 , 1, 2. Then the probability that x^2 < 2 is?",
+			"explanation": "We have 5 numbers −2,−1,0,1,2 <br> Whose squares are 4,1,0,1,4 <br> So square of 3 numbers is less than 2 <br> Therefore Probability is: P (x^2 < 2) = 3/5",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "10 ",
+                    "name": "1/5 ",
                     "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "14 ",
-                    "isAnswer":true
+                    "name": "2/5 ",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "18",
-                    "isAnswer":false
+                    "name": "3/5",
+                    "isAnswer":true
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "20 ",
+                    "name": "4/5 ",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +301,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "There are four prime numbers written in ascending order of magnitude. The product of the first three is 385 and of the last three is 1001. Find the fourth number ?",
-			"explanation": "(385/1001) = 5/13<br>First Number is 5 <br> Fourth number is 13  ",
+            "name": "A jar contains 24 marbles. Some are red and others are white. If a marble is drawn at random from the jar, the probability that it is red is 2/3, then the number of white marbles in the jar is:",
+			"explanation": " Let the number of white marbles be x.<br> Since only two colour marbles are present, and total probability we know of all the events is equal to 1.<br> P (white) = 1 – P (red) <br> x/24 = 1 – (2/3) =  x = 8 <br> So there are 8 white marbles. ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "17",
+                    "name": "10",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "16",
+                    "name": "6",
                     "isAnswer":false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": false
+                    "name": "8",
+                    "isAnswer":true
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "13",
-                    "isAnswer": true
+                    "name": "7 ",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -339,33 +338,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "A number is doubled and 9 is added. If the resultant is trebled, it becomes 75. What is that number ?  ",
-			"explanation": "Let the number be v. Then, 3 (2x + 9) = 75.<br>2x + 9 = 25<br>  2x = 16 <br> x = 8",
+            "name": "A number is selected at random from first 50 natural numbers. Then the probability that it is a multiple of 3 and 4 is:",
+			"explanation": "The numbers that are multiple of 3(from first 50 natural numbers) are:3, 6, 9, 12, 15, 18………………..48 <br> The numbers that are multiple of 4 (from first 50 natural numbers) are:4, 8, 12, 16…………………….48 <br> The numbers that are multiples of 3 and 4 both are the multiples of 3×4=12 as both 3 and 4 are co-prime.<br> So common multiples are:12, 24, 36, 48 <br> Therefore probability is:  P (multiple of 3 and 4) = 4/50 = 2/25.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "2",
+                    "name": "7/50 ",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "5",
+                    "name": "4/25 ",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "7",
+                    "name": "1/25 ",
                     "isAnswer":false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "8",
-                    "isAnswer": true
+                    "name": "2/25 ",
+                    "isAnswer":true
                 }
             ],
             "questionType": {

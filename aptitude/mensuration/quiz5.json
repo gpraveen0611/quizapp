@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Problems on Numbers Test 4",
-    "description": "Practice Problems on Numbers Online Test 4",
+    "name": "Mensuration Test 5",
+    "description": "Practice Mensuration Online Test 5",
     "questions": [
         {
             "id": 1010,
-            "name": "In a two-digit number, the digit in the unit's place is more than twice the digit in ten's place by 1. If the digits in the unit's place and the ten's place are interchanged,difference between the newly formed number and the oiginal number is less than the original number by 1. What is the original number ?",
-			"explanation": "Let the ten's digit be x. Then, unit's digit = 2x + 1.<br> [10x + (2x + 1)] - [{10 (2x + 1) + x} - {10x + (2x + 1)}] = 1 <br> (12x + 1) - (9x + 9) = 1 <=> 3x = 9, x =  3. <br> So, ten's digit = 3 and unit's digit = 7. Hence, original number = 37. ",
+            "name": "How many spherical balls whose radius is half that of cylinder can be formed by melting a cylindrical iron rod whose height is eight times its radius?",
+			"explanation": "Let radius of rod = r, then height = 8r<br>Radius of 1 spherical ball = r/2<br>So number of balls = Vol. of cylindrical rod/Vol. of 1 spherical ball<br>= ᴨ × r2 × 8r / (4/3) × ᴨ × (r/2)3",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "35",
+                    "name": "44",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "36",
-                    "isAnswer":false
+                    "name": "48",
+                    "isAnswer":true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "37",
-                    "isAnswer":true
+                    "name": "60",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "39",
+                    "name": "56",
                     "isAnswer": false
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "What is the place value of 6 in 64?",
-			"explanation": "Each digit has a fixed position called its place <br> Each digit has a value depending on its place called the place value of the digit.<br> The face value of a digit for any place in the given number is the value of the digit itself <br> Place value of a digit = (face value of the digit) × (value of the place).<br> Hence, the place value of 6 in 64 = 6 x 10 = 60.",
+            "name": "A cone of radius 12 cm and height 5 cm is mounted on a cylinder of radius 12 cm and height 19 cm.<br>Find the total surface area of the figure thus formed.",
+			"explanation": "Slant height of cone, l = √(12^2 + 5^2) = 13 cm<br>Total surface area of final figure = curved surface area of cone + curved surface area of cylinder + area of base<br>= ᴨrl + 2ᴨrh + ᴨr^2<br>= ᴨr (l + 2h + r)<br>= (22/7) * 12 (13 + 2*19 +12)<br> = 2376 cm2",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "6",
+                    "name": "2498 cm^2",
                     "isAnswer":false
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "60 ",
+                    "name": "2376 cm2",
                     "isAnswer": true
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "64",
+                    "name": "2476 cm2",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "10",
+                    "name": "2400 cm2",
                     "isAnswer": false
                 }
             ],
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "The product of two numbers is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is :",
-			"explanation": "Let the numbers be x and y.<br> Then, xy = 9375 and  x/y = 15.<br> (xy/x/y)=9375/15 <br> y2 =625 <br> y = 25 <br>  x = 15y = 15 x 25 = 375.<br> Sum of the numbers = 375 + 25 = 400.",
+            "name": "A cylinder and a cone have equal base and equal height. The ratio of the radius of base to height is 5 : 12.<br> Find the ratio of the total surface area of the cylinder to that of the cone.",
+			"explanation": "Let radius = 5x and height = 12x<br>Then slant height = √[(5x)2 + (12x)2]= 13x<br>Required ratio = 2ᴨr(h+r) : ᴨr(l+r) = 17 : 9",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "100",
+                    "name": "7 : 15",
                     "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "200 ",
+                    "name": "16 : 9",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "300",
-                    "isAnswer": false
+                    "name": "17 : 9",
+                    "isAnswer": true
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "400",
-                    "isAnswer": true
+                    "name": "9 : 17",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is :",
-			"explanation": "Let the three integers be x, x + 2 and x + 4. Then, 3x = 2 (x + 4) + 3  <=> x = 11.<br>Third integer = x + 4 = 15. ",
+            "name": "The area of the inner part of a cylinder is 616 sq. cms and its radius is half its height. Find the inner volume of the cylinder.",
+			"explanation": "Given 2ᴨrh + ᴨr2 = 616 and r = (1/2) * h<br>So 2ᴨ × (1/2)h × h + ᴨ × (1/4)h2 = 616<br>Solve, h = 28/√5<br>Volume = ᴨr^2h = (22/7) * (1/4) * h2 * h<br>Put h = 28/√5, vol. ≈ 1538.5",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer":false
+                    "name": "1538.5 cm^3",
+                    "isAnswer":true
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "14",
+                    "name": "1577.5 cm3",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "137",
+                    "name": "1435.8 cm^3",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": true
+                    "name": "1238.5 cm^3",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "54 is to be divided into two parts such that the sum of 10 times the first and 22 times the second is 780. The bigger part is :",
-			"explanation": "Let the two parts be (54 - x) and x.<br> Then, 10 (54 - x) + 22x = 780 <br> 12x = 240 <br>  x = 20. <br> Bigger part = (54 - x)  = 34.  ",
+            "name": "A rectangular sheet of 0.5 cm thickness is made from an iron cube of side 10 cm by hammering it down. The sides of the sheet are in the ratio 1 : 5.<br> Find the largest side of the sheet.",
+			"explanation": "Sides = x and 5x <br>Now vol. of rectangle = vol. of cube<br>x * 5x * (0.5) = 10*10 *10<br>Solve, x = 20<br>Largest side = 5x = 5*20 = 100 cm",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "24",
-                    "isAnswer":false
+                    "name": "100 cm",
+                    "isAnswer": true
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "34 ",
-                    "isAnswer":true
+                    "name": "72 cm",
+                    "isAnswer": false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": " 44",
+                    "name": "20 cm",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": " 54 ",
+                    "name": "50 cm",
                     "isAnswer":false
                 }
             ],
@@ -191,32 +191,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "There are two numbers such that the sum of twice the first and thrice the second is 39, while the sum of thrice the first, and twice the second is 36. The larger of the two is :",
-			"explanation": "Let the numbers be x and y. Then, 2x + 3y = 39...(i)and 3x + 2y = 30 ...(ii) <br> On solving (i) and (ii), we get :  x = 6 and y = 9. <br> larger number = 9",
+            "name": "A rectangle whose sides are in the ratio 6 : 5 is formed by bending a circular wire of radius 42 cm.<br> Find the largest side of the rectangle.",
+			"explanation": "Length of wire = 2ᴨr = 264 which should be equal to the perimeter of rectangle in which it is bent.<br>So 2(6x + 5x) = 264<br>Solve, x= 12<br>Largest side = 6x = 6*12 = 72",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "60 cm",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "6 ",
-                    "isAnswer":false
+                    "name": "72 cm",
+                    "isAnswer": true
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "9 ",
-                    "isAnswer":true
+                    "name": "78 cm",
+                    "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "84 cm",
                     "isAnswer": false
                 }
             ],
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": "The difference between a two-digit number and the number obtained by interchanging the two digits is 63. Which is the smaller of the two numbers ? ",
-			"explanation": "Let the ten's digit be x and unit's digit be y.<br> Then, (10x + y) - (10y + x) = 63  <br> 9 (x - y) = 63 <br>  x - y = 7.<br> Thus, none of the numbers can be deermined.. ",
+            "name": "If the base of a triangle is increased by 50% and its height is decreased by 50%, <br>then what will be the effect on its area?",
+			"explanation": "Area of triangle = (1/2) * base * height<br>So effect on area = +50 + (-50) + (50)(-50)/100 = -25%",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "50% decrease",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "75% decrease",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": " 17 ",
-                    "isAnswer": false
+                    "name": "25% decrease",
+                    "isAnswer": true
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " none of these answers can be determined",
-                    "isAnswer":true
+                    "name": "25% increase",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Find the number which when multiplied by 15 is increased by 196.",
-			"explanation": "Let the number be x. Then, 15x - x = 196 <br>=> 14x = 196 => x = 14.",
+            "name": "The sides of a triangle are in the ratio 3 : 4 : 5 whose area is 216 sq. cm. <br>What will be the perimeter of this triangle?",
+			"explanation": "Sides 3x, 4x, 5x<br>So semi-perimeter, s = (3x+4x+5x)/2 = 6x<br>Area = √s(s-a)(s-b)(s-c)<br>= √6x*3x*2x*x = 6x2 cm2<br>So 6x2 = 216, this gives x = 6<br>Perimeter = 12x = 12*6 =72",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "10 ",
-                    "isAnswer":false
+                    "name": "58 cm",
+                    "isAnswer": false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "14 ",
-                    "isAnswer":true
+                    "name": "60 cm",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "18",
-                    "isAnswer":false
+                    "name": "72 cm",
+                    "isAnswer": true
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "20 ",
+                    "name": "50 cm",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "There are four prime numbers written in ascending order of magnitude. The product of the first three is 385 and of the last three is 1001. Find the fourth number ?",
-			"explanation": "(385/1001) = 5/13<br>First Number is 5 <br> Fourth number is 13  ",
+            "name": "The perimeter of a rectangular plot is 340 m. Find the cost of gardening 1 m broad boundary around it at the rate of Rs 10 per sq. m.",
+			"explanation": "Given 2(l+b) = 340 <br>1 m broad boundary means increase in l and b by 2 m<br>So area of the boundary will be [(l+2)(b+2) – lb] = 2(l+b) + 4 = 340 + 4 = 344<br>So cost of gardening = 344*10 = 3440",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "17",
+                    "name": "Rs 3450",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "16",
-                    "isAnswer":false
+                    "name": "Rs 3400",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": false
+                    "name": "Rs 3440",
+                    "isAnswer": true
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "13",
-                    "isAnswer": true
+                    "name": "Rs 3880",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "A number is doubled and 9 is added. If the resultant is trebled, it becomes 75. What is that number ?  ",
-			"explanation": "Let the number be v. Then, 3 (2x + 9) = 75.<br>2x + 9 = 25<br>  2x = 16 <br> x = 8",
+            "name": "The length and the breadth of a rectangular door are increased by 1 m each and due to this the area of the door increased by 21 sq. m. But if the length is increased by 1 m and breadth decreased by 1 m, area is decreased by 5 sq. m.<br> Find the perimeter of the door.",
+			"explanation": "Let original length = l, breadth = b, so area = lb<br>When l and b increased by 1:<br>(l+1)(b+1) = lb + 21<br>Solve, l + b = 20<br>When l increased by 1, b decreased by 1:<br>(l+1)(b-1) = lb – 5<br>Solve, l – b = 6<br>Now solve both equations, l = 13, b = 7<br>Perimeter = 2(13+7) = 40",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "2",
+                    "name": " 20 m",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "5",
+                    "name": "25 m",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "7",
-                    "isAnswer":false
+                    "name": "40 m",
+                    "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "8",
-                    "isAnswer": true
+                    "name": "30 m",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

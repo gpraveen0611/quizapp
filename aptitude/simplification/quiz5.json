@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Problems on Numbers Test 4",
-    "description": "Practice Problems on Numbers Online Test 4",
+    "name": "Simplification Test 5",
+    "description": "Practice Simplification Online Test 5",
     "questions": [
         {
             "id": 1010,
-            "name": "In a two-digit number, the digit in the unit's place is more than twice the digit in ten's place by 1. If the digits in the unit's place and the ten's place are interchanged,difference between the newly formed number and the oiginal number is less than the original number by 1. What is the original number ?",
-			"explanation": "Let the ten's digit be x. Then, unit's digit = 2x + 1.<br> [10x + (2x + 1)] - [{10 (2x + 1) + x} - {10x + (2x + 1)}] = 1 <br> (12x + 1) - (9x + 9) = 1 <=> 3x = 9, x =  3. <br> So, ten's digit = 3 and unit's digit = 7. Hence, original number = 37. ",
+            "name": "a * b = 2a - 3b + ab, then 3*5 + 5*3 = ?",
+			"explanation": "= 2(3)-3(5)+(3*5) + 2(5)-3(3)+(5*3) <br> = 6-15+15+10-9+15 = 31-9 = 22 ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "35",
+                    "name": "20",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "36",
+                    "name": "21",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "37",
+                    "name": "22 ",
                     "isAnswer":true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "39",
+                    "name": "23",
                     "isAnswer": false
                 }
             ],
@@ -42,33 +42,33 @@
         },
         {
             "id": 1011,
-            "name": "What is the place value of 6 in 64?",
-			"explanation": "Each digit has a fixed position called its place <br> Each digit has a value depending on its place called the place value of the digit.<br> The face value of a digit for any place in the given number is the value of the digit itself <br> Place value of a digit = (face value of the digit) × (value of the place).<br> Hence, the place value of 6 in 64 = 6 x 10 = 60.",
+            "name": " (180/37 of 14.8) / (17/60.1 of 180.30) = ? ",
+			"explanation": "(180/37 of 14.8) / (17/60.1 of 180.30) = 72/51 = 24/17 = 1.41",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "6",
-                    "isAnswer":false
+                    "name": "1.4",
+                    "isAnswer":true
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "60 ",
-                    "isAnswer": true
+                    "name": "1.5",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "64",
-                    "isAnswer": false
+                    "name": "1.6",
+                    "isAnswer":false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "10",
-                    "isAnswer": false
+                    "name": "2.4",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "The product of two numbers is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is :",
-			"explanation": "Let the numbers be x and y.<br> Then, xy = 9375 and  x/y = 15.<br> (xy/x/y)=9375/15 <br> y2 =625 <br> y = 25 <br>  x = 15y = 15 x 25 = 375.<br> Sum of the numbers = 375 + 25 = 400.",
+            "name": "There are two examinations rooms A and B. If 10 students are sent from A to B, then the number of students in each room is the same. If 20 candidates are sent from B to A, then the number of students in A is double the number of students in B. The number of students in room A is:",
+			"explanation": "Let the number of students in rooms A and B be x and y respectively.<br> Then, x - 10 = y + 10 <br> x - y = 20 .... (i) <br> and x + 20 = 2(y - 20) <br> x - 2y = -60 .... (ii) <br> Solving (i) and (ii) we get: x = 100 , y = 80.<br> The required answer A = 100. ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "100",
+                    "name": "20 ",
                     "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "200 ",
+                    "name": "80",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "300",
-                    "isAnswer": false
+                    "name": "100",
+                    "isAnswer":true
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "400",
-                    "isAnswer": true
+                    "name": "200",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -117,32 +117,32 @@
         },
 		{
 			"id": 1013,
-            "name": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is :",
-			"explanation": "Let the three integers be x, x + 2 and x + 4. Then, 3x = 2 (x + 4) + 3  <=> x = 11.<br>Third integer = x + 4 = 15. ",
+            "name": "The price of 10 chairs is equal to that of 4 tables. The price of 15 chairs and 2 tables together is Rs. 4000. The total price of 12 chairs and 3 tables is:",
+			"explanation": "Let the cost of a chair and that of a table be Rs. x and Rs. y respectively.<br> Then, 10x = 4y <br> y = 5/2 x.<br> 15x + 2y = 4000 <br> 15x + 2 x 5/2 x=4000 <br> 20x = 4000 <br> x=200.<br> So, y = 5/2 x 200 = 500.<br> Hence, the cost of 12 chairs and 3 tables = 12x + 3y <br> = Rs. (2400 + 1500) =  Rs. 3900.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "Rs. 3500",
                     "isAnswer":false
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "14",
+                    "name": "Rs. 3750",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "137",
-                    "isAnswer": false
+                    "name": "Rs. 3840",
+                    "isAnswer":false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "Rs. 3900",
                     "isAnswer": true
                 }
             ],
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "54 is to be divided into two parts such that the sum of 10 times the first and 22 times the second is 780. The bigger part is :",
-			"explanation": "Let the two parts be (54 - x) and x.<br> Then, 10 (54 - x) + 22x = 780 <br> 12x = 240 <br>  x = 20. <br> Bigger part = (54 - x)  = 34.  ",
+            "name": "What value will come in place of question mark(?) in the question? <br> 13×?=1664/16",
+			"explanation": "13/?=104 <br> ?=104/13=8",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "24",
-                    "isAnswer":false
+                    "name": "8",
+                    "isAnswer":true
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "34 ",
-                    "isAnswer":true
+                    "name": "9 ",
+                    "isAnswer":false
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": " 44",
+                    "name": "10",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": " 54 ",
+                    "name": "11 ",
                     "isAnswer":false
                 }
             ],
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "There are two numbers such that the sum of twice the first and thrice the second is 39, while the sum of thrice the first, and twice the second is 36. The larger of the two is :",
-			"explanation": "Let the numbers be x and y. Then, 2x + 3y = 39...(i)and 3x + 2y = 30 ...(ii) <br> On solving (i) and (ii), we get :  x = 6 and y = 9. <br> larger number = 9",
+            "name": "What value will come in place of question mark(?) in the question? <br> √?+238=4/5 of 360 ",
+			"explanation": "√?=288-238=50 <br> ?=√50=2500",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "3",
-                    "isAnswer": false
+                    "name": "2200",
+                    "isAnswer":false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "6 ",
+                    "name": "3025 ",
                     "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "9 ",
-                    "isAnswer":true
+                    "name": "3600 ",
+                    "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer": false
+                    "name": "2500 ",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -228,33 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": "The difference between a two-digit number and the number obtained by interchanging the two digits is 63. Which is the smaller of the two numbers ? ",
-			"explanation": "Let the ten's digit be x and unit's digit be y.<br> Then, (10x + y) - (10y + x) = 63  <br> 9 (x - y) = 63 <br>  x - y = 7.<br> Thus, none of the numbers can be deermined.. ",
-            "questionTypeId": 1,
+            "name": "What value will come in place of question mark(?) in the question? <br> 48-12x3+9/12-9/3=?   ",
+			"explanation": "? = 21/9=2+(1/3)",
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "4+1/3",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": false
+                    "name": "2+1/3 ",
+                    "isAnswer":true
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": " 17 ",
+                    "name": "1/3 ",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " none of these answers can be determined",
-                    "isAnswer":true
+                    "name": "21",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -265,32 +264,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Find the number which when multiplied by 15 is increased by 196.",
-			"explanation": "Let the number be x. Then, 15x - x = 196 <br>=> 14x = 196 => x = 14.",
+            "name": "What value will come in place of question mark(?) in the question? <br> 5/7 of 3/8 of 1/6 of 1456=? ",
+			"explanation": "?=728 x 1/8 x 5/7 <br> = 13 x5 =65 ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "10 ",
-                    "isAnswer":false
+                    "name": "65 ",
+                    "isAnswer":true
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "14 ",
-                    "isAnswer":true
+                    "name": "25 ",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "18",
+                    "name": "52 ",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "20 ",
+                    "name": "36 ",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +301,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "There are four prime numbers written in ascending order of magnitude. The product of the first three is 385 and of the last three is 1001. Find the fourth number ?",
-			"explanation": "(385/1001) = 5/13<br>First Number is 5 <br> Fourth number is 13  ",
+            "name": "1/3 of 2/6 of 1/7 of 2/28 of 2140 = ?",
+			"explanation": "1/3 * 1/3 * 1/7 * 1/9 * 2140 = ? <br> ? = 3.77  ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "17",
+                    "name": "4.92 ",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "16",
-                    "isAnswer":false
+                    "name": "3.77",
+                    "isAnswer":true
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": false
+                    "name": "3.01",
+                    "isAnswer":false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "13",
-                    "isAnswer": true
+                    "name": "4.14  ",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -339,33 +338,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "A number is doubled and 9 is added. If the resultant is trebled, it becomes 75. What is that number ?  ",
-			"explanation": "Let the number be v. Then, 3 (2x + 9) = 75.<br>2x + 9 = 25<br>  2x = 16 <br> x = 8",
+            "name": " (332% of 2113) / 42 = ?",
+			"explanation": "(3.32/100 * 2113) * 1/42 = (70.1516) * 1/42 = 167 ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "2",
-                    "isAnswer": false
+                    "name": "167 ",
+                    "isAnswer":true
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "5",
+                    "name": "154 ",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "7",
+                    "name": "162 ",
                     "isAnswer":false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "8",
-                    "isAnswer": true
+                    "name": "181 ",
+                    "isAnswer":false
                 }
             ],
             "questionType": {

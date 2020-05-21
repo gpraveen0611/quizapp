@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Problems on Numbers Test 4",
-    "description": "Practice Problems on Numbers Online Test 4",
+    "name": "Percentages Test 5",
+    "description": "Practice Percentages Online Test 5",
     "questions": [
         {
             "id": 1010,
-            "name": "In a two-digit number, the digit in the unit's place is more than twice the digit in ten's place by 1. If the digits in the unit's place and the ten's place are interchanged,difference between the newly formed number and the oiginal number is less than the original number by 1. What is the original number ?",
-			"explanation": "Let the ten's digit be x. Then, unit's digit = 2x + 1.<br> [10x + (2x + 1)] - [{10 (2x + 1) + x} - {10x + (2x + 1)}] = 1 <br> (12x + 1) - (9x + 9) = 1 <=> 3x = 9, x =  3. <br> So, ten's digit = 3 and unit's digit = 7. Hence, original number = 37. ",
+            "name": "A reduction of 20 % in the price of rice enables a person to buy 3.5 kg more rice for Rs. 385.<br> The original price of rice is:",
+			"explanation": "Let the original price be Rs x per kg. <br>New price per kg = Rs (80/100 × x) = Rs 4x/5<br> 385/(4x/5) - 385/x = 3.5<br>=> 1925/4x – 385/x = 7/2 <br>=> (1925 - 1540) = 14x <br>=> 14x = 385 <br>=> 2x =55 <br>=> x = 27.50 <br>Hence, the original price of the rice is Rs 27.50 per kg",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "35",
+                    "name": "Rs. 20 per kg",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "36",
+                    "name": "Rs. 22.50 per kg",
                     "isAnswer":false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "37",
+                    "name": "Rs. 27.50 per kg",
                     "isAnswer":true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "39",
+                    "name": "Rs. 25 per kg",
                     "isAnswer": false
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "What is the place value of 6 in 64?",
-			"explanation": "Each digit has a fixed position called its place <br> Each digit has a value depending on its place called the place value of the digit.<br> The face value of a digit for any place in the given number is the value of the digit itself <br> Place value of a digit = (face value of the digit) × (value of the place).<br> Hence, the place value of 6 in 64 = 6 x 10 = 60.",
+            "name": "8 % of the voters in an election did not cast their votes in the election, there were only two candidates. The winner by obtaining 48 % of the total votes defeated his contestant by 1100 votes.<br> The total number of voters in the election was.",
+			"explanation": "Let the total number of voters be x <br>Votes cast = 92 % of x = (92/100 × x) = 23x/25<br>Votes in favour of winning candidate = 48/100 × x <br>= 12x/25 <br> Votes polled by defeated candidate = (23x/25 – 12x/25) <br>= 11x/25 12x/25 – 11x/25 = 1100 <br>=> 12x – 11x = 27500 <br>=> x = 27500",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "6",
-                    "isAnswer":false
+                    "name": "27500",
+                    "isAnswer": true
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "60 ",
-                    "isAnswer": true
+                    "name": "21000",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "64",
+                    "name": "22000",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "10",
+                    "name": "27500",
                     "isAnswer": false
                 }
             ],
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "The product of two numbers is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is :",
-			"explanation": "Let the numbers be x and y.<br> Then, xy = 9375 and  x/y = 15.<br> (xy/x/y)=9375/15 <br> y2 =625 <br> y = 25 <br>  x = 15y = 15 x 25 = 375.<br> Sum of the numbers = 375 + 25 = 400.",
+            "name": "In an election between two candidates. One got 55 % of the total valid votes. 20 % of the votes were invalid. If the total number of votes was 7500.<br> The number of valid votes that the other candidate got was",
+			"explanation": "Valid votes = (80/100 × 7500) = 6000 <br>Valid votes polled by one candidates <br>=(55/100 × 6000) = 3300 <br>Valid votes polled by another candidate <br>= (6000 - 3300) = 2700",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "100",
-                    "isAnswer":false
+                    "name": "2700",
+                    "isAnswer": true
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "200 ",
+                    "name": "2500",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "300",
+                    "name": "2900",
                     "isAnswer": false
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "400",
-                    "isAnswer": true
+                    "name": "2000",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is :",
-			"explanation": "Let the three integers be x, x + 2 and x + 4. Then, 3x = 2 (x + 4) + 3  <=> x = 11.<br>Third integer = x + 4 = 15. ",
+            "name": "In an election between two candidates 75 % of the voters cast their votes. Out of which 2 % of the voters were declared invalid. A candidate got 9261 votes which were 75 % of the total valid votes.<br> The total number of voters enrolled in that election was:",
+			"explanation": "Let the enrolled votes be x, <br> Votes cast = (75/100 × x) = 3x/4 <br> Valid votes = (98/100 × 3x/4) <br>= 147x/200 75/100 × 147x/200 = 9261 <br>=> 441x = (9261 × 800) <br>=> x = 16800",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer":false
+                    "name": "16800 ",
+                    "isAnswer": true
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "14",
-                    "isAnswer":false
+                    "name": "10000",
+                    "isAnswer": false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "137",
+                    "name": "18000",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": true
+                    "name": "16400",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "54 is to be divided into two parts such that the sum of 10 times the first and 22 times the second is 780. The bigger part is :",
-			"explanation": "Let the two parts be (54 - x) and x.<br> Then, 10 (54 - x) + 22x = 780 <br> 12x = 240 <br>  x = 20. <br> Bigger part = (54 - x)  = 34.  ",
+            "name": "10 % of the electorate did not cast their votes in an election between two candidates. 10 % of the votes polled were found invalid. The successful candidate got 54 % of the valid votes and won by a majority of 1620 votes.<br> The number of voters enrolled on the voter's list was",
+			"explanation": "Let the number of votes enrolled be x <br>Votes cast = (90/100 × x) = 9x/10 <br>Valid votes = 90% of 9x/10 = (90/100 × 9x/10) = 81x/100  <br>Votes polled by successful candidate <br>= (54/100 × 81x/100) = 4374x/10000 <br>Votes polled by defeated candidate <br>= (46/100 × 81x/100) = 3726x/10000 <br>=> 4374x – 3726x = 16200000 <br><br>=> x = 16200000/648 = 25000",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "24",
+                    "name": "35000",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "34 ",
+                    "name": "25000",
                     "isAnswer":true
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": " 44",
+                    "name": "30000",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": " 54 ",
+                    "name": "None of these",
                     "isAnswer":false
                 }
             ],
@@ -191,32 +191,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "There are two numbers such that the sum of twice the first and thrice the second is 39, while the sum of thrice the first, and twice the second is 36. The larger of the two is :",
-			"explanation": "Let the numbers be x and y. Then, 2x + 3y = 39...(i)and 3x + 2y = 30 ...(ii) <br> On solving (i) and (ii), we get :  x = 6 and y = 9. <br> larger number = 9",
+            "name": "Three candidates in an election received 1136, 7636 and 11628 votes respectively.<br> What percentage of the total votes did the winning candidate get?",
+			"explanation": "Total votes = (1136 + 7636 + 11628) = 20400 <br>Required % = (11628/20400 × 100)% = 57%",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "60 %",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "6 ",
+                    "name": "70 %",
                     "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "9 ",
-                    "isAnswer":true
+                    "name": " 57 %",
+                    "isAnswer": true
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "None of these",
                     "isAnswer": false
                 }
             ],
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": "The difference between a two-digit number and the number obtained by interchanging the two digits is 63. Which is the smaller of the two numbers ? ",
-			"explanation": "Let the ten's digit be x and unit's digit be y.<br> Then, (10x + y) - (10y + x) = 63  <br> 9 (x - y) = 63 <br>  x - y = 7.<br> Thus, none of the numbers can be deermined.. ",
+            "name": "The value of a plant depreciates by 10 % annually. If the present value of the plant is Rs. 100000,<br> then what will be its value after 2 years?",
+			"explanation": "Value after 2 Years = Rs[100000 × (1 – 10/100)2]<br>= Rs (100000 × 0.9 × 0.9) = Rs 81000",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "Rs. 8000",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": false
+                    "name": "Rs. 81000",
+                    "isAnswer": true
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": " 17 ",
+                    "name": "Rs. 18000",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " none of these answers can be determined",
-                    "isAnswer":true
+                    "name": "None of these",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Find the number which when multiplied by 15 is increased by 196.",
-			"explanation": "Let the number be x. Then, 15x - x = 196 <br>=> 14x = 196 => x = 14.",
+            "name": "If the numerator of a fraction is increased by 250 % and the denominator is increased by 400 % the resultant fraction is 7/19.<br> What is the original fraction?",
+			"explanation": "Let the original fraction be x/y, then<br>350% of x / 500% of y = 7/19<br>=> 3.5/5 × x/y = 7/19 <br>=> 350/500 × x/y = 7/19 <br>=>7/10 × x/y = 7/19 <br>=> x/y =(7/19 × 10/7) = 10/19 <br>Therefore Original Fraction = 10/19",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "10 ",
-                    "isAnswer":false
+                    "name": "10/19",
+                    "isAnswer":true
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "14 ",
-                    "isAnswer":true
+                    "name": "5/9",
+                    "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "18",
+                    "name": "9/5",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "20 ",
+                    "name": "19/7",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "There are four prime numbers written in ascending order of magnitude. The product of the first three is 385 and of the last three is 1001. Find the fourth number ?",
-			"explanation": "(385/1001) = 5/13<br>First Number is 5 <br> Fourth number is 13  ",
+            "name": "The price of a certain item is increased by 15 %. If a consumer wants to keep his expenditure on the item same as before how much percent must he reduce his consumption of that item?",
+			"explanation": "Reduction % in consumption <br>= {r/(100+r) ×100} % =(15/115 × 100)% <br>= 300/23 % = 13 1/23 % ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "17",
+                    "name": "10 20/23 %",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "16",
-                    "isAnswer":false
+                    "name": "13 1/23 %",
+                    "isAnswer": true
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "15",
+                    "name": "16 2/3 %",
                     "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "13",
-                    "isAnswer": true
+                    "name": "15 % ",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "A number is doubled and 9 is added. If the resultant is trebled, it becomes 75. What is that number ?  ",
-			"explanation": "Let the number be v. Then, 3 (2x + 9) = 75.<br>2x + 9 = 25<br>  2x = 16 <br> x = 8",
+            "name": "Candidates in a competitive examination consisted of 60% men and 40% women 70% men and 75% women cleared the qualifying test and entered the final test where 80% men and 70% women were successful?<br> Which of the following statements is correct?",
+			"explanation": "Let there are 100 persons in which 60 men and 40 women number of men who cleared the qualifying test<br>= 70 x 60/100 = 42 <br>Number of women who cleared the qualifying test <br>= 40 x ¾ = 30 <br>Number of men who get success in final test <br> = 42 x 4/5 = 33.6 <br>Number of women who get success in final test <br>= 30 x 70/100 = 21 <br>Hence more men cleared the examination than a woman.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "2",
+                    "name": "Success rate is higher for women",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "5",
+                    "name": "Overall success rate is below 50%",
                     "isAnswer":false
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "7",
-                    "isAnswer":false
+                    "name": "More men cleared the examination than women",
+                    "isAnswer": true
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "8",
-                    "isAnswer": true
+                    "name": "Both ‘A’ and ‘B’",
+                    "isAnswer": false
                 }
             ],
             "questionType": {

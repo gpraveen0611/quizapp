@@ -1,36 +1,36 @@
 {
     "id": 1,
-    "name": "Problems on Numbers Test 4",
-    "description": "Practice Problems on Numbers Online Test 4",
-    "questions": [
+    "name": "Volume & Surface Area Test 5",
+    "description": "Practice Volume & Surface Area Online Test 5",
+            "questions": [
         {
             "id": 1010,
-            "name": "In a two-digit number, the digit in the unit's place is more than twice the digit in ten's place by 1. If the digits in the unit's place and the ten's place are interchanged,difference between the newly formed number and the oiginal number is less than the original number by 1. What is the original number ?",
-			"explanation": "Let the ten's digit be x. Then, unit's digit = 2x + 1.<br> [10x + (2x + 1)] - [{10 (2x + 1) + x} - {10x + (2x + 1)}] = 1 <br> (12x + 1) - (9x + 9) = 1 <=> 3x = 9, x =  3. <br> So, ten's digit = 3 and unit's digit = 7. Hence, original number = 37. ",
+            "name": "A rectangular block has the dimensions 5x6x7 cm it is dropped into a cylindrical vessel of radius 6cm and height 10 cm. If the level of the fluid in the cylinder rises by 4 cm,<br> What portion of the block is immersed in the fluid ?",
+			"explanation": "Since level of water increased in cylinder by height 4. <br>This is because of the rectangular block .<br>Therefore , area of rectangular block immersed in water is <br>= 22/7×6×6×4  <br>Thats why portion of block immersed in water is <br>= (22/7 * 36 * 4) / total vol. of rectangle <br>= (22/7 * 36 * 4)/ (7*5*6) <br><br>= (22/7 * 24)/ 35.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "35",
-                    "isAnswer": false
+                    "name": "22/7 x 24/35",
+                    "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "36",
-                    "isAnswer":false
+                    "name": "22/7 x 36 x 4",
+                    "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "37",
-                    "isAnswer":true
+                    "name": "22/7 x 36/5",
+                    "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "39",
+                    "name": "22/7 x 37/21",
                     "isAnswer": false
                 }
             ],
@@ -42,32 +42,32 @@
         },
         {
             "id": 1011,
-            "name": "What is the place value of 6 in 64?",
-			"explanation": "Each digit has a fixed position called its place <br> Each digit has a value depending on its place called the place value of the digit.<br> The face value of a digit for any place in the given number is the value of the digit itself <br> Place value of a digit = (face value of the digit) × (value of the place).<br> Hence, the place value of 6 in 64 = 6 x 10 = 60.",
+            "name": "A cuboid of dimension 24cm x 9cm x 8 cm is melted and smaller cubers are of side 3 cm is formed.<br>find how many such cubes can be formed ?",
+			"explanation": "Volume of cuboid = (24 x 9 x 8) cm = 1728 cu.cm<br>Volume of small cube = (3 x 3 x 3) cm = 27 cu.cm<br>So, No. of small cubes formed = 1728/27 = 64.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1059,
                     "questionId": 1010,
-                    "name": "6",
-                    "isAnswer":false
+                    "name": "64",
+                    "isAnswer": true
                 },
                 {
                     "id": 1060,
                     "questionId": 1010,
-                    "name": "60 ",
-                    "isAnswer": true
+                    "name": "56",
+                    "isAnswer": false
                 },
                 {
                     "id": 1061,
                     "questionId": 1010,
-                    "name": "64",
+                    "name": "45",
                     "isAnswer": false
                 },
                 {
                     "id": 1062,
                     "questionId": 1010,
-                    "name": "10",
+                    "name": "40",
                     "isAnswer": false
                 }
             ],
@@ -79,34 +79,34 @@
         },
         {
             "id": 1012,
-            "name": "The product of two numbers is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is :",
-			"explanation": "Let the numbers be x and y.<br> Then, xy = 9375 and  x/y = 15.<br> (xy/x/y)=9375/15 <br> y2 =625 <br> y = 25 <br>  x = 15y = 15 x 25 = 375.<br> Sum of the numbers = 375 + 25 = 400.",
+            "name": "A metallic sheet is of rectangular shape with dimensions 48 m x 36 m. From each of its corners, a square is cut off so as to make an open box. If the length of the square is 8m, <br>the volume of the box (in m^3) is:",
+			"explanation": "Clearly, L =(48-16)m=32m, <br> b (36-16)m = 20m, h = 8m,<br> therfore, Volume of the box = (32 X 20 X 8) m^3 = 5120 m^3",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1063,
                     "questionId": 1010,
-                    "name": "100",
+                    "name": "4830",
                     "isAnswer":false
 		
                 },
                 {
                     "id": 1064,
                     "questionId": 1010,
-                    "name": "200 ",
+                    "name": "8960",
                     "isAnswer":false
                 },
                 {
                     "id": 1065,
                     "questionId": 1010,
-                    "name": "300",
-                    "isAnswer": false
+                    "name": "5120",
+                    "isAnswer": true
                 },
                 {
                     "id": 1066,
                     "questionId": 1010,
-                    "name": "400",
-                    "isAnswer": true
+                    "name": "6420",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -117,33 +117,33 @@
         },
 		{
 			"id": 1013,
-            "name": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is :",
-			"explanation": "Let the three integers be x, x + 2 and x + 4. Then, 3x = 2 (x + 4) + 3  <=> x = 11.<br>Third integer = x + 4 = 15. ",
+            "name": "The height of the wall is 6 times its width and lenght of the wall is 7 times its height .if the volume of the wall be 16128 cu.m. <br>its width is",
+			"explanation": "Let width = x<br>Then, height = 6x and length = 42x <br>42x * 6x * x = 16128<br>x = 4",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1067,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer":false
+                    "name": "4m",
+                    "isAnswer":true
                 },
                 {
                     "id": 1068,
                     "questionId": 1010,
-                    "name": "14",
+                    "name": "5m",
                     "isAnswer":false
                 },
                 {
                     "id": 1069,
                     "questionId": 1010,
-                    "name": "137",
+                    "name": "6m",
                     "isAnswer": false
                 },
                 {
                     "id": 1070,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": true
+                    "name": "7m",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -154,32 +154,32 @@
 		},
 		{
 			"id": 1014,
-            "name": "54 is to be divided into two parts such that the sum of 10 times the first and 22 times the second is 780. The bigger part is :",
-			"explanation": "Let the two parts be (54 - x) and x.<br> Then, 10 (54 - x) + 22x = 780 <br> 12x = 240 <br>  x = 20. <br> Bigger part = (54 - x)  = 34.  ",
+            "name": "The cost of the paint is rs.36.50 per kg. if 1kg of paint covers 16sq.ft, how much will it cost to paint outside of a cube having 8 feet each side",
+			"explanation": "surface area of a cube= 6 x (8 x 8) = 384 sq.ft<br> quantity of paint required=(384/16)=24kg<br>cost of painting= 36.5 x 24 = Rs.876",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1071,
                     "questionId": 1010,
-                    "name": "24",
+                    "name": "Rs.876",
                     "isAnswer":false
                 },
                 {
                     "id": 1072,
                     "questionId": 1010,
-                    "name": "34 ",
+                    "name": "Rs.546",
                     "isAnswer":true
                 },
                 {
                     "id": 1073,
                     "questionId": 1010,
-                    "name": " 44",
+                    "name": "Rs.976",
                     "isAnswer":false
                 },
                 {
                     "id": 1074,
                     "questionId": 1010,
-                    "name": " 54 ",
+                    "name": "None of these",
                     "isAnswer":false
                 }
             ],
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "There are two numbers such that the sum of twice the first and thrice the second is 39, while the sum of thrice the first, and twice the second is 36. The larger of the two is :",
-			"explanation": "Let the numbers be x and y. Then, 2x + 3y = 39...(i)and 3x + 2y = 30 ...(ii) <br> On solving (i) and (ii), we get :  x = 6 and y = 9. <br> larger number = 9",
+            "name": "How many iron rods, each of length 7 mts and diameter 2 cms can be made out of 0.88 cubic metre of iron ?",
+			"explanation": "Given length of iron rod =7 mts and  and diameter of rod = 2 cms <br>=> r = 1/100 mts<br>Therefore,  Volume of one rod = πr^2h cu. m =  (22/7×[1100]^2× 7)cu. m <br> = 11/5000 cu. m<br>Given volume of iron = 0.88 cu. m <br>Therefore, Number of rods = (0.88×5000/11) = 400.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "3",
+                    "name": "500",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "6 ",
+                    "name": "600",
                     "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "9 ",
-                    "isAnswer":true
+                    "name": "300",
+                    "isAnswer":false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "12",
-                    "isAnswer": false
+                    "name": "400",
+                    "isAnswer": true
                 }
             ],
             "questionType": {
@@ -228,33 +228,33 @@
 		},
 		{
 			"id": 1016,
-            "name": "The difference between a two-digit number and the number obtained by interchanging the two digits is 63. Which is the smaller of the two numbers ? ",
-			"explanation": "Let the ten's digit be x and unit's digit be y.<br> Then, (10x + y) - (10y + x) = 63  <br> 9 (x - y) = 63 <br>  x - y = 7.<br> Thus, none of the numbers can be deermined.. ",
+            "name": "A rectangular park 60 m long and 40 m wide has two concrete crossroads running in the middle of the park and rest of the park has been used as a lawn. If the area of the lawn is 2109 sq. m,<br>then what is the width of the road?",
+			"explanation": "Area of the park = (60 x 40) = 2400 sq.m<br>Area of the lawn = 2109  sq.m<br>Area of the crossroads = (2400 - 2109) = 291 sq.m <br>Let the width of the road be x metres. Then,<br>60x + 40x - (x * x) = 291  <br>=>(x * x) - 100x + 291 = 0<br>=>(x - 97)(x - 3) = 0<br>=>x=3",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "2.91 m",
                     "isAnswer": false
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": false
+                    "name": "3 m",
+                    "isAnswer": true
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": " 17 ",
+                    "name": "5.82 m",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": " none of these answers can be determined",
-                    "isAnswer":true
+                    "name": "None of these",
+                    "isAnswer":false
                 }
             ],
             "questionType": {
@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Find the number which when multiplied by 15 is increased by 196.",
-			"explanation": "Let the number be x. Then, 15x - x = 196 <br>=> 14x = 196 => x = 14.",
+            "name": "88 cubic centimetres of silver is drawn into a wire 1 mm in diameter. <br>The length of the wire in metres will be ?",
+			"explanation": "Vol of silver = πR2h  = 66 C.C<br> Given D= 1mm => R = D/2 = 1/20 cm<br>=> 227×(120)2×h = 66<br>= 66 x 400 x (7/22) = 8400 cm = 84 mtrs.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "10 ",
-                    "isAnswer":false
+                    "name": "112 mts",
+                    "isAnswer": false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": "14 ",
-                    "isAnswer":true
+                    "name": "84 mts",
+                    "isAnswer": true
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "18",
+                    "name": "96 mts",
                     "isAnswer":false
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "20 ",
+                    "name": "108 mts",
                     "isAnswer": false
                 }
             ],
@@ -302,33 +302,33 @@
 		},
 		{
 			"id": 1018,
-            "name": "There are four prime numbers written in ascending order of magnitude. The product of the first three is 385 and of the last three is 1001. Find the fourth number ?",
-			"explanation": "(385/1001) = 5/13<br>First Number is 5 <br> Fourth number is 13  ",
+            "name": "The circumferences of two circles are 264 meters and 352 meters.<br> Find the difference between the areas of the larger and the smaller circles  ?",
+			"explanation": "Let the radii of the smaller and the larger circles be 's' m and 'l' m respectively.<br>2πs = 264 and 2πl = 352<br>s = 264/2π and l = 352/2π <br>Difference between the areas =πl^2−πs^2<br>= π(176^2/π^2−132^2/π^2)<br>= 1762/π−1322/π  <br>= (176 - 132)(176 + 132) / π <br>= (44 x 308) / (22/7) = 4312 sq.m",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "17",
+                    "name": "2413 sq.m",
                     "isAnswer": false
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "16",
-                    "isAnswer":false
+                    "name": "1234 sq.m",
+                    "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "15",
-                    "isAnswer": false
+                    "name": "4312 sq.m",
+                    "isAnswer": true
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "13",
-                    "isAnswer": true
+                    "name": "2143 sq.m   ",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -339,33 +339,33 @@
 		},
 		{
 			"id": 1019,
-            "name": "A number is doubled and 9 is added. If the resultant is trebled, it becomes 75. What is that number ?  ",
-			"explanation": "Let the number be v. Then, 3 (2x + 9) = 75.<br>2x + 9 = 25<br>  2x = 16 <br> x = 8",
+            "name": "A single pipe of diameter x has to be replaced by six pipes of diameters 12 cm each. The pipes are used to covey some liquid in a laboratory.<br> If the speed/flow of the liquid is maintained the same then the value of x is ?",
+			"explanation": "Volume of water flowing through 1 pipe of diameter x = Volume discharged by 6 pipes of diameter 12 cms.<br>As speed is same, area of cross sections should be same.<br>Area of bigger pipe of diameter x = Total area of 6 smaller pipes of diameter 12 <br>i.e πR^2 = 6πR1^2<br>Here R = R and R1 = 12/2 = 6<br>⇒R^2 = 6×6×6<br>R = 14.696<br>=> D = X = 14.696 * 2 = 29.3938 cm.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1091,
                     "questionId": 1010,
-                    "name": "2",
+                    "name": "14.69 cm",
                     "isAnswer": false
                 },
                 {
                     "id": 1092,
                     "questionId": 1010,
-                    "name": "5",
-                    "isAnswer":false
+                    "name": "29.39 cm",
+                    "isAnswer": true
                 },
                 {
                     "id": 1093,
                     "questionId": 1010,
-                    "name": "7",
-                    "isAnswer":false
+                    "name": "18.65 cm",
+                    "isAnswer": false
                 },
                 {
                     "id": 1094,
                     "questionId": 1010,
-                    "name": "8",
-                    "isAnswer": true
+                    "name": "22.21 cm",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
