@@ -19,7 +19,7 @@
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": " hours",
+                    "name": " 6 hours",
                     "isAnswer":false
                 },
                 {
@@ -191,33 +191,33 @@
 		},
 		{
 			"id": 1015,
-            "name": "A cistern has one inlet, L and one inlet, M. L takes 5 hours to fill the empty tank, when M is not open and M takes 8 hours to empty the full tank, if the tank is two fifth full, how much time will it take to fill the tank completely when both L and M are opened simultaneously? (in hours)",
-			"explanation": "If the tank is 2/5th full, then remaining empty tank will be = 1-2/5=3/5th<br>L and M can fill the empty tank in = (5*8)/(8-5)=40/3 hours<br>Then 3/5 th tank fill in =40/3 * 3/5= 8 hours",
+            "name": "A bath can be filled by the cold water pipe in 20 minutes and by the hot water pipe in 30 minutes. A person leaves the bathroom after turning on both pipes simultaneously and returns at the moment when the bath should be full. Finding, however, that the waste pipe has been open, he now closes it.In 6 minutes more the bath is full.<br> In what time would the waste pipe empty it?",
+			"explanation": "Per minute fill by both pipes = 1/20 + 1/30 = 1/12.<br> in last 6 minutes, part of tank filled = 1/12 X 6 = 1/2 <br> Filled in first 12 minutes = 1- 12/x = 1/2 <br>x = 24 ",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "5 hours",
+                    "name": "16 min",
                     "isAnswer": false
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "6 hours",
+                    "name": "29 min",
                     "isAnswer":false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "3 hours",
-                    "isAnswer":false
+                    "name": "24 min",
+                    "isAnswer": true
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "8 hours",
-                    "isAnswer": true
+                    "name": "27 min",
+                    "isAnswer": false
                 }
             ],
             "questionType": {
@@ -228,32 +228,32 @@
 		},
 		{
 			"id": 1016,
-            "name": "18 buckets of water fill a tank when the capacity of each bucket is 8 litres. How many buckets will be needed to fill the same tank, if the capacity of the bucket is 12 litres?",
-			"explanation": "Capacity of tank = (8 X 18) = 144 litres<br>If the capacity of each bucket = 12 litres<br>Then, Nunber of buckets needed = 144 / 12 = 12 buckets",
+            "name": "A water tank is two-fifth full.Pipe A can fill a tank in 10 minutes and pipe B can empty it in 6 minutes.If both the pipes are open,<br>how long will it take to empty or fill the tank completely?",
+			"explanation": "Clearly,pipe B is faster than pipe A and so,the tank will be emptied.<br>part to be emptied = 2/5<br>part emptied by (A+B) in 1 minute=(1/6−1/10)=1/15<br>1/15:2/5::1:x<br>2/5*15=6mins<br>so, the tank will be emptied in 6 min",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1079,
                     "questionId": 1010,
-                    "name": "12",
+                    "name": "6 min.to empty",
                     "isAnswer": true
                 },
                 {
                     "id": 1080,
                     "questionId": 1010,
-                    "name": "13.5",
+                    "name": "9 min.to empty",
                     "isAnswer": false
                 },
                 {
                     "id": 1081,
                     "questionId": 1010,
-                    "name": "24",
+                    "name": "6 min.to fill",
                     "isAnswer": false
                 },
                 {
                     "id": 1082,
                     "questionId": 1010,
-                    "name": "Data insufficient",
+                    "name": "9 min.to fill",
                     "isAnswer":false
                 }
             ],

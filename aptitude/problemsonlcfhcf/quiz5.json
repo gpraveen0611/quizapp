@@ -191,32 +191,32 @@
 		},
 		{
 			"id": 1015,
-            "name": "A, B and C start at the same time in the same direction to run around a circular stadium. A completes a round in 252 seconds, B in 308 seconds and c in 198 seconds, all starting at the same point.<br> After what time will they again at the starting point?",
-			"explanation": "L.C.M. of 252, 308 and 198 = 2772.<br>So, A, B and C will again meet at the starting point in 2772 sec. i.e., 46 min. 12 sec.",
+            "name": "The traffic lights at three different road crossing change after every 48 sec; 72 sec; and 108 sec., respectively.  If they all change simultaneously at 8:20:00 hrs,<br> then they will again change simultaneously at",
+			"explanation": "The change of interval=(LCM of 48,72,108)sec.=432.<br> So, for every 432 seconds i.e.7 min. 12 sec. the lights will change.<br>So add 7 min.12 sec.to 8:20:00 Hrs.i.e.8:27:12 Hrs.",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1075,
                     "questionId": 1010,
-                    "name": "26 minutes and 18 seconds",
-                    "isAnswer": false
+                    "name": "8:27:12 Hrs",
+                    "isAnswer": true
                 },
                 {
                     "id": 1076,
                     "questionId": 1010,
-                    "name": "46 minutes and 12 seconds",
-                    "isAnswer": true
+                    "name": "8:27:24 Hrs ",
+                    "isAnswer": false
                 },
                 {
                     "id": 1077,
                     "questionId": 1010,
-                    "name": "42 minutes and 36 seconds",
-                    "isAnswer":false
+                    "name": "8:27:36 Hrs",
+                    "isAnswer": false
                 },
                 {
                     "id": 1078,
                     "questionId": 1010,
-                    "name": "45 minutes",
+                    "name": "8:27:48 Hrs",
                     "isAnswer": false
                 }
             ],
@@ -302,32 +302,32 @@
 		},
 		{
 			"id": 1018,
-            "name": "Three numbers which are co-prime to each other are such that the product of the first two is 551 and that of the last two is 1073.<br> The sum of the three numbers is:",
-			"explanation": "Since the numbers are co-prime, they contain only 1 as the common factor.<br>Also, the given two products have the middle number in common.<br>So, middle number = H.C.F. of 551 and 1073 = 29; First number = (551/29 ) = 19 ;<br>Third number = (1073 / 29) = 37<br>Therefore, Required sum = (19 + 29 + 37) = 85.",
+            "name": "Three piece of timber 42 m, 49 m and 63 m long have to be divided into planks of the same length.<br> What is the greatest possible length of each plank?",
+			"explanation": "The maximum possible length = (HCF of 42, 49, 63) = 7",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1087,
                     "questionId": 1010,
-                    "name": "75",
-                    "isAnswer": false
+                    "name": "7 m",
+                    "isAnswer": true
                 },
                 {
                     "id": 1088,
                     "questionId": 1010,
-                    "name": "81",
+                    "name": "14 m",
                     "isAnswer": false
                 },
                 {
                     "id": 1089,
                     "questionId": 1010,
-                    "name": "85",
-                    "isAnswer": true
+                    "name": "42 m",
+                    "isAnswer": false
                 },
                 {
                     "id": 1090,
                     "questionId": 1010,
-                    "name": "89",
+                    "name": "60 m",
                     "isAnswer": false
                 }
             ],

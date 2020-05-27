@@ -265,32 +265,32 @@
 		},
 		{
 			"id": 1017,
-            "name": "Two numbers are in the ratio 11:12, if 14 is added to each they are in the ratio 69:74. <br>Find the two numbers. ",
-			"explanation": "Numbers are in the ratio 11 : 12<br>Two numbers are 11k and 12k<br>Adding 14 to both the numbers, 11k+14 and 12k+14<br>Given that 11k+14 : 12k+14 = 69 : 74<br>=> 74(11k+14) = 69(12k+14)<br>=> (814-828)k = 14 x (-5)<br>=> k = 5<br>First Number, 11 x k = 55 Second Number 12 x k = 60<br>Numbers are 55 and 60",
+            "name": "The ratio of boys and girls in a school is 9:5.If the total number of students in the school is 1050.Then number of boys is",
+			"explanation": "Let the ratio be 'R'<br>Total number of students = 1050<br>Then,<br>9R + 5R = 1050<br>14R = 1050<br>=> R = 75<br>Hence, the number of boys = 9R = 9 x 75 = 675",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1083,
                     "questionId": 1010,
-                    "name": "63 and 74",
+                    "name": "655",
                     "isAnswer":false
                 },
                 {
                     "id": 1084,
                     "questionId": 1010,
-                    "name": " 55 and 80",
+                    "name": " 665",
                     "isAnswer":false
                 },
                 {
                     "id": 1085,
                     "questionId": 1010,
-                    "name": "55 and 60",
+                    "name": "675",
                     "isAnswer": true
                 },
                 {
                     "id": 1086,
                     "questionId": 1010,
-                    "name": "88 and 97",
+                    "name": "685",
                     "isAnswer": false
                 }
             ],
