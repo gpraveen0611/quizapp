@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Profit and Loss Test 6",
+    "description": "Practice Profit and Loss Online Test 6",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A shopkeeper by selling 21 items earns a profit equal to the selling price of 1 item. What is his profit percentage?",
+			"explanation": "Let say cp of 1 = c<br>Selling price of 1 = s<br>Selling price of 21 = 21s<br>Cost price of 21 = 21c<br>Profit = 21s - 21c<br>Profit = s given<br>21s - 21c = s<br>20s = 21c<br>s = 21c/20<br>Profit % = {(s-c)/c }* 100<br>= {(21c/20 - c)/c}×100<br>= 5 %",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "5%",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "5.5%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "4.5%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "4%",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "A book seller allowed 10% discount on printed price. He gets 30% commission from publisher. His profit in percent will be?",
+			"explanation": "Let the marked price be of book be Rs. 100<br>Cost price of the retailer = Rs. (100 - 30) = Rs. 70<br>Selling price for the retailer = Rs. 90<br>∴ Profit percent<br>=((90−70) / 70)×100=(20/70)×100=200/7=28 4/7%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "22",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "25",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "28 4/7",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "26 3/7",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A shopkeeper by selling 8 iphones, earns a profit equal to the selling price of 3 iphones. His profit percentage is",
+			"explanation": "Profit = (8-3) = 5 <br> Profit percentage = 3 X 100 /5 = 60%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "60 percent",
+                    "isAnswer": true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "55 percent",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "75 percent",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "15 percent",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "A Shopkeeper by selling 23 Lotto shoes, earns a profit equal to the selling price of 7 Lotto shoes. his profit percentage is ? ",
+			"explanation": "Shopkeepers Profit = (23-7) = 16<br> profit percentage = (7 X 100) / 16 = 43.75 %",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "43.75 %",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "45 %",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "60.8 %",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "The ratio of cost price and selling price 25:26. The percent of profit will be",
+			"explanation": "According to question,<br>CP/SP = 25/226<br>Profit = SP - CP = 26 - 25 = 1<br>Profit % =1/25 × 100 = 4%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "26%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "25%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "1%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "4%",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Profit of Rs 936000 has to be divided among three partners Anirudhha, Balwant and Charudatta in the ratio 2:3:5. How much does Charudatta get?",
+			"explanation": "Let the share of Anirudha, Balwant, and Charudatta is 2x, 3x, and 5x respectively.<br>2x + 3x + 5x=936000;<br>10x= 936000; => x= 93600.<br>Hence, the amount received by charudatta = 5*93600 = Rs. 468000.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "280800",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "187200",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "468000",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "2340000",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A shopkeeper, sold cocoa seeds at the rate Rs 1,230 a kg and bears a loss of 5%. Now if he decides to sell it at Rs 1,353 per kg, what will be the result?",
+			"explanation": "CP of Cocoa seeds = 100/95 X 1230 = 24600/19. <br> if SP is Rs.1353, profit% = (1353 - (24600/19)) / (24600/19) X 100 <br>= (25707 - 24600)/246 = 1107/246 =4.5%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "4.5 percent gain",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "9 percent gain",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "4.5 percent loss",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "9 percent loss",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "When a discount of 25% is given on a box of popcorn, the profit is 25%. If the discount is 10%, then the profit is",
+			"explanation": "Consider Rs 100 as marked price.<br>Selling price SP with 25% discount is 100-25=75Rs<br>SP with 10% discount is Rs90<br>II Finding Cost price CP<br>If 100Rs is CP and profit is 25% the SP=125Rs<br>for 25% profit: if sp is 125Rs CPis 100Rs<br>Sp is 75Rs CP is = (100x75)/125<br>=Rs60<br>Now the Profit with 10% discount=SP-CP<br>=90-60=30Rs<br>% Profit= (Profit/CP)100<br>=(30/60)100= 50%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "35 percent",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "25 percent",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "50 percent",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "65 percent",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A trader sold an article at a loss of 5% but when he increased the selling price by Rs.65 he gained 3.33% on the cost price. If he sells the same article at Rs. 936, <br>what is the profit percentage?",
+			"explanation": "103.33 CP- 0.95 CP = 65<br>CP = Rs. 780 <br>profit (%) = (936 - 780)/780  x 100 = 20%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "15%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "16.66%",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "20%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "data insufficient",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "A retailer buys a radio for Rs 225. His overhead expenses are Rs 15. He sellis the radio for Rs 300. The profit percent of the retailer is",
+			"explanation": "cost price = (225 + 15) = 240 sell price = 300<br>gain = (60/240)*100 = 25%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "10%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "50%",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "25%",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "52%",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

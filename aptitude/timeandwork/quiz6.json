@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Time and Work Test 1",
+    "description": "Practice Time and Work Online Test 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A does 20% less work than B. if A can complete a piece of work in 7 ½ hours, then B can do it in ",
+			"explanation": "B Can finish the work in 80% of 7 ½ hours of time 7 ½ = 15/2 <br>Therefore, time taken by B = .8 × 15/2 = 30/5 = 6 hours.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "5 hours",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "5 1/2 hours",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": " 6 1/2 hours",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "6 hours",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "A Machine P can print one lakh books in 8 hours, machine Q can print the same number of books in 10 hours while machine R can print them in 12 hours. All the machines are started at 9 a.m. while machine P is closed at 11 a.m. and the remaining two machines complete the work. Approximately at what time will the work be finished?",
+			"explanation": "The three machines 1 hour’s work = 1/8 + 1/10 + 1/12 = 37/120<br>Their, work from 9 a.m. to 11 a.m. = 2 hour’s work = 37/120 × 2= 27/60 <br>The remaining work = 23/60 <br>Machines Q and R’s 1 hours work = 1/10 + 1/12 = 11/60 <br>Therefore, the time taken by Q and R to finish the remaining 23/60 work = 23/60/11/60 <br>= 23/60 × 60/11 = 23/11 = 2 hours approx.<br>Therefore, the approximate time at which the work is finished = 11 + 2 = 1 p.m.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "1:30 p.m.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "3 p.m.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "1 p.m.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "2 p.m. ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": " 5 men can do a piece of work in 6 days while 10 women can do it in 5 days. In how many days can 5 women and 3 men do it?",
+			"explanation": "5men × 6 = 10 women × 5 <br>30 men = 50 women <br>1 woman = 30/50 men = 3/5 men <br>5 women = 3/5 × 5 men = 3 men <br>5 women + 3 men = 3 + 3 = 6 men <br>That is, 1 work done = 5 × 6 <br>5 × 6 = 6 × ?days <br>? days = 5 × 6/6 = 5 days.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "4",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": " 5",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "8",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Raju can complete a work in 30 days. Ajay completes the same work in 20 days. They both started the work Raju left the work after some days. Ajay completed the remaining work in 15 days.<br> Then after how many days Raju left the work?",
+			"explanation": "(x/30) + (x/20) + (15/20) = 1<br>(2x + 3x)/60 = 1 - (15/20)<br>5x/60 = (20 - 15)/20<br>5x/60 = 5/20 <br>x/3  = 1<br>x = 3 days<br>After 3 days",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "4 days",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "5 days",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "3 days",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "6 days",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Sakshi can do a piece of work in 20 days. Tanya is 25% more efficient than Sakshi. The number of days taken by Tanya to do the same piece of work is:",
+			"explanation": "The ratio of their efficiency, i.e. Sakshi : Tannya = 100 : 125 = 4 : 5 <br>Therefore, ratio of time taken by them = 5 : 4 <br>That is, No. of days taken by Sakshi is 5 units of ratio = 20 days <br>So, 1 unit of ratio = 20/5 = 4 days <br>Therefore, No. of days taken by Tannya = 4 × 4 = 16 days.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "15",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "16",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "17",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "14",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "10 men can complete a piece of work in 15 days and 15 women can complete the same work in 12 days. If all the 10 men and 15 women work together, <br>in how many days will work get completed? ",
+			"explanation": "If A can complete a work in x days and B can complete the same work in y days,<br>then, both of them together can complete the work in x y/ x+ y days. <br>Here, men’s working days can be taken as A and that of women as B <br>Then, 15 × 12/27 = 6 2/3 days.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "7 2/3",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "6 2/3 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "6 1/3",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A can do a work in 4 days, B can do it in 5 days and C can do it in 10 days. A, B and C together can do the work in ",
+			"explanation": "When A, B and C can do a work in x, y and z days respectively. Then, the three of them <br>together can finish the work in xyz/ x y + y z + x z days <br>That is, A, B and C together ca do the work in 4 × 5 × 10/ 20 + 50 + 40 <br> = 4 × 5 × 10/110 = 20/11 = 1 9/11 days.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "1 3/5 days",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "1 9/11 days",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "2 5/6 days",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "3 days",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "If 8 men can dig a well in 18 days, then the number of days, 12 men will take to dig the same well will be",
+			"explanation": "Work done = 8 × 18 <br>Then, 8 × 18 = 12 × ? days <br>? days = 8 × 18/12 = 12 days",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "12 days",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "10 days",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "8 days",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "16 days",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A certain number of men complete a piece of work in 50 days. If there were 8 men more the work could be finished in 10 days less.<br> How many men were originally there? ",
+			"explanation": "Let the original No. of men = x <br>Then, I work done = 50x <br>Then, 50x = (x + 8) 40 50x = 40x + 320 <br>10 x = 320 <br>x = 320/10 = 32 men.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "40",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "32",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "50",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "25",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "A works twice as fast as B. if B can complete a work in 12 days independently,<br> the number of days in which A and B can together finish the work is:",
+			"explanation": "That is, if b alone can finish the work in 12 days,<br>A alone can finish the work in 6 days.<br>If A can complete a work in x days and B can complete the same work in y days, then, both of them together can complete the work in x y/ x+ y days. <br>A and B can together finish the work in 6 × 12/18 days = 4 days.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "4 days",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "6 days",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "8 days",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "18 days",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

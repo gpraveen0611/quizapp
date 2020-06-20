@@ -1,0 +1,377 @@
+{
+    "id": 1,
+    "name": "Probability Test 6",
+    "description": "Practice Probability Online Test 6",
+    "questions": [
+        {
+            "id": 1010,
+            "name": " Six friends decide to share a big cake. Since all of them like the cake, they begin quarrelling who gets to first cut and have a piece of the cake. One friend suggests that they have a blindfold friend choose from well shuffled set of cards numbered one to six. You check and find that this method works as it should simulate a fair throw of a die. You check by performing multiple simultaneous trials of picking the cards blindfold and throwing a die. You note that the number shown by the method of picking up a card and throwing a real world die, sums to a number between 2 and 12.<br>Which total would be likely to appear more often – 8, 9 or 10?",
+			"explanation": "Given that there are two cases<br>One is choosing a card from well shuffled cards and other one is throwing a die<br>In first case there are 6 possible ways (1, 2, 3, 4, 5, 6)<br>In second case also there are 6 possible ways (1, 2, 3, 4, 5, 6)<br>When we use both cases simultaneously there are 36 possible cases<br>Possibility of getting sum 8 = (2,6), (6,2), (3,5), (5,3), (4,4) = 5<br>Possibility of getting sum 9 = (3,6), (6,3), (4,5), (5,4) = 4<br>Possibility of getting sum 10 = (4,6), (6,4), (5,5) = 3<br>When we use two methods simultaneously more often occurring sum = 8",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "8",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "All are equally likely",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "9",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "There are two boxes, one containing 10 red balls and the other containing 10 green balls. You are allowed to move the balls between the boxes so that when you choose a box at random and a ball at random from the chosen box, the probability of getting a red ball is maximized. This maximum probability is:",
+			"explanation": "Probability of getting a red ball can be maximised by taking only one red ball in one box and transferring all other red balls into other boxes.<br>Now probability of choosing each box is (1/2).<br>Probability of choosing red box = (1/2) × 1 + (1/2) × (9/19)<br>= (1/2) × (28/19) = 14/19",            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "1/2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "14/19",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "37/38",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "3/4",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "What is the probability of getting 3 or 4 in 3 consecutive rolls of a dice?",
+			"explanation": "We have total possible outcomes on rolling a dice = 6<br>Total favourable outcomes = 2<br>Probability of getting 3 or 4 in first throw of dice = 2/6 = 1/3<br>Probability of getting 3 or 4 in first throw of dice = 2/6 = 1/3<br>Probability of getting 3 or 4 in first throw of dice = 2/6 = 1/3<br>Hence P(getting 3 or 4 in 3 consecutive rolls of a dice) = 1/3 × 1/3 × 1/3 = 1/27",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "1/6",
+                    "isAnswer": false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "1/27",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "1/16",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "¼",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "In a class of 60 boys, 45 like pizza, 30 like burger and 5 like neither. Find number of boys who like both?",
+			"explanation": "number of boys who like at least 1 thing = 60 – 5 = 55<br>Now, let number of students who like pizza = P(a) and number of students who like burger = P(b) and number of those who like both = P(a ∩ b) =?<br>Hence we have<br>⇒ 55 = P(a) + P(b) - P(a ∩ b)<br>⇒ 55 = 45 + 30 - P(a ∩ b)<br>⇒ P(a ∩ b) = 75 – 55 = 20",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "25",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "20",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "30",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "15",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "In a simultaneous throw of pair of dice. Find the probability of getting the total more than 7.",
+			"explanation": "Here total number of possible outcomes, n(S) = (6 × 6) = 36<br>Let (n) is event of getting a total more than 7<br>Possible pairs of numbers with sum > 7 = {(2, 6), (3, 5), (3, 6), (4, 4), (4, 5),(4, 6), (5, 3), (5, 4), (5, 5), (5, 6), (6, 2), (6, 3), (6, 4), (6, 5), (6, 6)}<br>Therefore, total number of favorable outcomes = 15<br>P(E) = n (E)/n(S)<br>P(E) = 15/36<br>P(E) = 5/12.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "5/12",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "7/12",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "1/3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "1/4",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Find the probability of throwing a total of 8 in a single throw with two dice.",
+			"explanation": "Two Dice are thrown, the total possible outcomes = 36.<br>Favorable outcomes = 5 i.e. (2, 6), (6, 2), (3, 5), (5, 3), (4, 4).<br>Therefore, Probability = 5 / 36",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "1/36",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "5/36",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "25/36",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "12/36",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "If a dice is thrown twice, what is the probability of not getting a one on either throw?",
+			"explanation": "Out of total 36 possible outcomes, getting 1 on either draw can happen in = 11 ways<br>Reqd. Probability = 1 – (Probability of Getting one on either draw) = 1 - 11 / 36 = 25 / 36",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "1/12",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "1/18",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "25/36",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "12/36",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "A card is drawn from a pack of 52 cards. What is the probability that the card is a Queen?",
+			"explanation": "Total possible outcomes = 52.<br>Favorable outcomes = 4.<br>Probability = 4 / 52 = 1 / 13",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "1/52",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "1/4",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "1/16",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "What is the probability that a number selected from numbers 1,2,3,...,30, is prime number, when each of the given numbers is equally likely to be selected ?",
+			"explanation": "X= {2,3,5,7,11,13,17,19,23,29}<br>n(X)= 10, n(S)=30<br>Hence required probability = n(X)/n(S)= 10/30",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "9/30",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "8/30",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "10/30",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "11/30",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "If a number is chosen at random from 1 to 100, then the probability that the chosen number is a perfect cube is",
+			"explanation": "no explanation",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "4/13",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "1/25",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "1/2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "1/10",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

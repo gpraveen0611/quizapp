@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Percentages Test 6",
+    "description": "Practice Percentages Online Test 6",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "An inspector rejects 0.08% of the meters as defective. How many will be examine to project?",
+			"explanation": "Let the number of meters to be examined be x.<br>Then, 0.08% of x =2<br>[(8/100)*(1/100)*x] = 2<br>x = [(2*100*100)/8] = 2500",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "2500",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "2789",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "3456",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "1234",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Sixty five percent of a number is 21 less than four fifth of that number. What is the number?",
+			"explanation": "Let the number be x.<br>Then, 4*x/5 –(65% of x) = 21<br>4x/5 –65x/100 = 21<br>5 x = 2100<br>x = 140.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "123",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "140",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "156",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "234",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Difference of two numbers is 1660. If 7.5% of the number is 12.5% of the other number , find the number?",
+			"explanation": "Let the numbers be x and y. Then , 7.5 % of x =12.5% of y<br>X = 125*y/75 = 5*y/3.<br>Now, x-y =1660<br>5*y/3 –y =1660<br>2*y/3= 1660<br>y =[ (1660*3)/2] =2490.<br>One number = 2490, Second number =5*y/3 =4150.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "3456",
+                    "isAnswer": false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "4156",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "4150",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "5678",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "In expressing a length 810472 km as nearly as possible with three significant digits , find the percentage error.",
+			"explanation": "Error = (81.5 – 81.472)km = 0.028.<br>Required percentage = [(0.028/81.472)*100]% = 0.034%.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "34%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "0.34%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "0.034%",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "32%",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are",
+			"explanation": "Let their marks be (x+9) and x.<br>Then, x+9 = 56/100(x + 9 +x)<br>=> 25(x+9)<br>=> 14 (2x + 9)<br>=> 3x = 99<br>=> x = 33.<br>So, their marks are 42 and 33",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "42,30",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "42,31",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "42,32",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "42,33",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "In a recent survey 40% houses contained 2 or more people. Of those houses containing only one person, 25% were having only a male. What is the percentage of all the houses which contain exactly one females and no males?",
+			"explanation": "As per question, 40% houses contain two or more people.<br>i.e. 60% houses have only one person. O these houses 25% have male.<br>? 75% of 60% of the total houses have only one female and no males.<br> = .75 * 60% = 45%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "75",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "40",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "15",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "45",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A student who secures 30% marks in an exam fails by 30 marks .Another student who secures 35% marks gets 42 marks more than required to pass .the percentage of marks required is",
+			"explanation": "30% of x + 30= 35% of x -42<br>Or 5% of x =72<br>=>x=1440<br>Pass marks =30% of 1440 +30=432+30=462<br>Pass percentage = 462/1440*100=32.08%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "32.08%",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "22.05%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "29.33%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "35%",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "A bucket is filled with water such that the weight of bucket alone is 25% its weight when it is filled with water. Now some of the water is removed from the bucket and now the weight of bucket along with remaining water is 50% of the original total weight. What part of the water was removed from the bucket?",
+			"explanation": "Let original weight of bucket when it is filled with water = x<br>Then weight of bucket = (25/100) * x = x/4<br>Original weight of water = x – (x/4) = 3x/4<br>Now when some water removed, new weight of bucket with remaining water = (50/100) * x = x/2<br>So new weight of water = new weight of bucket with remaining water – weight of bucket = [(x/2) – (x/4)] = x/4<br>So part of water removed = [(3x/4) – (x/4)]/(3x/4)",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "2/5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "1/4",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "2/3",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "1/2",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Weight of A and B are in the ratio of 3:5. If the weight of A is increased by 20 percent and then the total weight becomes 132 kg with an increase of 10 percent. B weight is increased by what percent.",
+			"explanation": "Weight of A and B are 3x and 5x.<br>Initial weight before increase = (132*100)/110 = 120<br>8x = 120. X = 15<br>Initial weight of A and B are 45 and 75 kg respectively.<br>New weight of A = 54 so weight of B = 132 – 54 = 78.<br>So % increase = [(78-75)/75]*100 = 4 %",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "2%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "3%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "4%",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "5%",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "1000 sweets need to be distributed equally among the school students in such a way that each student gets sweet equal to 10% of total students. Then the number of sweets, each student gets.",
+			"explanation": "No of students = T. Each student gets 10% of T. So, T students get T^2/10 sweets.<br>T^2/10 = 1000. We get T =10",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "12",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "14",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "16",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

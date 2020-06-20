@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Pipes and Cisterns Test 6",
+    "description": "Practice Pipes and Cisterns Online Test 6",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Tap X can fill a cistern in 10 minutes and tap Y can fill in 12 minutes. There is a leakage in the bottom of the cistern that empties the tank in 24 minutes. If both taps X and Y are opened together, <br>then how long will it take to fill the cistern?",
+			"explanation": "Time taken by X to fill the tank = 10 minutes.<br>Part filled by X in 1 minute = 1/10<br>Time taken by Y to fill the tank = 12 minutes.<br>Part filled by Y in 1 minute = 1/12<br>Time taken by the leakage to empty the tank = 24 minutes.<br>Part emptied by the leakage in 1 minute = 1/24<br>Therefore, net part filled by (X + Y + leakage) in 1 minute = 1/10 + 1/12 – 1/24 = (24+20-10)/240 = 34/240 = 17/120.<br>Time           Part of tank filled<br>1 minute       17/120<br> ?              1 (here 1 denotes completely filled tank)<br>Time taken to fill the tank = 120/17 x 1 = 7 1/17 minutes.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "5 5/17 minutes ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "9 12/17 minutes",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "2 16/17 minutes",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "7 1/17 minutes",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Half of the water tank is filled manually. Tap A can fill the tank in 20 minutes and B can empty the tank in 12 minutes. If A and B are opened together,<br> then the time taken to empty or fill the tank is:",
+			"explanation": "Given that, A takes 20 minutes to fill and B takes 12 minutes to empty.<br>Clearly, tap B is faster than tap A. And so, the tank will be emptied.<br>Half of the tank or 1/2 part of the tank is already filled.<br>Therefore, we have to find the time taken to empty that 1/2 part.<br>Part filled by A in 1 minute = 1/20<br>Part emptied by B in 1 minute = 1/12.<br>Part emptied by (A+B) in 1 minute = 1/12 – 1/20 = (5-3)/60 = 2/30.<br>Therefore, time taken by (A+B) to empty the full tank is 15 minutes.<br>Time taken to empty 1/2 part of the tank is 30/2 = 15/2 minutes.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "30 minutes",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "15/2 minutes",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "60 minutes ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "45/2 minutes",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Three taps A,B and C are used to fill a cistern. Tap A alone can fill the cistern in 9 minutes. Tap B can fill in 6 minutes and Tap C can fill in 3 minutes.<br> How many minutes will it take to fill this cistern if all the three taps are used simultaneously?",
+			"explanation": "Let the time taken to fill the cistern by 3 taps A, B and C be X, Y, and Z minutes respectively.<br>Then the short cut formula for,<br>Time taken to fill the tank when all the pipes are opened = XYZ/(XY + YZ + ZX) minutes<br>Here, X = 9 minutes, Y = 6 minutes and Z = 3 minutes.<br>Now the required time = (9)(6)(3)/(9x6)+(6x3)+(3x9) minutes<br>= 9x6x3 / 54 + 18 + 27<br>= 9x6x3 / 9{6+2+3} = 6x3/6+2+3 = 18/11 = 1 + 7/11 minutes<br>Hence the answer is 1 7/11 minutes.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "2 3/7 ",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "1 7/11",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "3 2/11",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "5 6/7",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "A Pipe P can fill a tank in 16 minutes and the other pipe Q can empty the whole tank in 32 minutes. <br>If both P and Q are opened simultaneouly then the time taken to fill the tank is:",
+			"explanation": "Let X hours be the time taken to fill a tank by P.<br>Let Y hours be the time taken to empty the tank by Q.<br>Then the time taken to fill the tank when P and Q are switched together : XY / Y-X hours.<br>Here, X = 16 minutes And Y = 32 minutes<br>Therefore required time = 16 x 32/(32 - 16) = 32 x 16 / 16 = 32 minutes.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "32 minutes",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "42 minutes",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "52 minutes",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "40 minutes",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Two taps can fill a cistern in 30 and 40 minutes respectively. If both the taps are opened simultaneously then the approximate time taken to fill the cistern is:",
+			"explanation": "Remember the shortcut method:<br>'Two pipes A and B can fill (or empty) a tank in X and Y minutes respectively, while working alone. If both the pipes are opened together, then the time taken to fill (or empty) the cistern is given by XY/(X+Y) minutes.'<br>Here, X = 30 minutes and Y = 40 minutes<br>Therefore, the required time = 30 x 40 /(30 + 40) = 1200/70 = 120/7 = 17 1/7 minutes.<br>Hence the answer is 17 minutes (approximately)",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "17 minutes",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "12 minutes",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "19 minutes",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "21 minutes",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "A cistern can be filled by a tap in 4 hours while it can be emptied by another tap in 9 hours. If both the taps are opened simultaneously,<br> then after how much time cistern will get filled ?",
+			"explanation": "When we have question like one is filling the tank and other is empting it, then we subtraction as,<br>Filled in 1 hour = 1/4<br>Empties in 1 hour = 1/9<br>Net filled in 1 hour = 1/4 - 1/9<br>= 5/36<br>So cistern will be filled in 36/5 hours i.e. 7.2 hours",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "7 hours",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "7.1 hours",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "7.2 hours",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "7.3 hours",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Two pipes A and B Can fill a tank in 12 hours and 1 day respectively. A pipe C can empty the tank in 10 hours. If Pipe C is opened after 3 hours from the pipe A & B are opened,<br> then find the time taken to full the tank.",
+			"explanation": "The part of the tank filled in 1 hour = 1/12 + 1/24<br>Then, the part filled in 3 hours = 3[1/12 + 1/24] = 3/8<br>Remaining part to be filled = 1 - 3/8 = 5/8<br> Net part filled in 1 hour when A, B & C are opened = 1/12 + 1/24 - 1/10 = 1/40<br>Now, 1/40 part is filled in 1 hour then 5/8 part will be filled in [40 x 5/8] = 25 hours<br>Therefore, 3/8 part will be filled in 3 hours and 5/8 part filled in 25 hours.<br>Hence the total time taken to full the tank is 28 hours.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "24 hours",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "28 hours",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "45 hours",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Two taps P and Q fill a cistern in 2 days and 3 days respectively and another tap R empties the full cistern in 4 days.<br> If all the taps P,Q and R switched simultaneously then the time taken to fill the cistern is:",
+			"explanation": "The tap P can fill a cistern in 1 hour = 1/48 part <br> The tap Q can fill a cistern in 1 hour = 1/72 part <br> The tap R can empty a cistern in 1 hour = 1/96 part<br>Then the net part filled in 1 hour = 1/48 + 1/72 - 1/96 <br> = 7/288 <br> Tank Filled Time Taken<br> 7/288        1 <br>   1      ? <br> The cistern will be filled in = 288/7 <br> 288 / 7 can be expressed as = (24 x 7 + 120) / 7 hours = 24 120/7 hours.<br>i.e., 1 day and 120 / 7 hours",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "1day + 120/7 hours",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "2days + 12/7hours ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "3days + 24/7hours ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A tank is filled by three pipes with uniform flow. The first two pipes operating simultaneously fill the tank in the same time during which the tank is filled by the third pipe alone. The second pipe fills the tank 5 hours faster than the first pipe and 4 hours slower than the third pipe. <br>Find the time required by the first pipe to fill the tank ?",
+			"explanation": "Suppose, first pipe alone takes x hours to fill the tank .<br>Then, second and third pipes will take (x -5) and (x - 9) hours respectively to fill the tank.<br>As per question, we get<br>1/x + 1/(x−5) = 1/ (x−9) => x−5+x/x(x−5) = 1/ x−9 <br>=>(2x−5)(x−9)=x(x−5)<br>=>x^2−18x+45=0<br>After solving this euation, we get<br>(x-15)(x+3) = 0,<br>As value can not be negative, so x = 15",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "10 hours",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "15 hours",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "17 hours",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "18 hours",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "A cistern can be filled in 9 hours but due to a leak at its bottom it takes 10 hours. If the cistern is full, <br>then the time that the leak will take to make it empty will be ?",
+			"explanation": "Part filled without leak in 1 hour = 1/9<br>Part filled with leak in 1 hour = 1/10<br>Work done by leak in 1 hour<br> = 1/9 - 1/90 <br>We used subtraction as it is getting empty.<br>So total time to empty the cistern is 90 hours",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "60 hours",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "70 hours",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "90 hours",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

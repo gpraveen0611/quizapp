@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Simple Interest Test 6",
+    "description": "Practice Simple Interest Online Test 6",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "In what time will Rs. 1860 amount to Rs. 2641.20 at simple interest 12% per annum?",
+			"explanation": "Given that Rs. 1860 will become Rs. 2641.20 at 12%<br>=> Simple Interest = 2641.20 - 1860 = Rs. 781.20<br>We know I = PTR/100<br>=> 781.20 x 100 = 1860 x T x 12<br>=> T = 78120/1860x12<br>=> T = 78120/22320<br> => T = 3.5 years.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "3.5 years.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "2.9 years.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "3.9 years.",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "4.5 years.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "The total simple interest earned on a sum of money increases by Rs. 600 when the rate of interest increases by 2% per annum. If the investment was made for 5 years,<br> find the sum of money that was invested ?",
+			"explanation": "Let the sum invested be Rs. P<br>Let the rate of interest be R% per annum<br>=> Interest earned for 5 years = (P x 5 x R/100) = PR/20<br>Now, given that the interest earned increased by Rs. 600 if the Rate increased to (R+2)%<br>=> SI = (P x 5 x (R+2))/100 = PR/20 + 10P/100<br<Hence,<br<PR/20 + 10P/100 = PR/20 + 600<br>=> P = 6000<br>Therefore, the sum invested is Rs. 6000",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Rs. 7500",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Rs. 5550",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Rs. 6000",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Rs. 6580",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "If J is the interest on K and K is the interest on L, the rate and time is the same on both the cases. What is the relation between J, K and L  ?",
+			"explanation": "Let the Time be 'N' and Rate be 'R' <br>J = (K x NR)/100 K = (L x NR)/100 <br>J/K = NR/100 K/L = NR/100 <br>J/K = K/L <br>K x K = JL",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "J x J = KL",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "K x K= JL ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "L x L = JK",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "JKL = 1",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "A man lent a sum of money at the rate of simple interest of 4%. If the interest for 8 years is Rs 340 less than the principal, the principal is",
+			"explanation": "Rate = 4%<br>Time = 8 years<br>Simple Interest = PTR/100<br>= 32P/100<br>Given, P –32P/100 = 34068<br>P = 34000<br><br>P = 500",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Rs 500",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Rs 520",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " Rs 540",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Rs 560",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "What percentage of simple interest per annum did Anand pay to Deepak?<br>I. Anand borrowed Rs. 8000 from Deepak for four years.<br>II. Anand returned Rs. 8800 to Deepak at the end of two years and settled the loan",
+			"explanation": "Let the rate be R% p.a.<br>I  gives, P = Rs. 8000 and T = 4 years.<br>II gives, S.I = Rs. (8800 - 8000) = Rs. 800.<br>R = [100 x S.I] / [p x t ]= (100 x 800)/(8000 x 4) = 2 ½ % p.a<br>Thus, I and II both are needed to get the answer.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "I alone sufficient while II alone not sufficient to answer",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "II alone sufficient while I alone not sufficient to answer",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Either I or II alone sufficient to answer",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Both I and II are necessary to answer",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "At what rate percent on simple interest will Rs.415 amount to Rs.514 in 4 years  ?",
+			"explanation": "Difference in amount = 514 - 415 = 99<br>99 = (415 x 4 x R)/100<br>R = 5.96%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "4.58 %",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "5.96 %",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "6.52 %",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "4.98 %",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Find the interest on Rs. 800 at 10% per annum for 219 days. ",
+			"explanation": "Principal, p = 800 Rs.<br>Rate of interest, r = 10% and<br>t = 219 days = 219/365 years<br>Simple interest = p x t x r / 100<br>= (800 x 219 x 10) / (365 x 100)<br>= (800 x 3 x 10) / ( 5 x 100)<br>= (8 x 3 x 10) / 5<br>= 240/5<br>= 48<br>Interest to be paid is 48 Rs",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "48",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "58",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "58.25",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "68.52",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Find the simple interest on Rs. 2400 at 10 % per annum for 7 months. ",
+			"explanation": "Given<br>Principal : 2400<br>Rate of interest : 10<br> Number of months : 7<br>Simple interest = ( P * N * R ) / 100<br>Simple Interest for 1 year<br>= (2400 x 1 x 10) / 100<br>= ( 24000) / 100<br>= Rs 240<br> Simple Interest for 1 year = 240.<br>Simple interest for 7 months<br>= (7/12) x Simple Interest for 1 year<br>= (7/12) x 240<br>= 140.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Rs. 120",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Rs. 220",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Rs. 140",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "Rs. 160",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A sum of money doubles itself in 4 years. What is the rate of interest?",
+			"explanation": "Let the principal be Rs. p, rate of interest be r and time given, t = 4.<br>Amount = 2p (since the money gets doubled), interest earned = p<br>Which means S.I = p, we know that S.I = (p x t x r) / 100 =>p = (p x 4 x r) / 100 => 4r/100 = 1 => r/25 =1 => r = 25<br>The rate of interest is 25%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "20%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "22%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "25%",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "30%",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Divide Rs.2379 into 3 parts so that their amounts after 2,3 and 4 years respectively may be equal ,the rate of interest being 5% p.a. at simple interest .The first part is:",
+			"explanation": "Let the parts be x , y ,z<br>R = 5 %<br>Corresponding Interest = [ x + interest on x for 2 years = y + interest on y for 3 years = z + interest on z for 4 years]<br>=> ( x + ( x * 5 * 2 / 100) = ( y + ( y * 5 * 3 / 100 ) = ( z + ( z * 5 * 4 / 100)<br>=>( x + (x / 10)) = ( y + ( 3y / 20)) = ( z + ( z / 5))<br>=> (11x / 10) = (23y / 20) = (6z / 5)<br>Let (11x / 10) = (23y / 20) = (6z / 5) = k ( where k is a constant)<br>Then x =10 k /11,y=20 k / 23,z=5 k / 6<br>We know that x + y + z = 2379<br>=> 10 k / 11+ 20 k / 23 + 5k / 6=2379<br>=> 10 k * 23 * 6 + 20 k + 11 * 6 + 5 k * 23 *11 => 2379 * 11 * 23 *6<br>=> 1380 k + 1320 k + 1265 k = 2379 * 11 * 23 *6<br>=>3965 k = 2379 * 11 * 23 *6<br>=> k = 2379 * 11 * 23 *6 / 3965<br>First part, x = 10k / 11<br>Substituting k = 2379 * 11 * 23 *6 / 3965, we get<br>=> 10 / 11 * 2379 * 11 * 23 *6 / 3965<br>= 2 * 3 * 23 * 6<br>= 6 * 23 * 6<br>= 23 * 36<br>= 828<br>First part Rs = 828",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "792",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "759",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "828",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "818",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Averages Test 6",
+    "description": "Practice Averages Online Test 6",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "In the first 10 overs of a cricket game, the run rate was only 6.2. What should be the run rate in the remaining 40 overs to reach the target of 414 runs?",
+			"explanation": "Required Run rate = ( 414 - ( 6.2 x 10 ) )/ (40) = ( 352) /(40) = 8.8",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "7.92",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "8.8",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": " 9.68",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "12.48",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "A father said to his son, 'I was as old as you are at the present at the time of your birth'. If the father's age is 38 years now, the son's age five years back was:",
+			"explanation": "Let the son's present age be x years. Then, (38 - x) = x => 2x = 38. => x = 19. Therefore, Son's age 5 years back (19 - 5) = 14 years.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "14 years",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "19 years",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "24 years",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": " 33 years",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Total Marks obtained by a class is 1292 and the average score of the class is 68. Find the Total students in the class? ",
+			"explanation": "Use the below formula to find the Total, when Average and Total No. of Students is provided.<br>Total no. of students = Total Marks / Average Marks<br>Total No. of students = ( 1292 / 68) = 19",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "17",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "20",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "19",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "18",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "In the first 25 overs of a cricket game, the run rate was only 2.2. What should be the run rate in the remaining 25 overs to reach the target of 225 runs?",
+			"explanation": "Required Run rate = ( 225 - ( 2.2 x 25 ) )/ (25)<br>= ( 170) /(25)<br>= 6.8",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "7.48",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "6.8",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": " 8.8",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "18.8 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Average Marks of a class of 20 students is 79.25. Find the Total Marks obtained by all the students in the class?",
+			"explanation": "Use the below formula to find the Total, when Average and Total No. of Students is provided<br>Total = Average * Total Students (or People) Total = Average * Total Number of Students Total marks = ( 79.25 x 20) = 1585",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "1743.5",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "1664.25",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "1585",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "1507.75",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "In a class of 17, the overall weight of the students is 743. Can you find the average weight of students in the class?",
+			"explanation": "Use the below formula to find the average weight of the class Average Weight = ( Total Weight of Class / Total Number of Students) <br>Average Weight = ( 743/17) = 43.71",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "43.71",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "41.52",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "45.9 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "48.08",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "In the first 35 overs of a cricket game, the run rate was only 6.4. What should be the run rate in the remaining 15 overs to reach the target of 410 runs. ?",
+			"explanation": "Required Run rate = ( 410 - ( 6.4 x 35 ) )/ (15) = ( 186) /(15) = 12.4",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "13.6",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "12.6",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "12.4",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "13.4",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "The average age of a group of 10 students was 10. The average age increased by 1 years when two new students joined the group.<br> What is the average age of the two new students who joined the group?",
+			"explanation": "The average age of a group of 10 students is 10.<br>Therefore, the sum of the ages of all 10 of them = 10 * 10 = 100<br>When two students joins the group, the average increase by 1.<br>New Average = 11<br>Now there are 12 students<br>Therefore, sum of all the ages of 12 students = 132<br>Therefore, the sum of the ages of two students who joined = 132 - 100 = 32<br>And the average age of these two students = 16",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "8",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "16",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "18",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "21",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A family consists of two grandparents, two parents and three grandchildren. The average age of the grandparents is 67 years, that of the parents is 35 years and that of the grandchildren is 6 years.<br> What is the average age of the family? ",
+			"explanation": "The family consists of two grandparents, two parents and three grandchildren<br>The average age of two grandparents = 67 years.<br>=> Total age of two grandparents = (67 * 2) = 134 years<br>The average age of two parents = 35 years<br>=> Total age of two parents = (35 * 2) = 70 years<br>The average age of three grand children = 6 years.<br>=> Total age of three grand children = (6 * 3) = 18 years.<br>Required Average age of the family = Total age of (two grandparents + two parents + three grand children) / Total members in the family<br>= ( 134 + 70 + 18 ) / (2 + 2 + 3)<br>= 222 / 7<br>= 31 (5 / 7) years",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "28 ( 4 / 7 ) years",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "31 ( 5 / 7) years",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "32 ( 1 / 7 ) years",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "Cannot be determined",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Total Marks obtained by a class is 1584 and the average score of the class is 72.<br> Find the Total students in the class?  ",
+			"explanation": "Use the below formula to find the Total, when Average and Total No. of Students is provided<br>Total no of students = Total Marks / Average Marks<br>Total No. of students<br>= ( 1584 / 72)<br>= 22<br>Total students in class = 22",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "20",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "21",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "22",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "23",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

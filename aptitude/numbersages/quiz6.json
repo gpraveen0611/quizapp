@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Numbers and Ages Test 6",
+    "description": "Practice Numbers and Ages Online Test 6",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "What should be the present age of a man if the given condition is such as 15 year hence , a men will be 4 times as old as he was before the period of 15 year?",
+			"explanation": "Let man present age be x years.<br>His age 15 year ago = (x-15) years.<br>His age 15year hence = (x+15) years.<br>(x+15) = 4(x-15) ⇒ 3x= 45 ⇒ x = 45",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "10 years",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "15 years",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "20 years",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "45 years",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "If the age of a mother is 3 times in the comparison of her daughter before the period of 10 year. 10 year later from the present date, the mother age would be 2 times of her daughter. In that situation what should be the age ratio of them at the present time?",
+			"explanation": "If the x year is the present age of her daughter.<br>Mother age 10 year ago = 3(x-10) = (3x-30) year<br>Present age of the mother = ( 3x-30+10) = (3x-20) year<br>After 10 year age of the mother = (3x-20 +10) = (3x-10) year<br>Son age after the period of 10 year = (x+10) year<br>∴  (3x-10) = 2(x+10) ⇒ x = 30<br>Mother present age = (3x-20) year = 70 years.<br>Daughter present age = 30 years.<br>Required ratio =  70: 30 = 7:3",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "13:4",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "9:2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "7:3",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "5:2",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "The resent ages of A, B and C are in the ratio of 8:14:22 respectively. The resent ages of B, C and D are in the ratio of 21:33:44 respectively. Which of the following represents the ratio of the present ages of A, B, C and D respectively.",
+			"explanation": "A : B : C = 8 : 14 : 22 = 12 : 21 : 33<br>B : C : D = 21 : 33 : 44<br>Therefore, A : B : C : D = 12 : 21 : 33 : 44",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "12:21:33:44",
+                    "isAnswer": true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "12:22:31:44",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "12:21:36:44",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Cannot be determined",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "The average runs scored by a cricketer is 42 innings, is 40. The difference between his maximum and minimum scores in an inning is 100. If these two innings are not taken into consideration, then the average score of remaining 40 inning is 37. Calculate the maximum runs scored by him in an innings?",
+			"explanation": "Let the minimum score = x<br>∴ Maximum score = x + 100<br>∴ x + (x + 100) = 42 x 40 – 40 x 37<br>⇒ 2x + 100 = 1680 – 1480 = 200<br>⇒ 2x = 200 – 100 = 100<br>⇒ x = 50<br>Maximum score = x + 100 = 50 + 100 = 150",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "125",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "150",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "110",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "100",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "The average expenditure of the hotel when there are 10 guests is Rs. 80 per guests and the average expenditure is Rs.40 when there are 30 Guests. If it is known that there are some fixed expenses irrespective of the number of guests then the average expenditure per guest when there are 50 guests in the hotel.?",
+			"explanation": "x + 30y = 1200<br>x + 10y = 800<br>y = 20<br>Total Expenditure = 600 + 40 * 20 = 1400<br>Average Expenditure = 1400/40 = 35",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Rs. 25",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Rs. 35",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Rs. 50",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Rs. 45",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "One year back, Ria was six times as old as her daughter. Six years hence, Ria’s age will exceed her daughter’s age by 15 years. The ratio of the present ages of Ria and her daughter is?",
+			"explanation": "Ages of Ria and her daughter = 6x, x<br>[6x + 1 + 6] – [x + 1 + 6] = 15<br>5x = 15; x = 3<br>Ratio = 6x + 1 : x + 1 = 19 : 4",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "15 : 4",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "19 : 4",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "15 : 2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "17 : 2",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "The sum of the ages of 5 children born at the intervals of 3 years each is 50 years. what is the age of the youngest child?",
+			"explanation": "Let x = the youngest child. Each of the other four children will then be x+3, x+6, x+9, x+12.<br>We know that the sum of their ages is 50<br>so, x+(x+3)+(x+6)+(x+9)+(x+12) = 50<br>=>  x= 4<br>The youngest child is 4 years old.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "4",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "8",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "None",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "Cooper's present age is 3 years more than thrice Max's present age. After 3 years, Cooper's age will 10 years more than twice Max's age. What is Cooper's present age?",
+			"explanation": "Let's Max's present age be x years. Then, Cooper's present age is (3x + 3) years.<br>According to the question, (3x + 3) + 3 = 2(x + 3) + 10 ⇒ 3x + 6 = 2x + 16 ⇒ x = 10.<br>Therefore, Cooper's present age is (3x + 3) = 33 years.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "33 years",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "34 years",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "38 years",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "32 years",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "The ages of A and B differ by 16 years. 6 years ago, the elder one was 3 times as old as the younger one. What is present ages of the elder person?",
+			"explanation": "A-B = 16<br>A-6 = 3(B-6)<br>A-6 = 3(A-16-6)<br>A =30",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "35",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "20",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "25",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "30",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "The present ages of A, B and C are in proportions 4:5:9. Nine years ago, sum of their ages was 45 years. Find their present ages in years",
+			"explanation": "Let the current ages of A, B and C be ax years, 5x years and 9x respectively.<br>Then (4x-9) + (5x-9) + (9x-9) =45<br>∴ 18x – 27 = 45<br>∴ 18x = 72<br>∴ x = 4<br>Present ages of A, B and C are 4x = 16, 5x = 20, 9x = 36 respectively.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "15,20,35",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "20,24,36",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "20,25,45",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "16,20,36",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Compound Interest Test 6",
+    "description": "Practice Compound Interest Online Test 6",
+     "questions": [
+        {
+            "id": 1010,
+            "name": "What would be the compound interest accrued on an amount of 6250 Rs. at the end of 2 years at the rate of 8 % per annum?",
+			"explanation": "Given, principal = 6250<br>No. of years = 2<br>Rate of interest = 8<br>Amount = P x (1+r/100)^n,<br>=> Amount = 6250 x (1+8/100)^2<br>= 6250 x (108 / 100)^2<br>= 6250 x (108 / 100) x (108 / 100)<br>= 7290<br>Compound Interest = Amount - Principal<br>= 7290 - 6250<br>= 1040<br>Therefore, Compound Interest = Rs. 1040",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "7280",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "1040",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "1065",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "7390",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "The difference between the compound interest and simple interest on a certain sum of money at 5% per annum for 2 years is 45. Then the original sum is? ",
+			"explanation": "For 2 years = (100^2D)/R^2 <br> = (100^2 × 45)/(5 × 5) = (10000 × 45)/25 = Rs.18000/-",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "Rs.16000/-",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "Rs.15000/-",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "Rs.18000/-",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "Rs.20000/-",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "What would be the compound interest accrued on an amount of 6500 Rs. at the end of 2 years at the rate of 15 % per annum ?",
+			"explanation": "Given principal = 6500<br>No. of years = 2<br>Rate of interest = 15<br>Amount = P x (1+r/100)n,<br>we get Amount = 6500 x (1+15/100)^2<br>Ans : 8596.25",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "8596.5",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "8596.25",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "8589.75",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "8589.25",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "What would be the compound interest accrued on an amount of 2500 Rs. at the end of 2 years at the rate of 10 % per annum? ",
+			"explanation": "Given principal = 2500<br>No. of years = 2<br>Rate of interest = 10<br>Amount = P x (1+r/100)^n,<br>=> Amount = 2500 x (1+10/100)^2<br>= 2500 (11/ 10)^2<br>= 2500 (121/ 100)<br>= 25 × 121<br>= 3025<br>So, Compound Amount = 3025<br>Compound Interest = Compound Amount - Principal<br>=> C.I = 3025 - 2500<br>=> C.I = 525 Rs.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "525",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "575",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "3125",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "3045",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "What would be the compound interest accrued on an amount of 6250 Rs. at the end of 2 years at the rate of 8 % per annum? ",
+			"explanation": "Given, principal = 6250<br>No. of years = 2<br>Rate of interest = 8<br>Amount = P x (1+r/100)n,<br>=> Amount = 6250 x (1+8/100)2<br>= 6250 x (108 / 100)2<br>= 6250 x (108 / 100) x (108 / 100)<br>= 7290<br>Compound Interest = Amount - Principal<br>= 7290 - 6250<br>= 1040<br>Therefore, Compound Interest = Rs. 1040",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "7280",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "1040",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "1065",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "7390",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "What will be the amount if sum of Rs.10,00,000 is invested at compound interest for 3 years with rate of interest 11%, 12% and 13% respectively?",
+			"explanation": "Given<br>Here, P = Rs.10,00,000, R1 = 11 , R2 = 12, R3 = 13.<br>Each rate of interest is calculated for one year.<br>Hence, N = 1 year.<br>Amount after 3 years,<br>= P(1 + R1/100) (1 + R2/100) (1 + R3/100)<br>= 10,00,000 × (1 + 11/100) × (1 + 12/100) × (1 + 13/100)<br>= 10,00,000 × (111/100) × (112/100) × (113/100)<br>= 111 x 112 x 113<br>= 14,04,816<br>Hence the total amount after 3 years is Rs.14,04,816",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Rs.14,04,816",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Rs.16,00,816",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Rs 12,14,816",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "11, 13,816",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "What would be the compound interest accrued on an amount of 8000 Rs. at the end of 2 years at the rate of 5 % per annum?",
+			"explanation": "Given principal = 8000.<br>No. of years = 2<br>Rate of interest = 5.<br>Amount = P x (1+r/100)^n,<br>we get Amount = 8000 x (1+5/100)^2 .<br>Ans : 8820",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "8920",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "8820",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "8780",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "8810",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "The population of a town is 196000. It increases by 7% in the 1st year and decreases by 5% in the 2nd year.<br> What is the population of the town at the end of 2 years?",
+			"explanation": "Initial population is 196000<br>In First Year, population increasesby 7%<br>New population <br>= (107/100) x 196000<br>= 107 × 196000 / 100<br>= 107 × 1960<br>= 209720<br>Population after 1 year = 209720<br>In second year, Population decreases by 5%,<br>New population<br>= (100 - 5)/100 x 209720<br> = (95/100) x 209720<br>= 19 * 10486<br>= 199234<br>Population after 2 years will be 199234.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "  199234",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": " 201234 ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "200234",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "189234",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "What would be the compound interest accrued on an amount of 6500 Rs. at the end of 2 years at the rate of 15 % per annum ?",
+			"explanation": "Given principal = 6500<br>No. of years = 2<br>Rate of interest = 15<br>Amount = P [ 1 + ( r / 100 )n]<br>= 6500 x [ 1 + ( 15 /100 )2]<br>= 6500 x [ 1 + ( 3 / 20 )2]<br>= 6500 x [ 23 / 20 ]2 <br>= 6500 x [ 529 / 400 ]<br>Amount =8596.25<br>Compound Interest = Amount - Principal<br>= 8596.25 - 6500<br>= 2096.25",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "8596.25",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "2096.25",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "8589.75",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "8589.25",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "What would be the compound interest accrued on an amount of 11500 Rs. at the end of 2 years at the rate of 10 % per annum ? ",
+			"explanation": "Principal = 11500 No. of years = 2 Rate of interest = 10<br>Amount = P x (1+r/100)n, <br>we get Amount = 11500 x (1+10/100)2<br>= 11500 x ( 110 / 100 )2<br>= 115 x 11 x 11<br>= 115 x 121<br>Ans : 13915",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "13905",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "13915",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "13925",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "13965",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

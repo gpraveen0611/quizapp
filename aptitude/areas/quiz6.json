@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Areas Test 6",
+    "description": "Practice Areas Online Test 6",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A rectangle and a circle have same area. There is a difference of 12 cm in the length and breadth of the rectangle and its perimeter is 200 cm.<br> Find the radius of the circle.",
+			"explanation": "Length = L and breadth = B<br>Perimeter = 200 = 2(Length + Breadth)<br>∴ 200 = 2(L + L - 12)<br>∴ L = 56cm<br>∴ B = L - 12 = 44cm<br>Area of rectangle = L x B = 56 x 44 = Area of circle<br>∴ 56 x 4  = πr^2 = 22/7 r^2 <br>∴ r^2 = (56 x 44 x 7)/22 = 784<br>∴ r = 28cm",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "14πcm",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "22cm",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "25cm",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "28cm",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Three triangles, △LMN, △PQR and △CDE are formed in such a way that the inside triangle is formed by joining the midpoints of the sides of outside triangle. △LMN is the outermost triangle while △CDE is the innermost triangle. The length of the sides of inner most triangle are CD = 3, DE = 8 and CE = 4.<br> Find the perimeter of the outermost triangle.",
+			"explanation": "∴ Perimeter of △PQR = 2 x Perimeter of △CDE = 2(3+8+4) = 30<br>Perimeter of △LMN = 2 x Perimeter of △PQR = 2 x 30 = 60",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "30",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "60",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "72",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "90",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A rectangular park 60 m long and 40 m wide has two concrete crossroads running in the middle of the park and rest of the park has been used as a lawn. If the area of the lawn is 2109 sq. m, then what is the width of the road?",
+			"explanation": "Area of the park = (60 x 40) m2 = 2400 m2.<br>Area of the lawn = 2109 m2.<br>Area of the crossroads = (2400 - 2109) m2 = 291 m2.<br>Let the width of the road be x metres. Then,<br>60x + 40x - x2 = 291<br>x2 - 100x + 291 = 0<br>(x - 97)(x - 3) = 0<br>x = 3.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "2.91 m",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "3 m",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "5.82 m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "A rectangular piece of proporty has sides measuring 300 m and 200 m. What is the area of the proporty in square meters?",
+			"explanation": "The formula for the area of the rectangle is A=l X w <br> A = 200 * 300 <br> A =60000.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "60000",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "50000",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "40000",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "30000",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "A room is half as long again as it is broad. The cost of carpeting the at Rs. 5 per sq.m is Rs. 270 and the cost of papering the four walls at Rs. 10 per sq.m is Rs. 1720. If a door and 2 windows occupy 8 sq. m,<br> find the dimensions of the room.",
+			"explanation": "Let breadth = x metres, length = 3x metres, height = H metres.<br>Area of the floor=(Total cost of carpeting)/(Rate) = (270/5) sq.m = 54 sq.m <br>x×3x2=54⇒x2=54×2⇒x=6  <br>So, breadth = 6 m and length =3(6)/2 = 9 m.<br>Now, papered area = (1720/10) =  172 sq.m <br>Area of 1 door and 2 windows = 8 sq.m <br>Total area of 4 walls = (172 + 8) sq.m = 180 sq.m <br> 2×(9+6)H=180⇒H=6",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "b=6; l=18; H=6",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": " b=5; l=6; H=18",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "l=6; b=18; H=15",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "l=5; b=18; H=18",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "The inner circumference of a circular race track, 14 m wide, is 440 m. Find radius of the outer circle",
+			"explanation": "Let inner radius be r metres. Then, 2πr = 440 ; r = 440×744= 70 m.<br>Radius of outer circle = (70 + 14) m = 84 m",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "44",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "22",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "33",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "84",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "The difference between two parallel sides of a trapezium is 4 cm. perpendicular distance between them is 19 cm. If the area of the trapezium is 475 <br<find the lengths of the parallel sides.",
+			"explanation": "Let the two parallel sides of the trapezium be a cm and b cm. <br>Then, a - b = 4 <br>And, 1/2×(a+b)×19=475=>(a+b)=50 <br>Solving (i) and (ii), we get: a = 27, b = 23. <br>So, the two parallel sides are 27 cm and 23 cm",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "27 and 23",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "24 and 23",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "25 and 23",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "22 and 23",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "A wheel makes 1000 revolutions in covering a distance of 88 km. Find the radius of the wheel.",
+			"explanation": "Distance covered in one revolution = (88×1000)/1000 = 88m.<br>2πR^2=88 ⇒2×22/7×R = 88<br> ⇒R=88×7/44 = 14",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": " 14",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "16",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "11",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "12",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A 3 by 4 rectangle is inscribed in circle. What is the circumference of the circle?",
+			"explanation": "Draw the diagram. The diagonal of the rectangle is the diameter of the circle. The diagonal is the hypotenuse of a 3,4,5 triangle and is therefore, 5.<br>Circumference = π.diameter = 5π",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "2.5π",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "3π",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "4π",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "5π",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Find the area of a square, one of whose diagonals is 3.8 m long",
+			"explanation": "Area of the square =1/2 * (diagonal)^2= 1/ 2 * 3.8 *3.8 =7.22 m^2",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "7.22",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "6.22",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "3.22",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "4.22",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

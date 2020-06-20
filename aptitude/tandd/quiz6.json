@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Time and Distance Test 6",
+    "description": "Practice Time and Distance Online Test 6",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Tata Safari covers a distance of 550 meters in 1 minute whereas a Renault Duster covers a distance of 33 km in 45 minutes.<br> The ratio of their speeds is:",
+			"explanation": "Ratio of their speeds<br>Speed of Tata Safari = 550/60 × 18/5 = 33 km/hr<br>Speed of Renault Duster = 33 / 45 × 60 = 44 km/hr <br>Ratio of speeds = 33 : 44<br>Ratio of Speeds = 3 : 4",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "2 : 4",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "4 : 3",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "3 : 4",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "4 : 2",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "How many minutes does Bajira take to cover a distance of 400 m, if he runs at a speed of 20km/hr?",
+			"explanation": "Bajira's speed = 20 km/hr = (20 × 5/18) m/sec = 50/9 (m/sec)<br>Time taken to cover 400 m = 400 × (9/50)sec = 72 sec = 1 (12/60)min = 1(1/6)min",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "2 min",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "2(1/6)min",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "1(1/6)min",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "5 min",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Find the time taken to cover a distance of 360 km by a train moving at 20 meters/second.",
+			"explanation": "Time = Distance / Speed <br>We need to convert the distance into meter per second<br>so, 360  × 5/18 = 100<br>Now by applying the formula of Time, we get<br>Time = 100 / 20 = 5 hours",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "5 hours",
+                    "isAnswer":true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "6 hours",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "7 hours",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "8 hours",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "A horse covers a distance of 750m in 2 min 30 sec. What is the speed in km/hr of the cyclist?",
+			"explanation": "Speed = 750/150 = 5m/sec<br>(2 min 30 seconds = 150 seconds)<br>Now we have to find the speed in km/hr.<br> 5m/sec = 5 × (18/5)km/hr = 18km/hr",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "16 km/hr",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "17 km/hr",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "18 km/hr",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "19 km/hr",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "A Van travels 800 km in 12 hours and another 400 km in 18 hours. Find the average speed of the car.",
+			"explanation": "Formula of Average speed will be apply here i.e.<br>Average Speed = Total Distance/Total Time<br>Average Speed = (800 + 400) / (12 + 18) <br>Average Speed = 1200/30 = 40 ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "40",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "50",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "60",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "70",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "If a man walks 24 Km at 8 Kmph, he will be late by 25min. if he walks 12 Kmph, how early the fixed time Will he reach?",
+			"explanation": "Time taken to cover 24 Km at the speed of 8 Kmph = 24/8 = 3 hours <br>Thus, right time was 2 hours 35 mintes <br>Now, time taken to cover 20 Km at the speed as 12 Kmph = 2 hours <br>Required time = 2 hours 35 minutes - 2 hours <br>= 35 minutes",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "30 minutes",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "35 minutes",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "40 minutes",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "50 minutes",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "The 200-metre train crosses a platform double its length in 36seconds. What is the speed of the train in km/hr?",
+			"explanation": "Speed of the train = (200 + 400)m/36 sec = 600/36 m/sec<br> = (600*18)/(36*5) km/h <br>= 60 km/h",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "60",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "40",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "50",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "30",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "A train 110 m long is running with speed of 60 km/hr .In what time will it pass a man who is running at 6 km/hr in the direction opposite to that in which the train is going?",
+			"explanation": "Relative speed = Train speed + Man Speed = 60 + 6 = 66 kmph = 18 1/3 m /sec<br>Distance to be covered = 110 meter<br>Time taken = Speed / Distance = 110 / (18 1/3) = (110 / 55) x 3 = 2 x 3 = 6 sec",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "10 sec",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "5 sec",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "6 sec",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "7 sec",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A man takes 5hours 45 min in walking to a certain place and riding back. He would have gained 2 hours by riding both ways. The time he would take to walk both ways is",
+			"explanation": "Given that time taken for riding both ways will be 2vhours lesser than the time needed for waking one way and riding back.<br>Therefore,time needed for riding one way = time needed for waking one way - 2hours<br>Given that time taken in walking one way and riding back = 5hours 45min<br>Hence, the time he would take to walk both ways<br>=5 hours 45min + 2hours<br>=7hours 45min",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "7hours 45min",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "8hours 45min",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "9hours 25min",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "11 hours",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Walking at a rate of 8 km an hour, a man covers a distance in 3 hours. Running at a speed of 8 km, he will cover the same distance in",
+			"explanation": "Now, Distance = speed*velocity.<br> Hence total distance = 12 km. Now, Time = Distance / Velocity , which gives 12/8= 1.5 hours , which is 1 hour and 30 mins",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "5 hrs 45 min",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "1 hr 30 min",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "9 hrs 60 min",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "4 hrs 45 min",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

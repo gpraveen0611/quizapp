@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Problems on Trains Test 6",
+    "description": "Practice Problems on Trains Online Test 6",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A train overtakes two persons who are walking in the same direction in which the train is going, at the rate of 2 kmph and 4 kmph and passes them completely in 9 and 10 seconds respectively.<br> The length of the train is: ",
+			"explanation": "2 kmph = (2 x 5/18) m/sec = 5/9 m/sec.<br>4 kmph = (4 x 5/18 m/sec = 10/9 m/sec.<br>Let the length of the train be x metres and its speed by y m/sec.<br>Then, ( x/(y - 5) = 9 and ( x/(y - 10) = 10.<br>Therefore 9y - 5 = x and 10(9y - 10) = 9x<br>=> 9y - x = 5 and 90y - 9x = 100.<br>On solving, we get: x = 50.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "45 m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "50 m",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "55 m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "65 m",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "A train is running at 72 Kmph. It was crossed an electronic pole in 20sec.<br> find the length of the train?",
+			"explanation": "L = S × T <br>L = 72 Kmph × 20Sec <br>L = 72 × 5/18 × 20 <br>L = 400m ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "405m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "400m",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "250m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "200m",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A train travelling at a speed of 75 mph enters a tunnel 3 (1/2) miles long. The train is 1/4 mile long. How long does it take for the train to pass through the tunnel from the moment the front enters to the moment the rear emerges?",
+			"explanation": "Total distance covered = ( 7/2 + 1/4 ) miles<br> = 15/4 miles.<br> Therefore, Time taken<br>= ( 15 / 4 x 75 ) hrs<br>= 1 / 20 hrs<br> = ( 1/20 x 60 ) min. <br> = 3 min.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "3 min",
+                    "isAnswer": true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "2 min",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "2.5 min",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "4 min",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Two goods train each 500 m long, are running in opposite directions on parallel tracks. Their speeds are 45 km/hr and 30 km/hr respectively.<br> Find the time taken by the slower train to pass the driver of the faster one.",
+			"explanation": "Relative speed = (45 + 30) km/hr = ( 75 x 5/18 ) m/sec = (125/6 ) m/sec .<br>We have to find the time taken by the slower train to pass the DRIVER of the faster train and not the complete train.<br>So, distance covered = Length of the slower train.<br>Therefore, Distance covered = 500 m.<br>Therefore Required time = ( 500 x 6/125 ) = 24 sec .",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": " 12 sec",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "24 sec",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "10 sec ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "22 sec",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Two trains of equal lengths take 10 seconds and 15 seconds respectively to cross a telegraph post. If the length of each train be 120 metres, in what time (in seconds) will they cross each other travelling in opposite direction?",
+			"explanation": "Speed of the first train = ( 120 /10 ) m/sec = 12 m/sec.<br>Speed of the second train = (120 / 15) m/sec = 8 m/sec.<br>Relative speed = (12 + 8) = 20 m/sec.<br>Therefore Required time = [( 120+ 120/ 20)] sec = 12 sec.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "12",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "15",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "20",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "A 180m long train is running at 72 Kmph. If it crossed the platform in 20sec. <br>then find the platform Length?",
+			"explanation": "Length = Speed*Time <br>L = 72K.M/H*T <br> L=72*5/18*20 <br> L= 400M. <br>Length of Platform= Length-Length of the Train <br>Length of Platform= 400-180 <br>Length of Platform=220m ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "210m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "220m ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": " 240m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "250m",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A train crosses a platform of 120m in 15sec, same train crosses another platform of length 180m in 18sec.<br> then find the length of the train?",
+			"explanation": "Length of the train be ‘X’ <br>X + 120/15 = X + 180/18 <br>6X + 720 = 5X + 900 <br>X = 180m",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "175m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "180m",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "185m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "170m",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "A train crosses a tree in 120sec, while it crosses a 700m long platform in 190sec. the length of the Train is: ",
+			"explanation": "In 190Sec Cross a 700m Platform I.e., <br>Length of Train + Length of Platform. <br>190 Sec- 120Sec = 700m <br>70Sec= 700m <br>Speed= 10 M/Sec <br>In 120 Sec The length wil be 1200m. ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "1200m",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "1300m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "1400m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "1500m",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Two, trains, one from Howrah to Patna and the other from Patna to Howrah, start simultaneously. After they meet, the trains reach their destinations after 9 hours and 16 hours respectively.<br> The ratio of their speeds is: ",
+			"explanation": "Let us name the trains as A and B. Then,<br>(A's speed) : (B's speed) = √b : √a = √16 : √9 = 4 : 3.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "16 : 9",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "4 : 3",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "4 : 6",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "9 : 16",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "A train 800 metres long is running at a speed of 78 km/hr. If it crosses a tunnel in 1 minute, <br>then the length of the tunnel (in meters) is :",
+			"explanation": "Given, Length of the train = 800 m<br>Speed ofthe train = 78 km/hr<br>= 78 × (5 / 18) m/s<br>= 390 / 18 m/s<br>Time to cross the tunnel = 1 min = 60 sec<br>Formula: Distance = Speed × Time<br>=> Length of the train + length of the tunnel = Speed of the train × Time to cross the tunnel<br>=> 800 + length of the tunnel = (390 / 18) × 60<br>=> 800 + length of the tunnel = 23400 / 18<br>=> 800 + length of the tunnel = 1300<br>=> length of the tunnel = 1300 - 800 = 500 m",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "300m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "400m",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "500m",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "540m",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

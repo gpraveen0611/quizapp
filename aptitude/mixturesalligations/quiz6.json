@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Mixtures and Alligations Test 6",
+    "description": "Practice Mixtures and Alligations Online Test 6",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Platinum is 19 times as heavy as bronze and silver is 9 times as heavy as bronze. In what ratio these two metals be mixed so that the alloy is 15 times as heavy as bronze is",
+			"explanation": "Let the proportion of weight of platinum in the mixture = x<br>then the proportion of weight of silver in the mixture = 1 - x<br>According to the question<br>19 X x + 9 (1 - x) = 15 X 1<br>19x + 9 - 9x = 15<br>10x = 15 - 9 = 6<br>x = 6/10 = 3/5<br>Therefore the proportion of weight of platinum in the mixture = x = 3/5<br>and the proportion of weight of silver in the mixture = 1 - x = 1 - 3/5 = 2/5<br>The required ratio of platinum : silver = 3/5 : 2/5 = 3 : 2",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "3 : 2",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "1 : 2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "3 : 4",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "2 :5",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "The ratio of sodium chloride to ammonium in 100 kg of mixed ammonium normally used by three chemists is 7: 25. The amount of sodium chloride to be added to 100 kg of mixed ammonium to make the ratio 9 :25 is",
+			"explanation": "sodium chloride in 100 kg = 7/32 x 100 = 21.875 kg<br>ammonium in 100 kg = 25/32 x 100 = 78.125 kg<br>Now 78.125 is 25 parts out of (25 + 9) = 34 parts.<br>Hence 9 parts = 9/25 x 78.125 = 28.125<br>Amount to be added = 28.125 - 21.87 5= 6.25 Kg",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "5 kg",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "5.25 kg",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "6 kg",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "6.25 kg",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Mira’s expenditure and sayings are in the ratio 3: 2. Her income increases by 10 percent. Her expenditure also increases by 12 percent. By how much per cent does her saving increase?",
+			"explanation": "We get two values of x ,7 and 13.<br>But to get a viable answer we must keep in mind that the central value(10)must lie between x and 12.<br>Thus the value of x should be 7 and not 13<br>Thus, Required % increase = 7%",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "2%",
+                    "isAnswer": false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "7%",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "8%",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "5%",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "A solution of cough syrup has 15% alcohol. Another solution has 5% alcohol. How many litres of the second solution must be added to 20 litres of the first solution to make a solution of 10% alcohol?",
+			"explanation": "Hence both the types should be added in the ratio of 1 : 1 to obtain the required strength.<br>Hence 20 litres of first type should be added to the 20 litres of the second type to get the desired solution.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "15",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "20",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "25",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "In a mixture of 45 litres, the ratio of acid to base is 4 : 1. How much base must be added to make the mixture ratio 3 :2?",
+			"explanation": "Base = 9 litres<br>Acid = 9 litres<br>To make the ratio of acid : base as 3 : 2,<br>15 litres of base must be added.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "12 litres",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "15 litres",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "30 litres",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "42 litres",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "How much chicory at Rs. 5 a kg should be added to 20 kg of coffee at Rs. 12 a kg so that the mixture be worth Rs. 7.50 a kg.?",
+			"explanation": "Ratio in which coffee and chicory should be  mixed= 12 - 7.5 : 7.5 - 5<br>4.5 : 2.5 ⇒ 9 : 5<br>Let  x be quantity at 4/ kg<br>∴  9 : 5 = x : 20  ⇒ x = 36 kg",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "21 kg",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "15 kg",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "36 kg",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "42 kg",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A solution of ‘THANDA SHARBAT’ has 15% sugar. Another solution has 5% sugar. How many liters’ of the second solution must be added to the 20L of first solution to make a solution of 10 % sugar?",
+			"explanation": "Let required amount of second solution to be added = a L<br>Then 15 × 20 + 5a / 20 + a= 10<br>⇒ 300 + 5a = 200 + 10a<br>⇒ 5a = 100<br>⇒ a = 20",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "10 L",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "5 L",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "15 L",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "20 L",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "A farmer counted the heads of the animals / birds in the farm and found it to be 80. When he counted the legs he found it to be 260. If the farm had either pigeons or horses and nothing else, how many horses were there in the farm? In the farm, each horse had four legs and each pigeon had two legs.",
+			"explanation": "The count of heads gives the total number of animals / birds as each animal / bird has one head.<br>Let the number of horses be x.<br>The remaining will be pigeons. The number of pigeons = (80 - x).<br>Each pigeon has 2 legs and each horse has 4 legs.<br>Therefore, total number of legs = 4x + 2(80 - x) = 260<br>=>4x + 160 - 2x = 260<br>=>2x = 100<br>=>x = 50.<br>x is the number of horses. The number of horses in the farm is 50.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "40",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "30",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "50",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "60",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A chemist has 10L of a solution that is 10% nitric acid by volume. He wants to dilute the solution to 4% strength by adding water. How many litres of water must be add?",
+			"explanation": "Quantity of nitric acid = 10 *(1/10) = 1 L<br>Water = 10 – 1 = 9 L<br>Let x litre of water be added,<br>(10 + x ) * (4/100) = 1<br>=> x = 15 L",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "40 L",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "33 L",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "25 L",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "15 L",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "In a bag there are three types of coins, 1rupee, 50paisa, 25paisa in the ratio of 5:10:16. The total value is Rs 700. The total number of coins is?",
+			"explanation": "5x : 10x : 16x<br>5x + 10x/2 + 16x/4 = 700<br>14x = 700<br>x = 50<br>(5x + 10x + 16x) = (5+10+16)*50 = 1550",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "1750",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "1650",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "1550",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "1450",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

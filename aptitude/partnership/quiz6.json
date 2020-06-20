@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Partnership Test 6",
+    "description": "Practice Partnership Online Test 6",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A and B started a partnership business investing Rs. 20,000 and Rs. 15,000 respectively. C joined them with Rs. 20,000 After six months. Calculate B's share in total profit of Rs. 25,000 earned at the end of 2 years from the starting of the business?",
+			"explanation": "A : B : C = 20000 × 24 : 15000 × 24 : 20000 × 18 = 20 × 4 : 15 × 4 : 20 × 3 <br>= 4 × 4 : 3 × 4 : 4 × 3<br>= 4:3:3<br>B's Share = 25000 × 3/10 = 7500/-",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Rs.9000/-",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Rs.7500/-",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Rs.6500/-",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Rs.8500/-",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "X starts a business with Rs.45000. Y joins in the business after 3 months with Rs.30000.<br> What will be the ratio in which they should share the profit at the end of the year?",
+			"explanation": "Ratio in which they should share the profit <br>= Ratio of the investments multiplied by the time period<br>= 45000 × 12: 30000 × 9 <br>= 45 × 12: 30 × 9<br>= 3 × 12: 2 × 9<br>= 2:1",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "1:2",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "2:1",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "1:3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "3:1",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "A,B and C started a business in which A invested Rs.2000/- for 1year, B invested Rs.3000/- for 1 1/2 years, C invested Rs.4000/- for 2 years. At the end of the profit received by them is Rs.14500/-. <br>What is C’s share? ",
+			"explanation": "A = Rs.20000/- per 12 months<br>B = Rs.30000/- per 18 months <br>C = Rs.40000/- per 24 months <br>= 20000 × 12 : 30000 × 18 : 40000 * 24 <br>= 4 : 9 : 16 <br>Total = 29 parts -----> Rs.14500/- (profit)  <br>         = 1 part ------> Rs.500/- <br>Then, C's share is  <br>          = 16 part = Rs.500/- × 16 parts = Rs.8000/- ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "Rs.6000/- ",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "Rs.80000/- ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "Rs.8000/- ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "Rs.6500/- ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "In a business A invested 3 times that of B and the period of investment of A is 2 times that of B. <br>Then their profit ratio is:",
+			"explanation": "share's ratio = A : B = 3 : 1 <br>=Time ratio == A : B = 2 : 1 <br>=profit ratio = A : B = 6 : 1  ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "6:1",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "1:6",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "3:2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "2:2",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "A,B and C started a business by investing Rs.1400/- , Rs.4200/- and Rs.7000/- respectively. Total profit is Rs.8100/-. Find the C's share?",
+			"explanation": "A = Rs.1400/- , that is 1 parts <br>B = Rs.4200/- , that is 3 parts <br>C = Rs.7000/- , that is 5 parts <br>Total 9 parts -------> profit (8100/-) <br>          1 part --------> Rs.900/- then C's share <br>          5 parts -----> Rs.4500/-",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "Rs.900/-",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "Rs.1800/-",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "Rs.2700/-",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "Rs.4500/-",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "A started a business by investing Rs.4000/-. After 4 months B joined by investing Rs.5000/- At the end of the year, there was a profit of Rs.8800/-.<br> What is A’s share? ",
+			"explanation": "A = Rs.4000/- per 12 months<br>B = Rs.5000/- per 8 months <br>= 4000 × 12 : 5000 × 8 <br>= 6 : 5 <br>Total = 11 parts -----> Rs.8800/- (profit)  <br>         = 1 part ------> Rs.500/- <br>Then, A's share is <br>        = 6 part = Rs.800/- × 6 parts = Rs.4800/-",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "Rs.4000/-",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "Rs.4500/-",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "Rs.4800/-",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "Rs.5600/-",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A,B and C started a business by investing Rs.2000/- , Rs.3000/- and Rs.4000/- respectively. Total profit is Rs.4500/-. Find the A’s share?",
+			"explanation": "A = Rs.2000/- , that is 2 parts <br>B = Rs.3000/- , that is 3 parts <br>C = Rs.4000/- , that is 4 parts <br>Total 9 parts -------> profit (4500/-)<br>----->1 part -------->Rs.500/- <br>then A's share 2 parts ----- > Rs.1000/- ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "Rs.2000/-",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Rs.1500/-",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Rs.1000/-",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Rs.4000/-",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "In a business, A,B inversed Rs.10,000/-,Rs.20,000/- respectively. After 4 months A adds Rs.5000/- to his initial investment and B withdrew Rs.5000/- from his initial investment. At the end of the year total amount of profit they got is Rs.5400/-.<br> What is A’s share?",
+			"explanation": "A's Share = Rs.10000/- per first 4 maonth + Next 8 months Rs.5000/- added <br>= 10 × 4 + 15 × 8 = 40 + 120 = 160 <br>B's Share = Rs.20000/- per first 4 months + Next 8 months Rs.5000/- added <br>= 20 × 4 + 15 × 8 = 200   <br>Then,A's part= 160 : B's part= 200 <br> ==> 4 : 5 <br>  Total 9 parts -----> Rs.5400/- <br>= 1 part ------> Rs.600/- <br>Then, A's share is <br>= 25parts = Rs.600/- × 4 parts = Rs.2400/- ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Rs.2400/- ",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Rs.2500/- ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Rs.3400/- ",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "Rs.4000/- ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "In a business, A,B and C inversed Rs.10,000/-,Rs.20,000/- and Rs.30,000/- respectively. After 1 year A adds Rs.5000/- to the initial investment. B and C withdrew Rs.5000/- and Rs.10,000/- respectively. After 2 years the total profit is Rs.7700/-. <br>What is A’s share?",
+			"explanation": "A's Share = Rs.10000/- per first 1 year, Next year 5000/- added <br> = Rs.10000/- × 1 + Rs.15000/- × 1 = Rs.25000/- <br>B's Share = Rs.20000/- per first 1 year, Next year 5000/- reduced <br>= Rs.20000/- × 1 + Rs.15000/- × 1 = Rs.35000/- <br>C's Share = Rs.30000/- per first 1 year, Next year 10000/- reduced <br>= Rs.30000/- × 1 + Rs.20000/- × 1 = Rs.50000 <br> Then,A's part = 25 : B's part = 35 : C's part = 50 <br>===> 5 : 7 : 10 <br> Total 22 parts -----> Rs.7700/- <br>            2 parts ------> Rs.700/- <br>Then, A's share is <br>5 parts = Rs.350/- × 5 parts = Rs.1750/- ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "Rs.350/-",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "Rs.3500/-",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "Rs.1750/-",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "Rs.1700/-",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "A, B and C rent a pasture. A grazed his 35 cows for 20days, B grazed his 20 cows for 30 days and C grazed his 30 cows for 15 days. If A paid Rs. 1050 as rent , find the rent paid by them",
+			"explanation": "Let the rent per cow per day be Rs.x<br>A's rent = 34 × 20x<br>700x = 1050<br>x = 1.5<br>Total rent = 1050 + 600x + 450x = 1050 + 900 + 675 = Rs. 2625/-",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "Rs. 1650/-",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "Rs. 2625/-",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "Rs. 2735/-",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "Rs. 2135",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

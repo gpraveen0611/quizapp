@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Permutations Test 6",
+    "description": "Practice Permutations Online Test 6",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A dice with numbers from 1 to 6 on its faces is thrown. If the outcome is an even number, it is thrown again, otherwise not. It is known that the dice was thrown for four times following this condition. In how many cases can the sum of numbers obtained in four throws be 16?",
+			"explanation": "If the dice is thrown for exactly four times, that means the numbers obtained in first three throws was even and that in fourth throw is odd (because there was no further throw).<br>? Sum of numbers in four throws will be odd, and hence cannot be 16.<br>? Answer will be 0.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "0",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "36",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "12",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "In how many difference ways, can be letters of the word ‘CRISIS’ be arranged?",
+			"explanation": "We have a 6 letter word CRISIS<br>Out of which I and S repeat for 2 times.<br>Hence, number of different ways to arrange the letters of ‘CRISIS’<br>=6/!2!2!<br>= 720 / (2×2)<br>= 180",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "150",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "240",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "120",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "180",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "In how many ways can be letters of the word ‘APPLE’ be arranged?",
+			"explanation": "In the word APPLE, 5 letters are there, in which P is repeating twice, since 5 letters can be arranged in 5! Ways but as P is repeating twice therefore<br>Total number of arrangements become 5!/2! = 120/2 = 60",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "720",
+                    "isAnswer": false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "120",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "60",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "180",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "3 Girls and 4 boys are to be seated in a row on 7 chairs in such a way that all the three girls always sit together. In how many different ways can it be done?",
+			"explanation": "Consider the 3 girls as one unit. Then we have 4 + 1 = 5 people. They can be arranged in 5! = 120 ways.<br>The 3 girls among themselves can be arranged in 3! = 6 ways.<br>The number of required arrangements = 120 × 6 = 720 ways.<br>Hence, the answer is 720",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "820",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "720",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "284",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "496",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "Rohan decided to make collections of numbers greater than 0 and less than a million with the digits 0, 7 and 8. How many numbers are possible?",
+			"explanation": "A million is 1000000(first seven digit’s number). So, we need to find how many numbers of less than 7 digits can be formed using the digits 0, 7 and 8.<br>This can be done as there are 2 possibilities at this first digit ? 7 and 8<br>At all other places, any of the three numbers can be present. So there are three possibilities for all other digit’s places, therefore possible numbers<br>Number of 1 digit numbers = 2<br>Number of 2 digit numbers = 2 × 3 = 6<br>Number of 3 digit numbers = 2 × 3 × 3 = 18<br>Number of 4 digit numbers = 2 × 3 × 3 × 3 = 54<br>Number of 5 digit numbers = 2 × 3 × 3 × 3 × 3 = 162<br>Number of 6 digit numbers = 2 × 3 × 3 × 3 × 3 × 3 = 486<br>Total number of such numbers = 2 + 6 + 18 + 54 + 162 + 486 = 728",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "1086",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "486",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "728",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "1000",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "There are 20 books of which 4 are single volume and the other are books of 8, 2 and 6 volumes respectively. In how many ways can all these books be arranged on a shelf so that volumes of the same book are not separated?",
+			"explanation": "Here volumes of the same book are not to be separated i.e. all the volumes of the same book are to be kept together. Regarding all volumes of the same book as one book, we have only 4 + 1 + 1 + 1 = 7 books. These 7 books can be arranged in 7! ways. Volumes of book having 6 volumes can be arranged in 6! ways. Volumes of book having 8 volumes can be arranged in 8! ways.<br>Volumes of book having 2 volumes can be arranged in 2! ways.<br>∴ Required number = 7! 8! 6! 2!.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "2!3!4!5!",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "3!4!5!6!",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "4!5!6!7!",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "8! 7! 6! 2!",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A round table conference is to be held among 25 delegates from 25 countries. In how many ways can they be seated if two particular delegates are always to sit together?",
+			"explanation": "Treating 2 particular delegates who are to sit together as one person, we have only 24 persons. These 24 persons can be seated at a round table in 23! Ways. But 2 particular persons can be arranged among themselves in 2! ways.<br>∴ Required no =2!×23!",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "23!",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "2! ×23!",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "3! ×23!",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "In how many ways can 5 boys and 4 girls be seated in a row, so that they alternate?",
+			"explanation": "B G B G B G B G B. There are five places i.e. 1st , 3rd, 5th ,7th and 9th for five boys. Five boys can be seated in 5! ways. Again there are four places i.e. 2nd, 4th, 6th, 8th for four Girls.<br>∴ four girls can be seated in 4! ways;<br>∴ Required number = 5!4!",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "5!",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "5!×2!",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "4!×5!",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Number n of license plates that can be made where each plate contains two distinct letters followed by three different digits is",
+			"explanation": "n = 26 x 25 x 10 x 9 x 8 = 468000.<br>i.e. there are twenty-six choices for the first letter, but only twenty-five choices for the second letter which must be different from the first letter. Similarly, choices for the digits are 10, 9 and 8 since the digits must be distinct.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "486000",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "468000",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "498000",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "489000",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "The number n of ways that an organization consisting of twenty -six members can elect a president, treasurer, and secretary (assuming no person is elected to more than one position) is",
+			"explanation": "The president can be elected  in twenty-six different ways; following this, the treasurer can be elected in twenty five different ways since the person chosen president is not elegible to be treasurer); and following this, the secretary can be elected in twenty-four different ways.<br>Thus, by above principle of counting, there are<br>n =26 x 25 x 24 =15600 different ways in which the organization can elect the officers.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "15600",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "15400",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "15200",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "15000",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Boats and Streams Test 6",
+    "description": "Practice Boats and Streams Online Test 6",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "In an hour a boat goes 10 Km along the stream and 4 Km against the stream. The speed of the boat in still water (in Kmph) is: ",
+			"explanation": "Let the speed of stream = X Kmph <br>and the speed of water = 8 Kmph <br> X + Y = 10 <br>X - Y = 4 <br>X = 7, Y = 3 <br>Speed of stream = 7 Kmph",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "7 Kmph",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "8 Kmph",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "10 Kmph",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "9 Kmph",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "A man can row 24 kmph in still water. It takes him thrice as long to row up as to row down the river. Find the rate of the stream? ",
+			"explanation": "Let man's rate upsteam be X kmph <br>Then his rate of downstream = 3X kmph <br>Rate still water = 1/2 (3X + X) = 2X <br>2X = 24 <br>X = 12 <br>Rate of upstream = 12 <br>Rate of downstream = 36 <br>Rate of stream 1/2 ( 36 - 12) = 12 kmph",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "1 kmph",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "2 kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "12 kmph",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "22 kmph",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "The speed of a boat in still water is 15 km/hr and the rate of current is 3 km/hr. The distance travelled downstream in 12 minutes is:",
+			"explanation": "Speed downstream = (15 + 3) kmph = 18 kmph. Distance travelled = ( 18 x 12 / 60 ) km = 3.6 km.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "1.2 km",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "2.2 km",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "3.6 km",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "2.5 km",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Speed of a boat in standing water is 9 kmph and the speed of the stream is 1.5 kmph. A man rows to a place at a distance of 105 km and comes back to the starting point.<br> The total time taken by him is: ",
+			"explanation": "Distance = 105 km<br>Speed upstream = 7.5 kmph.<br>Speed downstream = 10.5 kmph.<br>Total time taken = Distance / Speed inupstream + Speed indownstream<br>= ( 105 / 7.5) + (105 / 10.5 ) hours<br> = 14 + 10<br>= 24 hours.<br>Total time taken by him = 24 hours.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "24 hours",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "20 hours",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "18 hours",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "16 hours",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "In one hour, a boat goes 11 km/hr along the stream and 5 km/hr against the stream. The speed of the boat in still water (in km/hr) is:",
+			"explanation": "Speed in still water = 1/2 ( 11 + 5) kmph = 8 kmph.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "3 km/hr",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "5 km/hr",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "7 km/hr",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "8 km/hr",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "A boat travels 72 km downstream in 8 hours and 84 km upstream in 12 hours. Find the speed of the boat in still water and the speed of the water current ?",
+			"explanation": "Downstream speed = 72km/8hrs  = 9 kmph<br>upstream speed = 84km/12hrs = 7 kmph<br>speed of boat = avg of downstream and upstream speeds<br>speed of boat = (9+7)/2kmph = 8 kmph.<br>current speed = half of the difference of downstream and upstream speeds<br>currend speed = (9-7)/2kmph = 1 kmph",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "9 and 3 kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "6 and 7 kmph",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "7 and 2 kmph",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "8 and 1 kmph",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "A person can row 8 1/2 km an hour in still water and he finds that it takes him twice as long to row up as to row down the river. The speed of the stream ?",
+			"explanation": "Given speed of the person = 8 1/2 = 17/2 kmph<br>Let the speed of the stream = x kmph<br>speed of upstream = 17/2 - x<br>speed of downstream = 17/2 + x<br>But given that,<br>2(17/2 - x) = 17/2 + x<br>=> 3x = 17/2<br>=> x = 2.83 kmph.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "1.78 kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "2.35 kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "2.83 kmph",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "3.15 kmph",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "A boat takes 2 hours to travel from point A to B in still water. To find out its speed upstream, which of the following information is/are required?<br>A. Distance between point A and B.<br>B. Time taken to travel downstream from B to A.<br>C. Speed of the stream of water.",
+			"explanation": "Let distance between A & B = d km<br>Let speed in still water = x kmph<br>Let speed of current = y kmph<br>from the given data,<br>d/x = 2<br>From A) we get d<br>From B) we get d/x+y<br>From C) we get y<br>So, Any one pair of A and B, B and C or C and A is sufficient to give the answer i.e, the speed of upstream.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Only A and B",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Only B and C",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "All are required",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "Any one pair of A and B, B and C or C and A is sufficient",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "A man can row 40km upstream and 55km downstream in 13 hours also, he can row 30km upstream and 44km downstream in 10 hours.find the speed of the man in still water and the speed of the current.",
+			"explanation": "let rate upstream=x km/hr and rate downstream=y km/hr.<br>Then,40/x +55/y =13…(i) and 30/x +44/y =10<br>Multiplying (ii) by 4 and (i) by 3 and subtracting ,we get:11/y=1 or y=11. Substituting y=11 in (i),we get:x=5.<br>Rate in still water =1/2(11+5)kmph=8kmph.<br>Rate of current=1/2(11-5)kmph=3kmph",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "1kmph,2kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "10kmph,3kmph",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "1kmph,5kmph",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "8kmph,3kmph",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "In a stream running at 2kmph,a motar boat goes 6km upstream and back again to the starting point in 33 minutes.<br>find the speed of the motarboat in still water.",
+			"explanation": "Let the speed of the motarboat in still water be x kmph.then, 6/x+2 +6/x-2=33/60<br>11x2-240x-44=0<br>11x2-242x+2x-44=0<br>(x-22)(11x+2)=0<br>x=22.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "12",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "20",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "22",
+                    "isAnswer":true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

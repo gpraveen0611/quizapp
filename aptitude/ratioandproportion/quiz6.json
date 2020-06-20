@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Ratios and Proportions Test 6",
+    "description": "Practice Ratios and Proportions Online Test 6",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A mixture contains milk and water in the ratio 7:3. On adding 20 liters of water, the ratio of milk to water becomes 7:5. Total quantity of milk & water before adding water to it?",
+			"explanation": "milk:water = 7:3 <br>7x : 3x + 20 = 7 : 5 <br>5[7x] = 7[3x + 20] <br>35x = 21x + 140 <br>35x - 21x = 140 <br>14x = 140 <br>x = 10 <br>The quantity of milk in the original mixture is = 7 : 3 = 7 + 3 = 10 <br>10x = 100 <br>Short cut method: <br>milk:water = 7 : 3  <br>after adding 20 liters of water <br>milk:water = 7 : 5  <br>milk is same but water increse 20liters then the water ratio is increse 2 parts  <br>1 part ---> 10 liters  <br>The quantity of milk in the original mixture is = 7 : 3 = 7 + 3 = 10 <br>10 parts ---> 100 liters  (Answer is = 100) <br>Short cut method - 2 : for Only milk problems <br>milk : water <br>7 : 3 <br>7 : 5 <br>milk ratio same but water ratio 2 parts incress per 20 liters <br>2 part of ratio ---> 20 liters <br>1 part of ratio ---> 10 liters <br>10 part of ratio ---> 100 liters ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "100",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "70",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "30",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "If  2a=6b and 9b=7c, Find a:b:c?",
+			"explanation": "(2a = 6b => a/b = 6/2)<br>and (9b = 7c => b/c = 7/9) <br>=> a:b = 6:2 and b:c = 7:9 <br>a:b:c = 42:14:18 = 21:7:9",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "42:18:14",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "3:9:7",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "9:27:22",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "21:7:9",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Two numbers are in the ratio 12:17, if 20 is added to each they are in the ratio 16:21. Find the two numbers.",
+			"explanation": "Numbers are in the ratio 12 : 17 <br>Two numbers are 12k and 17k <br>Adding 20 to both the numbers, 12k+20 and 17k+20 <br>Given that 12k+20 : 17k+20 = 16 : 21 => 21(12k+20) = 16(17k+20) => (252-272)k = 20 x (-5) => k = 5 <br>First Number, 12 x k = 60 Second Number17 x k = 85 <br>Numbers are 60 and 85",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "60 and 85",
+                    "isAnswer": true
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "60 and 75",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "48 and 85",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "160 and 210",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "Rs.630/- distributed among A,B and C such that on decreasing their shares by RS.10,RS.5 and RS.15 respectively, The balance money would be divided among them in the ratio 3:4:5. Then, A’s share is:? ",
+			"explanation": "A:B:C = 3:4:5 <br>Total parts = 12 <br>A's share is = 3 parts <br>12 -----> Rs.600/- <br>3 -----> Rs.150/- <br>A's total = 150 + 10 = Rs.160/-",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "Rs.150/-",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "Rs.200/-",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "Rs.160/-",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "Rs.255/-",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "A fraction bears the same ratio to 1/27 as 3/7 does to 5/9. The fraction is?",
+			"explanation": "Let the fraction be x. Then,<br>x:1/27 = 3/7 : 5/9 <br>x × 5/9 = 1/27 × 3/7 <br>x × 5/9 = 1/9 × 1/7 <br>x × 5/9 = 1/63 <br>x × 5 = 9/63 <br>5x = 1/7 = 1/35",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "7/45",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "1/35",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "45/7",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "5/22",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "Find the fourth proportional to 0.2,0.12 and 0.3? ",
+			"explanation": "Formula = Fourth propotional = (b × c)/a <br>A = 0.2 , B = 0.12 and C = 0.3 <br>(0.12 × 0.3)/0.2 <br>0.036/0.2 = 0.18",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "0.13",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "0.18",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "0.8",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "0.15",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "If the ratio of boys to girls in a class is B and the ratio of girls to boys is G, then 3 (B + G) is",
+			"explanation": "Let the number of Boys = x, number of Girls = y; Given, x/ y = B and y/x = G Then, 3(B+G) = 3( y/x + x/y) = 3 (x^2+y^2)/xy > 3",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "More than 3",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "Equal to 3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "Less than 3",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "Less than one-third",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "If Rs.540/- are divided among A,B and C in such a way that A’s share is ½nd of B share and B’s share is 1/3rd of C’s share. The share of A is? ",
+			"explanation": "A:B:C = 1:2:6 <br>Total parts = 9 <br>A's share is = 1 parts <br> 9 -----> Rs.540/- <br>1 -----> Rs.60/- ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "Rs.120/-",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "Rs.80/-",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "Rs.60/-",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "Rs.360/-",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "Two numbers are in the ratio of 1 :2. If 7 be added to both, their ratio changes to 3:5. The greater number is",
+			"explanation": "Given, a/b = 1/2 and (a+7)/(b+7) = 3/5 => a = 14 and b = 28",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "20",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "28",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "15",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "21",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "Two numbers are in the ratio 7:9. If 12 is subtracted from each of them, the ratio becomes 3:5. The product of the numbers is:",
+			"explanation": "Given, ratio of two numbers = 7: 9 Let two numbers be 7x and 9x<br> If 12 is subtracted from each number, => (7x -12) / (9x - 12) = 3/5 => 5(7x - 12) = 3(9x - 12) => 35x - 60 = 27x - 36 => 8x = 24 => x = 3<br>Product of the numbers = 7x × 9x = 7(3) × 9(3) = 21 × 27 = 567",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "567",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "657",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "768",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "1565",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

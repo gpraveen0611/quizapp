@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Volume and Surface Area Test 6",
+    "description": "Practice Volume and Surface Area Online Test 6",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "A large cube is formed from the material obtained by melting three smaller cubes of 3, 4 and 5 cm side.<br> What is the ratio of the total surface areas of the smaller cubes and the large cube?",
+			"explanation": "Volume of the large cube = (33+43+53) = 216 cu.cm.<br>Let the edge of the large cube be a.<br>So, a^3= 216<br>=>a = 6 cm.<br>Required ratio = 6(3^2+4^2+5^2)/6(6^2)=25/18",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "2 : 1",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "3 : 1",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "25 : 18",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "27 : 20",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "A hollow iron pipe is 21 cm long and its external diameter is 8 cm. If the thickness of the pipe is 1 cm and iron weighs 8g/cu.cm, <br>then the weight of the pipe is",
+			"explanation": "External radius = 4 cm<br>Internal radius = 3 cm <br>Volume of iron = [22/7×(4^2−3^2)×21]cm^3= 462cm^3<br>Weight of iron = (462 x 8)gm = 3696 gm = 3.696 kg",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "3.6 kg",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "36 kg",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "3.696 kg",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "36.9 kg",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "How many bricks, each measuring 25 cm x 11.25 cm x 6 cm, will be needed to build a wall of 8 m x 6 m x 22.5 cm?",
+			"explanation": "Number of bricks = volume of the wall/volume of one brick<br>= (800 x 600 x 22.5)/(25 x 11.25 x 6 )= 6400",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "5600",
+                    "isAnswer":false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "6000",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "6400",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "6200",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "How many cubes of 10cm edge can be put in a cubical box of 1m edge",
+			"explanation": "Number of cubes= (100x100x100) / (10x10x10)= 1000",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "10",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "100",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "1000",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "10000",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "The curved surface area of a cylindrical pillar is 264 sq.m and its volume is 924 cub.m. Find the ratio of its diameter to its height",
+			"explanation": "πr^2h/2πr^2h = 924/267 <br>=> r = (24/364) x 2 = 7m <br>2πrh = 264  ⇒ h = (264 × 7/22×1/2 ×1/7) = 6m <br>Required Rato = 2r/h = 14/6 = 7:3",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "3 : 7",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "7 : 3",
+                    "isAnswer":true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "6 : 7",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "7 : 6",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "If the volume of the cube is 729 cm^3, then the surface area of the cube will be",
+			"explanation": "volume = a^3 = 729; <br> => a = 9 <br> surface area= 6a^2 =  (6 x 9 x 9) = 486 sq.cm",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "486 sq.cm",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "456 sq.cm",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "446 sq.cm",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "476 sq.cm",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Find the surface area of a10cm x 4cm x 3cm brick",
+			"explanation": "surface area = [2(10*4 + 4*3 + 10*3)]sq.cm = 164 sq.cm",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "84",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "124",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "164",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "180",
+                    "isAnswer":false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": "A cuboidal block 6cm x 9cm x 12cm is cut up into an exact number of equal cubes.The least possible number of equal cubes will be",
+			"explanation": "Volume of block=(6 x 9 x 12) cu.cm = 648 cu.cm <br>Side of largest cube = H.C.F of 6,9,12 = 3cm <br>Volume of the cube=(3 x 3 x 3)=27cu.cm <br>Number of cubes=(648/27)=24",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "9",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "24",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "30",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "The size of the wooden block is 5 x 10 x 20 cm .How many such blocks will be required to construct a solid wooden cube of minimum size? ",
+			"explanation": "Side of smallest cube = L.C.M of 5, 10, 20 = 20cm  <br>Volume of the cube = (20 x 20 x 20)cu.cm = 8000 cu.cm  <br>Volume of the block= (5 x 10 x 20)cu.cm = 1000 cu.cm  <br>Number of blocks = (8000/1000) = 8",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "6",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "8",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "12",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "16",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "What is the total surface area of a right circular cone of height 14 cm and base radius 7 cm?",
+			"explanation": "h = 14 cm, r = 7 cm.<br>So, l =[√7^2+14^2] = √245 = 7√5cm<br>Total surface area = πrl+πr2 = 22/7 × 7 × 7√5 + 22/7 × 7 × 7<br>= 154 (V5 + 1)<br>= (3.236 x 154) sq.cm<br>= 498.35 sq.cm",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "344.35 sq.cm",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "462 sq.cm",
+                    "isAnswer":false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "498.35 sq.cm",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}

@@ -1,0 +1,378 @@
+{
+    "id": 1,
+    "name": "Races and Games Test 6",
+    "description": "Practice Races and Games Online Test 6",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Sita and Radha participate in a race of 1000 m. If Sita starts, when Radha has covered 100 metres, then Sita finishes the race 20 seconds before Radha, and if Sita starts, when Radha has covered 125 metres then both finish the race at the same time. How long does Sita take to run the complete race?",
+			"explanation": "Let time taken by Sita be Ts seconds to cover 1000m.<br>For first case, Radha will be covering 900m is (Ts+20)sec (As it is given that Sita takes 20sec less than Radha)<br>So speed of Radha is (900/Ts+20) m/s<br>For second case, Radha will take Ts second to cover 875m (1000-125)<br>so speed of Radha is (875/Ts) m/s<br>Equating both speed of Radha we get 900Ts = 875(Ts+20) => Ts=700 sec.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "350",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "700",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "780",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "900",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "If Mohan can give a start of 50 m of distance or 10 s of time to Rohan in a race of 1000 meters. How much time Mohan will take to cover the 1000 meters?",
+			"explanation": "That means Rohan takes 10 sec to cover 50 meters<br>=> Rohan will cover 1000 meters in 200 sec<br>Mohan is giving a start of 10 sec. means Mohan will take 10 sec less than Rohan to cover 1000 m.<br>so, Time taken by Mohan to cover 1000 m is 190 sec.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1010,
+                    "name": "190 sec",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1010,
+                    "name": "200 sec",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1010,
+                    "name": "240 sec",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1010,
+                    "name": "180 sec",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Ram and Sita participate in a race of 1000 meters. If Ram gives Sita a start of 200 meters or 20 seconds. In ow much time Ram completes the race?",
+			"explanation": "Sita takes 20 sec. to run 200 m.<br>=> Sita takes 100 sec. to run complete 1000 m.<br>Ram gives Sita a start of 20 sec, means Ram is able to complete the race in 20 sec. less time than Sita<br>=> Ram will take 80 sec.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1010,
+                    "name": "70 sec",
+                    "isAnswer": false
+		
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1010,
+                    "name": "120 sec",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1010,
+                    "name": "100 sec",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1010,
+                    "name": "80 sec",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+		{
+			"id": 1013,
+            "name": "In a 500 m race, the ratio of the speeds of Sita and Geeta is 3:4. Sita has a start of 140m. Sita wins by",
+			"explanation": "To reach the winning post Sita has to cover (500-140)m = 360m<br>While Sita covers 3 m , Geeta covers 4 m.<br>While Sita covers 360m , Geeta covers (4/3*360)m = 480m<br>Therefore, Sita wins by 20 m.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1067,
+                    "questionId": 1010,
+                    "name": "15 m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1068,
+                    "questionId": 1010,
+                    "name": "20 m",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1069,
+                    "questionId": 1010,
+                    "name": "22 m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1070,
+                    "questionId": 1010,
+                    "name": "28 m",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1014,
+            "name": "A can give B 100 meters start and C 200 meters start in a kilometer race. How much start can B give C in a kilometer race?",
+			"explanation": "A runs 1000 meters while B runs 900 meters and C runs 800 meters.<br>Therefore, B runs 900 meters while C runs 800 meters.<br>So, the number of meters that C runs when B runs 1000 meters = (1000 x 800)/900 = 8000/9 = 888.88 meters<br>Thus, B can give C (1000 - 888.88) = 111.12 meters start",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1071,
+                    "questionId": 1010,
+                    "name": "110.12 meters",
+                    "isAnswer": false
+                }, 
+                {
+                    "id": 1072,
+                    "questionId": 1010,
+                    "name": "111.12 meters",
+                    "isAnswer":  true
+                },
+                {
+                    "id": 1073,
+                    "questionId": 1010,
+                    "name": "112.12 meters",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1074,
+                    "questionId": 1010,
+                    "name": "113.12 meters",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1015,
+            "name": "A can run 330 metres in 41 seconds and B in 44 seconds. By how many seconds will B win if he has 30 metres start?",
+			"explanation": "B runs 330 metres in 44 seconds.<br>B runs (330 - 30) metres in 44/330 x 300 secs.<br>i.e., 40 secs<br>But A runs 330 metres in 41 seconds<br>So, B wins by (41 ? 40) seconds, i.e., 1 second",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1075,
+                    "questionId": 1010,
+                    "name": "2 sec",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1076,
+                    "questionId": 1010,
+                    "name": "1 sec",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1077,
+                    "questionId": 1010,
+                    "name": "3 sec",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1078,
+                    "questionId": 1010,
+                    "name": "15 sec",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1016,
+            "name": "Raju runs 1250 meter on Monday and Friday. Another days he runs 1500 meter except for Sunday (He does not run on Sunday). How many kilometer will he run in 3 weeks (first day starting from Monday)?",
+			"explanation": "Raju runs on Monday and Friday = 1250 × 2 = 2500 m<br>On Tuesday, Wednesday, Thursday and Saturday,<br>Raju runs 1500 × 4 = 6000 m<br>In 1 week Raju runs 6000 + 2500 = 8500 m<br>In 3 weeks Raju runs 3 × 8500 = 25500 m = 25.5 K",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1079,
+                    "questionId": 1010,
+                    "name": "12.5 Km",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1080,
+                    "questionId": 1010,
+                    "name": "20.5 Km",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1081,
+                    "questionId": 1010,
+                    "name": "8.5 Km",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1082,
+                    "questionId": 1010,
+                    "name": "25.5 Km",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1017,
+            "name": " In a 1000 m race A beats B by 100 m and C by 200 m. By how much can B beats C in a race of 1350 m?",
+			"explanation": "If A run 1000 meters then B runs 900 meters and C runs 800 meters.<br>? B runs 1350 meters while C will run 800 * 1350/ 900 = 1200 meters<br>Hence, B can beat C by (1350 – 1200) = 150 m",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1083,
+                    "questionId": 1010,
+                    "name": "125 m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1084,
+                    "questionId": 1010,
+                    "name": "130 m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1085,
+                    "questionId": 1010,
+                    "name": "140 m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1086,
+                    "questionId": 1010,
+                    "name": "150 m",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1018,
+            "name": "In a race of 300 metres A beats B by 15 metres or 5 seconds. How much time A does take to complete the race?",
+			"explanation": "From the question it is clear that speed of B = 15 / 5 = 3 m/s<br>The time taken by B to cover 300 m = 300 / 3 = 100 sec.<br>Hence, time taken by A to complete the race = 100 – 5 = 95 sec.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1087,
+                    "questionId": 1010,
+                    "name": "105 sec",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1088,
+                    "questionId": 1010,
+                    "name": "100 sec",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1089,
+                    "questionId": 1010,
+                    "name": "95 sec",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1090,
+                    "questionId": 1010,
+                    "name": "90 sec",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		},
+		{
+			"id": 1019,
+            "name": "In a game of 250 points A can give B 50 points and C 70 points. In the same game how many points can B give C?",
+			"explanation": "In a game of 250 points, A scores 250 then B scores 200 points and C scores 180.<br>? B scores 250 points while C scores 180 x 250 / 200 = 225 points<br>Hence, in a game of 250 points B can give C (250 – 225) = 25 points",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1091,
+                    "questionId": 1010,
+                    "name": "18 points",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1092,
+                    "questionId": 1010,
+                    "name": "20 points",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1093,
+                    "questionId": 1010,
+                    "name": "22 points",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1094,
+                    "questionId": 1010,
+                    "name": "25 points",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+		}
+    ]
+}
